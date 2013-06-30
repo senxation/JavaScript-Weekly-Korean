@@ -1,0 +1,160 @@
+원문 : [http://javascriptweekly.com/archive/136.html]	
+	
+- - -
+# 특집 기사
+
+## [An Overview of ECMAScript 6](https://vimeo.com/68716827)
+Axel Rauschmayer gives a tour of ECMAScript 6, the next version of the JavaScript language standard. Its specification will be finished by the end of 2014, but you can already use many parts of it today (how is explained in the talk).
+
+
+## [eval() Isn’t Evil, Just Misunderstood](http://www.nczonline.net/blog/2013/06/25/eval-isnt-evil-just-misunderstood/)
+Not all concerns about *eval()* are valid. Nicholas C Zakas explains that misuse, debuggability, performance and security are often not an issue.
+
+
+## [Building Apps For Firefox OS, Chrome OS And The Web](http://thenittygritty.co/ffos-apps)
+Addy Osmani looks at the basics of what was involved in building a simple Firefox OS app and then making it work on Chrome OS and the Web too.
+
+  
+- - -
+# 스폰서 기사
+
+## [The Freedom to Build in your language of choice!](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language)
+At Rackspace, we speak your language. Whether you write in PHP, Java, JavaScript, Ruby, Python, Perl, or C++, we have a [Cloud Server](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language) for you. Build on [The Rackspace Cloud](http://www.rackspace.com/cloud/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-RSCloud) so you can provision your favorite Linux distro, use our API and our SDKs, access persistent, elastic servers and Experience Fanatical Support® from real people any time, day or night.
+
+
+- - -
+# 읽을 거리
+
+## [Introduction to Hoodie](https://speakerdeck.com/espylaub/hoodie-presentation-at-hh-dot-js)
+Slides plus notes of a presentation held at HH.js on June 17. The official description of [Hoodie](http://hood.ie/) is: “an architecture for frontend-only web apps”. That is, you can focus on implementing the frontend of a web application, Hoodie provides the backend as a service.
+
+  
+## [Static Memory JavaScript with Object Pools](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
+A technique for avoiding garbage collection to improve performance.
+
+  
+## [Uncovering the Native DOM API](http://flippinawesome.org/2013/06/17/uncovering-the-native-dom-api/)
+Nicolas Bevacqua explores how to create common JavaScript library functionality using just the Native DOM API.
+
+  
+## [Intro to Web Workers](https://zapier.com/engineering/intro-to-web-workers/)
+Learn how to perform task parallelism in JavaScript.
+
+
+## [Out-Growing jQuery](http://tech.pro/tutorial/1385/out-growing-jquery)
+Burke Holland explores how much of jQuery can be replaced by native DOM, by now. Spoiler: things get complicated as soon as you need to support multiple, possibly older, browsers.
+
+
+## [MV* and Local Storage](http://dailyjs.com/2013/06/20/localstorage/)
+Tips for using the client-side Local Storage database with AngularJS, Backbone.js and Knockout.
+
+  
+## [What are Generators?](http://flippinawesome.org/2013/06/24/what-are-generators/)
+ES6 Generators are a popular topic lately. In this post, Toby Ho explains what generators are, shows how to use them and what they can be useful for.
+
+  
+## [Advanced Unit Testing Techniques in JavaScript](http://net.tutsplus.com/tutorials/javascript-ajax/advanced-unit-testing-techniques-in-javascript/)
+
+  
+## [An Introduction to Node's New Streams API](http://calv.info/an-introduction-to-nodes-new-streams/)
+
+
+## [Monitoring Production Grade Node Applications](http://blog.ponyfoo.com/2013/06/27/monitoring-production-grade-node-applications)
+
+  
+- - -
+# 동영상
+
+## [1.21 Gigawatts: Chrome Apps with AngularJS and Node](http://www.youtube.com/watch?v=h3t_ytxQnjE)
+Aaron Frost and Dave Geddes gave perhaps Fluent's most entertaining talk which involved building Chrome apps with AngularJS and the Web Speech API to electrocute people (including Nicholas C Zakas) when they said the wrong thing.
+
+
+## [Writing (Testable | Maintainable | Scalable | Rock Solid) JavaScript](https://vimeo.com/68526881)
+Everyone knows they should be testing their code, but there's a huge gap between knowing and doing. This talk is aimed at beginner and intermediate JavaScript developers looking to bridge that gap.
+
+
+## [Secrets of Awesome JavaScript API Design](http://www.youtube.com/watch?v=QlQm786MClE)
+A video from O'Reilly Fluent by Brandon Satrom.
+
+  
+## [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
+
+  
+- - -
+# 코드와 라이브러리들
+
+## [Later.js: Working with Recurring Schedules](http://bunkat.github.io/later/)
+In Later.js terminology, a *recurring schedule* is a series of *occurrences* (points in time). The library lets you manipulate, parse and serialize schedules. You can also use them to trigger the execution of code. Later.js works on Node.js and in browsers.
+
+  
+## [PhoneGap 2.9.0 Released](http://phonegap.com/blog/2013/06/26/pg-290-released/)
+
+
+## [Chance.js: Create Random Text, in Various Formats](http://chancejs.com/)
+This library can help with automated tests. Supported formats: bool, word, sentence, name_prefix, etc.
+
+
+## [Announcing Angular Kendo UI](http://www.kendoui.com/blogs/teamblog/posts/13-06-24/announcing-angular-kendo-ui.aspx)
+A complete set of directives for every widget in Kendo UI’s Web and DataViz suites. The goal was to provide deep integration with AngularJS while keeping Kendo UI's declarative API.
+
+
+## [NeDB: Embedded Datastore for Node.js](https://github.com/louischatriot/nedb)
+NeDB is pure JavaScript, with no dependencies on native code. It provides a clean and easy way of storing data, when you don’t need a large-scale database. Think SQLite for Node.js. You can use NeDB as a persistent data store or in-memory only.
+
+
+## [Lua.vm.js: The Lua VM, On The Web](http://kripken.github.io/lua.vm.js/lua.vm.js.html)
+A port of the Lua C implementation to JavaScript, via Emscripten.
+
+
+## [Esrever: Unicode-Aware String Reverser](https://github.com/mathiasbynens/esrever)
+Reversing a string of Unicode characters sounds like a simple task, but isn’t, as Mathias Bynens proves with this project.
+
+  
+## [Communist: JavaScript Library for Workers](http://communistjs.com/)
+Makes parallel programming via ## [web workers](http://www.html5rocks.com/en/tutorials/workers/basics/) easier and runs on all modern browsers.
+
+  
+## [Pointer.js: Normalize Mouse and Touch Events Into “Pointer” Events](https://github.com/mozilla/pointer.js)
+
+
+## [Suspend: Control Flow Library Based On Generators and Node.js-Style Callbacks](https://github.com/jmar777/suspend)
+
+
+## [Keys.js: Easy Keybindings for Browser Applications](http://bitwalker.github.io/keys.js/)
+
+
+## [PivotTable.js: A Pivot Table Implementation on top of CoffeeScript and jQuery](https://github.com/nicolaskruchten/pivottable)
+  
+
+## [backprop: Use ECMAScript 5 Properties on Backbone Models Instead of get() and set()](https://github.com/af/backprop)
+
+
+## [Go Read: An Open-Source Google Reader Clone on AngularJS and Go](http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/)
+
+  
+- - -
+# 일자리
+
+## [Push the limits of what the web can be with To Be (NYC)](http://tobe.us/developer)
+To Be is a new way to collage the Internet. We just launched in Japan, and need an experienced JavaScript developer to help us launch in the US. Ember.js, Rails, Postgres, and lots of cloud. Join the team building an app that Tom Dale said blew his mind.
+  
+
+## [Applications Engineer, Front-end](http://www.turn.com/career-opportunities/applications-engineering-front-end)
+Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+
+
+## [JavaScript Developer at Modit, a Next-Gen Web IDE and App Portal (Boston/remote)](http://modit.theresumator.com/apply/fBLQS7/JavaScript-Developer-For-NextGeneration-BrowserBased-IDE-And-App-Portal.html?source=JSWeekly)
+[Modit](http://mod.it) is transforming app users into app creators by creating a web-based platform that enables users of all backgrounds to modify the HTML5 games/apps they play and instantly share those creations with the world.  If you share our ambition, join our team! 
+  
+
+## [Front End Developer for National Geographic Society](http://www.nationalgeographic.com/jobs)
+
+  
+- - -
+# 마지막으로,
+
+## [Remy Sharp's 'Node in a Day' Course (Brighton, UK)](https://leftlogic.stagehq.com/events/2287)
+Remy Sharp is running a 'Node crash course' on July 19 in Brighton (UK). He promises to have lots of hands on learning and has a special 25% discount for us using code *JSWEEKLY*. No money changing hands here, Remy's (still) just a cool guy :-)
+
+  
+## [metajs: Visualize JavaScript AST Execution in the Browser](http://int3.github.io/metajs/)
