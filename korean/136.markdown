@@ -1,150 +1,152 @@
-원문 : [http://javascriptweekly.com/archive/136.html]	
-	
+원문 : [http://javascriptweekly.com/archive/136.html] 
+  
 - - -
 # 특집 기사
 
-## [An Overview of ECMAScript 6](https://vimeo.com/68716827)
-Axel Rauschmayer gives a tour of ECMAScript 6, the next version of the JavaScript language standard. Its specification will be finished by the end of 2014, but you can already use many parts of it today (how is explained in the talk).
+## [ECMAScript 6 개요](https://vimeo.com/68716827)
+Axel Rauschmayer가 다음 버전의 자바스크립트 언어 표준에 대해 소개한다. ECMAScript 6의 명세는 2014년 말까지 완료될 것이지만, 이미 현재에도 많은 부분을 사용할 수 있다(어떻게 사용하는지에 대해서도 설명한다).
 
 
-## [eval() Isn’t Evil, Just Misunderstood](http://www.nczonline.net/blog/2013/06/25/eval-isnt-evil-just-misunderstood/)
-Not all concerns about *eval()* are valid. Nicholas C Zakas explains that misuse, debuggability, performance and security are often not an issue.
+## [eval()은 악(evil)이 아니다. 오해일 뿐이다.](http://www.nczonline.net/blog/2013/06/25/eval-isnt-evil-just-misunderstood/)
+*eval()*에 대한 걱정들이 모두다 타당한 것은 아니다. Nicholas C Zakas는 eval의 잘못된 사용, 디버그가능성, 성능, 그리고 보안측면에서 보통 이슈가 아니라고 설명한다.
 
 
-## [Building Apps For Firefox OS, Chrome OS And The Web](http://thenittygritty.co/ffos-apps)
-Addy Osmani looks at the basics of what was involved in building a simple Firefox OS app and then making it work on Chrome OS and the Web too.
+## [Firefox OS, Chrome OS와 웹을 위한 앱 만들기](http://thenittygritty.co/ffos-apps)
+Addy Osmani는 간단한 Firefox OS 앱을 만들기 위해 연관된 기초를 살펴보고, Chrome OS와 웹에서도 동작할 수 있게 만든다.
 
   
 - - -
 # 스폰서 기사
 
-## [The Freedom to Build in your language of choice!](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language)
-At Rackspace, we speak your language. Whether you write in PHP, Java, JavaScript, Ruby, Python, Perl, or C++, we have a [Cloud Server](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language) for you. Build on [The Rackspace Cloud](http://www.rackspace.com/cloud/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-RSCloud) so you can provision your favorite Linux distro, use our API and our SDKs, access persistent, elastic servers and Experience Fanatical Support® from real people any time, day or night.
+## [여러분이 선택한 언어로 개발할 자유!](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language)
+Rackspace에서는 여러분의 언어로 대화합니다. PHP, Java, JavaScript, Ruby, Python, Perl 혹은 C++ 중 어떤 언어라도 [클라우드 서버](http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Language)를 제공합니다. [The Rackspace Cloud](http://www.rackspace.com/cloud/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-RSCloud)에서 개발하면 선호하는 리눅스 배포판 공급할 수 있고, 우리가 제공하는 API와 SDKs, 접근 지속보장, 탄력적인 서버, 그리고 진짜 직원들로부터 언제든 밤낮없이 Experience Fanatical Support®를 지원 받을 수 있습니다.
+> Experience Fanatical Support. 열광적인 경험 지원? 억지로 해석하려니 이상해져서 원문 그대로 둡니다.
 
 
 - - -
 # 읽을 거리
 
-## [Introduction to Hoodie](https://speakerdeck.com/espylaub/hoodie-presentation-at-hh-dot-js)
-Slides plus notes of a presentation held at HH.js on June 17. The official description of [Hoodie](http://hood.ie/) is: “an architecture for frontend-only web apps”. That is, you can focus on implementing the frontend of a web application, Hoodie provides the backend as a service.
+## [Hoodie 소개](https://speakerdeck.com/espylaub/hoodie-presentation-at-hh-dot-js)
+6월 17일에 열린 HH.js중의 발표내용 슬라이드와 노트. [Hoodie](http://hood.ie/)의 공식적인 설명은 "프론트엔드-전용 웹앱을 위한 아키텍쳐"이다. 즉, 웹 애플리케이션의 프론트엔드 구현에만 집중하면 되고, Hoodie는 백엔드를 BaaS(Backend as a service)로 제공한다.
+  
+
+## [객체 풀을 이용한 스태틱 메모리 자바스크립트](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
+성능을 향상시키기위해 가비지컬렉션을 회피하는 기법
 
   
-## [Static Memory JavaScript with Object Pools](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
-A technique for avoiding garbage collection to improve performance.
+## [네이티브 DOM API 파헤치기](http://flippinawesome.org/2013/06/17/uncovering-the-native-dom-api/)
+Nicolas Bevacqua는 네이티브 DOM API만을 이용해 공용 자바스크립트 라이브러리 기능을 구현하는 방법을 살펴본다.
 
   
-## [Uncovering the Native DOM API](http://flippinawesome.org/2013/06/17/uncovering-the-native-dom-api/)
-Nicolas Bevacqua explores how to create common JavaScript library functionality using just the Native DOM API.
+## [Web Workers 소개](https://zapier.com/engineering/intro-to-web-workers/)
+자바스크립트에서 병렬 작업을 수행하는 방법을 알아본다.
+
+
+## [jQuery에서 벗어나기](http://tech.pro/tutorial/1385/out-growing-jquery)
+Burke Holland는 현재 얼마나 많은 jQuery의 기능들이 네이티브 DOM으로 교체될 수 있는지 살펴본다. 스포일러: 다수의, 아마도, 구형 브라우저들을 지원하려고 하면 복잡해진다.
+
+
+## [MV*와 로컬 스토리지](http://dailyjs.com/2013/06/20/localstorage/)
+AngularJS와 Backbone.js와 Knockout으로 클라이언트측 로컬 스토리지 데이터베이스를 사용하는 팁
 
   
-## [Intro to Web Workers](https://zapier.com/engineering/intro-to-web-workers/)
-Learn how to perform task parallelism in JavaScript.
-
-
-## [Out-Growing jQuery](http://tech.pro/tutorial/1385/out-growing-jquery)
-Burke Holland explores how much of jQuery can be replaced by native DOM, by now. Spoiler: things get complicated as soon as you need to support multiple, possibly older, browsers.
-
-
-## [MV* and Local Storage](http://dailyjs.com/2013/06/20/localstorage/)
-Tips for using the client-side Local Storage database with AngularJS, Backbone.js and Knockout.
+## [제네레이터란 무엇인가?](http://flippinawesome.org/2013/06/24/what-are-generators/)
+ES6 제네레이터는 최근 인기있는 주제다. 이 글에서, Toby Ho는 제네레이터가 무엇인지 설명하고, 어떻게 사용하는지, 무엇에 유용한지에 대해 알려준다.
 
   
-## [What are Generators?](http://flippinawesome.org/2013/06/24/what-are-generators/)
-ES6 Generators are a popular topic lately. In this post, Toby Ho explains what generators are, shows how to use them and what they can be useful for.
+## [자바스크립트의 고급 유닛테스팅 기법](http://net.tutsplus.com/tutorials/javascript-ajax/advanced-unit-testing-techniques-in-javascript/)
 
   
-## [Advanced Unit Testing Techniques in JavaScript](http://net.tutsplus.com/tutorials/javascript-ajax/advanced-unit-testing-techniques-in-javascript/)
-
-  
-## [An Introduction to Node's New Streams API](http://calv.info/an-introduction-to-nodes-new-streams/)
+## [Node의 새로운 스트림 API 소개](http://calv.info/an-introduction-to-nodes-new-streams/)
 
 
-## [Monitoring Production Grade Node Applications](http://blog.ponyfoo.com/2013/06/27/monitoring-production-grade-node-applications)
+## [상품화 수준의 Node 애플리케이션 모니터링하기](http://blog.ponyfoo.com/2013/06/27/monitoring-production-grade-node-applications)
 
   
 - - -
 # 동영상
 
-## [1.21 Gigawatts: Chrome Apps with AngularJS and Node](http://www.youtube.com/watch?v=h3t_ytxQnjE)
-Aaron Frost and Dave Geddes gave perhaps Fluent's most entertaining talk which involved building Chrome apps with AngularJS and the Web Speech API to electrocute people (including Nicholas C Zakas) when they said the wrong thing.
+## [1.21 기가와트: AngularJS와 Node로 만드는 크롬 앱](http://www.youtube.com/watch?v=h3t_ytxQnjE)
+Aaron Frost와 Dave Geddes는 AngularJS와 Web Speech API를 이용하여 사람들(Nicholas C Zakas 포함)이 잘못된 사실을 이야기했을때 감전시키는 크롬 앱을 만드는 방법을 설명했는데, 아마도 Fluent 컨퍼런스에서 가장 재미있는 발표였을 것이다.
 
 
-## [Writing (Testable | Maintainable | Scalable | Rock Solid) JavaScript](https://vimeo.com/68526881)
-Everyone knows they should be testing their code, but there's a huge gap between knowing and doing. This talk is aimed at beginner and intermediate JavaScript developers looking to bridge that gap.
+## [(테스트가능하고 | 유지보수가능하고 | 확장가능하고 | 바위처럼 단단한) 자바스크립트 작성하기](https://vimeo.com/68526881)
+코드를 테스트해야한다는 사실은 모두가 알고 있지만, 아는 것과 행동하는 것에는 엄청난 차이가 있다. 이 발표는 이 차이를 이어주기를 원하는 초보자와, 중급 자바스크립트 개발자를 대상으로 한다.
 
 
-## [Secrets of Awesome JavaScript API Design](http://www.youtube.com/watch?v=QlQm786MClE)
-A video from O'Reilly Fluent by Brandon Satrom.
-
+## [끝내주는 자바스크립트 API설계의 비밀](http://www.youtube.com/watch?v=QlQm786MClE)
+O'Reilly Fluent에서 Brandon Satrom가 발표한 내용을 담은 비디오.
+> 'awesome'은, 이제 그냥 '어썸한' 이라고 써도 될만큼 자주 쓰이는 것도 같네요. '훌륭한'은 너무 점잖고, '죽여주는', '쥑이는' 보다는 '끝내주는'이 그나마 적절한 표현같아서 선택했어요.
   
-## [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
+## [60분만에 배우는 AngularJS 기초](http://www.youtube.com/watch?v=i9MHigUZKEM)
 
   
 - - -
 # 코드와 라이브러리들
 
-## [Later.js: Working with Recurring Schedules](http://bunkat.github.io/later/)
-In Later.js terminology, a *recurring schedule* is a series of *occurrences* (points in time). The library lets you manipulate, parse and serialize schedules. You can also use them to trigger the execution of code. Later.js works on Node.js and in browsers.
+## [Later.js: 반복 스케쥴(Recurring Schedules)로 작업하기](http://bunkat.github.io/later/)
+Later.js의 용어로, *반복 스케쥴(recurring schedule)* 은 일련의 *실행(occurrences)*을 말한다. (시간으로 지정한다). 이 라이브러리는 스케쥴을 조작하고, 파싱하고, 직렬화할 수 있게 해준다. 코드의 실행을 트리거링하는데도 사용할 수 있다. Later.js는 Node.js와 브라우저에서 동작한다.
+> cron job 표현식을 지원하네요.
 
   
-## [PhoneGap 2.9.0 Released](http://phonegap.com/blog/2013/06/26/pg-290-released/)
+## [PhoneGap 2.9.0 릴리즈](http://phonegap.com/blog/2013/06/26/pg-290-released/)
 
 
-## [Chance.js: Create Random Text, in Various Formats](http://chancejs.com/)
-This library can help with automated tests. Supported formats: bool, word, sentence, name_prefix, etc.
+## [Chance.js: 다양한 포맷으로 랜덤 텍스트 생성](http://chancejs.com/)
+이 라이브러리는 자동화 테스트에 사용하기 좋다. bool, 단어, 문장, 이름_접두어, 등등의 형식을 지원한다.
 
 
-## [Announcing Angular Kendo UI](http://www.kendoui.com/blogs/teamblog/posts/13-06-24/announcing-angular-kendo-ui.aspx)
-A complete set of directives for every widget in Kendo UI’s Web and DataViz suites. The goal was to provide deep integration with AngularJS while keeping Kendo UI's declarative API.
+## [Angular Kendo UI 소개](http://www.kendoui.com/blogs/teamblog/posts/13-06-24/announcing-angular-kendo-ui.aspx)
+Kendo UI의 웹과 DataViz suite의 모든 위젯을 위한 전체 명령어 모음. Kendo UI의 서술적인 API를 유지하면서 AngularJS와의 폭넓은 통합을 제공하는 것을 목표로한다.
 
 
-## [NeDB: Embedded Datastore for Node.js](https://github.com/louischatriot/nedb)
-NeDB is pure JavaScript, with no dependencies on native code. It provides a clean and easy way of storing data, when you don’t need a large-scale database. Think SQLite for Node.js. You can use NeDB as a persistent data store or in-memory only.
+## [NeDB: Node.js를 위한 임베디드 데이터스토어](https://github.com/louischatriot/nedb)
+NeDB는 순수 자바스크립트로 네이티브 코드에 어떠한 의존성도 가지지 않는다. 대용량의 데이터베이스가 필요없다면, 데이터를 저장하기 위한 깔끔하고 간단한 방법을 제공한다. Node.js를 위한 SQLite를 생각해보라. NeDB 영속적인 데이터스토어로 사용하거나 메모리에만 상주하도록 할 수 있다.
 
 
-## [Lua.vm.js: The Lua VM, On The Web](http://kripken.github.io/lua.vm.js/lua.vm.js.html)
-A port of the Lua C implementation to JavaScript, via Emscripten.
+## [Lua.vm.js: 웹상의 Lua VM](http://kripken.github.io/lua.vm.js/lua.vm.js.html)
+Emscripten를 통한 Lua C 구현체의 자바스크립트 포트.
 
 
-## [Esrever: Unicode-Aware String Reverser](https://github.com/mathiasbynens/esrever)
-Reversing a string of Unicode characters sounds like a simple task, but isn’t, as Mathias Bynens proves with this project.
-
-  
-## [Communist: JavaScript Library for Workers](http://communistjs.com/)
-Makes parallel programming via ## [web workers](http://www.html5rocks.com/en/tutorials/workers/basics/) easier and runs on all modern browsers.
+## [Esrever: 유니코드를 인지하는 문자열 뒤집기](https://github.com/mathiasbynens/esrever)
+유니코드 글자들로 이뤄진 문자열을 뒤집는 것은 간단한 작업같지만, 그렇지 않다. Mathias Bynens는 이 프로젝트로 그를 입증한다.
 
   
-## [Pointer.js: Normalize Mouse and Touch Events Into “Pointer” Events](https://github.com/mozilla/pointer.js)
+## [Communist: 자바스크립트 Workers 라이브러리](http://communistjs.com/)
+[웹 워커](http://www.html5rocks.com/en/tutorials/workers/basics/)를 통해 병렬 프로그래밍을 더 쉽게 만들고, 모든 최신 브라우저에서 동작하게 한다.
+
+  
+## [Pointer.js: 마우스와 터치 이벤트를 "포인터" 이벤트로 일반화](https://github.com/mozilla/pointer.js)
 
 
-## [Suspend: Control Flow Library Based On Generators and Node.js-Style Callbacks](https://github.com/jmar777/suspend)
+## [Suspend: 제네레이터와 Node.js 스타일 콜백에 기반한 흐름제어 라이브러리](https://github.com/jmar777/suspend)
 
 
-## [Keys.js: Easy Keybindings for Browser Applications](http://bitwalker.github.io/keys.js/)
+## [Keys.js: 브라우저 애플리케이션을 위한 쉬운 키바인딩](http://bitwalker.github.io/keys.js/)
 
 
-## [PivotTable.js: A Pivot Table Implementation on top of CoffeeScript and jQuery](https://github.com/nicolaskruchten/pivottable)
+## [PivotTable.js: CoffeeScript와 jQuery로 작성된 피벗테이블 구현체](https://github.com/nicolaskruchten/pivottable)
   
 
-## [backprop: Use ECMAScript 5 Properties on Backbone Models Instead of get() and set()](https://github.com/af/backprop)
+## [backprop: Backbone Model에서 get()과 set() 대신에 ECMAScript 5 프로퍼티 사용하기](https://github.com/af/backprop)
 
 
-## [Go Read: An Open-Source Google Reader Clone on AngularJS and Go](http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/)
+## [Go Read: AngularJS와 Go로 작성한 오픈소스 구글 리더 클론](http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/)
 
   
 - - -
 # 일자리
 
-## [Push the limits of what the web can be with To Be (NYC)](http://tobe.us/developer)
-To Be is a new way to collage the Internet. We just launched in Japan, and need an experienced JavaScript developer to help us launch in the US. Ember.js, Rails, Postgres, and lots of cloud. Join the team building an app that Tom Dale said blew his mind.
+## [To Be와 함께 웹이 할 수 있는 한계를 넘어봅시다 (뉴욕시티)](http://tobe.us/developer)
+To Be는 인터넷을 콜라주하는 새로운 방법이다. 최근에 일본에 런칭했고, 미국에 런칭을 도울 경험있는 자바스크립트 개발자가 필요하다. Ember.js, Rails, Postgres와 여러가지 클라우드를 사용한다. Tom Dale은 앱개발 팀에 합류하는 것이 짜릿한 일이라고 말했다.
   
 
-## [Applications Engineer, Front-end](http://www.turn.com/career-opportunities/applications-engineering-front-end)
-Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+## [애플리케이션 엔지니어, 프론트엔드 (Turn)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
+Angular, Node, Bootstrap. 빅데이터, 머신러닝, 분산시스템. 이 기술들에 흥미가 있고 자바스크립트에 능숙하다면 Turn의 프론트엔드 애플리케이션 팀에 대해서 같이 얘기하고 싶다. 
 
 
-## [JavaScript Developer at Modit, a Next-Gen Web IDE and App Portal (Boston/remote)](http://modit.theresumator.com/apply/fBLQS7/JavaScript-Developer-For-NextGeneration-BrowserBased-IDE-And-App-Portal.html?source=JSWeekly)
-[Modit](http://mod.it) is transforming app users into app creators by creating a web-based platform that enables users of all backgrounds to modify the HTML5 games/apps they play and instantly share those creations with the world.  If you share our ambition, join our team! 
+## [JavaScript Developer at Modit, 차세대 웹 IDE와 앱 포털 (보스톤/재택)](http://modit.theresumator.com/apply/fBLQS7/JavaScript-Developer-For-NextGeneration-BrowserBased-IDE-And-App-Portal.html?source=JSWeekly)
+[Modit](http://mod.it)는 웹기반 플랫폼을 개발해서 앱 사용자를 앱 개발자로 변화시킨다. 어떤 배경지식이 있는 사용자라도 그들이 사용하느 HTML5 게임/앱을 수정할 수 있게하고, 그 창작물을 세상과 즉시 공유할 수 있게 해준다. 우리의 야망과 함께한다면, 합류하라!
   
 
 ## [Front End Developer for National Geographic Society](http://www.nationalgeographic.com/jobs)
@@ -153,8 +155,9 @@ Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If th
 - - -
 # 마지막으로,
 
-## [Remy Sharp's 'Node in a Day' Course (Brighton, UK)](https://leftlogic.stagehq.com/events/2287)
-Remy Sharp is running a 'Node crash course' on July 19 in Brighton (UK). He promises to have lots of hands on learning and has a special 25% discount for us using code *JSWEEKLY*. No money changing hands here, Remy's (still) just a cool guy :-)
+## [Remy Sharp의 '하루만에 Node' 코스 (Brighton, UK)](https://leftlogic.stagehq.com/events/2287)
+Remy Sharp는 'Node 단기 집중 코스'를 7월 19일에 Brighton(영국)에서 운영한다. 그는 많은 실습을 약속했고, 25% 특별할인코드 *JSWEEKLY*를 제공한다. 금전거래는 전혀 없다. Remy는 (여전히) 멋진 사람이다 :-)
 
   
-## [metajs: Visualize JavaScript AST Execution in the Browser](http://int3.github.io/metajs/)
+## [metajs: 브라우저에서 자바스크립트 AST 실행을 시각화](http://int3.github.io/metajs/)
+> AST는 [Abstract Syntax Tree](http://en.wikipedia.org/wiki/Abstract_syntax_tree)를 말하네요. 
