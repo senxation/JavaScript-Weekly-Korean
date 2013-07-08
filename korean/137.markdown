@@ -52,45 +52,48 @@ Dynamically add and remove styles directly to a stylesheet with JavaScript.
 ASP.NET MVC와 TypeScript와 함께 사용하는 방법도 다룬다. (즉, MS 스택에 의존한다)
 
 ## ['자바스크립트 비활성화' 체크박스는 Firefox 23의 옵션 패널에서 제거되었다.](https://bugzilla.mozilla.org/show_bug.cgi?id=873709)
-## [중금 Ember Controller 컨셉](http://blog.gaslight.co/post/54512786990/intermediate-ember-controller-concepts)
+
+## [중급 Ember Controller 컨셉](http://blog.gaslight.co/post/54512786990/intermediate-ember-controller-concepts)
+
 ## [Backbone 모델의 믹스-인을 만들기위해 Cocktail 사용하기](http://www.salsify.com/blog/using-cocktail-to-create-mixins-for-backbone-models-that-respect-inheritance)
+
 ## [valueOf의 가치](http://sidekicksrc.com/post/the-value-of-valueof/)
 
 
 - - -
 # 동영상
 
-## [Perf The Web Forward](https://vimeo.com/68085383)
-At his JSConf 2013 talk, John-David Dalton (co-maintainer of jsperf.com) calls on us to 'perf the web forward' as he discusses commonly overlooked performance issues, rethinks established code patterns, and shares tips you can apply to your own projects and favorite libraries.
+## [웹 성능을 개선하자](https://vimeo.com/68085383)
+John-David Dalton(jsperf.com의 공동-운영자)은 JSConf 2013에서 흔히 간과하는 성능 이슈를 논의하거나, 만들어진 코드 패턴을 다시 생각해보거나, 직접 운영하는 프로젝트나 좋아하는 라이브러리에 적용할만한 팁을 공유하는 등의 방법으로 '웹 성능을 개선하자'(Perf The Web Forward)고 촉구했다.
 
 ## [TypeScript: 애플리케이션-규모의 자바스크립트](http://channel9.msdn.com/Events/Build/2013/3-314)
-A talk from Microsoft's BUILD conference about a typed superset of JavaScript that compiles to plain JavaScript and adds optional static types, classes, and modules. Given by Anders Hejlsberg, core developer of TypeScript and architect of C#.
+마이크로소프트의 BUILD 컨퍼런스의 발표중 하나로 부가적인 스태틱 타입과 클래스, 그리고 모듈을 추가하는 타입이 지정된 자바스크립트의 확대집합에 대해서 이야기한다. C#의 설계자이자 TypeScript의 핵심 개발자인 Anders Hejlsberg가 발표한다.
 
 ## [Ember 대 Angular 철장 매치](https://vimeo.com/68215606)
-At NDC 2013, Tom Dale, Rob Conery and I presented a live 'cage match' between the two popular frameworks.
+NDC 2013에서, Tom Dale과 Rob Conery와 Peter Cooper가 인기있는 두가지 프레임워크간의 '철장 매치'를 생중계한다.
 
 ## [jQuery 컨퍼런스 2013 비디오](http://www.youtube.com/jquery)
-Videos from the recent jQuery Conference in San Francisco have been released gradually on YouTube and there are currently 12 to enjoy.
+최근에 샌프란시스코에서 열린 jQuery 컨퍼런스의 비디오가 점차적으로 유튜브에 릴리즈되고 있다. 현재 12개의 영상을 볼 수 있다.
 
 ## [ClojureScript: Lisp의 복수](https://vimeo.com/68334908)
-A look at how ClojureScript offers a "genuinely futuristic approach (by way of the past) to client side software development" by David Nolen. 42 minutes long.
+Bavid Nolen은 ClojureScript가 어떻게 "클라이언트측 소프트웨어 개발에 (과거의 방법을 거쳐) 진짜로 미래적인 접근방법"을 제시하는지 살펴본다. 42분짜리 영상이다.
 
 ## [Backbone.js 5 Part 스크린캐스트 시리즈](http://metacasts.tv/casts/backbone-js-pts-1-5)
-A set of (paid) screencasts walking through building a Backbone.js-based app from installation and learning what Backbone *is* through to saving to a server side API.
+Backbone.js기반 앱을 설치하는 것에서부터 만드는 것까지 다루고, Backbone이 서버측 API를 줄이기 위해 무엇을 처리하는지 배우는 (유료) 스크린캐스트 시리즈다.
 
 ## [JavaScript의 약간 더 엄격한 모드](http://www.youtube.com/watch?v=gq95_h-IrHo)
-Glen Maddern looks at what ECMAScript 5's 'strict' mode is about and why you'd want to use it.
+Glen Maddern는 ECMAScript 5의 스트릭트('strict') 모드가 무엇인지, 그리고 왜 사용해야하는지 살펴본다.
 
 - - -
 # 코드와 라이브러리들
 
 ## [오늘 ES6 모듈 사용하기](http://guybedford.com/es6-modules-today)
-ES6 modules are set to form the standard module format for the web. Instead of waiting around for browsers to support the new syntax, it is now possible to use them directly in all browsers today using the [ES6 loader polyfill.](https://github.com/ModuleLoader/es6-module-loader)
+ES6 모듈은 웹을 위한 표준 모듈 포맷을 구성하기위한 모음이다. 브러우저들이 새로운 문법을 지원하기까지 기다리는 대신에, [ES6 로더 폴리필](https://github.com/ModuleLoader/es6-module-loader)을 사용하면 오늘당장 ES6 모듈을 직접 사용하는게 가능하다.
 
 ## [Babylon.js: HTML 5와 WebGL로 3D 게임을 만들기위한 프레임워크](http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx)
 
 ## [BromBone: AJAX기반 사이트를 크롤링가능하게 만들기](http://www.brombone.com/)
-A no-install, third party service for testing pages, performing tests, etc. Not cheap but an interesting idea.
+페이지를 테스트하고, 테스트를 실행하기 위한 설치가 필요없는 써드파티 서비스. 저렴하지는 않지만 참신한 아이디어가 돋보인다.
 
 ## [Kodiak JavaScript: 자바스크립트 개발자를 위해 곧 출시될 아이패드용 IDE](http://www.becomekodiak.com/kodiak-javascript.html)
 
@@ -99,10 +102,10 @@ A no-install, third party service for testing pages, performing tests, etc. Not 
 # 일자리
 
 ## [구인: Backbone 전문가, 보스턴, NYC & 샬럿](https://sapient.taleo.net/careersection/jobdetail.ftl?job=163940&amp;lang=en&amp;sns_id=#.UcMuvwZYHSc.gmail)
-Are you committed to advancing the open web at an enterprise level?  We are.  We are looking for developers at all levels.  Strong HTML5/CSS3 &amp; core JavaScript skills are required. Backbone and/or other MVC experience is a serious plus.
+기업 수준의 오픈 웹을 선도하고 싶나요? 우리가 선도합니다. 우리는 모든 레벨의 개발자를 찾고있습니다. 높은 수준의 HTML5/CSS3와 코어 자바스크립트 스킬은 필수입니다. Backbone 또는 혹은 다른 MVC 경력은 중대한 가산점이 부여됩니다.
 
 ## [PHP/웹 개발자](https://www.smartrecruiters.com/AdferoGroup/72373705-php-web-developer)
-We’re looking for a web developer to join our growing team! As a developer at Adfero, you'll work alongside our team of developers, designers and communicators, and use great technologies like Drupal, D3 and Node.js to build awesome projects for our clients.
+성장하는 우리의 팀에 합류할 웹 개발자를 찾습니다! Adfero의 개발자로써, 당신은 우리팀의 개발자와, 디자이너, 그리고 커뮤니케이터와 함께 일할 것이고, Drupal, D3와 Node.js같은 훌륭한 기술들을 사용하여 고객들을 위한 놀라운 프로젝트를 만들 것입니다.
 
 
 - - -
