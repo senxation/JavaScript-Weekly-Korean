@@ -145,7 +145,7 @@ To Be는 인터넷을 콜라주하는 새로운 방법이다. 최근에 일본�
 Angular, Node, Bootstrap. 빅데이터, 머신러닝, 분산시스템. 이 기술들에 흥미가 있고 자바스크립트에 능숙하다면 Turn의 프론트엔드 애플리케이션 팀에 대해서 같이 얘기하고 싶다. 
 
 
-## [JavaScript Developer at Modit, 차세대 웹 IDE와 앱 포털 (보스톤/재택)](http://modit.theresumator.com/apply/fBLQS7/JavaScript-Developer-For-NextGeneration-BrowserBased-IDE-And-App-Portal.html?source=JSWeekly)
+## [JavaScript Developer at Modit, 차세대 웹 IDE와 앱 포털 (보스턴/재택)](http://modit.theresumator.com/apply/fBLQS7/JavaScript-Developer-For-NextGeneration-BrowserBased-IDE-And-App-Portal.html?source=JSWeekly)
 [Modit](http://mod.it)는 웹기반 플랫폼을 개발해서 앱 사용자를 앱 개발자로 변화시킨다. 어떤 배경지식이 있는 사용자라도 그들이 사용하느 HTML5 게임/앱을 수정할 수 있게하고, 그 창작물을 세상과 즉시 공유할 수 있게 해준다. 우리의 야망과 함께한다면, 합류하라!
   
 
