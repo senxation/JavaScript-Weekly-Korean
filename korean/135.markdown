@@ -33,9 +33,9 @@ Backbone.JS, Angular.JS, D3.js (인터랙티브 데이터 시각화), 웹 애니
 
 
 
-## [asm.js은 무엇인지 그리고 무엇이 아닌지](http://mozakai.blogspot.co.uk/2013/06/what-asmjs-is-and-what-asmjs-isnt.html)
-asm.js은 자바스크립트에 최적화된 브라우저에서 훨씬 빠르게 실행되는 자바스크립트의 부분집합이다. Alon Zakai(Emscripten 제작자이며 asm.js의 공동제작자)는 이 프로젝트의 상세한 배경지식을 제공한다.
-
+## [asm.js은 무엇인가 그리고 무엇이 아닌가](http://mozakai.blogspot.co.uk/2013/06/what-asmjs-is-and-what-asmjs-isnt.html)
+asm.js은 자바스크립트에 최적화된 브라우저에서 훨씬 빠르게 실행되는 자바스크립트의 부분집합이다. Alon Zakai(Emscripten 제작자이며문 asm.js의 공동제작자)는 이 프로젝트의 상세한 배경지식을 제공한다.
+> [변유진](https://www.facebook.com/iamujin)님의 [한글번역](http://ujinbot.blogspot.kr/2013/07/asmjs.html)
 
 
 ## [자바스크립트의 "toString" 메서드 사용하기](http://designpepper.com/blog/drips/using-javascripts-tostring-method)
