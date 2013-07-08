@@ -1,0 +1,112 @@
+원문 : [http://javascriptweekly.com/archive/137.html]
+
+
+- - -
+# 특집 기사
+
+## [jQuery(컨퍼런스)가 오스틴을 향해 갑니다. 9월 10/11일](http://blog.jquery.com/2013/07/03/jquery-heads-to-austin/)
+Adam J. Sontag은 공식 jQuery 컨퍼런스가 오스틴 TX에서 9월 10~11일 양일간 열릴 것이라고 발표했다. 발표자 지원은 앞으로 9일간만 받을 것이며 티켓은 이미 판매중이다.
+
+## [jQuery 1.10.2와 2.0.3 릴리즈 (Bug Fix Releases)](http://blog.jquery.com/2013/07/03/jquery-1-10-2-and-2-0-3-released/)
+
+## [비동기 자바스크립트를 길들이는데 도움이 되는 다섯가지 패턴](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
+Jim Cowart는 콜백, 감시자/이벤트, 메시징, promises와 finite state machine과 그들의 장단점에 대해 살펴본다. 많은 읽을거리와 흥미로운 링크들이 포함되어있다.
+> finite state machine : [유한상태머신](https://en.wikipedia.org/wiki/Finite-state_machine)
+
+
+- - -
+# 스폰서 기사
+
+## [특허 괴물과 전쟁을 치룰 군대를 조직 중](http://www.rackspace.com/blog/an-army-is-forming-to-battle-patent-trolls/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Army)
+결단코 받아들이지 않을 것이다. Rackspace는, 특허 괴물의 재산권 갈취시도에 대항하여 항상 소리높여 항의해왔으며 결국 조치를 취했다. 우리는 군대를 조직하여 전쟁을 준비하고 있다. [특허 괴물에 대항한 싸움에 누가 합류했는지](http://www.rackspace.com/blog/an-army-is-forming-to-battle-patent-trolls/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Army) 살펴 보아라. 당신은 언제 합류할 것인가?
+
+
+- - -
+# 읽을 거리
+
+## [기본 자바스크립트: 언어 소개](http://www.2ality.com/2013/06/basic-javascript.html)
+이 블로그 포스트는 자바스크립트를 가능한 빠른시간내에 시작할 수 있게 해준다. 만약 프로그래밍하는 방법을 이미 알고 있다면 말이다. 언어의 최소한의 부분집합을 설명하여, 당신을 생산적인 프로그래머가 될 수 있게 해준다. Perhaps one to forward on to other team members?
+> Perhaps one to forward on to other team members? 어쩌면 누군가 다른 팀원들에게 전달하지 않을까?
+
+## [AngularJS: 개요](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
+Glenn Stovall이 간단한 코드 예제와 함께 구글의 MVW(모델(Model), 뷰(View), 뭐든간에(Whatever!)) 프레임워크의 간단한 개요에 대해 설명한다.
+
+## [JsRT 소개 – 윈도우즈에 자바스크립트 임베딩하기](http://www.panopticoncentral.net/?p=9821)
+IE11 preview의 일부로, 챠크라 엔진은 이제 공개 JsRT API (JavaScript RunTime API)를 완벽하게 지원한다.
+
+## [Grunt.js로 자바스크립트 라이브러리 빌드하기](http://flippinawesome.org/2013/07/01/building-a-javascript-library-with-grunt-js/)
+Mária Jurčovičová는 Grunt.js를 사용해 자바스크립트 라이브러리를 빌드하는 방법을 단계별로 상세히 설명한다. Grunt를 워크플로우에 통합하기 위한 소개로만 보더라도 역시 유용하다.
+
+## [Three.js 시작하기](http://aerotwist.com/tutorials/getting-started-with-three-js/)
+Three.js는 브라우저에서 WebGL을 사용해 3D그래픽을 처리하기 위한 크로스-브라우저 자바스크립트 라이브러리다. 이 짧은 포스트는 Three.js를 사용하는 방법을 소개한다.
+
+## [asm.js: 빠르고, 하위 호환적이며, Firefox의 릴리즈 빌드에 포함된다.](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)
+
+## [자바스크립트로 스타일시트에 규칙 추가하기](http://davidwalsh.name/add-rules-stylesheets)
+자바스크립트를 이용하여, 스타일시트에 스타일을 직접 동적으로 추가하고 제거한다.
+Dynamically add and remove styles directly to a stylesheet with JavaScript.
+
+## [AngularJS로 웹 앱을 처음부터 만들기](http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
+
+## [Require.Js를 이용한 모듈러 자바스크립트](http://www.codeproject.com/Articles/614507/Modular-Javascript-Using-Require-Js)
+ASP.NET MVC와 TypeScript와 함께 사용하는 방법도 다룬다. (즉, MS 스택에 의존한다)
+
+## ['자바스크립트 비활성화' 체크박스는 Firefox 23의 옵션 패널에서 제거되었다.](https://bugzilla.mozilla.org/show_bug.cgi?id=873709)
+## [중금 Ember Controller 컨셉](http://blog.gaslight.co/post/54512786990/intermediate-ember-controller-concepts)
+## [Backbone 모델의 믹스-인을 만들기위해 Cocktail 사용하기](http://www.salsify.com/blog/using-cocktail-to-create-mixins-for-backbone-models-that-respect-inheritance)
+## [valueOf의 가치](http://sidekicksrc.com/post/the-value-of-valueof/)
+
+
+- - -
+# 동영상
+
+## [Perf The Web Forward](https://vimeo.com/68085383)
+At his JSConf 2013 talk, John-David Dalton (co-maintainer of jsperf.com) calls on us to 'perf the web forward' as he discusses commonly overlooked performance issues, rethinks established code patterns, and shares tips you can apply to your own projects and favorite libraries.
+
+## [TypeScript: 애플리케이션-규모의 자바스크립트](http://channel9.msdn.com/Events/Build/2013/3-314)
+A talk from Microsoft's BUILD conference about a typed superset of JavaScript that compiles to plain JavaScript and adds optional static types, classes, and modules. Given by Anders Hejlsberg, core developer of TypeScript and architect of C#.
+
+## [Ember 대 Angular 철장 매치](https://vimeo.com/68215606)
+At NDC 2013, Tom Dale, Rob Conery and I presented a live 'cage match' between the two popular frameworks.
+
+## [jQuery 컨퍼런스 2013 비디오](http://www.youtube.com/jquery)
+Videos from the recent jQuery Conference in San Francisco have been released gradually on YouTube and there are currently 12 to enjoy.
+
+## [ClojureScript: Lisp의 복수](https://vimeo.com/68334908)
+A look at how ClojureScript offers a "genuinely futuristic approach (by way of the past) to client side software development" by David Nolen. 42 minutes long.
+
+## [Backbone.js 5 Part 스크린캐스트 시리즈](http://metacasts.tv/casts/backbone-js-pts-1-5)
+A set of (paid) screencasts walking through building a Backbone.js-based app from installation and learning what Backbone *is* through to saving to a server side API.
+
+## [JavaScript의 약간 더 엄격한 모드](http://www.youtube.com/watch?v=gq95_h-IrHo)
+Glen Maddern looks at what ECMAScript 5's 'strict' mode is about and why you'd want to use it.
+
+- - -
+# 코드와 라이브러리들
+
+## [오늘 ES6 모듈 사용하기](http://guybedford.com/es6-modules-today)
+ES6 modules are set to form the standard module format for the web. Instead of waiting around for browsers to support the new syntax, it is now possible to use them directly in all browsers today using the [ES6 loader polyfill.](https://github.com/ModuleLoader/es6-module-loader)
+
+## [Babylon.js: HTML 5와 WebGL로 3D 게임을 만들기위한 프레임워크](http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx)
+
+## [BromBone: AJAX기반 사이트를 크롤링가능하게 만들기](http://www.brombone.com/)
+A no-install, third party service for testing pages, performing tests, etc. Not cheap but an interesting idea.
+
+## [Kodiak JavaScript: 자바스크립트 개발자를 위해 곧 출시될 아이패드용 IDE](http://www.becomekodiak.com/kodiak-javascript.html)
+
+
+- - -
+# 일자리
+
+## [구인: Backbone 전문가, 보스턴, NYC & 샬럿](https://sapient.taleo.net/careersection/jobdetail.ftl?job=163940&amp;lang=en&amp;sns_id=#.UcMuvwZYHSc.gmail)
+Are you committed to advancing the open web at an enterprise level?  We are.  We are looking for developers at all levels.  Strong HTML5/CSS3 &amp; core JavaScript skills are required. Backbone and/or other MVC experience is a serious plus.
+
+## [PHP/웹 개발자](https://www.smartrecruiters.com/AdferoGroup/72373705-php-web-developer)
+We’re looking for a web developer to join our growing team! As a developer at Adfero, you'll work alongside our team of developers, designers and communicators, and use great technologies like Drupal, D3 and Node.js to build awesome projects for our clients.
+
+
+- - -
+# 마지막으로,
+
+## [jsDelivr - JS라이브러리, jQuery 플러그인, CSS 프레임워크 등을 위한 무료 CDN](http://www.jsdelivr.com/)
+현재 646개의 프로젝트 호스팅하고 있다.
