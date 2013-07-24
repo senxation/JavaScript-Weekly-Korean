@@ -33,7 +33,7 @@ Node.js와 MongoDB와 Express를 사용해 300줄 미만의 코드로 크라우�
 ## [jQuery 극복하기](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
 일반적인 jQuery 작업을 기본 자바스크립트로 처리하는 방법을 설명한다. 명백하게도, 구형 브라우저를 처리하기 위해서는 여전히 jQuery가 필요하다. 이 기사는 미래의 jQuery를 예상하는 것으로 결론짓는다.
 
-## [구글 크론 익스텐션 개발하기](http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/)
+## [구글 크롬 익스텐션 개발하기](http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/)
 대부분 자바스크립트와 일부 JSON을 사용해 구글 크롬 익스텐션을 생성하는 기초에 대해 다룬다.
 
 ## [Mousetrap으로 키보드 단축키 만들기](http://davidwalsh.name/keyboard-shortcuts)
