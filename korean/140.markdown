@@ -127,5 +127,5 @@ Weebly seeks front end experts who can help build features that will be utilized
 In this role, you will have chance to grow and play a key technical role in building the world's most advanced online media sales and campaign management systems and analytics products with advanced visualization.
 Last but not least..
 
-## [Curious about SPA development? Learn how to create your own SPA with Kendo UI](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
+## [SPA(Single Page Application) 개발이 궁금한가요? Kendo UI를 사용하여 직접 SPA를 만드는 방법을 배워보세요.](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
 Give your end-users a more fluid UX in your web apps. Kendo UI’s HTML5/JavaScript framework simplifies the construction of these rich client-side web applications—SPA development is easier than ever!
