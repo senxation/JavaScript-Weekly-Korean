@@ -1,0 +1,131 @@
+원문 : [http://javascriptweekly.com/archive/140.html]
+
+- - -
+# 특집 기사
+## [Bower 1.0.0 Released](https://github.com/bower/bower/blob/master/CHANGELOG.md#100---2013-07-23)
+Twitter’s JavaScript-based web package manager [Bower](http://bower.io/) has reached version 1.0. Highlights include a cleaner architecture, faster and better conflict resolution strategy, bug fixes and more. A [separate document](https://github.com/bower/bower/wiki/Rewrite-state) details the improvements brought by this rewrite.
+
+## [Object Playground: The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
+A well produced 27 minute screencast that covers a variety of matters relating to object orientation in JavaScript. Also includes a tool for visualizing and experimenting with JavaScript object relationships. Impressive.
+
+## [In Defense of JavaScript’s Constructors](http://www.2ality.com/2013/07/defending-constructors.html)
+Recently several smart people have argued against constructors. This blog post provides a few arguments in their favor.
+
+
+- - -
+# 스폰서 기사
+## [Frontend Masters: Attend 6 Front-End Dev Workshops LIVE Online](https://mjg.wufoo.com/forms/live-online-fall-season-pass-pass-js-weekly-deal/)
+Starting August 23rd: dramatically upgrade your skills with our upcoming workshop series featuring experts on Backbone.JS, Angular.JS, D3.js (Interactive Data Visualization), Web Animation, Tooling (Yeoman, Dev Tools, etc) and HTML5 Media APIs.*JavaScript Weekly readers get 45% off of early bird season passes until Aug 2nd*
+
+- - -
+# 읽을 거리
+## [SEO in JavaScript Web Apps](http://blog.alexmaccaw.com/seo-in-js-web-apps)
+Explains how to use Google’s [Ajax crawling specification](https://developers.google.com/webmasters/ajax-crawling/docs/specification) to make JavaScript web apps accessible to search engines.
+
+## [Introduction to Express](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/)
+Raymond Camden explains the Node.js framework [Express](http://expressjs.com/).
+
+## [Backbone.js Deconstructed (Part 1)](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
+“Backbone.js Deconstructed” by Cody Lindley is a two-part article (more like a small e-book) that explains the framework in depth. This is part 1.
+
+## [AngularJS Directives That Override Standard HTML Tags](http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/?)
+Joel Hooks explores the internals of AngularJS to look at its internal directives that override standard HTML tags like “a” and “form”.
+
+## [How ‘yield’ Will Transform Node.js](http://blog.alexmaccaw.com/how-yield-will-transform-node)
+Starting with version 0.11.2, Node.js includes ECMAScript 6 generators. This blog post shows that they enable a more synchronous coding style on Node.js. Related: [discussion](http://monocle.io/posts/how-yield-will-transform-node) of this post on Monocle.
+
+## [PouchDB, The JavaScript Database That Syncs](http://pouchdb.com/getting-started.html)
+A tutorial for PouchDB, a client-side database library with support for syncing with remote databases (other PouchDB instances or CouchDB databases).
+
+## [DOM Traversal and Manipulation with Voyeur](http://flippinawesome.org/2013/07/22/dom-traversal-and-manipulation-with-voyeur/?)
+Brian Rinaldi details how to use the Voyeur.js library for an alternative syntax for DOM traversal and manipulation.
+
+## [Implementing HTML5 Components with HTML5 APIs and Open Source Polyfills](http://www.ibm.com/developerworks/web/library/wa-html5components3/index.html)
+David Geary shows you how to implement HTML5 components using the nascent HTML5 component specifications, with assistance from the Polymer and Mozilla X-Tags projects.
+
+## [Build Custom Directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)
+
+## [Loading JSON-Formatted Data with Ajax and xhr.responseType='json'](http://mathiasbynens.be/notes/xhr-responsetype-json)
+Mathias Bynens explains a hidden gem in the XMLHttpRequest standard that simplifies the process of fetching and parsing JSON data through Ajax.
+
+## [Extracting Tables From PDFs In JavaScript With PDF.js](http://garysieling.com/blog/extracting-tables-from-pdfs-in-javascript-with-pdf-js)
+
+## [Break on Property Change of an Arbitrary Object](http://johnkpaul.com/blog/2013/07/20/break-on-property-change/)
+John K. Paul shows you how to use ECMAScript 5 getters and setters to enter the debugger whenever a property changes.
+
+## [Value Objects in JS: ECMAScript 7 Work in Progress](http://www.slideshare.net/BrendanEich/value-objects)
+A slide deck from Brendan Eich.
+
+## [Teach Yourself Node.js in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+
+## [Replicating the DOOM Screen Melt Effect with JavaScript and Canvas](http://davidwalsh.name/canvas-effect)
+
+- - -
+# 동영상
+## [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/index.html)
+14 lessons, delivered as short screencasts.
+
+## [Testing Strategies for AngularJS](http://www.youtube.com/watch?v=UYVcY9EJcRs)
+A screencast that explores AngularJS testing strategies via the testing tools Protractor, Testem, and Jasmine.
+
+## [Integration Testing Your Ember.js App with QUnit and Karma](http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/)
+
+## [Unit Testing: Minutes Now Will Save Hours Later](http://www.youtube.com/watch?v=_UmmaPe8Bzc)
+Eric Mann demonstrates how to run QUnit tests headlessly via Grunt and PhantomJS. [Slides](http://eamann.com/slides/unit-testing/title/) for the talk are online.
+
+## [My workflow v3: full coding stack](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
+Remy Sharp explains his workflow for developing Node.js projects in a screencast: he works 100% inside Chrome’s DevTools. Their new feature “workspaces” lets you edit files on disk.
+
+- - -
+# 릴리즈
+## [A Variety of Ember 1.0 RC Releases](http://emberjs.com/blog/2013/07/25/ember-1-0-rc6-1-rc5-1-rc4-1-rc3-1-rc2-1-and-rc1-1-released.html)
+Security releases that address a potential XSS security issue.
+
+## [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/)
+The popular framework that lets you develop native mobile apps via HTML5 gets a new release. Major new features: new plugin architecture, better tools, new platforms (iOS7, Firefox OS and Ubuntu coming soon) and new APIs. In two interviews (one with [.net magazine](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), one with [InfoQ](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3)), PhoneGap product manager Brian LeRoux tells us more about the release.
+
+## [qooxdoo 3.0 Released](http://news.qooxdoo.org/qooxdoo-3-0-released)
+The user interface framework qooxdoo targets different HTML5 environments: desktop apps, mobile apps and “websites”. Highlights of version 3.0: desktop apps get more lightweight widgets and better touch support; mobile apps run on more platforms and their widgets are now optimized for high-density displays; and for “websites”, there are more samples and integrated REST support.
+
+- - -
+# 코드와 라이브러리들
+## [Announcing A New and Improved Node.js Debugger](http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/)
+[Node Inspector](https://github.com/node-inspector/node-inspector) is a tool that lets you use Chrome DevTools to debug Node.js applications. Recently, a major new version has been released: It now works with the new Blink DevTools, supports Source Maps, handles break points better, and more.
+
+## [VerbalExpressions: JavaScript Regular Expressions Made Easy](https://github.com/jehna/VerbalExpressions)
+A library that lets you assemble a regular expression via calls to a fluent API (chained methods) that ultimately can help with readability and documentability.
+
+## [Ajax Replay: Cache Ajax Calls in The Browser and Replay Them in The Future (for Testing)](https://github.com/mbradshawabs/ajaxreplay)
+During a first run, the library logs all XMLHttpRequests and their results in localStorage. Afterwards, you can return the results without contacting the server, which speeds up testing. This technique works with all testing frameworks.
+
+## [David: Dependency Management Tool for Node.js Projects](https://david-dm.org/)
+David gives an overview of project dependencies, the versions you use and the latest available. That shows you how up to date everything is. The results can be summarized as a badge that you can embed on your site.
+
+## [grunt-express: Start An Express.js Web Server Using Grunt.js](https://github.com/blai/grunt-express)
+Watches for changes to files.
+
+## [leap.js: API for the Leap Motion Controller](http://js.leapmotion.com/)
+Library for the [Leap Motion](https://www.leapmotion.com/) 3D motion controller. It connects to the device via a WebSocket (by default to localhost). Links in the top right corner of the page send you to API documentation and more.
+
+## [lz-string: JavaScript Compression, Fast!](http://pieroxy.net/blog/pages/lz-string/index.html)
+This library compresses strings, helping you to fit as much data as possible into localStorage (which is limited to 5MB on many devices).
+
+## [Inquirer.js: Command Line User Interfaces for Node.js](https://github.com/SBoudrias/Inquirer.js)
+A collection of common interactive command line user interfaces (e.g. lists, confirmations, password inputs) for use on command line Node apps.
+
+## [ChessBoardJS: A JavaScript Chess Board Widget](http://chessboardjs.com/)
+
+- - -
+# 일자리
+## [Senior Frontend Developer at WizeHive](http://bit.ly/14K4dZ6)
+WizeHive is hacking on an AngularJS frontend with a plugin architecture. Our mission? Empower business users to get customized business apps up and running in under an hour. Join our team and help us make it a reality!
+
+## [Weebly is hiring Javascript Hackers and ping-pong masters!](http://www.weebly.com/jobs/)
+Weebly seeks front end experts who can help build features that will be utilized by tens of millions of users! Work in a creative environment where you'll be able to work on a variety of projects, and platforms with awesome peers. You can also e-mail deva@weebly.com directly.
+
+## [UI Engineer; Yahoo!](http://bit.ly/1dCEFRk)
+In this role, you will have chance to grow and play a key technical role in building the world's most advanced online media sales and campaign management systems and analytics products with advanced visualization.
+Last but not least..
+
+## [Curious about SPA development? Learn how to create your own SPA with Kendo UI](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
+Give your end-users a more fluid UX in your web apps. Kendo UI’s HTML5/JavaScript framework simplifies the construction of these rich client-side web applications—SPA development is easier than ever!
