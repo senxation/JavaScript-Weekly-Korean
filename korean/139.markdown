@@ -1,0 +1,130 @@
+원문 : [http://javascriptweekly.com/archive/139.html]
+
+- - -
+# 특집 기사
+
+## [ES6 모듈, 빌드 도구와 브라우저 앱 배포](http://ryanflorence.com/2013/es6-modules-and-browser-app-delivery/)
+현재, 자바스크립트 모듈의 풍경은 나뉘어져있다. 여러개의 모듈 포맷과 패키지매니저가 서로 경쟁하고 있다. 장기적으로, ECMAScript 6 모듈은 이런 분리현상으로부터 우리를 이끌어내 줄 것이다. Ryan Florence는 단기적인 보완책을 제안했는데, 지금 바로 ES6 모듈을 작성하고 (더 추하지만) 보편적인 모듈 형식으로 컴파일하고, 배포하는 것이다.
+
+## [Johnny-Five와 함께 자바스크립트로 구동되는 아두이노](http://blog.safaribooksonline.com/2013/07/16/javascript-powered-arduino-with-johnny-five/)
+Node.js 기반의 Johnny-Five 라이브러리 덕분에, 여러분의 컴퓨터에서 자바스크립트를 작성하고, 그 코드를 아두이노 기반의 하드웨어 구성의 거의 모든 측면을 제어하고 조작하는데 사용할 수 있다. Deric Bailey가 작성한 이 기사는 이런 일련의 작업을 어떻게 시작하는지에 대해 설명한다.
+
+- - -
+# 스폰서 기사
+
+## [오픈 클라우드 아카데미: 클라우드 컴퓨팅 기술의 간극 메우기](http://www.rackspace.com/blog/open-cloud-academy-bridging-the-cloud-computing-skills-gap/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Academy)
+클라우드 컴퓨팅은 현재도 그렇고 앞으로도 IT업종에서 핵심 기술 셋이 될 것이다. 하지만 기업들은 사업에 필수적인 클라우드 컴퓨팅 기술을 가진 인력을 고용하는데 힘쓰고 있다. Rackspace는 이런 차이에 대해 고심하여 [오픈 클라우드 아카데미](http://www.opencloudacademy.rackspace.com/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-OCA)라는 교육프로그램을 개설하였다. 이 프로그램은 IT 자격증을 얻기 원하는 학생들을 위해 설계되었다. 더 많은 정보를 확인하려면 [여기](http://www.rackspace.com/blog/open-cloud-academy-bridging-the-cloud-computing-skills-gap/?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Academy)를 클릭하라. 
+
+- - -
+# 읽을 거리
+
+## [SVG로 인터랙티브한 그래프 만들기](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1/)
+두 블로그 포스트 연재 (파트 1 과 [파트 2](http://rvlasveld.github.io/blog/2013/07/12/creating-interactive-graphs-with-svg-part-2/))에서 SVG, CSS와 자바스크립트로 인터랙티브한 그래프를 만드는 방법을 살펴본다.
+
+## [ECMAScript 6와 프록시](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
+ECMAScript 6 프록시는 객체에서 수행되는 연산을 가로챌 수 있게 해준다. 이 블로그 포스트는 프로퍼티에 할당된 값을 로깅하는 예제를 제공한다.
+
+## [왜 나는 자바스크립트에서 비공개 함수를 테스트하는가?](http://philipwalton.com/articles/why-i-test-private-functions-in-javascript/)
+지난 주, Phil Walton은 “[자바스크립트에서 비공개 함수를 테스트하는 방법](http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/)”이라는 블로그 포스트를 작성했다. 댓글 중에, 몇몇 사람들은 비공개 함수를 절대 유닛테스트하지 말아야한다고 주장했다. 이 후속 포스트는 비공개 함수 테스트가 왜 그리고 언제 유용한지에 대해 설명한다.
+
+## [커스텀 jQuery 이벤트로 디커플링하기](http://flippinawesome.org/2013/07/15/decoupling-with-custom-jquery-events/?)
+Simon Smith는 커스텀 jQuery 이벤트를 사용해 이벤트 핸들러를 디커플링하면 어떻게 자바스크립트코드가 유지보수하기 쉬워지는지에 대해 설명한다.
+
+## [조그만 Lisp 인터프리터](http://maryrosecook.com/post/little-lisp-interpreter)
+Mary Rose Cook은 lightining talk를 위한 조그만 Lisp 인터프리터를 자바스크립트로 작성했다. 이 포스트는 Lisp과 (단지 116줄 밖에 되지 않는)인터프리터 둘다에 대해 설명한다.
+
+## [왜 자바스크립트 웹 애플리케이션은 반드시 전통적인 URL을 수용해야하는가](http://9elements.com/io/index.php/hybrid-javascript-apps/)
+이 블로그 포스트는 최신 웹 애플리케이션이 서버사이드전용 애플리케이션과 클라이언트사이드전용 애플리케이션의 이점을 반드시 결합해야하는지에 대해 주장한다. 이를 위해, 반드시 전통적인 URL을 사용해야 한다.
+
+## [Yeoman, Grunt 그리고 Bower로 앱 만들기](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
+
+## [잠시만.. 어쩌면 자바스크립트는 최고의 프로그래밍 언어일수도 있어](http://www.itworld.com/cloud-computing/364194/wait-maybe-javascript-top-programming-language)
+어디서나 사용가능한 유비쿼터스 언어인 자바스크립트는 최근 프로그래밍 언어 랭킹중 몇몇에서 높은 자리를 차지했다.
+
+## [GitHub에서 Node.js 개발을 위한 도구와 전략](http://chrisawren.com/posts/Tools-and-Strategies-for-node-js-Development-on-GitHub)
+
+## [Aura와 Node.js로 처리하는 Server Sent Events)](http://www.activestate.com/blog/2013/07/server-sent-events-aura-and-nodejs)
+대략적으로 말하면, Server Sent Events는 웹소켓의 가벼운 대안이다. 주로 알림을 보내기를 원한다면 말이다. 이 기사는 Node.js로 SSE를 구현하는 방법을 다룬다.
+
+## [TypeScript에 대한 나의 경험](http://tech.kinja.com/my-experience-with-typescript-710191610)
+Peter Hausel spent the first half of this year building a fairly big Node.js application with TypeScript. This blog post describes his experiences.
+
+## [Promises: 비동기 자바스크립트의 대체 접근방법](http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/)
+
+## [jQuery UI Widget과 Grunt로 모듈화된 jQuery 플러그인 만들기](http://www.youtube.com/watch?v=sC0JJRHuP5M)
+
+- - -
+# 동영상
+
+## [안녕 Polymer: 구글의 새로운 웹 프레임워크에 대한 Q&amp;A 동영상](https://developers.google.com/live/shows/836113307)
+Polymer는 [Web Components](http://www.w3.org/TR/components-intro/)에 기반하고, 전적으로 그 설계를 실현하기 위해 만들어졌다. 지난 화요일, Polymer 팀은 온라인 Q&amp;A를 열었다. 이벤트는 동영상으로 저장되었다. Axel Rauschmayer가 작성한 동영상의 [요약글](http://www.2ality.com/2013/07/hello-polymer.html)도 볼 수 있다.
+
+## [jQuery는 맥가이버칼이다. (그리고 괜찮다!)](http://www.youtube.com/watch?v=_FNiw0BFoMQ)
+Adam J. Sontag는 jQuery가 무엇인지 그리고 무엇이 아닌지에 대해 설명하고 사용팁을 제공한다.
+
+## [Angular, Yeoman과 크롬 앱 소개](http://www.youtube.com/watch?v=V_x14_62m3Q)
+
+
+- - -
+# 코드와 라이브러리들
+
+## [ESLint 소개](http://www.nczonline.net/blog/2013/07/16/introducing-eslint/)
+ESLint는 Nicholas C. Zakas가 만든 새로운 린트 도구다. 이 도구는 추상 문법 트리에 기반해 사용자가 스스로의 린트 규칙을 사용해 구현할수 있게 하는데 초점을 맞추었다. 이런 지나친 설정이 필요없다면, JSLint나 JSHint가 더 나을 것이다.
+
+## [JS 웹 앱에서 Ajax 요청을 큐에 쌓기](http://blog.alexmaccaw.com/queuing-ajax-requests)
+순서대로 처리됨을 보장하는 서버요청을 큐잉하는 jQuery 플러그인 (중요한 예제. 데이터베이스 업데이트를 보낼 때)
+A jQuery plugin that queues requests to a server, ensuring that they are handled in order (important e.g. when sending database updates).
+
+## [structured.js: 자바스크립트 코드의 구조를 입증한다.](https://github.com/khan/structuredjs)
+sturctured.js 는 Khan 아카데미의 CS 커리큘럼의 일부분으로 개발되어왔다. 코드의 일부가 주어진 패턴에 매칭되는지 확인하고 사람들이 제출한 코드를 입증하는데 사용할 수 있다.
+
+## [Date: 사람처럼 날짜를 쓴다](http://matthewmueller.github.io/date/)
+이 라이브러리는 날짜를 “10 minutes from now”, “tomorrow night at 5”, “next week saturday morning” 처럼 자연스러운 언어(영어)로 파싱한다. 
+
+## [Sublime-JSHint: Sublime Text 2와 3를 위한 JSHint Gutter](https://github.com/victorporof/Sublime-JSHint)
+Sublime의 gutter영역에 [JSHint](http://www.jshint.com/) 경고를 표시하기위해 Node.js를 사용한다.
+
+## [Spectacular: 루비의 RSpec을 자바스크립트로 가져온 BDD 프레임워크 Framework](http://abe33.github.io/spectacular/)
+
+## [Amplify.js에 사용하는 클라이언트사이드 저장소](http://tysonjs.com/blog/localstorage-with-amplify-js/)
+Amplify 라이브러리의 저장 컴포넌트로 로컬스토리지나 세션스토리지 같은 표준을 사용하고, 구형 브라우저에는 비표준 폴백을 사용하여 영속적인 클라이언트사이드 저장소를 다룬다. 이 블로그 포스트는 어떻게 사용하는지 설명한다.
+
+## [Daux.io: 문서 생성기](http://daux.io/)
+간단한 폴더 구조와 마크다운 파일을 사용해 사용자지정 문서를 즉시 만들어낸다.
+
+## [SlimerJS: 웹 개발자를 위한 스크립팅 가능한 Gecko기반 브라우저](http://slimerjs.org/)
+자바스크립트 코드로 웹페이지를 조작할 수 있게 해준다. 기능 테스트, 페이지 자동화, 네트워크 모니터링, 화면 캡쳐 등등에 유용하다. PhantomJS와 비슷하지만, Gecko를 사용하고, 내부 브라우저 엔진은 웹킷 대신 파이어폭스를 사용한다.
+
+## [please.js: 간단한 postMessage() 통신 라이브러리](https://github.com/wingify/please.js)
+서로 다른 도메인의 프레임간에 통신을 도와주는 라이브러리
+
+## [데이터를 시각화하기 위한 25개의 자바스크립트 시각화 라이브러리](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
+
+## [Operative: 매끈하게 웹워커를 생성하는 스크립트](https://github.com/padolsey/operative)
+웹워커를 생성하고 사용하기 더 편리하게 만들어주는 라이브러리
+
+## [NodeICO: npm 패키지를 위한 그래픽 뱃지](http://nodei.co/)
+
+## [S Gallery: CSS3 애니메이션을 사용한 반응형 jQuery 갤러리 플러그인](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/)
+
+## [Imagefill.js: 이미지를 컨테이너에 가득 채우기 (jQuery 플러그인)](http://johnpolacek.github.io/imagefill.js/)
+
+- - -
+# 일자리
+
+## [시니어 자바스크립트 엔지니어 @ State (런던, 영국)](http://jobs.state.com/apply/3OLYpi/Senior-JavaScript-Engineer.html)
+글로벌 스케일의 새로운 인터넷 서비스인 opinion 네트워크를 개발하는데 도움을 주십시오. 우리는 Node.js와 모듈화된 프론트엔드 코드 아키텍팅, Ember와 같은 최신 프레임워크, 클라이언트사이드의 직접 코딩한 컴포넌트에 많은 경험이 있는 자바스크립트 전문가를 찾고있다.
+
+## [시니어 JS 프론트엔드 개발자 @ Backbase(포털 소프트웨어), 암스테르담, 네덜란드](http://www.jobscore.com/jobs/backbase/senior-js-frontend-developer/d3W9t8uc8r4OmoiGakhP3Q?ref=rss&amp;sid=68)
+Backbase는 네덜란드의 암스테르담에 본사를 두고있는, 세계적으로 빠르게 성장하고있는 포털 소프트웨어 업체다. 현재 암스테르담의 R&amp;D 팀에 시니어 프론트엔드 웹 개발자를 찾고있다. 자바스크립트, CSS, HTML에 전문가라면 Backbase에 합류에주세요!
+
+## [Ember.js 개발자 @ VerticalResponse (샌프란시스코)](http://hire.jobvite.com/j/?bj=o4S5WfwH&amp;s=JavascriptWeekly)
+자바스크립트 락스타를 찾고있습니다. 아름다운 자바스크립트코드와 간결한 테스트를 작성하고, 소프트웨어 스택에서 복잡한 문제를 찾아내왔고, 오픈소스 프로젝트에 Pull 요청을 보내어, 수정사항이나 개선사항이 받아들여진적이 있어야합니다.
+
+## [프로덕트 개발자 @ Iam150 (런던, 영국)](http://www.3-beards.com/jobs/view/product-developer)
+
+- - -
+# 마지막으로,
+
+## [필수 자바스크립트 읽을거리](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/)
+Rey Bango은 자바스크립트에 속도를 높이기 위한 가장 좋아하는 책과 온라인 자료들을 공유한다.
