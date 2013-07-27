@@ -117,15 +117,14 @@ A collection of common interactive command line user interfaces (e.g. lists, con
 
 - - -
 # 일자리
-## [Senior Frontend Developer at WizeHive](http://bit.ly/14K4dZ6)
-WizeHive is hacking on an AngularJS frontend with a plugin architecture. Our mission? Empower business users to get customized business apps up and running in under an hour. Join our team and help us make it a reality!
+## [WizeHive 수석 프론트 엔드 개발자](http://bit.ly/14K4dZ6)
+WizeHive은 플러그인 아키텍처를 활용하여 AngularJS의 프론트 엔드를 파헤치고 있습니다.우리의 미션은?비즈니스 사용자들이 한 시간 이내에 그들이 원하는 비즈니스 앱을 만들어 실행할 수 있도록 하는 것입니다. 우리 팀에 합류하여 우리의 미션이 실현되도록 도와주기 바랍니다.
 
-## [Weebly is hiring Javascript Hackers and ping-pong masters!](http://www.weebly.com/jobs/)
-Weebly seeks front end experts who can help build features that will be utilized by tens of millions of users! Work in a creative environment where you'll be able to work on a variety of projects, and platforms with awesome peers. You can also e-mail deva@weebly.com directly.
+## [Weebly에서 자바스크립트 해커와 탁구 천재를 뽑고 있습니다!](http://www.weebly.com/jobs/)
+Weebly에서는 수천만 명의 사람이 사용하게 될 기능을 만들 프론트 엔드 전문가를 찾고 있습니다.멋진 동료들과 함께 다양한 프로젝트와 플랫폼에서 일할 수 있는 창의적인 환경에서 근무할 수 있습니다. 바로 deva@weebly.com으로 이메일을 보내주세요.
 
 ## [UI Engineer; Yahoo!](http://bit.ly/1dCEFRk)
-In this role, you will have chance to grow and play a key technical role in building the world's most advanced online media sales and campaign management systems and analytics products with advanced visualization.
-Last but not least..
+세계에서 가장 진보한 온라인 미디어 세일즈 및 캠페인 관리 시스템과 최신의 시각화 기법이 적용된 분석 상품을 개발하는 핵심 기술 담당자로 성장하고 일할 수 있는 기회가 될 것입니다. 마지막으로...
 
 ## [SPA(Single Page Application) 개발이 궁금한가요? Kendo UI를 사용하여 직접 SPA를 만드는 방법을 배워보세요.](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
-Give your end-users a more fluid UX in your web apps. Kendo UI’s HTML5/JavaScript framework simplifies the construction of these rich client-side web applications—SPA development is easier than ever!
+웹 애플리케이션 사용자에게 더 유연한 플루이드 UX를 제공하세요. Kendo UI의 HTML5/JavaScript 프레임워크를 사용하면 풍부한 UX를 제공하는 클라이언트 웹 애플리케이션을 간단하게 만들 수 있습니다. SPA 개발이 이전보다 쉬워질 것입니다!
