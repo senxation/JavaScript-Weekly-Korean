@@ -101,14 +101,14 @@ During a first run, the library logs all XMLHttpRequests and their results in lo
 ## [David: Dependency Management Tool for Node.js Projects](https://david-dm.org/)
 David gives an overview of project dependencies, the versions you use and the latest available. That shows you how up to date everything is. The results can be summarized as a badge that you can embed on your site.
 
-## [grunt-express: Start An Express.js Web Server Using Grunt.js](https://github.com/blai/grunt-express)
-Watches for changes to files.
+## [grunt-express: Grunt.js를 사용하는 Express.js 웹 서버의 시작](https://github.com/blai/grunt-express)
+파일 변경 내용을 확인하세요.
 
-## [leap.js: API for the Leap Motion Controller](http://js.leapmotion.com/)
-Library for the [Leap Motion](https://www.leapmotion.com/) 3D motion controller. It connects to the device via a WebSocket (by default to localhost). Links in the top right corner of the page send you to API documentation and more.
+## [leap.js: Leap Motion 컨트롤러 API](http://js.leapmotion.com/)
+[Leap Motion](https://www.leapmotion.com/) 3D 모션 컨트롤러를 사용하기 위한 라이브러리입니다. 웹소켓을 사용하여 기기와 통신합니다. (기본적으로는 localhost로 접근합니다.) 페이지 우상단에 있는 링크를 클릭하면 API 문서 등을 확인할 수 있습니다.
 
-## [lz-string: JavaScript Compression, Fast!](http://pieroxy.net/blog/pages/lz-string/index.html)
-This library compresses strings, helping you to fit as much data as possible into localStorage (which is limited to 5MB on many devices).
+## [lz-string: 자바스크립트 압축, 빠릅니다!](http://pieroxy.net/blog/pages/lz-string/index.html)
+이 라이브러리는 문자열을 압축하므로 이 라이브러리를 사용하면 localStorage에 데이터를 삽입할 때 가능한 많은 데이터를 저장할 수 있습니다. (대부분의 기기에서 localStorage의 용량은 최대 5MB입니다.)
 
 ## [Inquirer.js: Node.js를 위한 커맨드 라인 사용자 인터페이스](https://github.com/SBoudrias/Inquirer.js)
 커맨드 라인으로 동작하는 Node 앱에서 사용 가능한 인터랙티브한 커맨드 라인 사용자 인터페이스(목록, 확인, 암호 입력 등) 모음입니다. 
