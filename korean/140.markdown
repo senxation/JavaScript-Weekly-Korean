@@ -1,130 +1,148 @@
 원문 : [http://javascriptweekly.com/archive/140.html]
 
+
 - - -
 # 특집 기사
-## [Bower 1.0.0 Released](https://github.com/bower/bower/blob/master/CHANGELOG.md#100---2013-07-23)
-Twitter’s JavaScript-based web package manager [Bower](http://bower.io/) has reached version 1.0. Highlights include a cleaner architecture, faster and better conflict resolution strategy, bug fixes and more. A [separate document](https://github.com/bower/bower/wiki/Rewrite-state) details the improvements brought by this rewrite.
 
-## [Object Playground: The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
-A well produced 27 minute screencast that covers a variety of matters relating to object orientation in JavaScript. Also includes a tool for visualizing and experimenting with JavaScript object relationships. Impressive.
+## [Bower 1.0.0 릴리즈](https://github.com/bower/bower/blob/master/CHANGELOG.md#100---2013-07-23)
+트위터의 자바스크립트 기반 웹 패키지 매니저인 [Bower](http://bower.io/)가 1.0버전이 되었다. 더 깔끔한 아키텍쳐와 더 빠르고 좋은 충돌 해결 전략, 버그수정등에 주목할만하다. [별도 문서](https://github.com/bower/bower/wiki/Rewrite-state)에서 재작성된 코드의 개선사항을 상세하게 설명한다.
 
-## [In Defense of JavaScript’s Constructors](http://www.2ality.com/2013/07/defending-constructors.html)
-Recently several smart people have argued against constructors. This blog post provides a few arguments in their favor.
+## [객체 놀이터: 객체-지향 자바스크립트 완벽 가이드](http://www.objectplayground.com/)
+잘 제작된 27분짜리 스크린캐스트로 자바스크립트의 객체지향에 관련된 다양한 사항들을 다룬다. 또한 자바스크립트 객체 관계를 실험하고 시각화하는 도구를 포함한다. 인상적이다.
+
+## [자바스크립트의 생성자를 지키기 위하여](http://www.2ality.com/2013/07/defending-constructors.html)
+최근 몇몇 똑똑한 사람들이 생성자에 대해 언쟁을 했다. 이 블로그 포스트는 그들 입장에서 몇가지 주장에 대해 다룬다.
 
 
 - - -
 # 스폰서 기사
-## [Frontend Masters: Attend 6 Front-End Dev Workshops LIVE Online](https://mjg.wufoo.com/forms/live-online-fall-season-pass-pass-js-weekly-deal/)
-Starting August 23rd: dramatically upgrade your skills with our upcoming workshop series featuring experts on Backbone.JS, Angular.JS, D3.js (Interactive Data Visualization), Web Animation, Tooling (Yeoman, Dev Tools, etc) and HTML5 Media APIs.*JavaScript Weekly readers get 45% off of early bird season passes until Aug 2nd*
+
+## [프론트엔드 마스터: 6개의 프론트엔드 개발 워크샵 라이브 온라인에 참석하세요](https://mjg.wufoo.com/forms/live-online-fall-season-pass-pass-js-weekly-deal/)
+8월 23일에 시작하는 워크샵 시리즈를 통해 극적으로 여러분의 기술을 업그레이드하세요. 이 워크샵은 Backbone.JS, Angular.JS, D3.js (인터랙티브 데이터 시각화), 웹 애니메이션, 도구(Yeoman, 개발 도구, 등)와 HTML5 미디어 API의 전문가들이 특별히 함께합니다. .*JavaScript Weekly 독자는 8월 2일까지 얼리버드 세션 티켓을 45% 할인 받을 수 있다.*
+
 
 - - -
 # 읽을 거리
-## [SEO in JavaScript Web Apps](http://blog.alexmaccaw.com/seo-in-js-web-apps)
-Explains how to use Google’s [Ajax crawling specification](https://developers.google.com/webmasters/ajax-crawling/docs/specification) to make JavaScript web apps accessible to search engines.
 
-## [Introduction to Express](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/)
-Raymond Camden explains the Node.js framework [Express](http://expressjs.com/).
+## [자바스크립트 웹앱에서의 검색엔진 최적화](http://blog.alexmaccaw.com/seo-in-js-web-apps)
+검색엔진이 자바스크립트 웹앱에 접근할 수 있게 만들기 위해 구글의 [Ajax 크롤링 명세서](https://developers.google.com/webmasters/ajax-crawling/docs/specification)를 어떻게 사용하는지 설명한다.
 
-## [Backbone.js Deconstructed (Part 1)](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
-“Backbone.js Deconstructed” by Cody Lindley is a two-part article (more like a small e-book) that explains the framework in depth. This is part 1.
+## [Express 소개](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/)
+Raymond Camden는 Node.js 의 프레임워크 [Express](http://expressjs.com/)를 소개한다.
 
-## [AngularJS Directives That Override Standard HTML Tags](http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/?)
-Joel Hooks explores the internals of AngularJS to look at its internal directives that override standard HTML tags like “a” and “form”.
+## [Backbone.js 해체 (1부)](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
+"Backbone.js 해체"는 Cody Lindley가 작성한 2부로 나뉘어진 기사(작은 e-book에 가깝다)로 Backbone.JS에 대해 상세히 설명한다. 이 기사는 1부다.
 
-## [How ‘yield’ Will Transform Node.js](http://blog.alexmaccaw.com/how-yield-will-transform-node)
-Starting with version 0.11.2, Node.js includes ECMAScript 6 generators. This blog post shows that they enable a more synchronous coding style on Node.js. Related: [discussion](http://monocle.io/posts/how-yield-will-transform-node) of this post on Monocle.
+## [표준 HTML 태그를 오버라이딩하는 AngularJS 디렉티브](http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/?)
+Joel Hooks는 "a"나 "form" 같은 표준 HTML 태그를 오버라이딩하는 디렉티브를 살펴보기위해 AngularJS의 내부를 파헤친다.
 
-## [PouchDB, The JavaScript Database That Syncs](http://pouchdb.com/getting-started.html)
-A tutorial for PouchDB, a client-side database library with support for syncing with remote databases (other PouchDB instances or CouchDB databases).
+## ['yield'는 어떻게 Node.js를 변화시킬것인가](http://blog.alexmaccaw.com/how-yield-will-transform-node)
+Node.js는 0.11.2 버전을 시작으로 ECMAScript 6 제네레이터를 포함한다. 이 블로그 기사는 제네레이터가 Node.js에서 더 동기적인 코딩 스타일을 가능하게 해준다는 사실을 보여준다. 관련자료: Monocle에 올라온 이 기사에 대한 [토의](http://monocle.io/posts/how-yield-will-transform-node)
 
-## [DOM Traversal and Manipulation with Voyeur](http://flippinawesome.org/2013/07/22/dom-traversal-and-manipulation-with-voyeur/?)
-Brian Rinaldi details how to use the Voyeur.js library for an alternative syntax for DOM traversal and manipulation.
+## [PouchDB, 동기화되는 자바스크립트 데이터베이스](http://pouchdb.com/getting-started.html)
+외부 데이터베이스(다른 PouchDB 인스턴스나 CouchDB 데이터베이스)와 동기화를 지원하는 클라이언트사이드 데이터베이스 라이브러리인 PouchDB의 튜토리얼자료다.
 
-## [Implementing HTML5 Components with HTML5 APIs and Open Source Polyfills](http://www.ibm.com/developerworks/web/library/wa-html5components3/index.html)
-David Geary shows you how to implement HTML5 components using the nascent HTML5 component specifications, with assistance from the Polymer and Mozilla X-Tags projects.
+## [Voyeur를 통한 DOM 탐색과 조작](http://flippinawesome.org/2013/07/22/dom-traversal-and-manipulation-with-voyeur/?)
+Brian Rinaldi는 DOM 탐색과 조작을 위한 대체 문법을 제공하는 Voyeur.js 라이브러리의 사용방법을 상세히 다룬다.
 
-## [Build Custom Directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)
+## [HTML5 API와 오픈소스 폴리필로 HTML5 컴포넌트 구현하기](http://www.ibm.com/developerworks/web/library/wa-html5components3/index.html)
+David Geary는 Polymer와 모질라 X-Tags 프로젝트와 함께 초기 HTML5 컴포넌트 명세서를 사용해 HTML5 컴포넌트를 구현하는 방법을 보여준다.
 
-## [Loading JSON-Formatted Data with Ajax and xhr.responseType='json'](http://mathiasbynens.be/notes/xhr-responsetype-json)
-Mathias Bynens explains a hidden gem in the XMLHttpRequest standard that simplifies the process of fetching and parsing JSON data through Ajax.
+## [AngularJS로 커스텀 디렉티브 만들기](http://www.ng-newsletter.com/posts/directives.html)
 
-## [Extracting Tables From PDFs In JavaScript With PDF.js](http://garysieling.com/blog/extracting-tables-from-pdfs-in-javascript-with-pdf-js)
+## [Ajax와 xhr.responseType='json'으로 JSON-포맷 데이터 로딩하기](http://mathiasbynens.be/notes/xhr-responsetype-json)
+Mathias Bynens는 Ajax를 통해 JSON 데이터를 받고 파싱하는 프로세스를 간편하게 해주는 XMLHttpRequest 표준의 숨겨진 보석에 대해 설명한다.
 
-## [Break on Property Change of an Arbitrary Object](http://johnkpaul.com/blog/2013/07/20/break-on-property-change/)
-John K. Paul shows you how to use ECMAScript 5 getters and setters to enter the debugger whenever a property changes.
+## [PDF.js를 이용해 자바스크립트로 PDF에서 테이블 추출하기](http://garysieling.com/blog/extracting-tables-from-pdfs-in-javascript-with-pdf-js)
 
-## [Value Objects in JS: ECMAScript 7 Work in Progress](http://www.slideshare.net/BrendanEich/value-objects)
-A slide deck from Brendan Eich.
+## [임의의 객체의 프로퍼티 변경에 브레이크걸기](http://johnkpaul.com/blog/2013/07/20/break-on-property-change/)
+John K. Paul은 ECMAScript 5 getter와 setter를 사용해 프로퍼티 변경이 발생할때마다 디버거로 진입하는 방법을 설명한다.
 
-## [Teach Yourself Node.js in 10 Steps](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+## [JS에서의 값 객체: ECMAScript 7가 진행중인 작업](http://www.slideshare.net/BrendanEich/value-objects)
+Brendan Eich의 슬라이드
 
-## [Replicating the DOOM Screen Melt Effect with JavaScript and Canvas](http://davidwalsh.name/canvas-effect)
+## [Node.js 10단계로 독학하기](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+
+## [자바스크립트와 캔버스로 DOOM의 화면이 녹아내리는 효과를 모사하기](http://davidwalsh.name/canvas-effect)
+
 
 - - -
 # 동영상
-## [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/index.html)
-14 lessons, delivered as short screencasts.
 
-## [Testing Strategies for AngularJS](http://www.youtube.com/watch?v=UYVcY9EJcRs)
-A screencast that explores AngularJS testing strategies via the testing tools Protractor, Testem, and Jasmine.
+## [Ember를 배워보자](http://freecourses.tutsplus.com/lets-learn-ember/index.html)
+짧은 스크린캐스트로 제공되는 14개의 강의
 
-## [Integration Testing Your Ember.js App with QUnit and Karma](http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/)
+## [AngularJS를 위한 테스트 전략](http://www.youtube.com/watch?v=UYVcY9EJcRs)
+Protractor, Testem과 Jasmine 테스트도구를 통한 AngularJS의 테스트 전략을 살펴보는 스크린캐스트.
 
-## [Unit Testing: Minutes Now Will Save Hours Later](http://www.youtube.com/watch?v=_UmmaPe8Bzc)
-Eric Mann demonstrates how to run QUnit tests headlessly via Grunt and PhantomJS. [Slides](http://eamann.com/slides/unit-testing/title/) for the talk are online.
+## [Ember.js 앱을 QUnit과 Karma로 통합 테스트하기](http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/)
 
-## [My workflow v3: full coding stack](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
-Remy Sharp explains his workflow for developing Node.js projects in a screencast: he works 100% inside Chrome’s DevTools. Their new feature “workspaces” lets you edit files on disk.
+## [유닛 테스트: 지금의 몇 분이 나중의 몇 시간을 줄일 것이다](http://www.youtube.com/watch?v=_UmmaPe8Bzc)
+Eric Mann은 Grunt와 PhantomJS를 통해 보이지 않게 QUnit테스트를 실행하는 방법을 설명한다. [슬라이드](http://eamann.com/slides/unit-testing/title/)도 공개되어있다.
+
+## [내 워크플로우 v3: 전체 코딩 스택](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
+Remy Sharp는 Node.js 프로젝트 개발을 위한 그의 워크플로우를 스크린캐스트로 설명한다. 그는 100% 크롬의 개발자도구내에서 작업한다. 크롬의 새로운 기능 "workspaces"가 디스크의 파일을 수정할 수 있게 해준다.
+
 
 - - -
 # 릴리즈
-## [A Variety of Ember 1.0 RC Releases](http://emberjs.com/blog/2013/07/25/ember-1-0-rc6-1-rc5-1-rc4-1-rc3-1-rc2-1-and-rc1-1-released.html)
-Security releases that address a potential XSS security issue.
 
-## [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/)
-The popular framework that lets you develop native mobile apps via HTML5 gets a new release. Major new features: new plugin architecture, better tools, new platforms (iOS7, Firefox OS and Ubuntu coming soon) and new APIs. In two interviews (one with [.net magazine](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), one with [InfoQ](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3)), PhoneGap product manager Brian LeRoux tells us more about the release.
+## [다양한 Ember 1.0 RC 릴리즈](http://emberjs.com/blog/2013/07/25/ember-1-0-rc6-1-rc5-1-rc4-1-rc3-1-rc2-1-and-rc1-1-released.html)
+가능한 XSS 보안 이슈를 해결한 릴리즈
 
-## [qooxdoo 3.0 Released](http://news.qooxdoo.org/qooxdoo-3-0-released)
-The user interface framework qooxdoo targets different HTML5 environments: desktop apps, mobile apps and “websites”. Highlights of version 3.0: desktop apps get more lightweight widgets and better touch support; mobile apps run on more platforms and their widgets are now optimized for high-density displays; and for “websites”, there are more samples and integrated REST support.
+## [Adobe PhoneGap 3.0 릴리즈](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/)
+HTML5로 네이티브 모바일 앱을 개발할 수 있게 해주는 인기있는 프레임워크인 폰갭이 새로운 릴리즈를 내어 놓았다. 주요 새로운 기능으로 변경된 플러그인 아키텍쳐, 더 좋은 도구, 곧 나올 플랫폼(iOS7, Firefox OS와 Ubuntu)과 새로운 API를 지원한다. 두 번의 인터뷰(하나는 [.net magazine](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), 다른 하나는 [InfoQ](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3))에서, 폰갭 프로덕트 매니저 Brian LeRoux가 이번 릴리즈에 대해 더 자세히 설명한다.
+
+## [qooxdoo 3.0 릴리즈](http://news.qooxdoo.org/qooxdoo-3-0-released)
+사용자 인터페이스 프레임워크 qooxdoo는 데스크탑 앱, 모바일 앱과 "웹사이트"처럼 다른 HTML5 환경을 대상으로 한다. 버전 3.0의 핵심은 데스크탑 앱이 더 간단한 위젯을 갖게되고 터치 지원이 더 좋아졌으며, 모바일앱은 더 많은 플랫폼을 지원하고 위젯들이 고해상도 디스플레이에 최적화되었다. "웹사이트"를 위해서는 더 많은 샘플과 REST 지원을 통합하였다.
+
 
 - - -
 # 코드와 라이브러리들
-## [Announcing A New and Improved Node.js Debugger](http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/)
-[Node Inspector](https://github.com/node-inspector/node-inspector) is a tool that lets you use Chrome DevTools to debug Node.js applications. Recently, a major new version has been released: It now works with the new Blink DevTools, supports Source Maps, handles break points better, and more.
 
-## [VerbalExpressions: JavaScript Regular Expressions Made Easy](https://github.com/jehna/VerbalExpressions)
-A library that lets you assemble a regular expression via calls to a fluent API (chained methods) that ultimately can help with readability and documentability.
+## [새롭게 개선된 Node.js 디버거 소개](http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/)
+[Node Inspector](https://github.com/node-inspector/node-inspector)는 크롬 개발자도구를 사용해 Node.js 애플리케이션을 디버그할 수 있게 해준다. 최근에, 새로운 메이저 버전이 릴리즈되었다. 새로운 Blink 개발자도구에서 사용할 수 있으며, 소스 맵을 지원하고 브레이크 포인트를 더 잘 다룰수 있는 등의 개선사항이 있다.
 
-## [Ajax Replay: Cache Ajax Calls in The Browser and Replay Them in The Future (for Testing)](https://github.com/mbradshawabs/ajaxreplay)
-During a first run, the library logs all XMLHttpRequests and their results in localStorage. Afterwards, you can return the results without contacting the server, which speeds up testing. This technique works with all testing frameworks.
+## [VerbalExpressions: 자바스크립트 정규 표현식을 쉽게 만든다](https://github.com/jehna/VerbalExpressions)
+유창한 API(체이닝된 메서드)를 호출하여 정규 표현식을 조립할 수 있게 해주는 라이브러리. 궁극적으로 가독성과 문서화에 도움을 준다.
 
-## [David: Dependency Management Tool for Node.js Projects](https://david-dm.org/)
-David gives an overview of project dependencies, the versions you use and the latest available. That shows you how up to date everything is. The results can be summarized as a badge that you can embed on your site.
+## [Ajax Replay: 브라우저에서 Ajax 호출을 캐시하고 미래에 이를 재실행한다 (테스트를 위해)](https://github.com/mbradshawabs/ajaxreplay)
+처음 실행하는 동안, 이 라이브러리는 모든 XMLHttpRequest와 그 결과를 로컬스토리지에 기록한다. 그리고나서, 서버에 접근하지 않고 그 결과를 받아 테스트 속도를 높일 수 있다. 이 기법은 모든 테스팅 프레임워크에서 잘 동작한다.
 
-## [grunt-express: Grunt.js를 사용하는 Express.js 웹 서버의 시작](https://github.com/blai/grunt-express)
-파일 변경 내용을 확인하세요.
+## [David: Node.js 프로젝트를 위한 의존성 관리 도구](https://david-dm.org/)
+David는 프로젝트 의존성과, 현재 사용하는 버전, 그리고 최신의 이용가능한 버전에 대한 개요를 보여준다. 이는 모든것이 얼마나 최신인지 보여준다. 결과값은 뱃지로 요약되고 이를 여러분의 사이트에 임베딩할 수 있다.
 
-## [leap.js: Leap Motion 컨트롤러 API](http://js.leapmotion.com/)
-[Leap Motion](https://www.leapmotion.com/) 3D 모션 컨트롤러를 사용하기 위한 라이브러리입니다. 웹소켓을 사용하여 기기와 통신합니다. (기본적으로는 localhost로 접근합니다.) 페이지 우상단에 있는 링크를 클릭하면 API 문서 등을 확인할 수 있습니다.
+## [grunt-express: Grunt.js를 사용해 Express.js 웹 서버를 시작하기](https://github.com/blai/grunt-express)
+파일의 변경을 감시한다.
 
-## [lz-string: 자바스크립트 압축, 빠릅니다!](http://pieroxy.net/blog/pages/lz-string/index.html)
-이 라이브러리는 문자열을 압축하므로 이 라이브러리를 사용하면 localStorage에 데이터를 삽입할 때 가능한 많은 데이터를 저장할 수 있습니다. (대부분의 기기에서 localStorage의 용량은 최대 5MB입니다.)
+## [leap.js: Leap 모션 컨트롤러를 위한 API](http://js.leapmotion.com/)
+[Leap Motion](https://www.leapmotion.com/) 3D 모션 컨트롤러를 위한 라이브러리. 이 라이브러리는 웹 소켓(디폴트로 localhost)을 통해 장치와 연결한다. 이 페이지의 우측상단의 링크는 API 문서와 다른자료들을 제공한다.
 
-## [Inquirer.js: Node.js를 위한 커맨드 라인 사용자 인터페이스](https://github.com/SBoudrias/Inquirer.js)
-커맨드 라인으로 동작하는 Node 앱에서 사용 가능한 인터랙티브한 커맨드 라인 사용자 인터페이스(목록, 확인, 암호 입력 등) 모음입니다. 
+## [lz-string: 빠른 자바스크립트 압축](http://pieroxy.net/blog/pages/lz-string/index.html)
+이 라이브러리는 문자열을 압축하여 로컬스토리지에 가능한 많은 데이터(많은 기기들이 5MB로 제한되어있다)를 저장할 수 있게 도와준다.
+
+## [Inquirer.js: Node.js를 위한 커맨드라인 사용자 인터페이스](https://github.com/SBoudrias/Inquirer.js)
+커맨드라인 Node 앱에서 사용하기 위한 일반적인 인터랙티브 커맨드라인 사용자 인터페이스의 모음(예를 들면, 목록, 확인, 비밀번호 입력)
 
 ## [ChessBoardJS: 자바스크립트 체스판 위젯](http://chessboardjs.com/)
 
+
 - - -
 # 일자리
-## [WizeHive 수석 프론트 엔드 개발자](http://bit.ly/14K4dZ6)
-WizeHive은 플러그인 아키텍처를 활용하여 AngularJS의 프론트 엔드를 파헤치고 있습니다.우리의 미션은?비즈니스 사용자들이 한 시간 이내에 그들이 원하는 비즈니스 앱을 만들어 실행할 수 있도록 하는 것입니다. 우리 팀에 합류하여 우리의 미션이 실현되도록 도와주기 바랍니다.
 
-## [Weebly에서 자바스크립트 해커와 탁구 천재를 뽑고 있습니다!](http://www.weebly.com/jobs/)
-Weebly에서는 수천만 명의 사람이 사용하게 될 기능을 만들 프론트 엔드 전문가를 찾고 있습니다.멋진 동료들과 함께 다양한 프로젝트와 플랫폼에서 일할 수 있는 창의적인 환경에서 근무할 수 있습니다. 바로 deva@weebly.com으로 이메일을 보내주세요.
+## [시니어 프론트엔드 개발자 @ WizeHive](http://bit.ly/14K4dZ6)
+WizeHive는 AngularJS 프론트엔드를 플러그인 아키텍쳐로 해킹하고 있습니다. 우리의 미션이요? 비지니스 사용자에게 비지니스 앱을 커스터마이즈할 수 있는 권한을 주고 한시간내에 실행할수 있게하는 것입니다. 우리 팀에 합류하여 이를 현실이 되도록 도와주세요.
 
-## [UI Engineer; Yahoo!](http://bit.ly/1dCEFRk)
-세계에서 가장 진보한 온라인 미디어 세일즈 및 캠페인 관리 시스템과 최신의 시각화 기법이 적용된 분석 상품을 개발하는 핵심 기술 담당자로 성장하고 일할 수 있는 기회가 될 것입니다. 마지막으로...
+## [자바스크립트 해커와 탁구의 달인을 구합니다 @ Weebly](http://www.weebly.com/jobs/)
+Weebly는 천만명의 사용자가 활용할 기능을 만드는데 도움을 줄 프론트엔드 전문가를 찾습니다! 다양한 프로젝트와 플랫폼에서 훌륭한 동료와 함께할 수 있는 창의적인 환경에서 일할 수 있습니다. 이메일 주소 deva@weebly.com로 직접 연락하셔도 됩니다.
 
-## [SPA(Single Page Application) 개발이 궁금한가요? Kendo UI를 사용하여 직접 SPA를 만드는 방법을 배워보세요.](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
-웹 애플리케이션 사용자에게 더 유연한 플루이드 UX를 제공하세요. Kendo UI의 HTML5/JavaScript 프레임워크를 사용하면 풍부한 UX를 제공하는 클라이언트 웹 애플리케이션을 간단하게 만들 수 있습니다. SPA 개발이 이전보다 쉬워질 것입니다!
+## [UI 엔지니어 @ Yahoo!](http://bit.ly/1dCEFRk)
+이 업무를 통해서 세상에서 가장 발전된 온라인 미디어 판매와 캠페인 관리 시스템, 그리고 진보된 시각화분석 프로덕트를 개발하는데 기술적으로 핵심 역할을 맡게 되며, 성장할 수 있는 기회를 가지게 될 것입니다.
+
+
+- - -
+# 마지막으로,
+
+## [SPA 개발에 대해 궁금하나요? Kendo UI로 스스로 SPA를 만드는 방법을 배우세요](http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&amp;utm_medium=…utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA)
+여러분의 웹 앱에서 최종사용자에게 더 우아한 UX를 제공하세요. Kendo UI의 HTML5/자바스크립트 프레임워크는 이런 리치 클라이언트사이드 웹애플리케이션의 개발을 간단하게 하여, SPA 개발을 어느때보다 더 쉽게 해줍니다.
+> SPA (Single Page Application)
