@@ -125,5 +125,5 @@ Are you interested in building the best accommodation website used by millions o
 
 - - -
 # 마지막으로,
-## [Automate your release process](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20676)
-Get fast, repeatable deployments at your fingertips with Red Gate’s Deployment Manager. Ship your .NET apps, services, and databases in a single process, see the status of your environments on the shared dashboard, and manage all your deployments in one place. Get started now.
+## [배포 프로세스를 자동화 하세요](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20676)
+Red Gate의 배포 관리자를 사용하여 빠르고 반복적인 배포를 손쉽게 진행하세요. .NET 앱, 서비스, 데이터베이스를 한 번의 과정으로 전송하고 공유 대시보드에서 여러분 환경의 상태를 확인하고 한 곳에서 모든 배포를 관리하세요. 지금 바로 시작하세요.
