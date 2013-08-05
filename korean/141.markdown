@@ -1,0 +1,129 @@
+원문 : [http://javascriptweekly.com/archive/141.html]
+
+- - -
+# 특집 기사
+## [8 JSConf US 2013 Videos Released](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+Includes talks such as
+“[AI.js: Robots with Brains!](http://www.youtube.com/watch?v=NG31UChnNfc&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=8)” by Raquel Vèlez,
+“[JavaScript Masterclass](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)” by Angelina Fabbro and
+“[Lessons from the experimental edge of technology](http://www.youtube.com/watch?v=f_9nDBtSInI&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=1)” by Remy Sharp.
+
+## [Writing a Command Line Utility using Node](http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/)
+Jonathan Fielding goes step by step through the process of building your own command line utility using Node.
+
+## [ECMAScript 6 Modules: The Future Is Now](http://www.2ality.com/2013/07/es6-modules.html)
+Explains how modules work in ECMAScript 6 (the next version of JavaScript), then describes tools that allow you to already use them now. 
+
+- - -
+# 이벤트
+## [ng-conf 2014: The World's First Angular Conference](http://www.ng-conf.org/)
+Takes place in Salt Lake City, Utah over January 16-17, 2014. Currently they're just taking e-mail addresses of anyone who's interested in attending or speaking.
+
+## [jQuery Conference Austin: September 10–11 2013 - Austin, TX](http://events.jquery.org/2013/austin/)
+Bocoup is also doing a training Mon Sep. 9 before the conference. They are offering 50$ off tickets for JavaScript Weekly readers using the code *JSWKLY50*.
+
+## [The Great British Node Conference – London, 8th October 2013](http://greatbritishnodeconf.co.uk/)
+
+- - -
+# 읽을 거리
+## [Creating a 3D Game with Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
+Nikhil Suresh presents a practical introduction to creating a 3D scene in the browser using WebGL through the popular Three.js library. He then adds some simple bat and ball gameplay.
+
+## [Checking in Front-End Dependencies](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
+Should you add the dependencies installed by your package manager to source control? This article by Addy Osmani walks though the options for Bower.
+
+## [Introduction To Photoshop Scripting [with JavaScript]](http://www.smashingmagazine.com/2013/07/25/introduction-to-photoshop-scripting/)
+
+## [Profile-Guided JavaScript Optimization](http://ariya.ofilabs.com/2013/07/profile-guided-javascript-optimization.html)
+Profile-guided optimization is a technique where a compiler uses test runs with representative input data to determine how to best compile a program.
+This blog post shows how to use that technique when manually optimizing JavaScript code.
+
+## [Creating Multi-Step Forms with jQuery and Promin](http://flippinawesome.org/2013/07/29/creating-multi-step-forms-with-jquery-and-promin/)
+Tim Severien shows how the Promin plugin for jQuery to easily create user-friendly multi-step forms.
+
+## [The Basics of Using ui-router with AngularJS](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+URL routers keep the URL of a web app in sync with its user interface state. This blog post describes a new URL router for AngularJS.
+
+## [Working with Shadow DOM](http://blog.teamtreehouse.com/working-with-shadow-dom)
+An introduction to Shadow DOM, one of the building blocks of [Web Components](http://www.w3.org/TR/components-intro/), the work-in-progress HTML5 standard for custom widgets.
+
+## [AngularJS-backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
+For simple charts, you may not need a full-fledged SVG library, AngularJS’s built-in capabilities may be enough.
+
+## [AngularJS Best Practices](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
+Stick to the canonical project directory structure, use dependency injection, etc.
+
+## [11 Resources to Get You Up to Speed in Ember.js](http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/)
+
+## [Using PhantomJS WebServer](http://benjaminbenben.com/2013/07/28/phantomjs-webserver/)
+With [PhantomJS](http://phantomjs.org/), you can let a real web browser (without a graphical user interface) evaluate pages (including JavaScript). This article shows how to write PhantomJS-based web apps that process evaluated pages and serve the results to clients. For example: the final HTML of dynamic web pages, screenshots, etc. Such web apps are easily deployed to Heroku.
+
+## [A Guide to Writing Backbone Apps At Coursera](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
+Best practices for how Coursera uses Backbone.
+
+## [OOP is Not Your Hammer](http://html5hub.com/oop-is-not-your-hammer/)
+John Hann explains that (plain) Object-Oriented Programming (OOP) is not always the best solution and looks at two alternatives: events and Aspect-Oriented Programming (AOP).
+
+## [Handlebars.js: A Behind the Scenes Look](http://net.tutsplus.com/tutorials/javascript-ajax/handlebars-js-a-behind-the-scenes-look/)
+
+## [AngularJS in 60 Minutes [PDF]](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
+Dan Wahlin has transcribed [his talk](http://www.youtube.com/watch?v=i9MHigUZKEM) to a PDF file.
+
+## [Interview With Chris Williams](http://net.tutsplus.com/articles/interview-with-chris-williams/)
+Rey Bango interviews Chris Williams (founder and organizer of JSConf), with topics ranging from the history and goals of JSConf to robotics.
+
+## [How Do I “Think in AngularJS” If I Have A jQuery Background?](http://stackoverflow.com/q/14994391/3951)
+
+- - -
+# 동영상
+## [Tutorial: Writing A Native Windows 8.1 App in TypeScript](http://www.youtube.com/watch?v=mPljRj4IS3w)
+Uses AngularJS, Bootstrap and BankersBox.
+
+## [JavaScript Testing with Jasmine in 7 Minutes](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+
+- - -
+# 코드와 라이브러리들
+## [jspm: Frictionless Browser Package Management](http://jspm.io/)
+Comprises two components. First, JSPM loader lets you load three module formats: ECMAScript 6 modules, AMD, CommonJS. Second, JSPM CDN lets you load npm packages and modules on GitHub without installing them locally.
+
+## [The NoFlo Visual Development Environment for JavaScript](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
+We linked to [NoFlo](http://noflojs.org/), a flow based programming tool for Node, back in [issue 87](http://javascriptweekly.com/archive/87.html) and it has continued to mature. Flow Based Programming is a paradigm where the logic of an application is designed in a visual graph and the team are now trying to raise money to build a full visual development environment on Kickstarter ([more perspective from the team](http://bergie.iki.fi/blog/noflo-kickstarter-launch/)). If they reach their stretch goals, they may cover Objective C and Java too.
+
+## [throat: Throttle A Collection of Promise-Returning Functions](https://github.com/ForbesLindesay/throat)
+Control how many promise-returning functions should be executed concurrently.
+
+## [Grunt-Notify: Automatic Notifications When Grunt Tasks Fail](https://github.com/dylang/grunt-notify)
+Tired of continusously jumping back to the command line to see if and why grunt task fail such as JSHint? Add grunt-notify to your Gruntfile and it will provide automatic notifications in OS X, Windows, and Linux.
+
+## [Overload: Simple Way to Overload JavaScript Functions](https://github.com/mariusGundersen/Overload)
+A library to perform [multiple dispatch](http://en.wikipedia.org/wiki/Multiple_dispatch): When a given (generic) function is called, you can trigger one of several implementations, depending on the number and type of the arguments.
+
+## [Handlebars-Helpers: An Extensive Library of 100+ Handlebars Helpers](https://github.com/assemble/handlebars-helpers)
+
+## [Alert: Play Alert Sounds in The Browser](https://github.com/azer/alert)
+
+## [Table-to-JSON: jQuery Plugin That Converts HTML Tables to JavaScript Objects](http://lightswitch05.github.io/table-to-json/)
+
+## [Bindr: Small JavaScript Dependency Injection Framework](http://jcreamer898.github.io/bindr/)
+
+## [Transit: Smooth CSS Transitions and Transformations for jQuery](http://ricostacruz.com/jquery.transit/)
+
+## [iCheck: Super Customized Checkboxes and Radio Buttons for jQuery and Zepto](http://damirfoy.com/iCheck/)
+
+- - -
+# 일자리
+## [Senior Javascript Engineer @ Spotify NYC](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
+We’re looking for incredible, senior Javascript Engineers to join our team in NYC. If you’re the right one for us, you have expert knowledge of developing rich applications using Javascript and love working with other web technologies like HTML5 and CSS3. 
+
+## [JavaScript expert wanted at YouNeedABudget.com (Remote position)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
+We write beautiful personal finance software called "You Need a Budget" (YNAB). Now we're moving it to the web! Come work with our small, passionate team to make this app our best work yet! (You can work from home, no matter where home is.)
+
+## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
+Are you interested in building the best accommodation website used by millions of customers? Do you have solid experience developing with HTML/CSS/JS? Booking.com is looking for an experienced Front End Developer. Learn more about us [in this video.](http://goo.gl/qpOCYU)
+
+## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+
+- - -
+# 마지막으로,
+## [Automate your release process](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20676)
+Get fast, repeatable deployments at your fingertips with Red Gate’s Deployment Manager. Ship your .NET apps, services, and databases in a single process, see the status of your environments on the shared dashboard, and manage all your deployments in one place. Get started now.
