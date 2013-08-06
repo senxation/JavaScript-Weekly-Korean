@@ -118,10 +118,10 @@ We’re looking for incredible, senior Javascript Engineers to join our team in 
 ## [JavaScript expert wanted at YouNeedABudget.com (Remote position)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
 We write beautiful personal finance software called "You Need a Budget" (YNAB). Now we're moving it to the web! Come work with our small, passionate team to make this app our best work yet! (You can work from home, no matter where home is.)
 
-## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
+## [네덜란드 암스테르담의 Booking.com에서 근무할 프론트 엔드 개발자](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
 Are you interested in building the best accommodation website used by millions of customers? Do you have solid experience developing with HTML/CSS/JS? Booking.com is looking for an experienced Front End Developer. Learn more about us [in this video.](http://goo.gl/qpOCYU)
 
-## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+## [JavaScript Weekly에 구인 광고를 올리세요](https://cooperpress.com/jobs)
 
 - - -
 # 마지막으로,
