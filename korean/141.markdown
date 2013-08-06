@@ -112,14 +112,14 @@ A library to perform [multiple dispatch](http://en.wikipedia.org/wiki/Multiple_d
 
 - - -
 # 일자리
-## [Senior Javascript Engineer @ Spotify NYC](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
-We’re looking for incredible, senior Javascript Engineers to join our team in NYC. If you’re the right one for us, you have expert knowledge of developing rich applications using Javascript and love working with other web technologies like HTML5 and CSS3. 
+## [시니어 Javascript Engineer @ Spotify 뉴욕](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
+뉴욕에 있는 팀과 함께 일할 능력이 뛰어난 시니어 자바스크립트 엔지니어를 찾고 있습니다. 자바스크립트로 리치 앱을 만드는 전문 지식을 가지고 있으며 HTML5, CSS3와 같은 웹 기술을 사랑하는 사람은 바로 지원하기 바랍니다.
 
-## [JavaScript expert wanted at YouNeedABudget.com (Remote position)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
-We write beautiful personal finance software called "You Need a Budget" (YNAB). Now we're moving it to the web! Come work with our small, passionate team to make this app our best work yet! (You can work from home, no matter where home is.)
+## [YouNeedABudget.com에서 자바스크립트 개발자를 구합니다. (재택 근무)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
+"You Need a Budget" (YNAB)라는 개인 재정 소프트웨어를 만들고 있습니다. 그리고 웹으로 서비스를 확장할 것입니다. 작지만 열정적인 우리의 팀과 협업하여 당신의 경력에서 최고의 앱을 만들어보기 바랍니다. (근무 위치와 관계 없이 재택 근무 가능합니다.)
 
 ## [네덜란드 암스테르담의 Booking.com에서 근무할 프론트 엔드 개발자](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
-Are you interested in building the best accommodation website used by millions of customers? Do you have solid experience developing with HTML/CSS/JS? Booking.com is looking for an experienced Front End Developer. Learn more about us [in this video.](http://goo.gl/qpOCYU)
+수백만명의 고객이 이용하는 숙박 웹사이트를 만드는 일에 대한 흥미가 있나요? HTML/CSS/JS로 개발한 많은 경험이 있으신가요? Booking.com에서는 능숙한 프론트 엔드 개발자를 찾고 있습니다. Booking.com에 대한 자세한 정보를 [이 비디오](http://goo.gl/qpOCYU)에서 확인하세요.
 
 ## [JavaScript Weekly에 구인 광고를 올리세요](https://cooperpress.com/jobs)
 
