@@ -113,7 +113,7 @@ A library to perform [multiple dispatch](http://en.wikipedia.org/wiki/Multiple_d
 - - -
 # 일자리
 ## [시니어 Javascript Engineer @ Spotify 뉴욕](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
-뉴욕에 있는 팀과 함께 일할 능력이 뛰어난 시니어 자바스크립트 엔지니어를 찾고 있습니다. 자바스크립트로 리치 앱을 만드는 전문 지식을 가지고 있으며 HTML5, CSS3와 같은 웹 기술을 사랑하는 사람은 바로 지원하기 바랍니다.
+뉴욕에 있는 팀과 함께 일할 능력이 뛰어난 시니어 자바스크립트 엔지니어를 찾고 있습니다. 자바스크립트로 리치 앱을 만들 수 있는 전문 지식을 가지고 있으며 HTML5, CSS3와 같은 웹 기술을 사랑하는 사람은 바로 지원하기 바랍니다.
 
 ## [YouNeedABudget.com에서 자바스크립트 개발자를 구합니다. (재택 근무)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
 "You Need a Budget" (YNAB)라는 개인 재정 소프트웨어를 만들고 있습니다. 그리고 웹으로 서비스를 확장할 것입니다. 작지만 열정적인 우리의 팀과 협업하여 당신의 경력에서 최고의 앱을 만들어보기 바랍니다. (근무 위치와 관계 없이 재택 근무 가능합니다.)
