@@ -83,17 +83,19 @@ Uses AngularJS, Bootstrap and BankersBox.
 
 - - -
 # 코드와 라이브러리들
-## [jspm: Frictionless Browser Package Management](http://jspm.io/)
-Comprises two components. First, JSPM loader lets you load three module formats: ECMAScript 6 modules, AMD, CommonJS. Second, JSPM CDN lets you load npm packages and modules on GitHub without installing them locally.
+## [jspm: 쉬운 브라우저 패키지 관리](http://jspm.io/)
+JSPM은 두 가지 요소로 구성됩니다. 첫 번째, JSPM 로더를 통해 세 가지 모듈 형식(ECMAScript 6 모듈, AMD, CommonJS)을 로드할 수 있습니다. 두 번째, JSPM CDN을 이용하여 GitHub에 있는 npm 패키지와 모듈을 로컬에 설치하지 않고도 로드할 수 있습니다.
 
-## [The NoFlo Visual Development Environment for JavaScript](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
+## [자바스크립트를 위한 NoFlo 비주얼 개발 환경](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
+JavaScript Weekly에서는 지난 [issue 87](http://javascriptweekly.com/archive/87.html)에서 노드를 지원하는 흐름 기반의 프로그래밍도구인 [NoFlo](http://noflojs.org/)를 소개했습니다. NoFlo는 계속 발전하고 있습니다. 흐름 기반 프로그래밍 도구는 애플리케이션의 로직을 시각적인 그래프로 설계하는 방법입니다. 개발팀은 전체 기능을 갖춘 비주얼 개발 환경을 만들고자 킥스타터를 통해 돈을 모으고 있습니다. ([그들의 자세한 전망은 여기서 확인](http://javascriptweekly.com/archive/87.html)) 그들이 원하는 목표를 달성한다면 Objective C와 Java에 대한 지원도 추가될 것입니다.
+
 We linked to [NoFlo](http://noflojs.org/), a flow based programming tool for Node, back in [issue 87](http://javascriptweekly.com/archive/87.html) and it has continued to mature. Flow Based Programming is a paradigm where the logic of an application is designed in a visual graph and the team are now trying to raise money to build a full visual development environment on Kickstarter ([more perspective from the team](http://bergie.iki.fi/blog/noflo-kickstarter-launch/)). If they reach their stretch goals, they may cover Objective C and Java too.
 
-## [throat: Throttle A Collection of Promise-Returning Functions](https://github.com/ForbesLindesay/throat)
-Control how many promise-returning functions should be executed concurrently.
+## [throat: Promise-Returning 함수의 갯수를 제한합니다](https://github.com/ForbesLindesay/throat)
+동시에 실행되는 promise-returning 함수의 갯수를 관리합니다.
 
-## [Grunt-Notify: Automatic Notifications When Grunt Tasks Fail](https://github.com/dylang/grunt-notify)
-Tired of continusously jumping back to the command line to see if and why grunt task fail such as JSHint? Add grunt-notify to your Gruntfile and it will provide automatic notifications in OS X, Windows, and Linux.
+## [Grunt-Notify: Grunt 작업이 실패했을 때 자동 알림](https://github.com/dylang/grunt-notify)
+JSHint와 같은 grunt 작업이 실패했는지, 실패했다면 그 이유를 확인하기 위해 명령어 입력줄로 계속 되돌아 가는 일에 지쳤나요? grunt-notify를 Gruntfile에 추가하면 자동으로 알림을 받을 수 있습니다. OS X, 윈도, 리눅스에서 동작합니다.
 
 ## [Overload: 자바스크립트 함수를 오버로드하는 간단한 방법](https://github.com/mariusGundersen/Overload)
 [다중 디스패치](http://en.wikipedia.org/wiki/Multiple_dispatch)를 수행하는 라이브러리: 어떤 (제네릭) 함수가 호출될 때 인수의 숫자나 종류에 따라 다양한 구현 내용 중 하나를 실행시킬 수 있다.
