@@ -83,47 +83,47 @@ Uses AngularJS, Bootstrap and BankersBox.
 
 - - -
 # 코드와 라이브러리들
-## [jspm: Frictionless Browser Package Management](http://jspm.io/)
-Comprises two components. First, JSPM loader lets you load three module formats: ECMAScript 6 modules, AMD, CommonJS. Second, JSPM CDN lets you load npm packages and modules on GitHub without installing them locally.
+## [jspm: 쉬운 브라우저 패키지 관리](http://jspm.io/)
+JSPM은 두 가지 요소로 구성됩니다. 첫 번째, JSPM 로더를 통해 세 가지 모듈 형식(ECMAScript 6 모듈, AMD, CommonJS)을 로드할 수 있습니다. 두 번째, JSPM CDN을 이용하여 GitHub에 있는 npm 패키지와 모듈을 로컬에 설치하지 않고도 로드할 수 있습니다.
 
-## [The NoFlo Visual Development Environment for JavaScript](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
-We linked to [NoFlo](http://noflojs.org/), a flow based programming tool for Node, back in [issue 87](http://javascriptweekly.com/archive/87.html) and it has continued to mature. Flow Based Programming is a paradigm where the logic of an application is designed in a visual graph and the team are now trying to raise money to build a full visual development environment on Kickstarter ([more perspective from the team](http://bergie.iki.fi/blog/noflo-kickstarter-launch/)). If they reach their stretch goals, they may cover Objective C and Java too.
+## [자바스크립트를 위한 NoFlo 비주얼 개발 환경](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
+JavaScript Weekly에서는 지난 [issue 87](http://javascriptweekly.com/archive/87.html)에서 노드를 지원하는 흐름 기반의 프로그래밍도구인 [NoFlo](http://noflojs.org/)를 소개했습니다. NoFlo는 계속 발전하고 있습니다. 흐름 기반 프로그래밍 도구는 애플리케이션의 로직을 시각적인 그래프로 설계하는 방법입니다. 개발팀은 전체 기능을 갖춘 비주얼 개발 환경을 만들고자 킥스타터를 통해 돈을 모으고 있습니다. ([그들의 자세한 전망은 여기서 확인](http://javascriptweekly.com/archive/87.html)) 그들이 원하는 목표를 달성한다면 Objective C와 Java에 대한 지원도 추가될 것입니다.
 
-## [throat: Throttle A Collection of Promise-Returning Functions](https://github.com/ForbesLindesay/throat)
-Control how many promise-returning functions should be executed concurrently.
+## [throat: Promise-Returning 함수의 갯수를 제한합니다](https://github.com/ForbesLindesay/throat)
+동시에 실행되는 promise-returning 함수의 갯수를 관리합니다.
 
-## [Grunt-Notify: Automatic Notifications When Grunt Tasks Fail](https://github.com/dylang/grunt-notify)
-Tired of continusously jumping back to the command line to see if and why grunt task fail such as JSHint? Add grunt-notify to your Gruntfile and it will provide automatic notifications in OS X, Windows, and Linux.
+## [Grunt-Notify: Grunt 작업이 실패했을 때 자동 알림](https://github.com/dylang/grunt-notify)
+JSHint와 같은 grunt 작업이 실패했는지, 실패했다면 그 이유를 확인하기 위해 명령어 입력줄로 계속 되돌아 가는 일에 지쳤나요? grunt-notify를 Gruntfile에 추가하면 자동으로 알림을 받을 수 있습니다. OS X, 윈도, 리눅스에서 동작합니다.
 
-## [Overload: Simple Way to Overload JavaScript Functions](https://github.com/mariusGundersen/Overload)
-A library to perform [multiple dispatch](http://en.wikipedia.org/wiki/Multiple_dispatch): When a given (generic) function is called, you can trigger one of several implementations, depending on the number and type of the arguments.
+## [Overload: 자바스크립트 함수를 오버로드하는 간단한 방법](https://github.com/mariusGundersen/Overload)
+[다중 디스패치](http://en.wikipedia.org/wiki/Multiple_dispatch)를 수행하는 라이브러리: 어떤 (제네릭) 함수가 호출될 때 인수의 숫자나 종류에 따라 다양한 구현 내용 중 하나를 실행시킬 수 있다.
 
-## [Handlebars-Helpers: An Extensive Library of 100+ Handlebars Helpers](https://github.com/assemble/handlebars-helpers)
+## [Handlebars-Helpers: 100개 이상의 다양한 핸들바 헬퍼 라이브러리](https://github.com/assemble/handlebars-helpers)
 
-## [Alert: Play Alert Sounds in The Browser](https://github.com/azer/alert)
+## [Alert: 브라우저에서 경고음 내기](https://github.com/azer/alert)
 
-## [Table-to-JSON: jQuery Plugin That Converts HTML Tables to JavaScript Objects](http://lightswitch05.github.io/table-to-json/)
+## [Table-to-JSON: HTML 테이블을 JavaScript 객체로 변환해주는 jQuery 플러그인](http://lightswitch05.github.io/table-to-json/)
 
-## [Bindr: Small JavaScript Dependency Injection Framework](http://jcreamer898.github.io/bindr/)
+## [Bindr: 작은 크기의 자바스크립트 의존성 주입 프레임워크](http://jcreamer898.github.io/bindr/)
 
-## [Transit: Smooth CSS Transitions and Transformations for jQuery](http://ricostacruz.com/jquery.transit/)
+## [Transit: jQuery와 함께 사용할 수 있는 부드러운 CSS 트랜지션과 트랜스포메이션](http://ricostacruz.com/jquery.transit/)
 
-## [iCheck: Super Customized Checkboxes and Radio Buttons for jQuery and Zepto](http://damirfoy.com/iCheck/)
+## [iCheck: jQuery와 Zepto에서 사용할 수 있으며 입맛에 맞게 수정할 수 있는 체크박스와 라디오 버튼](http://damirfoy.com/iCheck/)
 
 - - -
 # 일자리
-## [Senior Javascript Engineer @ Spotify NYC](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
-We’re looking for incredible, senior Javascript Engineers to join our team in NYC. If you’re the right one for us, you have expert knowledge of developing rich applications using Javascript and love working with other web technologies like HTML5 and CSS3. 
+## [시니어 Javascript Engineer @ Spotify 뉴욕](https://www.spotify.com/us/jobs/view/oRxtXfwy/)
+뉴욕에 있는 팀과 함께 일할 능력이 뛰어난 시니어 자바스크립트 엔지니어를 찾고 있습니다. 자바스크립트로 리치 앱을 만들 수 있는 전문 지식을 가지고 있으며 HTML5, CSS3와 같은 웹 기술을 사랑하는 사람은 바로 지원하기 바랍니다.
 
-## [JavaScript expert wanted at YouNeedABudget.com (Remote position)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
-We write beautiful personal finance software called "You Need a Budget" (YNAB). Now we're moving it to the web! Come work with our small, passionate team to make this app our best work yet! (You can work from home, no matter where home is.)
+## [YouNeedABudget.com에서 자바스크립트 개발자를 구합니다. (재택 근무)](http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/)
+"You Need a Budget" (YNAB)라는 개인 재정 소프트웨어를 만들고 있습니다. 그리고 웹으로 서비스를 확장할 것입니다. 작지만 열정적인 우리의 팀과 협업하여 당신의 경력에서 최고의 앱을 만들어보기 바랍니다. (근무 위치와 관계 없이 재택 근무 가능합니다.)
 
-## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
-Are you interested in building the best accommodation website used by millions of customers? Do you have solid experience developing with HTML/CSS/JS? Booking.com is looking for an experienced Front End Developer. Learn more about us [in this video.](http://goo.gl/qpOCYU)
+## [네덜란드 암스테르담의 Booking.com에서 근무할 프론트 엔드 개발자](http://www.booking.com/jobs.en-us.html?sid=6347b93357e576d55321f73612402f55;dcid=1;st=details;job_id=12341)
+수백만명의 고객이 이용하는 숙박 웹사이트를 만드는 일에 대한 흥미가 있나요? HTML/CSS/JS로 개발한 많은 경험이 있으신가요? Booking.com에서는 능숙한 프론트 엔드 개발자를 찾고 있습니다. Booking.com에 대한 자세한 정보를 [이 비디오](http://goo.gl/qpOCYU)에서 확인하세요.
 
-## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+## [JavaScript Weekly에 구인 광고를 올리세요](https://cooperpress.com/jobs)
 
 - - -
 # 마지막으로,
-## [Automate your release process](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20676)
-Get fast, repeatable deployments at your fingertips with Red Gate’s Deployment Manager. Ship your .NET apps, services, and databases in a single process, see the status of your environments on the shared dashboard, and manage all your deployments in one place. Get started now.
+## [배포 프로세스를 자동화 하세요](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20676)
+Red Gate의 배포 관리자를 사용하여 빠르고 반복적인 배포를 손쉽게 진행하세요. .NET 앱, 서비스, 데이터베이스를 한 번의 과정으로 전송하고 공유 대시보드에서 여러분 환경의 상태를 확인하고 한 곳에서 모든 배포를 관리하세요. 지금 바로 시작하세요.
