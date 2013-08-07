@@ -2,84 +2,82 @@
 
 - - -
 # 특집 기사
-## [8 JSConf US 2013 Videos Released](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
-Includes talks such as
-“[AI.js: Robots with Brains!](http://www.youtube.com/watch?v=NG31UChnNfc&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=8)” by Raquel Vèlez,
-“[JavaScript Masterclass](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)” by Angelina Fabbro and
-“[Lessons from the experimental edge of technology](http://www.youtube.com/watch?v=f_9nDBtSInI&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=1)” by Remy Sharp.
+## [JSConf US 2013 동영상 8개 릴리즈](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+Raquel Vèlez의 “[AI.js: 인공지능을 가진 로봇!](http://www.youtube.com/watch?v=NG31UChnNfc&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=8)”,
+Angelina Fabbro의 “[자바스크립트 마스터클래스](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)” 그리고
+Remy Sharp의 “[실험적인 최신 기술에서 배울점들](http://www.youtube.com/watch?v=f_9nDBtSInI&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=1)” 같은 이야기들을 포함한다.
 
-## [Writing a Command Line Utility using Node](http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/)
-Jonathan Fielding goes step by step through the process of building your own command line utility using Node.
+## [Node를 사용해 커맨드라인 유틸리티 작성하기](http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/)
+Jonathan Fielding이 Node를 사용해 커맨드라인 유틸리티를 직접 만드는 과정을 단계별로 보여준다.
 
-## [ECMAScript 6 Modules: The Future Is Now](http://www.2ality.com/2013/07/es6-modules.html)
-Explains how modules work in ECMAScript 6 (the next version of JavaScript), then describes tools that allow you to already use them now. 
+## [ECMAScript 6 모듈: 미래가 바로 지금이다](http://www.2ality.com/2013/07/es6-modules.html)
+ECMAScript 6(자바스크립트의 다음 버전)에서 모듈이 어떻게 동작하는지 설명하고, 지금 바로 사용할 수 있는 도구들에 대해 설명한다.
 
 - - -
 # 이벤트
-## [ng-conf 2014: The World's First Angular Conference](http://www.ng-conf.org/)
-Takes place in Salt Lake City, Utah over January 16-17, 2014. Currently they're just taking e-mail addresses of anyone who's interested in attending or speaking.
+## [ng-conf 2014: 세계에서 처음으로 열리는 Angular 컨퍼런스](http://www.ng-conf.org/)
+2014년 1월 16일부터 17일까지 유타주의 솔트레이크 시티(Salt Lake City, Utah)에서 열린다. 현재는 참석이나 발표에 관심이 있는 사람들의 이메일 주소만 받고 있다.
 
-## [jQuery Conference Austin: September 10–11 2013 - Austin, TX](http://events.jquery.org/2013/austin/)
-Bocoup is also doing a training Mon Sep. 9 before the conference. They are offering 50$ off tickets for JavaScript Weekly readers using the code *JSWKLY50*.
+## [jQuery 컨퍼런스 오스틴(Austin): 2013년 9월 10일–11일 - Austin, TX](http://events.jquery.org/2013/austin/)
+컨퍼런스 전 9월 9일에 Bocoup이 교육도 실시한다. Bocoup은 JavaScript Weekly 독자들에게 50달러 할인 티켓을 제공한다. 코드 *JSWKLY50* 를 사용하면 된다.
 
-## [The Great British Node Conference – London, 8th October 2013](http://greatbritishnodeconf.co.uk/)
+## [영국 Node 컨퍼런스 – 런던, 2013년 8월 8일](http://greatbritishnodeconf.co.uk/)
 
 - - -
 # 읽을 거리
-## [Creating a 3D Game with Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
-Nikhil Suresh presents a practical introduction to creating a 3D scene in the browser using WebGL through the popular Three.js library. He then adds some simple bat and ball gameplay.
+## [Three.js와 WebGL로 3D 게임 만들기](http://buildnewgames.com/webgl-threejs/)
+Nikhil Suresh는 인기있는 Three.js 라이브러리를 통해 WebGL을 사용하여 브라우저에서 3D 장면을 만들어내는 실용적인 소개를 전한다. 그리고나서 간단한 방망이와 공을 이용한 게임플레이를 추가한다.
 
-## [Checking in Front-End Dependencies](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
-Should you add the dependencies installed by your package manager to source control? This article by Addy Osmani walks though the options for Bower.
+## [프론트엔드 의존성 체크인하기](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
+패키지 매니저로 설치된 의존성들을 소스 컨트롤에 추가해야만 하는가? Addy Osmani가 작성한 이 글은 Bower를 위한 의존성 체크인에 대한 선택사항들을 훓어본다.
 
-## [Introduction To Photoshop Scripting [with JavaScript]](http://www.smashingmagazine.com/2013/07/25/introduction-to-photoshop-scripting/)
+## [자바스크립트로 하는 포토샵 스크립팅 소개](http://www.smashingmagazine.com/2013/07/25/introduction-to-photoshop-scripting/)
 
-## [Profile-Guided JavaScript Optimization](http://ariya.ofilabs.com/2013/07/profile-guided-javascript-optimization.html)
-Profile-guided optimization is a technique where a compiler uses test runs with representative input data to determine how to best compile a program.
-This blog post shows how to use that technique when manually optimizing JavaScript code.
+## [프로파일을 통한(Profile-Guided) 자바스크립트 최적화](http://ariya.ofilabs.com/2013/07/profile-guided-javascript-optimization.html)
+Profile-guided 최적화(PGO)는 컴파일러가 최선의 프로그램 컴파일방법을 결정하기 위해 대표 입력값으로 테스트 실행하는 기법이다. 이 블로그 포스트는 직접 자바스크립트 코드를 최적화할때 이 기법을 사용하는 방법을 보여준다.
 
-## [Creating Multi-Step Forms with jQuery and Promin](http://flippinawesome.org/2013/07/29/creating-multi-step-forms-with-jquery-and-promin/)
-Tim Severien shows how the Promin plugin for jQuery to easily create user-friendly multi-step forms.
+## [jQuery와 Promin으로 다단계 입력양식 만들기](http://flippinawesome.org/2013/07/29/creating-multi-step-forms-with-jquery-and-promin/)
+Tim Severien은 jQuery Promin 플러그인으로 사용자 친화적인 다단계 입력양식을 쉽게 만드는 방법을 설명한다.
 
-## [The Basics of Using ui-router with AngularJS](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
-URL routers keep the URL of a web app in sync with its user interface state. This blog post describes a new URL router for AngularJS.
+## [AngularJS로 ui-router를 사용하는 기본방법](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+URL 라우터는 웹 애플리케이션의 URL을 사용자 인터페이스의 상태와 동기화하여 유지시켜준다. 이 블로그 포스트는 AngularJS를 위한 새로운 URL 라우터에 대해 설명한다.
 
-## [Working with Shadow DOM](http://blog.teamtreehouse.com/working-with-shadow-dom)
-An introduction to Shadow DOM, one of the building blocks of [Web Components](http://www.w3.org/TR/components-intro/), the work-in-progress HTML5 standard for custom widgets.
+## [Shadow DOM 사용하기](http://blog.teamtreehouse.com/working-with-shadow-dom)
+사용자정의 위젯을 위한 현재 진행중인 HTML5 표준이자, [Web Components](http://www.w3.org/TR/components-intro/)의 구성 요소중 하나인, Shadow DOM에 대한 소개.
 
-## [AngularJS-backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
-For simple charts, you may not need a full-fledged SVG library, AngularJS’s built-in capabilities may be enough.
+## [AngularJS의 지원을 받는 SVGs](http://gaslight.co/blog/angular-backed-svgs)
+간단한 차트를 만들기위해, 완전히 성장한 SVG 라이브러리가 필요하지는 않다. AngularJS의 내장 기능으로도 충분할 수 있다.
 
-## [AngularJS Best Practices](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
-Stick to the canonical project directory structure, use dependency injection, etc.
+## [AngularJS 모범 사례](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
+표준 프로젝트 디렉토리 구조를 유지하고, 의존성 삽입(dependency injection)등을 사용하라.
 
-## [11 Resources to Get You Up to Speed in Ember.js](http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/)
+## [Ember.js의 모든 것을 파악할 수 있게 해줄 11가지 자료들](http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/)
 
-## [Using PhantomJS WebServer](http://benjaminbenben.com/2013/07/28/phantomjs-webserver/)
-With [PhantomJS](http://phantomjs.org/), you can let a real web browser (without a graphical user interface) evaluate pages (including JavaScript). This article shows how to write PhantomJS-based web apps that process evaluated pages and serve the results to clients. For example: the final HTML of dynamic web pages, screenshots, etc. Such web apps are easily deployed to Heroku.
+## [PhantomJS 웹서버 사용하기](http://benjaminbenben.com/2013/07/28/phantomjs-webserver/)
+[PhantomJS](http://phantomjs.org/)로, (GUI가 없는)진짜 웹브라우저가 (자바스크립트를 포함한)페이지를 평가하게 만들 수 있다. 이 기사는 페이지를 평가하고 클라이언트에 그 결과, 예를 들면, 동적인 웹페이지의 최종 HTML, 스크린샷, 등등을 서빙하는 PhantomJS기반 웹 애플리케이션을 만드는 방법을 보여준다. 이렇게 만든 웹 애플리케이션은 간단하게 Heroku에 배포할 수 있다.
 
-## [A Guide to Writing Backbone Apps At Coursera](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
-Best practices for how Coursera uses Backbone.
+## [Backbone 앱을 만들기 위한 가이드 @ Coursera](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
+Coursera가 Backbone을 사용하는 모범 사례
 
 ## [OOP is Not Your Hammer](http://html5hub.com/oop-is-not-your-hammer/)
 John Hann explains that (plain) Object-Oriented Programming (OOP) is not always the best solution and looks at two alternatives: events and Aspect-Oriented Programming (AOP).
 
-## [Handlebars.js: A Behind the Scenes Look](http://net.tutsplus.com/tutorials/javascript-ajax/handlebars-js-a-behind-the-scenes-look/)
+## [Handlebars.js: 내부동작 살펴보기](http://net.tutsplus.com/tutorials/javascript-ajax/handlebars-js-a-behind-the-scenes-look/)
 
-## [AngularJS in 60 Minutes [PDF]](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
-Dan Wahlin has transcribed [his talk](http://www.youtube.com/watch?v=i9MHigUZKEM) to a PDF file.
+## [60분만에 배우는 AngularJS [PDF]](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
+Dan Wahlin이 [자신의 발표자료](http://www.youtube.com/watch?v=i9MHigUZKEM)를 PDF 파일로도 변환하였다.
 
-## [Interview With Chris Williams](http://net.tutsplus.com/articles/interview-with-chris-williams/)
-Rey Bango interviews Chris Williams (founder and organizer of JSConf), with topics ranging from the history and goals of JSConf to robotics.
+## [Chris Williams와의 인터뷰](http://net.tutsplus.com/articles/interview-with-chris-williams/)
+Rey Bango는 Chris Williams(JSConf의 설립자이자 운영자)와 JSConf의 역사와 목표부터 로보틱스까지의 주제로 인터뷰했다.
 
-## [How Do I “Think in AngularJS” If I Have A jQuery Background?](http://stackoverflow.com/q/14994391/3951)
+## [jQuery를 사용해왔다면, 어떻게 "AngularJS의 방식으로 생각"할 수 있을까?](http://stackoverflow.com/q/14994391/3951)
 
 - - -
 # 동영상
-## [Tutorial: Writing A Native Windows 8.1 App in TypeScript](http://www.youtube.com/watch?v=mPljRj4IS3w)
-Uses AngularJS, Bootstrap and BankersBox.
+## [튜토리얼: TypeScript로 네이티브 윈도우즈 8.1 앱 작성하기](http://www.youtube.com/watch?v=mPljRj4IS3w)
+AngularJS, Bootstrap과 BankersBox를 사용한다.
 
-## [JavaScript Testing with Jasmine in 7 Minutes](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+## [7분만에 배우는 Jasmine을 이용한 자바스크립트 테스팅](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
 
 - - -
 # 코드와 라이브러리들
