@@ -95,20 +95,20 @@ Control how many promise-returning functions should be executed concurrently.
 ## [Grunt-Notify: Automatic Notifications When Grunt Tasks Fail](https://github.com/dylang/grunt-notify)
 Tired of continusously jumping back to the command line to see if and why grunt task fail such as JSHint? Add grunt-notify to your Gruntfile and it will provide automatic notifications in OS X, Windows, and Linux.
 
-## [Overload: Simple Way to Overload JavaScript Functions](https://github.com/mariusGundersen/Overload)
-A library to perform [multiple dispatch](http://en.wikipedia.org/wiki/Multiple_dispatch): When a given (generic) function is called, you can trigger one of several implementations, depending on the number and type of the arguments.
+## [Overload: 자바스크립트 함수를 오버로드하는 간단한 방법](https://github.com/mariusGundersen/Overload)
+[다중 디스패치](http://en.wikipedia.org/wiki/Multiple_dispatch)를 수행하는 라이브러리: 어떤 (제네릭) 함수가 호출될 때 인수의 숫자나 종류에 따라 다양한 구현 내용 중 하나를 실행시킬 수 있다.
 
-## [Handlebars-Helpers: An Extensive Library of 100+ Handlebars Helpers](https://github.com/assemble/handlebars-helpers)
+## [Handlebars-Helpers: 100개 이상의 다양한 핸들바 헬퍼 라이브러리](https://github.com/assemble/handlebars-helpers)
 
-## [Alert: Play Alert Sounds in The Browser](https://github.com/azer/alert)
+## [Alert: 브라우저에서 경고음 내기](https://github.com/azer/alert)
 
-## [Table-to-JSON: jQuery Plugin That Converts HTML Tables to JavaScript Objects](http://lightswitch05.github.io/table-to-json/)
+## [Table-to-JSON: HTML 테이블을 JavaScript 객체로 변환해주는 jQuery 플러그인](http://lightswitch05.github.io/table-to-json/)
 
-## [Bindr: Small JavaScript Dependency Injection Framework](http://jcreamer898.github.io/bindr/)
+## [Bindr: 작은 크기의 자바스크립트 의존성 주입 프레임워크](http://jcreamer898.github.io/bindr/)
 
-## [Transit: Smooth CSS Transitions and Transformations for jQuery](http://ricostacruz.com/jquery.transit/)
+## [Transit: jQuery와 함께 사용할 수 있는 부드러운 CSS 트랜지션과 트랜스포메이션](http://ricostacruz.com/jquery.transit/)
 
-## [iCheck: Super Customized Checkboxes and Radio Buttons for jQuery and Zepto](http://damirfoy.com/iCheck/)
+## [iCheck: jQuery와 Zepto에서 사용할 수 있으며 입맛에 맞게 수정할 수 있는 체크박스와 라디오 버튼](http://damirfoy.com/iCheck/)
 
 - - -
 # 일자리
