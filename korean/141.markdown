@@ -89,8 +89,6 @@ JSPM은 두 가지 요소로 구성됩니다. 첫 번째, JSPM 로더를 통해 
 ## [자바스크립트를 위한 NoFlo 비주얼 개발 환경](http://www.kickstarter.com/projects/noflo/noflo-development-environment)
 JavaScript Weekly에서는 지난 [issue 87](http://javascriptweekly.com/archive/87.html)에서 노드를 지원하는 흐름 기반의 프로그래밍도구인 [NoFlo](http://noflojs.org/)를 소개했습니다. NoFlo는 계속 발전하고 있습니다. 흐름 기반 프로그래밍 도구는 애플리케이션의 로직을 시각적인 그래프로 설계하는 방법입니다. 개발팀은 전체 기능을 갖춘 비주얼 개발 환경을 만들고자 킥스타터를 통해 돈을 모으고 있습니다. ([그들의 자세한 전망은 여기서 확인](http://javascriptweekly.com/archive/87.html)) 그들이 원하는 목표를 달성한다면 Objective C와 Java에 대한 지원도 추가될 것입니다.
 
-We linked to [NoFlo](http://noflojs.org/), a flow based programming tool for Node, back in [issue 87](http://javascriptweekly.com/archive/87.html) and it has continued to mature. Flow Based Programming is a paradigm where the logic of an application is designed in a visual graph and the team are now trying to raise money to build a full visual development environment on Kickstarter ([more perspective from the team](http://bergie.iki.fi/blog/noflo-kickstarter-launch/)). If they reach their stretch goals, they may cover Objective C and Java too.
-
 ## [throat: Promise-Returning 함수의 갯수를 제한합니다](https://github.com/ForbesLindesay/throat)
 동시에 실행되는 promise-returning 함수의 갯수를 관리합니다.
 
