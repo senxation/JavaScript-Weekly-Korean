@@ -2,7 +2,7 @@
 
 - - -
 # 특집 기사
-## [JSConf US 2013 동영상 8편 공개(http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+## [JSConf US 2013 동영상 8편 공개](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
 Raquel Vèlez의 “[AI.js: 인공지능을 가진 로봇!](http://www.youtube.com/watch?v=NG31UChnNfc&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=8)”,
 Angelina Fabbro의 “[자바스크립트 마스터클래스](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)” 그리고
 Remy Sharp의 “[실험적인 최신 기술에서 배울점들](http://www.youtube.com/watch?v=f_9nDBtSInI&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=1)” 같은 이야기들을 포함합니다.
