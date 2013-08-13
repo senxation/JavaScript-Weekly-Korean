@@ -1,0 +1,125 @@
+원문 : [http://javascriptweekly.com/archive/142.html]
+
+- - -
+# 특집 기사
+## [jQuery Boilerplate: jQuery 플러그인 개발에 시동걸기](http://jqueryboilerplate.com/)
+정확히 2년 전에 [39호](http://javascriptweekly.com/archive/39.html)에서 처음 언급한 jQuery Boilerplate 사이트가 새로 디자인되었습니다. boilerplate 코드는 계속해서 업데이트 되어왔고, 즐겨볼만한 새로운 유용한 자료들이 있습니다.
+
+## [Node.js 개발자를 위한 MongoDB 온라인 코스](https://education.10gen.com/courses/10gen/M101JS/2013_August/about)
+MongoDB 개발자들인 10gen은 8월 12일부터 시작하는 무료 온라인 코스를 운영하고 있습니다. 지금 바로 등록할 수 있습니다.
+
+## [많은 개발자들이 (제대로) 사용하지 않고 있는 7가지 자바스크립트 기본](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
+*String.prototype.replace* 와  */g*와 */i* 플래그. 그리고 유사배열 객체를 복사하기 위한 *Array.prototype.slice* 등등을 다룹니다.
+
+## [HTML로 이용가능한 최신 ECMAScript 6 스펙 초안](https://people.mozilla.com/~jorendorff/es6-draft.html)
+
+- - -
+# 읽을 거리
+## [Polymer 엘리먼트와 AngularJS 디렉티브의 차이점은 무엇인가?](http://stackoverflow.com/q/18089075/3951)
+스택 오버플로우에 올라온 질문으로, Polymer 팀원인 Eric Bidelman의 자세한 답변을 볼 수 있습니다.
+
+## [왜 Angular.js(와 Ember.js)가 최고인가?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
+Jesus Rodriguez가 작성한 “왜 Angular.js가 최고인가?”라는 글은 Angular.js 프레임워크에 대해 둘러보았습니다. Kerrick Long이 작성한 [응답글](https://kerricklong.com/articles/why-ember-js-rocks.html)은 Ember.js를 위한 동일한 목적의 글입니다.
+
+## [모바일 웹 성능에 대한 5가지 신화](http://www.sencha.com/blog/5-myths-about-mobile-web-performance/)
+웹 앱 성능 문제를 분석하는 상세한 기사로 자바스크립트는 보통 성능 병목이 아니며, 모바일 웹 브라우저는 여전히 최적화를 위한 공간이 남아있고, 가비지 컬렉션이 꼭 문제가 되는 것은 아니라는 등의 내용을 포함합니다.
+
+## [인터뷰: Yehuda Katz](http://webandphp.com/Interview%3AYehudaKatz-166083)
+인용구: “지난 10년 동안 두가지 가장 영향력있는 웹 프레임워크 [jQuery and Ember.js]의 코어 팀 멤버가 되는 것 말고도, Yehuda Katz는 또 다른 자랑할만한 이유를 가지고 있습니다. 그는 GitHub의 4번째 사용자였습니다."
+
+## [HTML, CSS, 자바스크립트로 하는 윈도우즈 스토어 앱 개발 미리보기 (두번째 에디션)](http://blogs.msdn.com/b/microsoft_press/archive/2013/06/26/first-preview-programming-windows-store-apps-with-html-css-and-javascript-second-edition.aspx)
+PDF 직접 다운로드 (첫번째 미리보기는 PDF로만 제공되지만, 마지막 릴리즈는 다른 형식으로도 제공될 것입니다.)
+
+## [당신의 타임존은 어디입니까?](http://trevoro.net/2013/whats-your-timezone/)
+날짜를 저장하고 표시하기위한 팁을 제공합니다. 날짜를 GMT로 저장하고 장치별 타임존 설정을 사용하여 자바스크립트를 통해 날짜를 표시합니다.
+
+## [Backbone.js 팁과 패턴](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
+
+## [JavaScript Promises](http://wildermuth.com/2013/8/3/JavaScript_Promises)
+jQuery와 AngularJS에서 구현한 방법을 통해 Promise 디자인 패턴(비동기 프로그래밍을 위한)을 소개합니다. 
+
+## [Ember.js 라우팅: 언제 그리고 왜 감싸기를 써야하는가](http://hashrocket.com/blog/posts/ember-routing-the-when-and-why-of-nesting)
+
+## [몇가지 AngularJS의 함정](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
+깜빡거리는 UI, jQuery 대 jqLite, 압축, 등등을 다룹니다.
+
+## [AngularJS로 애니메이션 적용하기](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+Holly Schinsky는 예제 앱을 통해 AngularJS의 내장 CSS3 트랜지션과 애니메이션 지원을 어떻게 사용하는지를 보여줍니다.
+
+## [아마존 앱 스토어가 웹 앱을 받아들이다](https://developer.amazon.com/sdk/webapps.html)
+아마존의 자바스크립트 API를 통해 인앱 구매를 구현할 수 있습니다. 자세한 내용은 [CNET 뉴스](http://news.cnet.com/8301-1035_3-57597386-94/amazon-adds-html5-web-app-support-for-kindle-fire-android/)와 [ZDNet](http://www.zdnet.com/amazon-to-accept-html5-apps-for-kindle-fire-7000019113/)를 참고하세요.
+
+## [자바스크립트 메타 스타일 가이드](http://www.2ality.com/2013/07/meta-style-guide.html)
+
+## [검색가능한 Ember.js 문서](http://ember-doc.com/)
+
+## [자바스크립트 암호화 방어하기](http://blog.meadhbh.org/2013/08/in-defense-of-javascript-cryptography.html)
+
+## [JSCover로 자바스크립트 테스트 커버리지 조사하기](http://tysoncadenhead.com/blog/javascript-test-coverage-with-jscoverage)
+
+## [JSHint: npm과 더 잘 통합하기](http://jshint.com/blog/2013-08-02/npm/)
+여러분은 이제 JSHint 옵션을 *package.json* 파일에 넣을 수 있습니다.
+
+## [Ember.js로 앱 만들기 (a Postmortem)](http://blog.embed.ly/post/56537323314/building-apps-with-ember-a-postmortem)
+소개와 모범 사례
+
+## [웹 워커 패턴](http://tech.pro/tutorial/1487/web-worker-patterns)
+
+## [키네틱 스크롤링 (in vanilla JavaScript): 1부](http://ariya.ofilabs.com/2013/08/javascript-kinetic-scrolling-part-1.html)
+
+## [Bower로 하는 클라이언트측 의존성 관리 (소개)](http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
+
+## [Promises: 소개와 관련자료](http://www.promisejs.org/)
+
+- - -
+# 동영상
+## [Gurnt와 Bower를 Polymer와 함께 사용하는 방법에 대한 Addy Osmani의 9분간의 자세한 설명](https://www.youtube.com/watch?v=EwQkyplZHDY)
+
+- - -
+# 코드와 라이브러리들
+## [scaleApp: Tiny Framework for Single Page Apps](http://www.scaleapp.org/)
+Has a decoupled, event-driven architecture that is inspired by Nicholas Zakas’ talk, “Scalable JavaScript Application Architecture”. Plugins (for DOM manipulation, MVC, internationalization, etc.) extend the small core.
+
+## [Cal-HeatMap: Calendar Heatmap Widget for Time Series Data](http://kamisama.github.io/cal-heatmap/)
+Depends on the D3.js data visualization library.
+
+## [TodoMVC 1.2](http://tastejs.roon.io/todomvc-1-2)
+A new release of Addy Osmani’s [TodoMVC](http://todomvc.com/) project, now under the umbrella of [TasteJS](http://tastejs.com/). Highlights: Bower integration; examples for additional frameworks (Polymer, Enyo, vanilla JavaScript, etc.), an “info bar” with resources for learning a framework.
+
+## [11 JavaScript Toolkits for Creating Charts and Graphs](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/)
+
+## [Conditioner.js: Library for Loading and Unloading Behavior Based On Environment Conditions](http://conditionerjs.com/)
+Based on RequireJS and AMD modules.
+
+## [Winston: Multi-Transport Async Logging Library for Node.js](https://github.com/flatiron/winston/)
+
+## [JointJS: JavaScript Diagramming Library](http://www.jointjs.com/)
+JointJS can be used to create either static diagrams or fully interactive diagramming tools and application builders. It is based on jQuery, Underscore, Backbone and SVG.
+
+## [Chartbuilder and Gneisschart: Easily Create Simple Beautiful Charts](https://github.com/Quartz/Chartbuilder/)
+A D3.js-based front-end charting application. Chartbuilder is the user and export interface. Gneisschart is the charting framework. Chartbuilder is not a replacement for Google Spreadsheet or a data analysis tool. Instead, it is the final step in charting: paste data, export an SVG or PNG file in a predefined style.
+
+## [Init.js: A Guide to The Why and How of Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
+A template for new projects, based on Backbone, Marionette, Node.js, Express, MongoDB and several tools (Grunt, Mocha, etc.).
+
+## [Arachnid: Enable Client-side Apps to Be Indexed by Search Engines](https://github.com/Clubjudge/arachnid)
+Arachnid is a PhantomJS-based server app that converts dynamically assembled web pages to static HTML. Your app only needs to redirect search bots to it.
+
+## [dblite: SQLite for Node.js Without gyp Problems](https://github.com/WebReflection/dblite)
+Allows you to use SQLite from Node.js without having to install it via node-gyp.
+
+- - -
+# 일자리
+## [Senior or Junior Engineer at View The Space (New York, NY)](http://www.viewthespace.com/jobs)
+View The Space is fast growing startup building a leasing platform for commercial real-estate brokers and we need your help.  Ideal candidates have experience with JavaScript, Rails, iOS, TDD or all of the above.
+
+## [Senior JavaScript/HTLM5 developer wanted for Appsmakerstore](http://www.appsmakerstore.com)
+With over 150k users worldwide using our platform to create mobile apps, we're looking for one more qualified senior JavaScript/HTML5 developer, supporting our backend Ruby guys. For more information, please contact [rudi.carlsen@appsmakerstore.com](mailto:rudi.carlsen@appsmakerstore.com)
+
+- - -
+# 마지막으로,
+## [DreamFactory - Open Source REST &amp; JSON Services for JavaScript Developers](http://www.dreamfactory.com/)
+The DreamFactory platform runs on any cloud. We provide REST APIs and services for SQL data, NoSQL data, BLOB storage, auth, user management, and external API access. Sign up at our website and see examples for AngularJS, jQuery, and Sencha Touch.
+
+## [Nodechecker: Testing Node Modules 24/7](http://npmt.abru.pt/)
+A web service that iterates over all npm packages and runs their tests. Includes a pie chart of how many have succeeded and failed, so far.
