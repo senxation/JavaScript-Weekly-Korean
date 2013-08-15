@@ -77,49 +77,49 @@ Holly Schinsky는 예제 앱을 통해 AngularJS의 내장 CSS3 트랜지션과 
 
 - - -
 # 코드와 라이브러리들
-## [scaleApp: Tiny Framework for Single Page Apps](http://www.scaleapp.org/)
-Has a decoupled, event-driven architecture that is inspired by Nicholas Zakas’ talk, “Scalable JavaScript Application Architecture”. Plugins (for DOM manipulation, MVC, internationalization, etc.) extend the small core.
+## [scaleApp: 단일 페이지 앱을 위한 아주 작은 프레임워크](http://www.scaleapp.org/)
+scaleApp은 Nicholas Zakas의 이야기 "확장가능한 자바스크립트 애플리케이션 아키텍쳐"에 영감을 받은 디커플된, 이벤트기반 아키텍쳐를 가집니다. 플러그인(DOM 조작, MVC, 다국어지원, 등)은 조그마한 코어를 확장합니다. 
 
-## [Cal-HeatMap: Calendar Heatmap Widget for Time Series Data](http://kamisama.github.io/cal-heatmap/)
-Depends on the D3.js data visualization library.
+## [Cal-HeatMap: 시간 연속 데이터를 위한 달력 히트맵 위젯](http://kamisama.github.io/cal-heatmap/)
+D3.js 시각화 라이브러리에 의존합니다.
 
 ## [TodoMVC 1.2](http://tastejs.roon.io/todomvc-1-2)
-A new release of Addy Osmani’s [TodoMVC](http://todomvc.com/) project, now under the umbrella of [TasteJS](http://tastejs.com/). Highlights: Bower integration; examples for additional frameworks (Polymer, Enyo, vanilla JavaScript, etc.), an “info bar” with resources for learning a framework.
+Addy Osmani의 [TodoMVC](http://todomvc.com/) 프로젝트의 새로운 릴리즈로, 이제 [TasteJS](http://tastejs.com/)의 산하에 있습니다. 주요 내역: Bower 통합; 추가적인 프레임워크를 위한 예제 (Polymer, Enyo, vanilla JavaScript, 등.)와 프레임워크를 배우기 위한 리소스를 보여주는 "정보 막대"
 
-## [11 JavaScript Toolkits for Creating Charts and Graphs](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/)
+## [차트와 그래프를 만들기 위한 11가지 자바스크립트 툴킷 \](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/)
 
-## [Conditioner.js: Library for Loading and Unloading Behavior Based On Environment Conditions](http://conditionerjs.com/)
-Based on RequireJS and AMD modules.
+## [Conditioner.js: 동작을 실행환경의 상태에 기반해 로딩하거나 언로딩하기 위한 라이브러리](http://conditionerjs.com/)
+RequireJS와 AMD 모듈에 기반합니다.
 
-## [Winston: Multi-Transport Async Logging Library for Node.js](https://github.com/flatiron/winston/)
+## [Winston: Node.js를 위한 다중-전송 비동기 로깅 라이브러리](https://github.com/flatiron/winston/)
 
-## [JointJS: JavaScript Diagramming Library](http://www.jointjs.com/)
-JointJS can be used to create either static diagrams or fully interactive diagramming tools and application builders. It is based on jQuery, Underscore, Backbone and SVG.
+## [JointJS: 자바스크립트 다이어그래밍 라이브러리](http://www.jointjs.com/)
+JointJS는 스태틱 다이어그램을 만드는데 사용할 수도 있고 완전히 인터렉티브한 다이어그램 툴이며 애플리케이션 빌더입니다. jQuery, Underscore, Backbone과 SVG에 기반합니다.
 
-## [Chartbuilder and Gneisschart: Easily Create Simple Beautiful Charts](https://github.com/Quartz/Chartbuilder/)
-A D3.js-based front-end charting application. Chartbuilder is the user and export interface. Gneisschart is the charting framework. Chartbuilder is not a replacement for Google Spreadsheet or a data analysis tool. Instead, it is the final step in charting: paste data, export an SVG or PNG file in a predefined style.
+## [Chartbuilder와 Gneisschart: 간단하고 아름다운 차트를 쉽게 만들기](https://github.com/Quartz/Chartbuilder/)
+D3.js기반 프론트엔드 차트 애플리케이션. Chartbuilder는 사용자와 export 인터페이스입니다. Gneisschart는 차트 프레임워크입니다. Chartbuilder는 구글 스프레드시트나 데이터 분석툴을 대체하지는 않습니다. 대신에, 차트를 만드는 마지막단계입니다. 데이터를 붙여넣거나 미리 지정된 스타일로 SVG나 PNG파일로 export합니다.
 
-## [Init.js: A Guide to The Why and How of Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
-A template for new projects, based on Backbone, Marionette, Node.js, Express, MongoDB and several tools (Grunt, Mocha, etc.).
+## [Init.js: 풀 스택 자바스크립트를 왜, 어떻게 해야하는지에 대한 가이드](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
+새로운 프로젝트를 위한 템플릿으로, Backbone, Marionette, Node.js, Express, MongoDB와 몇가지 도구(Grunt, Mocah, 등)에 기반합니다.
 
-## [Arachnid: Enable Client-side Apps to Be Indexed by Search Engines](https://github.com/Clubjudge/arachnid)
-Arachnid is a PhantomJS-based server app that converts dynamically assembled web pages to static HTML. Your app only needs to redirect search bots to it.
+## [Arachnid: 클라이언트사이드 앱을 검색 엔진에 인덱싱되게 하기](https://github.com/Clubjudge/arachnid)
+Arachnid는 PhantomJS기반 서버앱으로 동적으로 조립된 웹페이지를 정적인 HTML로 변환합니다. 검색 봇이 이곳으로 리바이렉트되도록 여러분의 앱을 변경하기만하면 됩니다.
 
-## [dblite: SQLite for Node.js Without gyp Problems](https://github.com/WebReflection/dblite)
-Allows you to use SQLite from Node.js without having to install it via node-gyp.
+## [dblite: gyp 문제 없는 Node.js를 위한 SQLite](https://github.com/WebReflection/dblite)
+node-gyp를 통해 설치할 필요없이 SQLite를 Node.js에서 사용할 수 있게 해줍니다.
 
 - - -
 # 일자리
-## [Senior or Junior Engineer at View The Space (New York, NY)](http://www.viewthespace.com/jobs)
-View The Space is fast growing startup building a leasing platform for commercial real-estate brokers and we need your help.  Ideal candidates have experience with JavaScript, Rails, iOS, TDD or all of the above.
+## [시니어 또는 주니어 엔지니어 @ View The Space (뉴욕, NY)](http://www.viewthespace.com/jobs)
+View The Space는 빠르게 성장하고 있는 스타트업으로 상업적인 부동산 브로커를 위한 임대 플랫폼을 만들고 있으며 당신의 도움이 필요합니다. 이상적인 후보로 자바스크립트와, Rails, iOS, TDD 또는 이 모든것에 대한 경험을 갖고 있으면 좋습니다.
 
-## [Senior JavaScript/HTLM5 developer wanted for Appsmakerstore](http://www.appsmakerstore.com)
-With over 150k users worldwide using our platform to create mobile apps, we're looking for one more qualified senior JavaScript/HTML5 developer, supporting our backend Ruby guys. For more information, please contact [rudi.carlsen@appsmakerstore.com](mailto:rudi.carlsen@appsmakerstore.com)
+## [시니어 자바스크립트/HTML5 개발자 @ Appsmakerstore](http://www.appsmakerstore.com)
+15만명 이상의 전세계 사용자가 모바일 앱을 만들기위해 우리의 플랫폼을 사용하고있고, 우리는 백엔드 Ruby 개발자를 도와줄 자격이 있는 시니어 자바스크립트/HTML5 개발자는 한명 더 찾고 있습니다. 자세한 정보는, 이메일 [rudi.carlsen@appsmakerstore.com](mailto:rudi.carlsen@appsmakerstore.com)로 연락 바랍니다.
 
 - - -
 # 마지막으로,
-## [DreamFactory - Open Source REST &amp; JSON Services for JavaScript Developers](http://www.dreamfactory.com/)
-The DreamFactory platform runs on any cloud. We provide REST APIs and services for SQL data, NoSQL data, BLOB storage, auth, user management, and external API access. Sign up at our website and see examples for AngularJS, jQuery, and Sencha Touch.
+## [DreamFactory - 자바스크립트를 위한 오픈 소스 REST & JSON 서비스](http://www.dreamfactory.com/)
+DreamFactory플랫폼은 어떤 클라우드에서도 동작합니다. REST API와 SQL 데이터, NoSQL 데이터, BLOB 스토리지, 인증, 사용자 관리, 그리고 외부 API접근 서비스를 제공합니다. 우리의 웹사이트에 가입하고 AngularJS, jQuery 그리고 Sencah Touch를 위한 예제를 살펴보세요.
 
-## [Nodechecker: Testing Node Modules 24/7](http://npmt.abru.pt/)
-A web service that iterates over all npm packages and runs their tests. Includes a pie chart of how many have succeeded and failed, so far.
+## [Nodechecker: 노드 모듈을 24/7으로 테스트하기](http://npmt.abru.pt/)
+모든 npm 패키지를 반복하여 테스트를 실행하는 웹서비스입니다. 현재까지는, 얼마나 성공하고 실패했는지를 보여주는 파이차트를 포함합니다.
