@@ -2,8 +2,8 @@
 
 - - -
 # 특집 기사
-## [jQuery Boilerplate: jQuery 플러그인 개발에 시동걸기](http://jqueryboilerplate.com/)
-정확히 2년 전에 [39호](http://javascriptweekly.com/archive/39.html)에서 처음 언급한 jQuery Boilerplate 사이트가 새로 디자인되었습니다. boilerplate 코드는 계속해서 업데이트 되어왔고, 즐겨볼만한 새로운 유용한 자료들이 있습니다.
+## [jQuery Boilerplate: jQuery 플러그인 개발에 시동걸어주기](http://jqueryboilerplate.com/)
+정확히 2년 전에 [39호](http://javascriptweekly.com/archive/39.html)에서 처음 언급한 jQuery Boilerplate 사이트가 새로 디자인되었습니다. boilerplate 코드는 계속해서 업데이트되어왔고, 즐겨볼만한 새로운 유용한 자료들이 있습니다.
 
 ## [Node.js 개발자를 위한 MongoDB 온라인 코스](https://education.10gen.com/courses/10gen/M101JS/2013_August/about)
 MongoDB 개발자들인 10gen은 8월 12일부터 시작하는 무료 온라인 코스를 운영하고 있습니다. 지금 바로 등록할 수 있습니다.
@@ -11,7 +11,7 @@ MongoDB 개발자들인 10gen은 8월 12일부터 시작하는 무료 온라인 
 ## [많은 개발자들이 (제대로) 사용하지 않고 있는 7가지 자바스크립트 기본](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
 *String.prototype.replace* 와  */g*와 */i* 플래그. 그리고 유사배열 객체를 복사하기 위한 *Array.prototype.slice* 등등을 다룹니다.
 
-## [HTML로 이용가능한 최신 ECMAScript 6 스펙 초안](https://people.mozilla.com/~jorendorff/es6-draft.html)
+## [HTML로 제공되는 최신 ECMAScript 6 명세서 초안](https://people.mozilla.com/~jorendorff/es6-draft.html)
 
 - - -
 # 읽을 거리
@@ -19,7 +19,7 @@ MongoDB 개발자들인 10gen은 8월 12일부터 시작하는 무료 온라인 
 스택 오버플로우에 올라온 질문으로, Polymer 팀원인 Eric Bidelman의 자세한 답변을 볼 수 있습니다.
 
 ## [왜 Angular.js(와 Ember.js)가 최고인가?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
-Jesus Rodriguez가 작성한 “왜 Angular.js가 최고인가?”라는 글은 Angular.js 프레임워크에 대해 둘러보았습니다. Kerrick Long이 작성한 [응답글](https://kerricklong.com/articles/why-ember-js-rocks.html)은 Ember.js를 위한 동일한 목적의 글입니다.
+Jesus Rodriguez가 작성한 “왜 Angular.js가 최고인가?”라는 글은 Angular.js 프레임워크에 대해 둘러 보았습니다. Kerrick Long이 작성한 [응답글](https://kerricklong.com/articles/why-ember-js-rocks.html)은 Ember.js를 위한 동일한 목적의 글입니다.
 
 ## [모바일 웹 성능에 대한 5가지 신화](http://www.sencha.com/blog/5-myths-about-mobile-web-performance/)
 웹 앱 성능 문제를 분석하는 상세한 기사로 자바스크립트는 보통 성능 병목이 아니며, 모바일 웹 브라우저는 여전히 최적화를 위한 공간이 남아있고, 가비지 컬렉션이 꼭 문제가 되는 것은 아니라는 등의 내용을 포함합니다.
@@ -31,23 +31,23 @@ Jesus Rodriguez가 작성한 “왜 Angular.js가 최고인가?”라는 글은 
 PDF 직접 다운로드 (첫번째 미리보기는 PDF로만 제공되지만, 마지막 릴리즈는 다른 형식으로도 제공될 것입니다.)
 
 ## [당신의 타임존은 어디입니까?](http://trevoro.net/2013/whats-your-timezone/)
-날짜를 저장하고 표시하기위한 팁을 제공합니다. 날짜를 GMT로 저장하고 장치별 타임존 설정을 사용하여 자바스크립트를 통해 날짜를 표시합니다.
+날짜를 저장하고 표시하기 위한 팁을 제공합니다. 날짜를 GMT로 저장하고 장치별 타임존 설정을 사용하여 자바스크립트를 통해 날짜를 표시합니다.
 
 ## [Backbone.js 팁과 패턴](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
 
-## [JavaScript Promises](http://wildermuth.com/2013/8/3/JavaScript_Promises)
+## [자바스크립트 Promise](http://wildermuth.com/2013/8/3/JavaScript_Promises)
 jQuery와 AngularJS에서 구현한 방법을 통해 Promise 디자인 패턴(비동기 프로그래밍을 위한)을 소개합니다. 
 
 ## [Ember.js 라우팅: 언제 그리고 왜 감싸기를 써야하는가](http://hashrocket.com/blog/posts/ember-routing-the-when-and-why-of-nesting)
 
 ## [몇가지 AngularJS의 함정](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
-깜빡거리는 UI, jQuery 대 jqLite, 압축, 등등을 다룹니다.
+깜빡거리는 UI, jQuery 대 jqLite, 압축 등등을 다룹니다.
 
 ## [AngularJS로 애니메이션 적용하기](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 Holly Schinsky는 예제 앱을 통해 AngularJS의 내장 CSS3 트랜지션과 애니메이션 지원을 어떻게 사용하는지를 보여줍니다.
 
 ## [아마존 앱 스토어가 웹 앱을 받아들이다](https://developer.amazon.com/sdk/webapps.html)
-아마존의 자바스크립트 API를 통해 인앱 구매를 구현할 수 있습니다. 자세한 내용은 [CNET 뉴스](http://news.cnet.com/8301-1035_3-57597386-94/amazon-adds-html5-web-app-support-for-kindle-fire-android/)와 [ZDNet](http://www.zdnet.com/amazon-to-accept-html5-apps-for-kindle-fire-7000019113/)를 참고하세요.
+아마존의 자바스크립트 API를 통해 앱내 구매를 구현할 수 있습니다. 자세한 내용은 [CNET 뉴스](http://news.cnet.com/8301-1035_3-57597386-94/amazon-adds-html5-web-app-support-for-kindle-fire-android/)와 [ZDNet](http://www.zdnet.com/amazon-to-accept-html5-apps-for-kindle-fire-7000019113/)을 참고하세요.
 
 ## [자바스크립트 메타 스타일 가이드](http://www.2ality.com/2013/07/meta-style-guide.html)
 
@@ -73,7 +73,7 @@ Holly Schinsky는 예제 앱을 통해 AngularJS의 내장 CSS3 트랜지션과 
 
 - - -
 # 동영상
-## [Gurnt와 Bower를 Polymer와 함께 사용하는 방법에 대한 Addy Osmani의 9분간의 자세한 설명](https://www.youtube.com/watch?v=EwQkyplZHDY)
+## [Grunt와 Bower를 Polymer와 함께 사용하는 방법에 대한 Addy Osmani의 9분간의 자세한 설명](https://www.youtube.com/watch?v=EwQkyplZHDY)
 
 - - -
 # 코드와 라이브러리들
@@ -86,21 +86,21 @@ D3.js 시각화 라이브러리에 의존합니다.
 ## [TodoMVC 1.2](http://tastejs.roon.io/todomvc-1-2)
 Addy Osmani의 [TodoMVC](http://todomvc.com/) 프로젝트의 새로운 릴리즈로, 이제 [TasteJS](http://tastejs.com/)의 산하에 있습니다. 주요 내역: Bower 통합; 추가적인 프레임워크를 위한 예제 (Polymer, Enyo, vanilla JavaScript, 등.)와 프레임워크를 배우기 위한 리소스를 보여주는 "정보 막대"
 
-## [차트와 그래프를 만들기 위한 11가지 자바스크립트 툴킷 \](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/)
+## [차트와 그래프를 만들기 위한 11가지 자바스크립트 툴킷](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/)
 
 ## [Conditioner.js: 동작을 실행환경의 상태에 기반해 로딩하거나 언로딩하기 위한 라이브러리](http://conditionerjs.com/)
 RequireJS와 AMD 모듈에 기반합니다.
 
 ## [Winston: Node.js를 위한 다중-전송 비동기 로깅 라이브러리](https://github.com/flatiron/winston/)
 
-## [JointJS: 자바스크립트 다이어그래밍 라이브러리](http://www.jointjs.com/)
+## [JointJS: 자바스크립트 다이어그램 라이브러리](http://www.jointjs.com/)
 JointJS는 스태틱 다이어그램을 만드는데 사용할 수도 있고 완전히 인터렉티브한 다이어그램 툴이며 애플리케이션 빌더입니다. jQuery, Underscore, Backbone과 SVG에 기반합니다.
 
 ## [Chartbuilder와 Gneisschart: 간단하고 아름다운 차트를 쉽게 만들기](https://github.com/Quartz/Chartbuilder/)
-D3.js기반 프론트엔드 차트 애플리케이션. Chartbuilder는 사용자와 export 인터페이스입니다. Gneisschart는 차트 프레임워크입니다. Chartbuilder는 구글 스프레드시트나 데이터 분석툴을 대체하지는 않습니다. 대신에, 차트를 만드는 마지막단계입니다. 데이터를 붙여넣거나 미리 지정된 스타일로 SVG나 PNG파일로 export합니다.
+D3.js기반 프론트엔드 차트 애플리케이션으로 Chartbuilder는 사용자와 export 인터페이스이고 Gneisschart는 차트 프레임워크입니다. Chartbuilder는 구글 스프레드시트나 데이터 분석툴을 대체하지는 않습니다. 대신에, 차트를 만드는 마지막단계로 데이터를 붙여넣거나 미리 지정된 스타일을 적용하여 SVG나 PNG파일형식으로 export합니다.
 
 ## [Init.js: 풀 스택 자바스크립트를 왜, 어떻게 해야하는지에 대한 가이드](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
-새로운 프로젝트를 위한 템플릿으로, Backbone, Marionette, Node.js, Express, MongoDB와 몇가지 도구(Grunt, Mocah, 등)에 기반합니다.
+새로운 프로젝트를 위한 템플릿으로, Backbone, Marionette, Node.js, Express, MongoDB와 몇가지 도구(Grunt, Mocha 등)에 기반합니다.
 
 ## [Arachnid: 클라이언트사이드 앱을 검색 엔진에 인덱싱되게 하기](https://github.com/Clubjudge/arachnid)
 Arachnid는 PhantomJS기반 서버앱으로 동적으로 조립된 웹페이지를 정적인 HTML로 변환합니다. 검색 봇이 이곳으로 리바이렉트되도록 여러분의 앱을 변경하기만하면 됩니다.
@@ -114,12 +114,12 @@ node-gyp를 통해 설치할 필요없이 SQLite를 Node.js에서 사용할 수 
 View The Space는 빠르게 성장하고 있는 스타트업으로 상업적인 부동산 브로커를 위한 임대 플랫폼을 만들고 있으며 당신의 도움이 필요합니다. 이상적인 후보로 자바스크립트와, Rails, iOS, TDD 또는 이 모든것에 대한 경험을 갖고 있으면 좋습니다.
 
 ## [시니어 자바스크립트/HTML5 개발자 @ Appsmakerstore](http://www.appsmakerstore.com)
-15만명 이상의 전세계 사용자가 모바일 앱을 만들기위해 우리의 플랫폼을 사용하고있고, 우리는 백엔드 Ruby 개발자를 도와줄 자격이 있는 시니어 자바스크립트/HTML5 개발자는 한명 더 찾고 있습니다. 자세한 정보는, 이메일 [rudi.carlsen@appsmakerstore.com](mailto:rudi.carlsen@appsmakerstore.com)로 연락 바랍니다.
+15만명 이상의 전세계 사용자가 모바일 앱을 만들기위해 우리의 플랫폼을 사용하고 있고, 우리는 백엔드 Ruby 개발자를 도와줄 자격이 있는 시니어 자바스크립트/HTML5 개발자를 한명 더 찾고 있습니다. 자세한 정보는, 이메일 [rudi.carlsen@appsmakerstore.com](mailto:rudi.carlsen@appsmakerstore.com)로 연락 바랍니다.
 
 - - -
 # 마지막으로,
 ## [DreamFactory - 자바스크립트를 위한 오픈 소스 REST & JSON 서비스](http://www.dreamfactory.com/)
-DreamFactory플랫폼은 어떤 클라우드에서도 동작합니다. REST API와 SQL 데이터, NoSQL 데이터, BLOB 스토리지, 인증, 사용자 관리, 그리고 외부 API접근 서비스를 제공합니다. 우리의 웹사이트에 가입하고 AngularJS, jQuery 그리고 Sencah Touch를 위한 예제를 살펴보세요.
+DreamFactory플랫폼은 어떤 클라우드에서도 동작합니다. REST API와 SQL 데이터, NoSQL 데이터, BLOB 스토리지, 인증, 사용자 관리, 그리고 외부 API접근 서비스를 제공합니다. 웹사이트에 가입하고 AngularJS, jQuery 그리고 Sencah Touch를 위한 예제를 살펴보세요.
 
 ## [Nodechecker: 노드 모듈을 24/7으로 테스트하기](http://npmt.abru.pt/)
 모든 npm 패키지를 반복하여 테스트를 실행하는 웹서비스입니다. 현재까지는, 얼마나 성공하고 실패했는지를 보여주는 파이차트를 포함합니다.
