@@ -1,0 +1,119 @@
+원문 : [http://javascriptweekly.com/archive/143.html]
+
+- - -
+# 특집 기사
+## [BackboneConf 2013 Videos Are Online](http://backboneconf.com/)
+14 videos of the BackBoneConf 2013 (Jul 31–Aug 1 in Boston, MA) talks are now online: a keynote by Jeremy Ashkenas; “Beyond jQuery Widgets: JS UI Library Design” by Pamela Fox; “Backbone at Disqus: a Postmortem” by Ben Vinegar; etc.
+
+## [The Future of Programming in Node.js](https://groups.google.com/d/msg/nodejs/9afurRCTlOc/JKVo0ThFZIsJ)
+Quoting Node.js gatekeeper Isaac Schlueter: “There’s been a lot of debates, theories, and requests about Node’s core API patterns on this list lately.  I’d like to clarify the actual plans of the project on these points.”
+
+## [js13kGames HTML5 Game Development Competition Launches](http://js13kgames.com/)
+Js13kGames is a JavaScript coding competition for HTML5 game developers. It has just begun and ends on September 13. Take part - there are many prizes.
+
+- - -
+# 스폰서기사
+## [Frontend Masters: LIVE Free Evening of JavaScript Error Handling and Node.JS Walkthrough](http://eveningof.eventbrite.com/)
+Grab your favorite beverage and come learn with us online *this* Sunday evening (August 18th) with two great speakers on JavaScript error handling and Node.JS.*Join us LIVE this Sunday 6:00PM - 6:30PM CST... totally free.*
+
+- - -
+# 읽을 거리
+## [Toward Modern Web Apps with ECMAScript 6](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/)
+Ariya Hidayat gives an overview of ECMAScript 6 (ES6). More material on ES6 this week: “[Callable entities in ECMAScript 6](http://www.2ality.com/2013/08/es6-callables.html)” by Axel Rauschmayer, “[Now in Firefox Aurora and Nightly: binary and octal numbers](http://whereswalden.com/2013/08/12/micro-feature-from-es6-now-in-firefox-aurora-and-nightly-binary-and-octal-numbers/)” by Jeff Walden.
+
+## [Why JavaScript Will Become The Dominant Programming Language Of The Enterprise](http://readwrite.com/2013/08/09/why-javascript-will-become-the-dominant-programming-language-of-the-enterprise)
+Considers three factors: “mobility &amp; client-side development”; “cloud &amp; server-side development”; and “resources &amp; skill sets”.
+
+## [Introduction to Aspect Oriented Programming (AOP)](http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming)
+AOP is a technique for non-invasively adding behavior to functions and methods. This blog post explains how it works and compares it to alternative approaches (such as using inheritance).
+
+## [Introduction to Animating in HTML](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
+Krasimir Tsonev details the various techniques for animating in HTML including JavaScript, CSS and the Animate.CSS library.
+
+## [The “Development Drawbacks” of JavaScript Web Applications](http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/)
+Client-side JavaScript has often been criticized by people who prefer server-side development. This article answers some of the criticism.
+
+## [Custom Audio Effects in JavaScript with The Web Audio API](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
+
+##[How to Implement A Procedural City in 100 Lines with WebGL](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
+
+## [Reducing Filter and Map Down to Reduce](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
+Elijah Manor explains how to use the array method *reduce()* to implement the equivalent of applying *filter()* and *map()* to an array.
+
+## ['Web Audio API' by Boris Smus](http://chimera.labs.oreilly.com/books/1234000001552)
+Free to read online.
+
+## [Reactive JavaScript](http://dailyjs.com/2013/08/08/reactive/)
+Reactive programming is a programming paradigm based on the flow of data and the propagation of change. This post briefly explains the paradigm and how to program in it via JavaScript libraries.
+
+## [Communication and Message-Passing in Polymer](http://www.polymer-project.org/articles/communication.html)
+Eric Bidelman outlines several techniques for sending information between DOM elements in Google’s [Polymer](http://www.polymer-project.org/) framework. Most of these techniques are not specific to Polymer, they’re standard ways to make elements interact with each other. 
+
+## [How To Unit Test An Angular App](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
+
+## [Using RequireJS to Inject Add-Ons and Plugins Into Non-AMD Libraries](http://lostechies.com/derickbailey/2013/08/09/inject-add-ons-and-plugins-with-requirejs-non-amd-libraries-and-shims/)
+
+## [Rolling Releases: How Apache Cordova Becomes PhoneGap and Why](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/)
+
+- - -
+# 동영상
+## [A Web Performance Crash Course with Ilya Grigorik](http://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
+A series of 4 videos, running a total of almost 3 hours. Covers network bottlenecks; the document parsing and evaluation pipeline; visual layout; JavaScript; and more.
+
+## [Arguing for A New Genre: “JavaScript Journalism”](http://www.niemanlab.org/2013/07/arguing-for-a-new-genre-javascript-journalism/)
+Photojournalism became a new field of journalism as some people got proficient in photography. The Washington Post’s Ray Daly argues that proficiency in JavaScript will also create a new field.
+
+## [How to Develop Apps for Firefox OS](http://www.belenalbeza.com/2013/07/how-to-develop-apps-for-firefox-os/)
+Explains how to deploy a Firefox OS app, write tests, use Gaia’s Building Blocks, etc. Includes a 16 min screencast.
+
+- - -
+# 코드와 라이브러리들
+## [Ember 1.0 RC7 Released](http://emberjs.com/blog/2013/08/14/ember-1-0-rc7.html)
+
+## [AngularJS 1.2.0-rc1: spooky-giraffe](http://blog.angularjs.org/2013/08/angularjs-120-rc1-spooky-giraffe.html)
+
+## [Tessel: Internet-Connected Microcontroller Programmable Via JavaScript](http://technical.io/)
+You can deploy JavaScript code over USB or remotely by WiFi. The device supports npm packages, giving you support for HTTP, web serving, Twitter and more.
+
+## [Steps: Step Through JavaScript Code](https://github.com/jlongster/steps)
+Rewrites JavaScript code to generators that yield after each expression. The result can be run in a relatively simple virtual machine, allowing you to observe the execution. Use case: teaching. Depends on Firefox’s (non-ES6) generators, but has been [ported](http://www.thecssninja.com/javascript/generators) to ES6 generators (as supported by Chrome Canary).
+
+## [HTML(.js) – Befriend The DOM!](http://nbubna.github.io/HTML/)
+An library for DOM traversal and manipulation with a novel API design. The [F.A.Q.](http://nbubna.github.io/HTML/#FAQ) answers the important question “Isn’t extending the DOM a bad idea?”.
+
+## [Ultrasonic Networking On The Web](http://smus.com/ultrasonic-networking/)
+Boris Smus built [sonicnet.js](https://github.com/borismus/sonicnet.js), a library that uses audio to transmit data between two devices (via the Web Audio API).
+
+## [botdylan: Automate Github Processes Via JavaScript](https://github.com/botdylan/botdylan)
+
+## [A Simple Visualisation of SourceMaps](https://github.com/sokra/source-map-visualization)
+Color-codes how the original source and the generated JavaScript are related. A [demo](http://sokra.github.io/source-map-visualization/) shows how it works.
+
+## [node-validator: String Validation and Sanitization in JavaScript](https://github.com/chriso/node-validator)
+
+## [jquery-tiny-pubsub: Tiny pub/sub Implementation for jQuery](https://github.com/cowboy/jquery-tiny-pubsub)
+
+## [Harp: Web Server with Built-in Pre-processing](http://harpjs.com/)
+Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS &amp; JavaScript – no configuration necessary. Can optionally only be used for development and helps with deploying to various platforms (Heroku, GitHub, Amazon S3, PhoneGap Build, etc.).
+
+## [Plasmid: Browser Storage with Multi-Device Synchronization](http://plasmidhq.github.io/plasmid/)
+
+## [jQuery Tag-It: Tag Editing Widget with Autocomplete Support](http://aehlke.github.io/tag-it/)
+
+## [Ground JavaScript Framework](http://gnd.io/)
+Based on TypeScript and Node.js (server-side functionality). Features: URL routing, models that can be used on client and server, data-binding, client-server synchronization, offline support, etc.
+
+- - -
+# 일자리
+## [Senior Javascript Developer at Uber](https://www.uber.com/jobs/oYgxWfwr)
+Uber is looking for Sr Engineers who are passionate about Javascript.  Do you breath backbone?  Dream of node? Come join our team and help us tackle the challenges of disrupting transportation.  We are in 40 cities and are moving real assets around the world.
+
+## [JavaScript Developer at Avid Life Media (Toronto, Canada)](http://www.avidlifemedia.com/careers.html)
+Do you get a little too excited by JS? Do you like your code DRY as British humour? Our mobile team is looking to expand its developer posse to include another passionate JS coder with experience building single-page apps. See the job desc. for more details. 
+
+## [Senior or Junior Engineer at View The Space (New York, NY)](http://www.viewthespace.com/jobs)
+
+- - -
+# 마지막으로,
+## [DreamFactory - Open Source REST &amp; JSON Services for JavaScript Developers](http://www.dreamfactory.com/)
+The DreamFactory platform runs on any cloud. We provide REST APIs and services for SQL data, NoSQL data, BLOB storage, auth, user management, and external API access. Sign up at our website and see examples for AngularJS, jQuery, and Sencha Touch.
