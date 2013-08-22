@@ -2,49 +2,50 @@
 
 - - -
 # 특집 기사
-## [BackboneConf 2013 Videos Are Online](http://backboneconf.com/)
-14 videos of the BackBoneConf 2013 (Jul 31–Aug 1 in Boston, MA) talks are now online: a keynote by Jeremy Ashkenas; “Beyond jQuery Widgets: JS UI Library Design” by Pamela Fox; “Backbone at Disqus: a Postmortem” by Ben Vinegar; etc.
+## [BackboneConf 2013 동영상이 온라인으로 제공됩니다](http://backboneconf.com/)
+BackBoneConf 2013 (7월 31일부터 8월 1일까지 보스톤, 메사추세츠)의 14개 연설 동영상이 온라인으로 제공되고 있습니다. Jeremy Ashkenas의 키노트, Pamela Fox의 "jQuery 위젯을 넘어서: JS UI 라이브러리 설계", Ben Vinegar의 "Disqus에서 사용한 Backbone: 포스트모텀" 등을 제공합니다.
 
-## [The Future of Programming in Node.js](https://groups.google.com/d/msg/nodejs/9afurRCTlOc/JKVo0ThFZIsJ)
-Quoting Node.js gatekeeper Isaac Schlueter: “There’s been a lot of debates, theories, and requests about Node’s core API patterns on this list lately.  I’d like to clarify the actual plans of the project on these points.”
+## [Node.js 프로그래밍의 미래](https://groups.google.com/d/msg/nodejs/9afurRCTlOc/JKVo0ThFZIsJ)
+Node.js의 문지기 Isaac Schlueter의 말을 인용하면 이렇습니다. "최근까지 있어온 Node.js의 코어 API 패턴에 대한 수 많은 논쟁과 이론, 그리고 요청이 이 목록에 있습니다. 이런 점에 대한 Node.js 프로젝트의 실제 계획을 명확히하고 싶습니다."
 
-## [js13kGames HTML5 Game Development Competition Launches](http://js13kgames.com/)
-Js13kGames is a JavaScript coding competition for HTML5 game developers. It has just begun and ends on September 13. Take part - there are many prizes.
+## [js13kGames HTML5 게임 개발 대회 시작](http://js13kgames.com/)
+Js13kGames는 HTML5 게임 개발자를 위한 자바스크립트 코딩 대회입니다. 이미 시작되었으며 9월 13일에 종료됩니다. 다양한 상품이 걸려있으니 참여하세요.
 
 - - -
 # 스폰서기사
-## [Frontend Masters: LIVE Free Evening of JavaScript Error Handling and Node.JS Walkthrough](http://eveningof.eventbrite.com/)
-Grab your favorite beverage and come learn with us online *this* Sunday evening (August 18th) with two great speakers on JavaScript error handling and Node.JS.*Join us LIVE this Sunday 6:00PM - 6:30PM CST... totally free.*
+## [프론트엔드 마스터즈: 라이브 무료 강의 - 자바스크립트 오류 처리와 Node.JS 훓어보기](http://eveningof.eventbrite.com/)
+좋아하는 음료수를 하나 사들고서 *이번 주* 일요일 저녁(8월 18일)에 있을 온라인 강의에 참석하세요. 두 명의 훌륭한 연사가 자바스크립트 오류 처리와 Node.JS에 대해 강연합니다. *이번주 일요일 6:00PM - 6:30PM CST에 라이브에 참석하세요… 완전히 무료입니다.*
 
 - - -
 # 읽을 거리
-## [Toward Modern Web Apps with ECMAScript 6](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/)
-Ariya Hidayat gives an overview of ECMAScript 6 (ES6). More material on ES6 this week: “[Callable entities in ECMAScript 6](http://www.2ality.com/2013/08/es6-callables.html)” by Axel Rauschmayer, “[Now in Firefox Aurora and Nightly: binary and octal numbers](http://whereswalden.com/2013/08/12/micro-feature-from-es6-now-in-firefox-aurora-and-nightly-binary-and-octal-numbers/)” by Jeff Walden.
+## [ECMAScript 6와 함께 최신 웹 앱을 향해](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/)
+Ariya Hidayat이 ECMAScript 6 (ES6)의 개요에 대해 설명합니다. 이번주 ES6의 더 많은 자료들은 다음과 같습니다:
+Axel Rauschmayer의 “[ECMAScript 6에서 호출가능한 엔티티들](http://www.2ality.com/2013/08/es6-callables.html)”, Jeff Walden의 “[Firefox Aurora:2진, 8진 숫자지원](http://whereswalden.com/2013/08/12/micro-feature-from-es6-now-in-firefox-aurora-and-nightly-binary-and-octal-numbers/)”.
 
-## [Why JavaScript Will Become The Dominant Programming Language Of The Enterprise](http://readwrite.com/2013/08/09/why-javascript-will-become-the-dominant-programming-language-of-the-enterprise)
-Considers three factors: “mobility &amp; client-side development”; “cloud &amp; server-side development”; and “resources &amp; skill sets”.
+## [자바스크립트가 엔터프라이즈의 지배적인 프로그래밍 언어가 될 이유](http://readwrite.com/2013/08/09/why-javascript-will-become-the-dominant-programming-language-of-the-enterprise)
+3가지 요인들에 대해 고려합니다. "유동성 & 클라이언트측 개발"; "클라우드 & 서버측 개발"; 그리고 "리소스 & 스킬 셋".
 
-## [Introduction to Aspect Oriented Programming (AOP)](http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming)
-AOP is a technique for non-invasively adding behavior to functions and methods. This blog post explains how it works and compares it to alternative approaches (such as using inheritance).
+## [관점 지향 프로그래밍(AOP) 소개](http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming)
+AOP는 큰 변화 없이 함수와 메서드에 동작방식을 추가하는 기법입니다. 이 블로그 포스트는 AOP가 어떻게 동작하는지 설명하고 대체제들의 접근방법(상속을 사용하는것 같은)과 대조합니다.
 
-## [Introduction to Animating in HTML](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
-Krasimir Tsonev details the various techniques for animating in HTML including JavaScript, CSS and the Animate.CSS library.
+## [HTML에서 애니메이션 적용방법 소개](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
+Krasimir Tsonev는 HTML에서 자바스크립트, CSS와 Animate.CSS 라이브러리를 포함한, 애니메이션을 구현하기 위한 여러가지 기법들을 자세하게 다룹니다.
 
-## [The “Development Drawbacks” of JavaScript Web Applications](http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/)
-Client-side JavaScript has often been criticized by people who prefer server-side development. This article answers some of the criticism.
+## [자바스크립트 웹 앱의 “개발 문제점”](http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/)
+클라이언트측 자바스크립트는 흔히 서버측 개발을 선호하는 사람들에게 비판을 받곤 합니다. 이 글은 이런 몇가지 비판들에 대한 대답을 보여줍니다.
 
-## [Custom Audio Effects in JavaScript with The Web Audio API](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
+## [Web Audio API를 사용한 자바스크립트의 커스텀 오디오 효과](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
 
-##[How to Implement A Procedural City in 100 Lines with WebGL](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
+## [WebGL로 절차적 도시를 100줄만으로 구현하는 방법](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
 
-## [Reducing Filter and Map Down to Reduce](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
-Elijah Manor explains how to use the array method *reduce()* to implement the equivalent of applying *filter()* and *map()* to an array.
+## [filter와 map을 reduce로 줄이기](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
+Elijah Manor는 배열의 메서드 *reduce()*를 사용하여 배열에 *filter()*와 *map()*를 적용하는 것과 동일하게 구현하는 방법을 설명합니다.
 
-## ['Web Audio API' by Boris Smus](http://chimera.labs.oreilly.com/books/1234000001552)
-Free to read online.
+## [Boris Smus의 'Web Audio API'](http://chimera.labs.oreilly.com/books/1234000001552)
+온라인으로 무료로 읽을 수 있습니다.
 
-## [Reactive JavaScript](http://dailyjs.com/2013/08/08/reactive/)
-Reactive programming is a programming paradigm based on the flow of data and the propagation of change. This post briefly explains the paradigm and how to program in it via JavaScript libraries.
+## [반응하는 자바스크립트](http://dailyjs.com/2013/08/08/reactive/)
+반응하는 프로그래밍은 데이터의 흐름과 변화의 전파에 기반한 프로그래밍 패러다임입니다. 이 글은 이에 대해 간단하게 설명하고 자바스크립트 라이브러리를 통해 어떻게 프로그래밍하는지 설명합니다. 
 
 ## [Communication and Message-Passing in Polymer](http://www.polymer-project.org/articles/communication.html)
 Eric Bidelman outlines several techniques for sending information between DOM elements in Google’s [Polymer](http://www.polymer-project.org/) framework. Most of these techniques are not specific to Polymer, they’re standard ways to make elements interact with each other. 
