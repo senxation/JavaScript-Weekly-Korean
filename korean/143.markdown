@@ -47,74 +47,74 @@ Elijah Manor는 배열의 메서드 *reduce()*를 사용하여 배열에 *filter
 ## [반응하는 자바스크립트](http://dailyjs.com/2013/08/08/reactive/)
 반응하는 프로그래밍은 데이터의 흐름과 변화의 전파에 기반한 프로그래밍 패러다임입니다. 이 글은 이에 대해 간단하게 설명하고 자바스크립트 라이브러리를 통해 어떻게 프로그래밍하는지 설명합니다. 
 
-## [Communication and Message-Passing in Polymer](http://www.polymer-project.org/articles/communication.html)
-Eric Bidelman outlines several techniques for sending information between DOM elements in Google’s [Polymer](http://www.polymer-project.org/) framework. Most of these techniques are not specific to Polymer, they’re standard ways to make elements interact with each other. 
+## [Polymer에서 통신과 메시지 전달하기](http://www.polymer-project.org/articles/communication.html)
+Eric Bidelman이 구글의 [Polymer](http://www.polymer-project.org/) 프레임워크에서 DOM 엘리먼트 간에 정보를 전달하는 몇가지 기법에 대한 개요에 대해 설명합니다. 이 기법들의 대부분은 Polymer에 국한된 것이 아니라, 엘리먼트간에 서로 상호작용하기위한 표준 방법들입니다.
 
-## [How To Unit Test An Angular App](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
+## [Angular 앱을 단위 테스트하는 방법](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
 
-## [Using RequireJS to Inject Add-Ons and Plugins Into Non-AMD Libraries](http://lostechies.com/derickbailey/2013/08/09/inject-add-ons-and-plugins-with-requirejs-non-amd-libraries-and-shims/)
+## [애드온과 플러그인을 비-AMD 라이브러리에 주입하기위해 RequireJS 사용하기](http://lostechies.com/derickbailey/2013/08/09/inject-add-ons-and-plugins-with-requirejs-non-amd-libraries-and-shims/)
 
-## [Rolling Releases: How Apache Cordova Becomes PhoneGap and Why](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/)
+## [수시 배포: Apache Cordova가 어떻게 그리고 왜 PhoneGap이 되는지](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/)
 
 - - -
 # 동영상
-## [A Web Performance Crash Course with Ilya Grigorik](http://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
-A series of 4 videos, running a total of almost 3 hours. Covers network bottlenecks; the document parsing and evaluation pipeline; visual layout; JavaScript; and more.
+## [Ilya Grigorik와 함께하는 웹 성능 뽀개기 코스](http://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
+4편의 동영상으로, 총합 거의 3시간 정도의 분량입니다. 네트워크 병목과 문서 파싱과 평가 파이프라인, 비주얼 레이아웃, 자바스크립트 등을 다룹니다.
 
-## [Arguing for A New Genre: “JavaScript Journalism”](http://www.niemanlab.org/2013/07/arguing-for-a-new-genre-javascript-journalism/)
-Photojournalism became a new field of journalism as some people got proficient in photography. The Washington Post’s Ray Daly argues that proficiency in JavaScript will also create a new field.
+## [새로운 장르를 위한 논쟁: "자바스크립트 저널리즘"](http://www.niemanlab.org/2013/07/arguing-for-a-new-genre-javascript-journalism/)
+사진에 능숙한 사람들 때문에 사진보도는 저널리즘의 새로운 영역이 되었습니다. 워싱턴 포스트의 Ray Daly는 자바스크립트에 능숙해지는 것 또한 새로운 영역을 만들어 낼 것이라고 주장합니다.
 
-## [How to Develop Apps for Firefox OS](http://www.belenalbeza.com/2013/07/how-to-develop-apps-for-firefox-os/)
-Explains how to deploy a Firefox OS app, write tests, use Gaia’s Building Blocks, etc. Includes a 16 min screencast.
+## [파이어폭스 OS를 위한 앱을 만드는 방법](http://www.belenalbeza.com/2013/07/how-to-develop-apps-for-firefox-os/)
+파이어폭스 OS 앱을 배포하는 방법과, 테스트 작성법, Gaia의 빌딩 블록 사용법 등을 설명합니다. 16분짜리 스크린캐스트를 포함합니다.
 
 - - -
 # 코드와 라이브러리들
-## [Ember 1.0 RC7 Released](http://emberjs.com/blog/2013/08/14/ember-1-0-rc7.html)
+## [Ember 1.0 RC7 릴리즈](http://emberjs.com/blog/2013/08/14/ember-1-0-rc7.html)
 
 ## [AngularJS 1.2.0-rc1: spooky-giraffe](http://blog.angularjs.org/2013/08/angularjs-120-rc1-spooky-giraffe.html)
 
-## [Tessel: Internet-Connected Microcontroller Programmable Via JavaScript](http://technical.io/)
-You can deploy JavaScript code over USB or remotely by WiFi. The device supports npm packages, giving you support for HTTP, web serving, Twitter and more.
+## [Tessel: 자바스크립트로 프로그래밍가능한 인터넷에 연결된 마이크로컨트롤러](http://technical.io/)
+USB선을 연결하거나 와이파이를 통해 원격으로 자바스크립트 코드를 배치할 수 있습니다. 이 장치는 npm 패키지를 지원하여, HTTP와 웹 서버, 트위터 등을 지원할 수 있게 해줍니다.
 
-## [Steps: Step Through JavaScript Code](https://github.com/jlongster/steps)
-Rewrites JavaScript code to generators that yield after each expression. The result can be run in a relatively simple virtual machine, allowing you to observe the execution. Use case: teaching. Depends on Firefox’s (non-ES6) generators, but has been [ported](http://www.thecssninja.com/javascript/generators) to ES6 generators (as supported by Chrome Canary).
+## [Steps: 자바스크립트 코드 Step Through JavaScript Code](https://github.com/jlongster/steps)
+자바스크립트 코드를 각각의 표현식 다음에 yield하는 제네레이터로 재작성합니다. 결과는 비교적 간단한 가상 머신에서 실행되어지고, 실행과정을 관찰할 수 있습니다. 사용 예: 강의. 파이어폭스의 (비-ES6) 제네레이터에 의존하지만, ES6 제네레이터로도 [포팅](http://www.thecssninja.com/javascript/generators)되었습니다. (Chrome Canary에서 지원합니다)
 
-## [HTML(.js) – Befriend The DOM!](http://nbubna.github.io/HTML/)
-An library for DOM traversal and manipulation with a novel API design. The [F.A.Q.](http://nbubna.github.io/HTML/#FAQ) answers the important question “Isn’t extending the DOM a bad idea?”.
+## [HTML(.js) – DOM과 친구가 되다!](http://nbubna.github.io/HTML/)
+참신한 API 디자인을 가지는 DOM 탐색과 조작을 위한 라이브러리입니다. [F.A.Q.](http://nbubna.github.io/HTML/#FAQ)에 "DOM을 확장하는 것은 좋은 아이디어가 아니지 않나요?"라는 중요한 질문에 대한 해답이 있습니다.
 
-## [Ultrasonic Networking On The Web](http://smus.com/ultrasonic-networking/)
-Boris Smus built [sonicnet.js](https://github.com/borismus/sonicnet.js), a library that uses audio to transmit data between two devices (via the Web Audio API).
+## [웹에서의 초음파 네트워킹](http://smus.com/ultrasonic-networking/)
+Boris Smus는 [sonicnet.js](https://github.com/borismus/sonicnet.js)라는 라이브러리를 만들었습니다. 이 라이브러리는 2개의 장치간에 오디오(웹 오디오 API)를 사용해 데이터를 전송합니다.
 
-## [botdylan: Automate Github Processes Via JavaScript](https://github.com/botdylan/botdylan)
+## [botdylan: 자바스크립트를 통한 자동 Github 프로세스](https://github.com/botdylan/botdylan)
 
-## [A Simple Visualisation of SourceMaps](https://github.com/sokra/source-map-visualization)
-Color-codes how the original source and the generated JavaScript are related. A [demo](http://sokra.github.io/source-map-visualization/) shows how it works.
+## [SourceMaps의 간단한 시각화](https://github.com/sokra/source-map-visualization)
+색상-코드가 원본 소스와 생성된 자바스크립트가 어떻게 연관되어있는지 보여줍니다. [데모](http://sokra.github.io/source-map-visualization/)를 통해 어떻게 동작하는지 볼 수 있습니다.
 
-## [node-validator: String Validation and Sanitization in JavaScript](https://github.com/chriso/node-validator)
+## [node-validator: 자바스크립트 문자열 유효성검사와 처리](https://github.com/chriso/node-validator)
 
-## [jquery-tiny-pubsub: Tiny pub/sub Implementation for jQuery](https://github.com/cowboy/jquery-tiny-pubsub)
+## [jquery-tiny-pubsub: jQuery를 위한 아주 작은 pub/sub 구현](https://github.com/cowboy/jquery-tiny-pubsub)
 
-## [Harp: Web Server with Built-in Pre-processing](http://harpjs.com/)
-Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS &amp; JavaScript – no configuration necessary. Can optionally only be used for development and helps with deploying to various platforms (Heroku, GitHub, Amazon S3, PhoneGap Build, etc.).
+## [Harp: 내장 전처리를 지원하는 웹서버](http://harpjs.com/)
+Harp 서버는 Jade, Markdown, EJS, CoffeeScript, LESS와 Stylus를 HTML, CSS와 자바스크립트로 제공합니다. 아무런 설정이 필요없습니다. 부가적으로 개발을위해 사용되거나 다양한 플랫폼(Heroku, GitHub, Amazon S3, PhoneGap Build, 등)에 배치하는데 도움을 줍니다.
 
-## [Plasmid: Browser Storage with Multi-Device Synchronization](http://plasmidhq.github.io/plasmid/)
+## [Plasmid: 멀티-디바이스 동기화를 지원하는 브라우저 저장소](http://plasmidhq.github.io/plasmid/)
 
-## [jQuery Tag-It: Tag Editing Widget with Autocomplete Support](http://aehlke.github.io/tag-it/)
+## [jQuery Tag-It: 자동완성을 지원하는 태그 편집 위젯](http://aehlke.github.io/tag-it/)
 
-## [Ground JavaScript Framework](http://gnd.io/)
-Based on TypeScript and Node.js (server-side functionality). Features: URL routing, models that can be used on client and server, data-binding, client-server synchronization, offline support, etc.
+## [Ground 자바스크립트 프레임워크](http://gnd.io/)
+Ground는 TypeScript와 Node.js (서버측 기능)에 기반합니다. 기능: URL 라우팅, 클라이언트와 서버에서 사용되는 모델, 데이터 바인딩, 클라이언트-서버 동기화, 오프라인 지원, 등.
 
 - - -
 # 일자리
-## [Senior Javascript Developer at Uber](https://www.uber.com/jobs/oYgxWfwr)
-Uber is looking for Sr Engineers who are passionate about Javascript.  Do you breath backbone?  Dream of node? Come join our team and help us tackle the challenges of disrupting transportation.  We are in 40 cities and are moving real assets around the world.
+## [시니어 자바스크립트 개발자 @ Uber](https://www.uber.com/jobs/oYgxWfwr)
+Uber는 자바스크립트에 정열적인 시니어 엔지니어를 찾고있습니다. backbone을 잘 다루나요? node를 꿈꾸나요? 팀에 합류하여 어려운 문제해결을 도와주세요. 우리 회사는 40개의 도시에 위치하고 전세계로 이동하고 있습니다.
 
-## [JavaScript Developer at Avid Life Media (Toronto, Canada)](http://www.avidlifemedia.com/careers.html)
-Do you get a little too excited by JS? Do you like your code DRY as British humour? Our mobile team is looking to expand its developer posse to include another passionate JS coder with experience building single-page apps. See the job desc. for more details. 
+## [자바스크립트 개발자 @ Avid Life Media (토론토, 캐나다)](http://www.avidlifemedia.com/careers.html)
+JS에 흥미가 많으신가요? 영국의 우스갯소리처럼 DRY(Don't Repeat Yourself)하게 코드를 작성하는 것을 좋아하시나요? 우리 회사의 모바일 팀은 단일페이지 앱을 만드는 경험을 가진 또 다른 열정적인 JS 개발자가 합류하기를 기다리고 있습니다. 자세한 내용은 업무 설명을 참고하세요.
 
-## [Senior or Junior Engineer at View The Space (New York, NY)](http://www.viewthespace.com/jobs)
+## [시니어 또는 주니어 엔지니어 @ View The Space (뉴욕, 뉴욕주)](http://www.viewthespace.com/jobs)
 
 - - -
 # 마지막으로,
-## [DreamFactory - Open Source REST &amp; JSON Services for JavaScript Developers](http://www.dreamfactory.com/)
-The DreamFactory platform runs on any cloud. We provide REST APIs and services for SQL data, NoSQL data, BLOB storage, auth, user management, and external API access. Sign up at our website and see examples for AngularJS, jQuery, and Sencha Touch.
+## [DreamFactory - 자바스크립트 개발자를 위한 오픈소스](http://www.dreamfactory.com/)
+DreamFactory 플랫폼은 어떤 클라우드에서도 동작합니다. REST API와 SQL 데이터, NoSQL 데이터, BLOB 저장소, 인증, 사용자 관리, 그리고 외부 API 접근을 위한 서비스들을 제공합니다. 웹사이트에 가입해 AngularJS와 jQuery, 그리고 Sencha Touch를 위한 예제를 살펴보세요.
