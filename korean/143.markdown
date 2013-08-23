@@ -6,10 +6,10 @@
 BackBoneConf 2013 (7월 31일부터 8월 1일까지 보스톤, 메사추세츠)의 14개 연설 동영상이 온라인으로 제공되고 있습니다. Jeremy Ashkenas의 키노트, Pamela Fox의 "jQuery 위젯을 넘어서: JS UI 라이브러리 설계", Ben Vinegar의 "Disqus에서 사용한 Backbone: 포스트모텀" 등을 제공합니다.
 
 ## [Node.js 프로그래밍의 미래](https://groups.google.com/d/msg/nodejs/9afurRCTlOc/JKVo0ThFZIsJ)
-Node.js의 문지기 Isaac Schlueter의 말을 인용하면 이렇습니다. "최근까지 있어온 Node.js의 코어 API 패턴에 대한 수 많은 논쟁과 이론, 그리고 요청이 이 목록에 있습니다. 이런 점에 대한 Node.js 프로젝트의 실제 계획을 명확히하고 싶습니다."
+Node.js의 수문장 Isaac Schlueter의 말을 인용하면 이렇습니다. "최근까지 있어온 Node.js의 코어 API 패턴에 대한 수 많은 논쟁과 이론, 그리고 요청이 이 목록에 정리되어 있습니다. 이런 요점에 대한 Node.js 프로젝트의 실제 계획을 명확히하고 싶습니다."
 
 ## [js13kGames HTML5 게임 개발 대회 시작](http://js13kgames.com/)
-Js13kGames는 HTML5 게임 개발자를 위한 자바스크립트 코딩 대회입니다. 이미 시작되었으며 9월 13일에 종료됩니다. 다양한 상품이 걸려있으니 참여하세요.
+Js13kGames는 HTML5 게임 개발자를 위한 자바스크립트 코딩 대회입니다. 현재 진행중이며 9월 13일에 종료됩니다. 다양한 상품이 걸려있으니 참여하세요.
 
 - - -
 # 스폰서기사
@@ -19,14 +19,14 @@ Js13kGames는 HTML5 게임 개발자를 위한 자바스크립트 코딩 대회�
 - - -
 # 읽을 거리
 ## [ECMAScript 6와 함께 최신 웹 앱을 향해](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/)
-Ariya Hidayat이 ECMAScript 6 (ES6)의 개요에 대해 설명합니다. 이번주 ES6의 더 많은 자료들은 다음과 같습니다:
+Ariya Hidayat이 ECMAScript 6 (ES6)의 개요에 대해 설명합니다. 이번 주 ES6에 대한 더 많은 자료들:
 Axel Rauschmayer의 “[ECMAScript 6에서 호출가능한 엔티티들](http://www.2ality.com/2013/08/es6-callables.html)”, Jeff Walden의 “[Firefox Aurora:2진, 8진 숫자지원](http://whereswalden.com/2013/08/12/micro-feature-from-es6-now-in-firefox-aurora-and-nightly-binary-and-octal-numbers/)”.
 
 ## [자바스크립트가 엔터프라이즈의 지배적인 프로그래밍 언어가 될 이유](http://readwrite.com/2013/08/09/why-javascript-will-become-the-dominant-programming-language-of-the-enterprise)
-3가지 요인들에 대해 고려합니다. "유동성 & 클라이언트측 개발"; "클라우드 & 서버측 개발"; 그리고 "리소스 & 스킬 셋".
+3가지 요인들에 대해 고려합니다. "유동성 & 클라이언트측 개발", "클라우드 & 서버측 개발", 그리고 "리소스 & 스킬 셋".
 
 ## [관점 지향 프로그래밍(AOP) 소개](http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming)
-AOP는 큰 변화 없이 함수와 메서드에 동작방식을 추가하는 기법입니다. 이 블로그 포스트는 AOP가 어떻게 동작하는지 설명하고 대체제들의 접근방법(상속을 사용하는것 같은)과 대조합니다.
+AOP는 큰 변화 없이 함수와 메서드에 동작방식을 추가하는 기법입니다. 이 블로그 포스트는 AOP가 어떻게 동작하는지 설명하고 대체제들의 접근방법(상속을 사용하는것 같은)과 비교합니다.
 
 ## [HTML에서 애니메이션 적용방법 소개](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
 Krasimir Tsonev는 HTML에서 자바스크립트, CSS와 Animate.CSS 라이브러리를 포함한, 애니메이션을 구현하기 위한 여러가지 기법들을 자세하게 다룹니다.
@@ -36,7 +36,7 @@ Krasimir Tsonev는 HTML에서 자바스크립트, CSS와 Animate.CSS 라이브�
 
 ## [Web Audio API를 사용한 자바스크립트의 커스텀 오디오 효과](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
 
-## [WebGL로 절차적 도시를 100줄만으로 구현하는 방법](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
+## [WebGL로 절차적 도시를 100라인으로 구현하는 방법](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
 
 ## [filter와 map을 reduce로 줄이기](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
 Elijah Manor는 배열의 메서드 *reduce()*를 사용하여 배열에 *filter()*와 *map()*를 적용하는 것과 동일하게 구현하는 방법을 설명합니다.
@@ -44,10 +44,10 @@ Elijah Manor는 배열의 메서드 *reduce()*를 사용하여 배열에 *filter
 ## [Boris Smus의 'Web Audio API'](http://chimera.labs.oreilly.com/books/1234000001552)
 온라인으로 무료로 읽을 수 있습니다.
 
-## [반응하는 자바스크립트](http://dailyjs.com/2013/08/08/reactive/)
+## [반응하는(reactive) 자바스크립트](http://dailyjs.com/2013/08/08/reactive/)
 반응하는 프로그래밍은 데이터의 흐름과 변화의 전파에 기반한 프로그래밍 패러다임입니다. 이 글은 이에 대해 간단하게 설명하고 자바스크립트 라이브러리를 통해 어떻게 프로그래밍하는지 설명합니다. 
 
-## [Polymer에서 통신과 메시지 전달하기](http://www.polymer-project.org/articles/communication.html)
+## [Polymer에서 통신하고 메시지 전달하기](http://www.polymer-project.org/articles/communication.html)
 Eric Bidelman이 구글의 [Polymer](http://www.polymer-project.org/) 프레임워크에서 DOM 엘리먼트 간에 정보를 전달하는 몇가지 기법에 대한 개요에 대해 설명합니다. 이 기법들의 대부분은 Polymer에 국한된 것이 아니라, 엘리먼트간에 서로 상호작용하기위한 표준 방법들입니다.
 
 ## [Angular 앱을 단위 테스트하는 방법](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
@@ -107,7 +107,7 @@ Ground는 TypeScript와 Node.js (서버측 기능)에 기반합니다. 기능: U
 - - -
 # 일자리
 ## [시니어 자바스크립트 개발자 @ Uber](https://www.uber.com/jobs/oYgxWfwr)
-Uber는 자바스크립트에 정열적인 시니어 엔지니어를 찾고있습니다. backbone을 잘 다루나요? node를 꿈꾸나요? 팀에 합류하여 어려운 문제해결을 도와주세요. 우리 회사는 40개의 도시에 위치하고 전세계로 이동하고 있습니다.
+Uber는 자바스크립트에 정열적인 시니어 엔지니어를 찾고 있습니다. backbone을 잘 다루나요? node를 꿈꾸나요? 팀에 합류하여 어려운 문제해결을 도와주세요. 우리 회사는 40개의 도시에 위치하고 전세계로 이동하고 있습니다.
 
 ## [자바스크립트 개발자 @ Avid Life Media (토론토, 캐나다)](http://www.avidlifemedia.com/careers.html)
 JS에 흥미가 많으신가요? 영국의 우스갯소리처럼 DRY(Don't Repeat Yourself)하게 코드를 작성하는 것을 좋아하시나요? 우리 회사의 모바일 팀은 단일페이지 앱을 만드는 경험을 가진 또 다른 열정적인 JS 개발자가 합류하기를 기다리고 있습니다. 자세한 내용은 업무 설명을 참고하세요.
