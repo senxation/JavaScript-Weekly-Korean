@@ -1,0 +1,124 @@
+원문 : [http://javascriptweekly.com/archive/144.html]
+
+- - -
+# 특집기사
+
+## [Brendan Eich: Toward A Language-Neutral Browser VM](http://www.youtube.com/watch?v=O83-d0t0Ldw)
+Brendan Eich explains that the approach to compile to a subset of JavaScript (as taken by Emscripten and asm.js) gives the web a language-neutral virtual machine.
+
+## [JS Bin’s 5th Birthday &amp; News](http://remysharp.com/2013/08/14/jsbin-5th-birthday/)
+In celebration of JS Bin’s 5th birthday, Remy Sharp announces a JS Bin competition (with prizes) and the news that he will work full time on the project (supported via Pro user accounts).
+
+## [Bootstrap 3 Released: The Popular Front-End Framework Goes Mobile-First](http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/)
+
+- - -
+# 읽을 거리
+## [Build a Complete MVC Website With ExpressJS](http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/)
+ExpressJS is a framework based on Node.js. This article explains how to use it to write a server-side application that has a MVC structure.
+
+## [Tracking ECMAScript 6 Support](http://addyosmani.com/blog/tracking-es6-support/)
+Resources for using ECMAScript 6 today and for tracking how much of it is supported where (natively).
+
+## [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html)
+*some()* works similarly to the convenient *forEach()* method, but lets you stop iterating at any time.
+
+## [Ractive.js Expressions and the New Wave of Reactive Programming](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
+Rich Harris explains how reactive programming can help you write more efficient JavaScript and how Ractive.js expressions work.
+
+## [Promises/A+: Understanding The Spec Through Implementation](http://modernjavascript.blogspot.co.uk/2013/08/promisesa-understanding-by-doing.html)
+Explains the Promises/A+ specification by writing an implementation from it.
+
+## [Working with The jQuery data() Function](http://weblogs.asp.net/dwahlin/archive/2013/08/16/video-working-with-the-jquery-data-function.aspx)
+Dan Wahlin explains how jQuery’s *data()* function works, which allows you to attach data to DOM nodes.
+
+## [JavaScript + Other Languages](http://kripken.github.io/mloc_emscripten_talk/qcon.html)
+Slides from a talk by Alon Zakai (creator of Emscripten, co-creator of asm.js) that give an overview of approaches to running and integrating multiple languages on the web.
+
+## [Mocking API Requests in Node Tests](http://javascriptplayground.com/blog/2013/08/mocking-web-requests/)
+
+## [Writing Web Audio API Code That Works in Every Browser](https://hacks.mozilla.org/2013/08/writing-web-audio-api-code-that-works-in-every-browser/)
+Browsers vary in their support for the Web Audio API but now there’s a way to normalize the interfaces to make it easier to write cross-browser code.
+
+## [Rendering A Filtered Backbone.Collection](http://tech.pro/tutorial/1519/rendering-a-filtered-backbonecollection)
+
+## [JavaScript Best Practices (Part 1)](http://www.thinkful.com/learn/javascript-best-practices-1/)
+This guide, the first in a two-part series, was adapted from a slideshow by Christian Heilmann.
+
+## [Hidden Classes vs. jsPerf](http://mrale.ph/blog/2013/08/14/hidden-classes-vs-jsperf.html)
+Vyacheslav Egorov (“Mr. Aleph”) explores when constructors can’t be optimized via hidden classes on V8.
+
+## [JavaScript Callbacks Are Pretty Okay](http://andrewkelley.me/post/js-callback-organization.html)
+Argues that asynchronous programming via callbacks doesn’t have to be ugly.
+
+## [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
+## [Destructuring Assignment in ECMAScript 6](http://fitzgeraldnick.com/weblog/50/)
+
+## [Testing An Ember Application: Integration and Unit Tests](http://pixelhandler.com/blog/2013/08/15/testing-an-ember-application-integration-and-unit-tests/)
+
+## [Build A JavaScript Particle System in 200 Lines](http://html5hub.com/build-a-javascript-particle-system/)
+Demonstrates how to use vanilla JavaScript and Canvas to build a flexible particle system with multiple emitters and fields that repel and attract thousands of particles.
+
+## [Running Headless Selenium with Chrome](http://www.chrisle.me/2013/08/running-headless-selenium-with-chrome/)
+Explains how to use Selenium in a headless mode to run automated tests on Google Chrome. It concludes with use cases for this setup.
+
+## [Using JSFiddle to Prototype Firefox OS Apps](https://hacks.mozilla.org/2013/08/using-jsfiddle-to-prototype-firefox-os-apps/)
+
+
+- - -
+# 동영상
+
+## [Nicholas Zakas: Enough with The JavaScript Already](http://www.youtube.com/watch?v=li4Y0E_x8zE)
+Nicholas Zakas explains how to minimize the size and running time of JavaScript needed by your web application. [Slides](http://www.slideshare.net/nzakas/enough-withthejavascriptalready) are also available.
+
+## [Angus Croll's Three Tips to Write Better JavaScript](http://www.sitepoint.com/how-to-write-better-javascript/)
+
+## [JavaScript Strategies at Microsoft with Scott Hanselman](http://javascriptjabber.com/071-jsj-javascript-strategies-at-microsoft-with-scott-hanselman/)
+
+## [Google Cloud Storage: Getting Started with the JavaScript Sample Application](https://www.youtube.com/watch?v=8ytpvQJNOU8)
+
+
+- - -
+# 코드와 라이브러리들과 도구들
+
+## [Brick: UI Components for Modern Web Apps](http://mozilla.github.io/brick/)
+UI components from Mozilla that comply with the [Web Components](http://www.w3.org/TR/components-intro/) standard and have been implemented via the [x-tags library](http://www.x-tags.org/).
+
+## [SimpleSlideView: Our Plugin for the Simplest of Sliding Views](http://blog.cloudfour.com/simpleslideview/?)
+Cell-phone-style menus that adapt to look good on larger devices. A plugin for jQuery or Zepto.
+
+## [FlowType.JS: Responsive Web Typography (font-size and line-height Based On Element Width)](http://simplefocus.com/flowtype/)
+I can see this working well for HTML-based slides.
+
+## [Mr. Data Converter: Convert Excel Data Into Web-friendly Formats](http://shancarter.github.io/mr-data-converter/)
+Converts Excel data into one of several web-friendly formats, including HTML, JSON and XML. Especially handy for quickly entering JSON data.
+
+## [app.js: TodoMVC in ECMAScript 6](http://addyosmani.github.io/traceur-todomvc/docs/app.html)
+This demo app, written by Addy Osmani and others, gives a good impression of what ECMAScript 6 code looks like. An [ECMAScript 5](http://goo.gl/8opExB) version of the code is available, too.
+
+## [NProgress: Skinny Horizontal Page-Top Progress Bars in JavaScript](http://ricostacruz.com/nprogress/)
+
+## [AngularJS Webcam Directive](http://jonashartmann.github.io/webcam-directive/#/)
+An AngularJS directive that lets you display the webcam’s feed live on a page and take snapshots. Based on the WebRTC API, works on Firefox and Chrome, at the moment.
+
+## [Medium.js: Library for Making 'contenteditable' Beautiful (like Medium.com's Editor)](https://github.com/jakiestfu/Medium.js)
+
+
+- - -
+# 일자리
+
+## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=12341)
+Are you interested in building the best accommodation website used by millions of customers?Do you have solid experience developing with HTML/CSS/JS?Booking.com is looking for an experienced Front End Dev.
+Check out [this video to learn more](http://www.youtube.com/watch?v=9T6Xi4U5APo) about us.
+
+## [Front End Web Developer at Discogs.com (Portland, OR)](http://www.discogs.com/jobs)
+Love music? Discogs needs music lovers to help on front end development for the largest database of music information plus a marketplace with nearly 13m items for sale. We are a small &amp; creative company where each team member has opportunity to make an impact.
+
+## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+
+
+- - -
+# 마지막으로,
+
+## [Learn how to become a Professional Grade Web Developer](http://www.gotealeaf.com/)
+We teach you the tools, processes and methods that professional developers use, all online with real instructors and a cohort of like minded students. Get hands on experience with advanced topics like TDD, e-commerce integration, etc. Code like a pro, launch real products, and level up to professional grade. Whether you're career switching or a budding entrepreneur, you'll have a transformative experience.
