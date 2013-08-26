@@ -68,14 +68,15 @@ Explains how to use Selenium in a headless mode to run automated tests on Google
 - - -
 # 동영상
 
-## [Nicholas Zakas: Enough with The JavaScript Already](http://www.youtube.com/watch?v=li4Y0E_x8zE)
-Nicholas Zakas explains how to minimize the size and running time of JavaScript needed by your web application. [Slides](http://www.slideshare.net/nzakas/enough-withthejavascriptalready) are also available.
+## [Nicholas Zakas: 자바스크립트는 이미 충분하다](http://www.youtube.com/watch?v=li4Y0E_x8zE)
+Nicholas Zakas는 웹 애플리케이션에 필요한 자바스크립트의 실행 시간과 크기를 최소화하는 방법을 설명한다. [슬라이드](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)도 있음.
+> "이미 충분하다" == "과용되고 있다"
 
-## [Angus Croll's Three Tips to Write Better JavaScript](http://www.sitepoint.com/how-to-write-better-javascript/)
+## [더 나은 자바스크립트를 작성하기 위한 Angus Croll의 세가지 팁](http://www.sitepoint.com/how-to-write-better-javascript/)
 
-## [JavaScript Strategies at Microsoft with Scott Hanselman](http://javascriptjabber.com/071-jsj-javascript-strategies-at-microsoft-with-scott-hanselman/)
+## [Scott Hanselman이 말하는 마이크로소프트의 자바스크립트 전략](http://javascriptjabber.com/071-jsj-javascript-strategies-at-microsoft-with-scott-hanselman/)
 
-## [Google Cloud Storage: Getting Started with the JavaScript Sample Application](https://www.youtube.com/watch?v=8ytpvQJNOU8)
+## [Google Cloud Storage: 자바스크립트 예제 애플리케이션과 함께 시작하기](https://www.youtube.com/watch?v=8ytpvQJNOU8)
 
 
 - - -
