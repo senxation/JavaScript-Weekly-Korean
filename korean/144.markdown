@@ -108,18 +108,16 @@ An AngularJS directive that lets you display the webcam’s feed live on a page 
 - - -
 # 일자리
 
-## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=12341)
-Are you interested in building the best accommodation website used by millions of customers?Do you have solid experience developing with HTML/CSS/JS?Booking.com is looking for an experienced Front End Dev.
-Check out [this video to learn more](http://www.youtube.com/watch?v=9T6Xi4U5APo) about us.
+## [Booking.com에서 프론트엔드 개발자 구함( 네덜랜드 암스테르담 )](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=12341)
+수 백만명의 고객들이 사용하는 최고의 숙박시설 웹사이트를 만드는데 흥미가 있나요? HTML/CSS/JS에 탄탄한 경험을 가지고 있나요? Booking.com은 경험많은 프론트엔드 개발자를 찾고 있습니다. 우리에 대해서 더 알고 싶다면 [비디오](http://www.youtube.com/watch?v=9T6Xi4U5APo)를 참고해 주세요.
 
-## [Front End Web Developer at Discogs.com (Portland, OR)](http://www.discogs.com/jobs)
-Love music? Discogs needs music lovers to help on front end development for the largest database of music information plus a marketplace with nearly 13m items for sale. We are a small &amp; creative company where each team member has opportunity to make an impact.
+## [Discogs.com 에서 프론트엔드 웹 개발자 구함( 오리건주 포틀랜드 )](http://www.discogs.com/jobs)
+음악을 사랑하나요? 가장 방대한 음악 정보 데이터베이스와 1,300만에 가까운 아이템 판매 시장을 가진 Discogs에서 음악을 사랑하는 프론트엔드 개발자를 구하고 있습니다. 우리는 각 팀 멤버가 영향을 미칠 기회가 있는 작고 창조적인 회사입니다.
 
-## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+## [앞으로 발행 될 자바스크립트 위클리에 구인광고를 올리고 싶다면](https://cooperpress.com/jobs)
 
 
 - - -
 # 마지막으로,
 
 ## [Learn how to become a Professional Grade Web Developer](http://www.gotealeaf.com/)
-We teach you the tools, processes and methods that professional developers use, all online with real instructors and a cohort of like minded students. Get hands on experience with advanced topics like TDD, e-commerce integration, etc. Code like a pro, launch real products, and level up to professional grade. Whether you're career switching or a budding entrepreneur, you'll have a transformative experience.
