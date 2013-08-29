@@ -68,14 +68,15 @@ vanilla 자바스크립트와 Canvas를 사용해 다수의 방사체와 전자�
 - - -
 # 동영상
 
-## [Nicholas Zakas: Enough with The JavaScript Already](http://www.youtube.com/watch?v=li4Y0E_x8zE)
-Nicholas Zakas explains how to minimize the size and running time of JavaScript needed by your web application. [Slides](http://www.slideshare.net/nzakas/enough-withthejavascriptalready) are also available.
+## [Nicholas Zakas: 자바스크립트는 이미 충분하다](http://www.youtube.com/watch?v=li4Y0E_x8zE)
+Nicholas Zakas는 웹 애플리케이션에 필요한 자바스크립트의 실행 시간과 크기를 최소화하는 방법을 설명한다. [슬라이드](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)도 있음.
+> "이미 충분하다" == "과용되고 있다"
 
-## [Angus Croll's Three Tips to Write Better JavaScript](http://www.sitepoint.com/how-to-write-better-javascript/)
+## [더 나은 자바스크립트를 작성하기 위한 Angus Croll의 세가지 팁](http://www.sitepoint.com/how-to-write-better-javascript/)
 
-## [JavaScript Strategies at Microsoft with Scott Hanselman](http://javascriptjabber.com/071-jsj-javascript-strategies-at-microsoft-with-scott-hanselman/)
+## [Scott Hanselman이 말하는 마이크로소프트의 자바스크립트 전략](http://javascriptjabber.com/071-jsj-javascript-strategies-at-microsoft-with-scott-hanselman/)
 
-## [Google Cloud Storage: Getting Started with the JavaScript Sample Application](https://www.youtube.com/watch?v=8ytpvQJNOU8)
+## [Google Cloud Storage: 자바스크립트 예제 애플리케이션과 함께 시작하기](https://www.youtube.com/watch?v=8ytpvQJNOU8)
 
 
 - - -
@@ -107,18 +108,18 @@ Addy Osmani와 다른 개발자들이 작성한 이 데모 앱은 ECMAScript 6 �
 - - -
 # 일자리
 
-## [Front End Developer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=12341)
-Are you interested in building the best accommodation website used by millions of customers?Do you have solid experience developing with HTML/CSS/JS?Booking.com is looking for an experienced Front End Dev.
-Check out [this video to learn more](http://www.youtube.com/watch?v=9T6Xi4U5APo) about us.
+## [Booking.com에서 프론트엔드 개발자 구함( 네덜랜드 암스테르담 )](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=12341)
+수 백만명의 고객들이 사용하는 최고의 숙박시설 웹사이트를 만드는데 흥미가 있나요? HTML/CSS/JS에 탄탄한 경험을 가지고 있나요? Booking.com은 경험많은 프론트엔드 개발자를 찾고 있습니다. 우리에 대해서 더 알고 싶다면 [비디오](http://www.youtube.com/watch?v=9T6Xi4U5APo)를 참고해 주세요.
 
-## [Front End Web Developer at Discogs.com (Portland, OR)](http://www.discogs.com/jobs)
-Love music? Discogs needs music lovers to help on front end development for the largest database of music information plus a marketplace with nearly 13m items for sale. We are a small &amp; creative company where each team member has opportunity to make an impact.
+## [Discogs.com 에서 프론트엔드 웹 개발자 구함( 오리건주 포틀랜드 )](http://www.discogs.com/jobs)
+음악을 사랑하나요? 가장 방대한 음악 정보 데이터베이스와 1,300만에 가까운 아이템 판매 시장을 가진 Discogs에서 음악을 사랑하는 프론트엔드 개발자를 구하고 있습니다. 우리는 각 팀 멤버가 영향을 미칠 기회가 있는 작고 창조적인 회사입니다.
 
-## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+## [앞으로 발행 될 자바스크립트 위클리에 구인광고를 올리고 싶다면](https://cooperpress.com/jobs)
 
 
 - - -
 # 마지막으로,
 
-## [Learn how to become a Professional Grade Web Developer](http://www.gotealeaf.com/)
-We teach you the tools, processes and methods that professional developers use, all online with real instructors and a cohort of like minded students. Get hands on experience with advanced topics like TDD, e-commerce integration, etc. Code like a pro, launch real products, and level up to professional grade. Whether you're career switching or a budding entrepreneur, you'll have a transformative experience.
+## [프로 웹 개발자가 되는 방법 배우기](http://www.gotealeaf.com/)
+우리는 프로 개발자(?)가 사용하는 툴과 프로세스와 방법을 당신에게 가르칩니다. 모든 내용들은 온라인을 통해 강사에게 배웁니다. TDD와 이커머스 통합과 같은 고급 주제를 통해 경험을 쌓습니다. 프로 개발자와 같이 코딩하고 제품을 실행해보며 실력을 향상시킵니다.
+경력 전환 중이든 사업을 시작하는 중이든 당신은 색다른 경험을 하게 될 것입니다.
