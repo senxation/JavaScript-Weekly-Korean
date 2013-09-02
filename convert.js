@@ -26,7 +26,7 @@ HTMLElement.prototype.qs = function(s) {
                     html = "\n- - -\n# 코드와 라이브러리들\n";
                     break;
                 case "Code, Libraries and Tools":
-                    html = "\n- - -\n# 코드와 라이브러리들과 도구들\n";
+                    html = "\n- - -\n# 코드, 라이브러리들과 도구들\n";
                     break;
                 case "From our Sponsor":
                     html = "\n- - -\n# 스폰서기사\n";
