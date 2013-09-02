@@ -1,0 +1,134 @@
+원문 : [http://javascriptweekly.com/archive/145.html]
+
+- - -
+# 특집 기사
+
+## [The Road to Ember.js 1.0: Final Release This Weekend?](https://github.com/emberjs/ember.js/issues/3246)
+It’ll be in next week’s JavaScript Weekly but if you’re an Ember fan, Ember 1.0 may be finally released tomorrow (Saturday, 31 August). In this post, one of Ember’s main developers, Tom Dale, shares all that’s needed to reach the big 1.0.
+
+## [Yeoman 1.0 Released: Modern Workflows for Modern Webapps](http://yeoman.io/blog/hello-1.0.html)
+Highlights added over the past year: *yo* can be used as a stand-alone scaffolding tool; better generator system with rich prompts; performance improvements and an automation of install steps; *yo* helpful prompt system (run *yo* without specifying a generator to update your generators, search for and install new generators, find help). Addy Osmani [also shares what the future holds for Yeoman](http://www.youtube.com/watch?v=MTYZzs8ud3E) in a 5 minute presentation.
+
+
+- - -
+# 읽을 거리
+
+## [ECMAScript Internationalization API](http://generatedcontent.org/post/59403168016/esintlapi)
+The ECMAScript Internationalization API ([ECMA-402](http://www.ecma-international.org/ecma-402/1.0/)) has been designed to work with ECMAScript 5.1 or later. It provides locale-specific services such as collation (string comparison), number formatting, and date and time formatting. This article gives an introduction.
+
+## [Protecting Objects in JavaScript](http://www.2ality.com/2013/08/protecting-objects.html)
+A refresher of how objects can be protected in JavaScript. There are three levels of protection: Preventing extensions is the weakest level, sealing is stronger, freezing is strongest.
+
+## [Determining if a String Contains a Substring](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
+Explains how to use *String.prototype.indexOf()* and regular expressions for this task.
+
+## [Outlining: Work-Around for JITs and Big Functions](http://mozakai.blogspot.de/2013/08/outlining-workaround-for-jits-and-big.html)
+Just In Time compilers, such as JavaScript engines, take much longer to compile a long function than smaller ones that, combined, have the same size. This blog post explains *outlining* (the opposite of inlining), a technique that speeds up the compilation of long functions by breaking them up.
+
+## [Client-Side Dependency Management: Choosing Between npm, Bower and component](http://flippinawesome.org/2013/08/26/choosing-between-npm-bower-and-component/)
+
+## [Understanding Scope and Context in JavaScript](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/?)
+Ryan Morr explains the difference between scope (think local variables) and context (think *this*) in JavaScript and how they’re important for many common design patterns.
+
+## [An Introduction to IIFEs (Immediately Invoked Function Expressions)](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
+Explains this common JavaScript pattern for simulating block scoping.
+
+## [ES6 Generators Deliver Go-Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+David Nolen shows that one can use ECMAScript 6’s generators to bring Go-style concurrency (which is based on [Communicating Sequential Processes](http://en.wikipedia.org/wiki/Communicating_sequential_processes)) to JavaScript.
+
+## [Debugging Modern Web Applications Part 1](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1)
+Explains how to debug the client side of a Ruby on Rails web application via Chrome’s DevTools. This first part of a series of three articles covers debugging markup and CSS, using Chrome as an IDE and using the console.
+
+## [Building Large Backbone Applications](http://victorsavkin.com/post/59496656297/building-large-backbone-applications)
+
+## [Web Components Resources](http://ebidel.github.io/webcomponents/)
+Eric Bidel has compiled a page with resources on Web Components.
+
+## [The Tiny Table Sorter or ‘You Can Write LINQ in JavaScript’](http://blogs.msdn.com/b/oldnewthing/archive/2013/08/19/10442582.aspx)
+Demonstrates how to use basic DOM manipulation and array methods such as *map()* and *sort()* to sort an HTML table.
+
+## [Remarkable React](http://www.phpied.com/remarkable-react/)
+Stoyan Stefanov gives a short introduction to Facebook’s user interface library, React.
+
+## [Should JavaScript Devs Build ‘Real’ Things?](http://ajfisher.me/2013/08/21/should-javascript-devs-build-real-things/)
+Comprehensive analysis of the recent trend of using JavaScript to program hardware.
+
+## [Converting An Existing Backbone.js Project to Require.js](http://ozkatz.github.io/converting-an-existing-backbonejs-project-to-requirejs.html)
+
+## [Debugging Mocha Tests Via Node’s Standard Debugger](http://dailyjs.com/2013/08/22/mocha-debugger/)
+
+## [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
+
+
+- - -
+# 동영상
+
+## [The Loading Point: How Little Modules Can Make A Big Difference](https://vimeo.com/album/2495028/video/72690876)
+Walter Rumsby talks about best practices and techniques for working with modules. Covers YUI, RequireJS, Ext JS, Browserify and more.
+
+## [An Intro to Data Visualisation Using D3.js](https://vimeo.com/album/2495028/video/72467564)
+
+## [Visualising JavaScript Processing Over Time With Chrome DevTools Flame Charts](http://addyosmani.com/blog/devtools-flame-charts/)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [jsPDF: Client-Side Solution for Generating PDFs](http://parall.ax/products/jspdf)
+Use to generate documents on the fly (tickets, reports, etc.). Works in IE6+, Firefox 3+, Chrome, Safari 3+, and Opera.
+
+## [D3.js 3.3 Released](https://github.com/mbostock/d3/releases/tag/v3.3.0)
+
+## [The 'Theseus' JavaScript Debugger for Chrome and Node.js](http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/)
+Theseus is a JavaScript debugger for the Brackets code editor that can debug JavaScript running in Chrome and NodeJS. One interesting feature is that it aggregates debug information and makes it available inside the editor.
+
+## [Sifter.js: Autocomplete Search Library](https://github.com/brianreavis/sifter.js)
+A CommonJS library for textually searching arrays and hashes of objects by property (or multiple properties). Sifter is designed for autocomplete and comes with a command line interface for testing on datasets.
+
+## [Hopscotch: Framework for Product Tours of Web Pages](http://linkedin.github.io/hopscotch/)
+Hopscotch accepts a 'tour' JSON object as input and provides an API for the developer to control rendering the tour display and managing the tour progress. Features: react to tour events in your code (*onNext* etc.), multi-page tours, internationalization support, etc.
+
+## [RequireBin: Share Browser Code Using Node.js Modules](http://requirebin.com/)
+A web app for editing and sharing client-side code that uses Node.js modules. The code is converted via browserify and stored in Gists.
+
+## [mdn.io: Passive URL Shortening for MDN](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html)
+A web service whose URLs google for a page on the Mozilla Development network and jump to the first result. That enables short URLs such as [mdn.io/defineproperty](http://mdn.io/defineproperty)
+
+## [url-to-screenshot: Capture Screenshots of Web Pages Using PhantomJS](https://github.com/re-view/url-to-screenshot)
+
+## [XHook: Intercept and Modify XHR Request and Response](https://github.com/jpillora/xhook)
+Patches into XMLHttpRequest to allow you to manipulate Ajax requests.
+
+## [JsDebuggr: Add and Remove JavaScript Breakpoints from Sublime Text](https://github.com/rDr4g0n/JsDebuggr)
+
+## [Backbone.Modal: Plugin That Simplifies Creating Modals for Your App](http://awkward.github.io/backbone.modal/)
+
+## [wu.js: Library for Lazy, Functional Programming in JavaScript](http://fitzgen.github.io/wu.js/)
+This library lets you create sequences of elements that are computed lazily (“just in time”), by applying operations such as map and filter to iterators.
+
+## [Antycs: Organize and Simplify Your Analytics Event Trapping Related Code](http://freshcod.es/antycs/)
+
+## [Hammer.js: Library for Multi-Touch Gestures](http://eightmedia.github.io/hammer.js/)
+Supports Tap, DoubleTap, Swipe, Drag, Pinch, and Rotate gestures. Each gesture triggers an event.
+
+## [Minivents: A Tiny JavaScript Events Library](https://github.com/allouis/minivents)
+
+## [Flipload: Flipping HTML Elements to Show a Loading Indicator on the Back](http://pazguille.github.io/flipload/)
+
+
+- - -
+# 일자리
+
+## [Software Engineer at Turn (Silicon Valley)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
+Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+
+## [Web Designer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540)
+Booking.com -#1 accommodation website- is looking for the world’s smartest designers. 
+You’re excited about the endless potential of the web and a writer of excellent HTML &amp; CSS? Make meaningful and measurable improvements impacting millions of people.
+
+
+- - -
+# 마지막으로,
+
+## [A simpler way to deploy](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m3&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20677)
+Deploy any component to any machine with Deployment Manager 2 from Red Gate. Ship your SQL Server databases alongside your .NET applications in a single process, and control who can deploy to each environment. Get started now.
