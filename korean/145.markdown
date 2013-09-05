@@ -13,51 +13,51 @@ Highlights added over the past year: *yo* can be used as a stand-alone scaffoldi
 - - -
 # 읽을 거리
 
-## [ECMAScript Internationalization API](http://generatedcontent.org/post/59403168016/esintlapi)
-The ECMAScript Internationalization API ([ECMA-402](http://www.ecma-international.org/ecma-402/1.0/)) has been designed to work with ECMAScript 5.1 or later. It provides locale-specific services such as collation (string comparison), number formatting, and date and time formatting. This article gives an introduction.
+## [ECMAScript 국제화 API](http://generatedcontent.org/post/59403168016/esintlapi)
+ECMAScript 국제화(Internationalization) API ([ECMA-402](http://www.ecma-international.org/ecma-402/1.0/))가 ECMAScript 5.1이나 그 이후버전에서 동작하도록 설계되었습니다. 이 API는 collation(문자열 비교), 숫자 포맷팅, 그리고 날짜와 시간 포맷팅 같은 로케일-특화 서비스를 제공합니다. 이 글은 해당 API에 대해 소개합니다.
 
-## [Protecting Objects in JavaScript](http://www.2ality.com/2013/08/protecting-objects.html)
-A refresher of how objects can be protected in JavaScript. There are three levels of protection: Preventing extensions is the weakest level, sealing is stronger, freezing is strongest.
+## [자바스크립트에서 객체 보호하기](http://www.2ality.com/2013/08/protecting-objects.html)
+자바스크립트에서 객체가 어떻게 보호될 수 있는지에 대해 환기시킵니다. 총 3가지 수준의 보호단계가 있습니다. 확장을 방지하는 가장 약한 수준, 씰링(sealing)은 조금 강한 수준, 그리고 프리징(freezing)은 가장 강한 수준입니다.
 
-## [Determining if a String Contains a Substring](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
-Explains how to use *String.prototype.indexOf()* and regular expressions for this task.
+## [문자열이 하위문자열을 포함하는지 확인하기](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
+문자열이 하위문자열을 포함하는지 확인하기위해 *String.prototype.indexOf()*와 정규 표현식을 사용하는 방법을 설명합니다.
 
-## [Outlining: Work-Around for JITs and Big Functions](http://mozakai.blogspot.de/2013/08/outlining-workaround-for-jits-and-big.html)
-Just In Time compilers, such as JavaScript engines, take much longer to compile a long function than smaller ones that, combined, have the same size. This blog post explains *outlining* (the opposite of inlining), a technique that speeds up the compilation of long functions by breaking them up.
+## [아웃라이닝(Outlining): JIT와 큰 함수를 위한 제2의 해결책](http://mozakai.blogspot.de/2013/08/outlining-workaround-for-jits-and-big.html)
+자바스크립트 엔진과 같은 JIT(Just In Time) 컴파일러는 동일한 크기로 조합된 짧은 함수보다 긴 함수를 컴파일하는데 더 많은 시간이 걸립니다. 이 블로그 글은 긴 함수를 쪼개어 컴파일시간을 줄이는 기법인 *아웃라이닝(outlining)* (인라이닝(inlining)의 반대)에 대해 설명합니다.
 
-## [Client-Side Dependency Management: Choosing Between npm, Bower and component](http://flippinawesome.org/2013/08/26/choosing-between-npm-bower-and-component/)
+## [클라이언트측 의존성 관리: npm, Bower와 컴포넌트중에 선택하기](http://flippinawesome.org/2013/08/26/choosing-between-npm-bower-and-component/)
 
-## [Understanding Scope and Context in JavaScript](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/?)
-Ryan Morr explains the difference between scope (think local variables) and context (think *this*) in JavaScript and how they’re important for many common design patterns.
+## [자바스크립트의 스코프와 컨텍스트에 대해 이해하기](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/?)
+Ryan Morr는 자바스크립트에서 스코프(지역 변수)와 컨텍스트(*this*)의 차이와, 그 차이가 왜 여러가지 공통 디자인 패턴에서 중요한지에 대해 설명합니다.
 
-## [An Introduction to IIFEs (Immediately Invoked Function Expressions)](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
-Explains this common JavaScript pattern for simulating block scoping.
+## [즉시 실행되는 함수 표현식(IIFE) 소개](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
+블록 스코프지정을 시뮬레이션하기위해 공통 자바스크립트 패턴을 설명합니다.
 
-## [ES6 Generators Deliver Go-Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
-David Nolen shows that one can use ECMAScript 6’s generators to bring Go-style concurrency (which is based on [Communicating Sequential Processes](http://en.wikipedia.org/wiki/Communicating_sequential_processes)) to JavaScript.
+## [ES6 제네레이터는 Go 스타일의 동시성을 제공합니다](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+David Nolen은 자바스크립트에서 Go 스타일의 동시성([커뮤니케이팅 시퀀셜 프로세스(Communicating Sequential Processes, CSP)](http://en.wikipedia.org/wiki/Communicating_sequential_processes)에 기반한)을 제공하기위해 ECMAScript 6의 제네레이터를 사용하는 방법을 보여줍니다.
 
-## [Debugging Modern Web Applications Part 1](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1)
-Explains how to debug the client side of a Ruby on Rails web application via Chrome’s DevTools. This first part of a series of three articles covers debugging markup and CSS, using Chrome as an IDE and using the console.
+## [최신 웹 애플리케이션 디버그하기 Part 1](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1)
+크롬의 개발자도구를 통해 루비온레일즈 웹 애플리케이션의 클라이언트측 코드를 디버깅하는 방법을 설명합니다. 총 3부중 1부에서는 크롬을 IDE로 사용하고 콘솔을 이용해 마크업과 CSS를 디버깅합니다.
 
-## [Building Large Backbone Applications](http://victorsavkin.com/post/59496656297/building-large-backbone-applications)
+## [커다란 Backbone 애플리케이션 만들기](http://victorsavkin.com/post/59496656297/building-large-backbone-applications)
 
-## [Web Components Resources](http://ebidel.github.io/webcomponents/)
-Eric Bidel has compiled a page with resources on Web Components.
+## [웹 컴포넌트 자료들](http://ebidel.github.io/webcomponents/)
+Eric Bidel은 웹 컴포넌트에 대한 자료들에 대한 페이지를 만들었습니다.
 
-## [The Tiny Table Sorter or ‘You Can Write LINQ in JavaScript’](http://blogs.msdn.com/b/oldnewthing/archive/2013/08/19/10442582.aspx)
-Demonstrates how to use basic DOM manipulation and array methods such as *map()* and *sort()* to sort an HTML table.
+## [아주 작은 테이블 정렬기 혹은 '자바스크립트로 LINQ를 작성할 수 있습니다’](http://blogs.msdn.com/b/oldnewthing/archive/2013/08/19/10442582.aspx)
+기본 DOM 조작과 *map()*이나 *sort()*같은 배열 메서드를 사용해 HTML 테이블을 정렬하는 방법을 설명합니다.
 
-## [Remarkable React](http://www.phpied.com/remarkable-react/)
-Stoyan Stefanov gives a short introduction to Facebook’s user interface library, React.
+## [주목할만한 React](http://www.phpied.com/remarkable-react/)
+Stoyan Stefanov는 페이스북의 UI라이브러리인 React에 대해 간략하게 소개합니다.
 
-## [Should JavaScript Devs Build ‘Real’ Things?](http://ajfisher.me/2013/08/21/should-javascript-devs-build-real-things/)
-Comprehensive analysis of the recent trend of using JavaScript to program hardware.
+## [자바스크립트 개발자는 반드시 '진짜' 물건을 만들어야 하나?](http://ajfisher.me/2013/08/21/should-javascript-devs-build-real-things/)
+자바스크립트를 하드웨어를 프로그래밍하는데 사용하는 최근의 경향에 대한 포괄적인 분석글
 
-## [Converting An Existing Backbone.js Project to Require.js](http://ozkatz.github.io/converting-an-existing-backbonejs-project-to-requirejs.html)
+## [이미 존재하는 Backbone.js 프로젝트를 Require.js로 변환하기](http://ozkatz.github.io/converting-an-existing-backbonejs-project-to-requirejs.html)
 
-## [Debugging Mocha Tests Via Node’s Standard Debugger](http://dailyjs.com/2013/08/22/mocha-debugger/)
+## [Mocha 테스트를 Node의 표준 디버거로 디버깅하기](http://dailyjs.com/2013/08/22/mocha-debugger/)
 
-## [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
+## [Yeoman, Grunt와 Bower로 AngularJS 개발 킥스타트하기](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 
 
 - - -
