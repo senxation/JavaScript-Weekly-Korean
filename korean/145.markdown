@@ -119,16 +119,21 @@ Supports Tap, DoubleTap, Swipe, Drag, Pinch, and Rotate gestures. Each gesture t
 - - -
 # 일자리
 
-## [Software Engineer at Turn (Silicon Valley)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
-Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+## [Turn 소프트웨어 엔지니어 (실리콘 밸리)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
+Angular, Node, Bootstrap. Big data, machine learning, 분산 시스템. 여러분이 이런 기술에 관심을 갖고 있고 자바스크립트 실력이 좋다면 턴의 프론트 엔드 애플리케이션 팀에서 같이 일하는 것에 대해 이야기를 나눠보고 싶습니다. 
 
-## [Web Designer at Booking.com in Amsterdam, the Netherlands](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540)
-Booking.com -#1 accommodation website- is looking for the world’s smartest designers. 
-You’re excited about the endless potential of the web and a writer of excellent HTML &amp; CSS? Make meaningful and measurable improvements impacting millions of people.
 
+
+## [네덜란드 암스테르담에 있는 Booking.com에서 근무할 웹 디자이너](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540)
+세계 1위의 숙박 웹사이트인 Booking.com은 세계에서 가장 스마트한 디자이너를 찾고 있습니다. 웹의 무한한 잠재력과 환상적인 HTML & CSS를 만드는 일에 홀딱 빠져 있나요? 수백만명의 사람들에게 도움이 되는 중요하고 거대한 혁신을 직접 만들어보세요.
 
 - - -
 # 마지막으로,
 
-## [A simpler way to deploy](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m3&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20677)
-Deploy any component to any machine with Deployment Manager 2 from Red Gate. Ship your SQL Server databases alongside your .NET applications in a single process, and control who can deploy to each environment. Get started now.
+## [더 간단한 배포 방법](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m3&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20677)
+레드 게이트에서 만든 디플로이 매니저 2를 사용하여 컴포넌트와 컴퓨터에 관계 없이 배포하세요. 하나의 프로세스에 SQL 서버 데이터베이스와 .NET 애플리케이션을 함께 제공하세요. 바로 지금 시작하세요.
+
+
+
+
+
