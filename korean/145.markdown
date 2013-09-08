@@ -74,46 +74,50 @@ Walter Rumsby talks about best practices and techniques for working with modules
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [jsPDF: Client-Side Solution for Generating PDFs](http://parall.ax/products/jspdf)
-Use to generate documents on the fly (tickets, reports, etc.). Works in IE6+, Firefox 3+, Chrome, Safari 3+, and Opera.
+## [jsPDF: 클라이언트 사이드 PDF 생성 솔루션](http://parall.ax/products/jspdf)
+즉각적인 문서 생성시 사용합니다( 티켓, 보고서 등등...). IE6+, 파이어폭스 3+, 크롬, 사파리 3+, 오페라에서 동작합니다.
 
-## [D3.js 3.3 Released](https://github.com/mbostock/d3/releases/tag/v3.3.0)
+## [D3.js 3.3 릴리즈](https://github.com/mbostock/d3/releases/tag/v3.3.0)
 
-## [The 'Theseus' JavaScript Debugger for Chrome and Node.js](http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/)
-Theseus is a JavaScript debugger for the Brackets code editor that can debug JavaScript running in Chrome and NodeJS. One interesting feature is that it aggregates debug information and makes it available inside the editor.
+## [크롬과 Node.js를 위한 자바스크립트 디버거 'Theseus(테세우스)'](http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/)
+"Theseus"는 Brackets 코드 에디터를 위한 자바스크립트 디버거로 크롬과 Node.js 사용 시 실행 중 자바스크립트 디버깅이 가능하게 해줍니다. 한 가지 흥미로운 기능은 모아진 디버그 정보를 에디터 내에서 이용 할 수 있다는 점입니다.
 
-## [Sifter.js: Autocomplete Search Library](https://github.com/brianreavis/sifter.js)
-A CommonJS library for textually searching arrays and hashes of objects by property (or multiple properties). Sifter is designed for autocomplete and comes with a command line interface for testing on datasets.
+## [Sifter.js: 자동 완성 검색 라이브러리](https://github.com/brianreavis/sifter.js)
+속성 값을 이용해 배열과 해쉬로 구성된 정보 객체를 텍스트 검색하는 CommonJS 라이브러리입니다.
+Sifter는 자동완성 기능을 위해 설계되었고 데이터셋 테스트를 위한 커맨드 라인 인터페이스도 제공합니다.
 
-## [Hopscotch: Framework for Product Tours of Web Pages](http://linkedin.github.io/hopscotch/)
-Hopscotch accepts a 'tour' JSON object as input and provides an API for the developer to control rendering the tour display and managing the tour progress. Features: react to tour events in your code (*onNext* etc.), multi-page tours, internationalization support, etc.
+## [Hopscotch: 웹 페이지 안의 내용 설명을 위한 프레임워크](http://linkedin.github.io/hopscotch/)
+Hopscotch는 JSON 객체로 투어 정보를 받습니다. 그리고 투어 진행과 화면을 관리할 수 있는 API를 제공합니다.
+요소 : 투어 이벤트에 대한 콜백( onNext 등... )를 제공하고 여러 페이지에 걸쳐 사용 할 수 있으며 국제화 지원 등의 다양한 기능을 제공합니다.
+> 웹페이지 내의 내용을 설명하기 위해 요소 사이를 이동하는 것을 'tour'라 칭함.
 
-## [RequireBin: Share Browser Code Using Node.js Modules](http://requirebin.com/)
-A web app for editing and sharing client-side code that uses Node.js modules. The code is converted via browserify and stored in Gists.
+## [RequireBin: Node.js 모듈을 이용하여 브라우저 코드를 공유하기](http://requirebin.com/)
+Node.js 모듈을 사용하여 클라이언트 사이드 코드를 공유하고 편집할 수 있는 웹앱니다. 코드는 browserify를 통해 변환되고 Gist에 저장됩니다.
 
-## [mdn.io: Passive URL Shortening for MDN](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html)
-A web service whose URLs google for a page on the Mozilla Development network and jump to the first result. That enables short URLs such as [mdn.io/defineproperty](http://mdn.io/defineproperty)
+## [mdn.io: MDN을 위한 간접적인(passive) URL 단축자](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html)
+웹 서비스의 URL을 모질라 개발 네트워크 사이트로 한정하여 구글링 한 후 첫 번째 검색 결과로 이동시켜 줍니다. [mdn.io/defineproperty](http://mdn.io/defineproperty)와 같은 단축 URL 표시를 가능케 해줍니다.
+> 원문의 'passive'라는 의미는 1:1 매칭의 URL 단축서비스가 아닌 url을 구글링하여 검색 결과를 통해 redirect 시켜주는 방식에 대한 의미로서 사용된 듯 합니다.
 
-## [url-to-screenshot: Capture Screenshots of Web Pages Using PhantomJS](https://github.com/re-view/url-to-screenshot)
+## [url-to-screenshot: PhantomJS를 이용하여 웹 페이지의 스크린샷을 캡쳐하기](https://github.com/re-view/url-to-screenshot)
 
-## [XHook: Intercept and Modify XHR Request and Response](https://github.com/jpillora/xhook)
-Patches into XMLHttpRequest to allow you to manipulate Ajax requests.
+## [XHook: XHR 요청과 응답을 가로채고 변경하기](https://github.com/jpillora/xhook)
+Ajax 요청을 조작 할 수 있게 도와주는 XMLHttpRequest 패치입니다.
 
-## [JsDebuggr: Add and Remove JavaScript Breakpoints from Sublime Text](https://github.com/rDr4g0n/JsDebuggr)
+## [JsDebuggr: Sublime Text에서 자바스크립트 브레이크 포인트를 추가하고 제거하기](https://github.com/rDr4g0n/JsDebuggr)
 
-## [Backbone.Modal: Plugin That Simplifies Creating Modals for Your App](http://awkward.github.io/backbone.modal/)
+## [Backbone.Modal: modal 창을 간편하게 만들수 있게 도와주는 플러그인](http://awkward.github.io/backbone.modal/)
 
-## [wu.js: Library for Lazy, Functional Programming in JavaScript](http://fitzgen.github.io/wu.js/)
-This library lets you create sequences of elements that are computed lazily (“just in time”), by applying operations such as map and filter to iterators.
+## [wu.js: 자바스크립트에서 지연 함수 프로그래밍을 지원하는 라이브러리](http://fitzgen.github.io/wu.js/)
+이 라이브러리는 맵과 필터 등에 반복자(iterator) 를 적용하여 사용 시 처리되는 일련의 요소를 만들 수 있게 해준다.
 
-## [Antycs: Organize and Simplify Your Analytics Event Trapping Related Code](http://freshcod.es/antycs/)
+## [Antycs: 애낼리스틱스 이벤트 수집 관련 코드를 단순화하고 조직화 하기](http://freshcod.es/antycs/)
 
-## [Hammer.js: Library for Multi-Touch Gestures](http://eightmedia.github.io/hammer.js/)
-Supports Tap, DoubleTap, Swipe, Drag, Pinch, and Rotate gestures. Each gesture triggers an event.
+## [Hammer.js: 멀티 터치 제스쳐 라이브러리 ](http://eightmedia.github.io/hammer.js/)
+탭, 더블 탭, 스와이프, 드래그, 핀치 그리고 로테이트 제스쳐를 지원합니다. 각 제스쳐는 이벤트를 발생시킵니다.
 
-## [Minivents: A Tiny JavaScript Events Library](https://github.com/allouis/minivents)
+## [Minivents: 작은 자바스크립트 이벤트 라이브러리](https://github.com/allouis/minivents)
 
-## [Flipload: Flipping HTML Elements to Show a Loading Indicator on the Back](http://pazguille.github.io/flipload/)
+## [Flipload: 로딩 중 화면을 보여주기 위해 HTML 엘리먼트를 뒷면으로 뒤집기](http://pazguille.github.io/flipload/)
 
 
 - - -
