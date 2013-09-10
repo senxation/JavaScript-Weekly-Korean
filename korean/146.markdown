@@ -1,0 +1,119 @@
+원문 : [http://javascriptweekly.com/archive/146.html]
+
+- - -
+# 특집 기사
+
+## [Ember 1.0 Released](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
+A huge week for the popular JavaScript webapp framework as 2.5 years after the first commit, Ember 1.0 is out with a promise of no more breaking changes until 2.0. Congratulations to the whole team.
+
+## [Node Weekly Issue 2: Generators, Async Patterns, Home Automation and More](http://nodeweekly.com/archive/2.html)
+We launched our latest newsletter, [Node Weekly](http://nodeweekly.com/) a week ago. Check out the sort of things we cover there.
+
+
+- - -
+# 스폰서기사
+
+## [Frontend Masters: Upcoming LIVE Online/In-Person Workshop on Data Visualizations with D3.js by Ian Johnson](https://frontendmasters.com/workshops/interactive-data-visualization-d3js/)
+In this workshop we’ll tour D3’s API and get you comfortable with some of the more subtle aspects of it’s design. You will be exposed to a variety of patterns that can be utilized anywhere you have data that needs to be expressed. *Join us Friday, September 20th LIVE online.*
+
+
+- - -
+# 읽을 거리
+
+## [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
+An extensive tutorial/guide to building a complete app with AngularJS, Node, Express and MongoDB.
+
+## [Progressive Enhancement: Zed’s Dead, Baby](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)
+Tom notes that “the browser transformed from being an awesome interactive document viewer into being the world’s most advanced, widely-distributed application runtime” and that we shouldn’t be ashamed to build 100% JavaScript applications.
+
+## [Revision 18 of the ECMAScript 6 Draft Spec](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#september_5_2013_draft)
+No new technical content compared to revision 17 but it has been completely restructured so if the ES6 spec is important to you, you might want to become familiar with it.
+
+## [ES6 Iterators, Generators, and Iterables](http://domenic.me/2013/09/06/es6-iterators-generators-and-iterables/)
+A quick guide to the terminology around ES6’s iteration-related concepts.
+
+## [Using Express.js for APIs](http://blog.strongloop.com/using-express-js-for-apis/)
+A few tips and libraries for creating and documenting RESTful APIs with Express.js, along with [an example app](https://github.com/jedwood/express-for-APIs) that incorporates some of the ideas.
+
+## [ES6 on Node.js](http://h3manth.com/new/blog/2013/es6-on-nodejs/)
+A look at using a variety of ECMAScript 6 and Harmony features on a recent edge version of Node.
+
+## [The Angular Way](http://flippinawesome.org/2013/09/03/the-angular-way/)
+Nicolas Bevacqua says his web application improved when he did things the “Angular Way” and shares tips on how to take most advantage of AngularJS.
+
+## [Variable and Function Hoisting in JavaScript](http://designpepper.com/blog/drips/variable-and-function-hoisting)
+One of the trickier aspects of JavaScript for new JavaScript developers is the fact that variables and functions are “hoisted.” A quick look at how it works. One for beginners.
+
+## [Learn AngularJS With These 5 Practical Examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
+
+## [Nested Higher-Order Functions in JavaScript](http://jtfmumm.com/blog/2013/08/31/nested-higher-order-functions-in-javascript/)
+
+## [VNC in 200 lines of JavaScript](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
+
+## [LINQ in JavaScript, ES6 style](http://www.aaron-powell.com/posts/2013-09-06-linq-in-javascript-es6.html)
+
+## [Does CoffeeScript Have a Future?](http://gaslight.co/blog/does-coffeescript-have-a-future)
+
+## [The Young Developer's Guide to Debugging JavaScript](http://open.blogs.nytimes.com/2013/08/27/the-young-developers-guide-to-debugging-javascript/?_r=0)
+
+
+- - -
+# 동영상
+
+## [Building an Ember.js Application](https://www.youtube.com/watch?v=1QHrlFlaXdI)
+A 27 minute screencast that walks through the process of building a blog reader application using Ember.js 1.0.
+
+## [An Introduction to Bower](http://egghead.io/lessons/bower-introduction-and-setup)
+In this short 3 minute video, John gives a quick introduction to Bower, a popular package and dependencies manager for JavaScript libraries.
+
+## [Testing Synchronous and Asynchronous JavaScript Callbacks with QUnit](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [jquery-textcomplete: Autocomplete for Textarea](https://github.com/yuku-t/jquery-textcomplete)
+Brings autocomplete mechanics for textarea fields, a la GitHub’s comment forms.
+
+## [Stanford JavaScript Crypto Library](http://crypto.stanford.edu/sjcl/)
+A project to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in JavaScript.
+
+## [parse5: Fast Full-Featured HTML5 Parser for Node](https://github.com/inikulin/parse5)
+Based on the WHATWG HTML5 specification for a browser-quality experience. *Also seen in [Node Weekly.](http://nodeweekly.com/archive/2.html)*
+
+## [xdomain: A Pure JavaScript CORS Alternative](https://github.com/jpillora/xdomain)
+
+## [Cleaver: 30-Second Slideshows for Hackers](http://jdan.github.io/cleaver/)
+Clean, fast and elegant slidedecks built from Markdown.
+
+## [dna.js Template Cloner: A DOM Templating Engine for jQuery](http://dnajs.org/)
+A JavaScript templating engine to dynamically build DOM elements from data supplied by JSON objects.
+
+## [LeapTrainer.js: Gesture Learning and Recognition Framework for The Leap Motion](https://github.com/roboleary/LeapTrainer.js)
+
+## [Fortune.js: A Web Framework for Prototyping Rich Hypermedia APIs](http://fortunejs.com/)
+
+## [Histogram.js: Frequency Sort An Array of Data](http://eoinmurray.io/blog/2013/09/02/histogram-dot-js/)
+
+
+- - -
+# 일자리
+
+## [Senior Frontend Web Developer at Backbase [Amsterdam, The Netherlands]](http://www.jobscore.com/jobs/backbase/javascript-front-end-consultant/cykaxw-wqr4kjUeJe4bk1X?ref=rss&amp;sid=68)
+Backbase is an internationally fast-growing portal software vendor with headquarters in Amsterdam. We're currently looking for senior frontend Web developers for our Amsterdam team. Are you an expert in JavaScript, CSS, HTML5? Come join Backbase.
+
+## [Software Developers (JavaScript or Java) - R&amp;D Positions in Vienna, Austria](http://www.weblyzard.com/jobs/)
+Participate in award-winning research projects as part of a young and interdisciplinary team. Part-/full-time and PhD candidate positions for innovative Java(Script) developers with a focus on visual analytics, Web intelligence and knowledge co-creation.
+
+## [JavaScript Jedi (Front-End Tech Lead) at OrderGroove (New York, NY)](https://hire.jobvite.com/j?cj=oKJGXfwQ&amp;s=Cooper_Press)
+OrderGroove is leading the Subscription eCommerce Revolution. We're an Agile team looking for world-class JS hackers who have 'the force' within to build our Subscription Retail Platform for the world's biggest brands, impacting the lives of millions of users.
+
+
+- - -
+# 마지막으로,
+
+## [Free eBook: 25 Secrets for Faster ASP.NET Applications](http://www.red-gate.com/products/dotnet-development/ants-performance-profil…_secrets&amp;utm_campaign=antsperformanceprofiler&amp;utm_term=email-20678)
+Want to speed up your ASP.NET application? Red Gate’s new eBook has 25 secret tips from the dev community and ASP.NET MVPs for squeezing the maximum performance out of your web applications. Download the free eBook.
+
+## [console.logtro: The World's First console.log Demo](http://sandbox.photonstorm.com/console.log/)
+A small demo-scene style demo that runs in the JavaScript console.
