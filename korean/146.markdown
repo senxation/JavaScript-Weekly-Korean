@@ -3,11 +3,12 @@
 - - -
 # 특집 기사
 
-## [Ember 1.0 Released](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
-A huge week for the popular JavaScript webapp framework as 2.5 years after the first commit, Ember 1.0 is out with a promise of no more breaking changes until 2.0. Congratulations to the whole team.
+## [Ember 1.0 출시](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
+첫번째 커밋 이후에 2.5년이나 지난 인기있는 자바스크립트 웹 어플리케이션 프레임워크 Ember가 1.0을 출시하였습니다.
+Ember 1.0에서 2.0이 될때 까지 더 이상 큰 변화를 하지 않겠다고 약속했습니다. 1.0을 출시한 Ember의 모든팀을 축하 해주세요
 
-## [Node Weekly Issue 2: Generators, Async Patterns, Home Automation and More](http://nodeweekly.com/archive/2.html)
-We launched our latest newsletter, [Node Weekly](http://nodeweekly.com/) a week ago. Check out the sort of things we cover there.
+## [Node 위클리 이슈 2: 생성자, 비동기 패턴, 홈 오토메이션와 그 이상의 것들](http://nodeweekly.com/archive/2.html)
+저희는 Node 위클리를 지난주 뉴스레터에서 출시했습니다.[Node 위클리](http://nodeweekly.com/) 가 커버하고있는 분야를 확인 해보세요
 
 
 - - -
@@ -60,13 +61,15 @@ One of the trickier aspects of JavaScript for new JavaScript developers is the f
 - - -
 # 동영상
 
-## [Building an Ember.js Application](https://www.youtube.com/watch?v=1QHrlFlaXdI)
-A 27 minute screencast that walks through the process of building a blog reader application using Ember.js 1.0.
+## [Ember.js 어플리케이션 제작하기](https://www.youtube.com/watch?v=1QHrlFlaXdI)
+Ember.js 1.0을 사용하여 블로그 리더 어플리케이션을 제작하는 과정을 담은 27여분의 영상입니다.
 
-## [An Introduction to Bower](http://egghead.io/lessons/bower-introduction-and-setup)
-In this short 3 minute video, John gives a quick introduction to Bower, a popular package and dependencies manager for JavaScript libraries.
+## [Bower에 대한 간단한 소개](http://egghead.io/lessons/bower-introduction-and-setup)
+자바스크립트 라이브러리들의 디펜던시 관리와 패키징을 해주는데 유명한 Bower의 간단한 소개입니다. 
+Egghead.io 개발자 John 이 3분의 짧은 영상에 담았습니다.
 
-## [Testing Synchronous and Asynchronous JavaScript Callbacks with QUnit](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
+## [QUnit을 이용한 동기/비동기 자바스크립트 콜백 테스트 하기](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
+자바스크립트 단위 테스트 프레임워크인 QUnit을 이용하여 자바스크립트 콜백 테스트를 하는 밥업에 대한 영상 입니다. 약 5분의영상입니다. 
 
 
 - - -
