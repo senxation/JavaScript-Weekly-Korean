@@ -72,28 +72,28 @@ In this short 3 minute video, John gives a quick introduction to Bower, a popula
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [jquery-textcomplete: Autocomplete for Textarea](https://github.com/yuku-t/jquery-textcomplete)
-Brings autocomplete mechanics for textarea fields, a la GitHub’s comment forms.
+## [jquery-textcomplete: Textarea를 위한 자동완성](https://github.com/yuku-t/jquery-textcomplete)
+GitHub의 코멘트 폼과 같이 textarea 필드에서 사용할 수 있는 자동완성 기술입니다.
 
-## [Stanford JavaScript Crypto Library](http://crypto.stanford.edu/sjcl/)
-A project to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in JavaScript.
+## [스탠포드 자바스크립트 암호 라이브러리](http://crypto.stanford.edu/sjcl/)
+자바스크립트에서 암호 작성시 안전하고 강력하며 빠르고 사용하기도 쉬운 크로스 브라우저 지원 라이브러리를 만드는 프로젝트입니다.
 
-## [parse5: Fast Full-Featured HTML5 Parser for Node](https://github.com/inikulin/parse5)
-Based on the WHATWG HTML5 specification for a browser-quality experience. *Also seen in [Node Weekly.](http://nodeweekly.com/archive/2.html)*
+## [parse5: Node를 위한 빠르고 완전한 기능을 갖춘 HTML5 파서](https://github.com/inikulin/parse5)
+WHATWG HTML5 스펙을 기반으로 하며 또한 [Node Weekly](http://nodeweekly.com/archive/2.html)에도 소개 되었습니다.
 
-## [xdomain: A Pure JavaScript CORS Alternative](https://github.com/jpillora/xdomain)
+## [xdomain: 순수 자바스크립트를 이용한 CORS의 대안](https://github.com/jpillora/xdomain)
 
-## [Cleaver: 30-Second Slideshows for Hackers](http://jdan.github.io/cleaver/)
-Clean, fast and elegant slidedecks built from Markdown.
+## [Cleaver: 해커를 위한 30초 슬라이드쇼](http://jdan.github.io/cleaver/)
+마크다운으로 만드는 깔끔하고 빠르며 훌륭한 슬라이드덱입니다.
 
-## [dna.js Template Cloner: A DOM Templating Engine for jQuery](http://dnajs.org/)
-A JavaScript templating engine to dynamically build DOM elements from data supplied by JSON objects.
+## [dna.js Template Cloner: jQuery를 위한 DOM 템플릿 엔진](http://dnajs.org/)
+JSON 객체 형식의 데이터에서 DOM 엘리먼트를 동적으로 만들어 주는 자바스크립트 템플릿 엔진입니다.
 
-## [LeapTrainer.js: Gesture Learning and Recognition Framework for The Leap Motion](https://github.com/roboleary/LeapTrainer.js)
+## [LeapTrainer.js: Leap Motion을 위한 제스쳐를 학습하고 인식시키는 프레임워크](https://github.com/roboleary/LeapTrainer.js)
 
-## [Fortune.js: A Web Framework for Prototyping Rich Hypermedia APIs](http://fortunejs.com/)
+## [Fortune.js: 리치 하이퍼미디어 API 프로토타이핑을 위한 웹 프레임워크](http://fortunejs.com/)
 
-## [Histogram.js: Frequency Sort An Array of Data](http://eoinmurray.io/blog/2013/09/02/histogram-dot-js/)
+## [Histogram.js: 배열 정보의 빈도수 정렬](http://eoinmurray.io/blog/2013/09/02/histogram-dot-js/)
 
 
 - - -
