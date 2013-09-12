@@ -14,8 +14,9 @@ Ember 1.0에서 2.0이 될때 까지 더 이상 큰 변화를 하지 않겠다�
 - - -
 # 스폰서기사
 
-## [Frontend Masters: Upcoming LIVE Online/In-Person Workshop on Data Visualizations with D3.js by Ian Johnson](https://frontendmasters.com/workshops/interactive-data-visualization-d3js/)
-In this workshop we’ll tour D3’s API and get you comfortable with some of the more subtle aspects of it’s design. You will be exposed to a variety of patterns that can be utilized anywhere you have data that needs to be expressed. *Join us Friday, September 20th LIVE online.*
+## [Frontend Masters: 이안 존슨이 직접 진행하는 D3.js를 사용한 데이터 시각화 실시간 온라인 워크샵](https://frontendmasters.com/workshops/interactive-data-visualization-d3js/)
+이번 워크샵에서는 D3의 API를 살펴보고 D3 설계에서 쉽게 알아내기 힘든 부분에 대해 알아볼 것입니다. 표현해야 할 다양한 데이터에 적용할 수 있는 여러 가지 패턴을 살펴볼 예정입니다. 9월 20일 금요일 온라인 생방송을 기대하세요.
+
 
 
 - - -
@@ -102,21 +103,22 @@ JSON 객체 형식의 데이터에서 DOM 엘리먼트를 동적으로 만들어
 - - -
 # 일자리
 
-## [Senior Frontend Web Developer at Backbase [Amsterdam, The Netherlands]](http://www.jobscore.com/jobs/backbase/javascript-front-end-consultant/cykaxw-wqr4kjUeJe4bk1X?ref=rss&amp;sid=68)
-Backbase is an internationally fast-growing portal software vendor with headquarters in Amsterdam. We're currently looking for senior frontend Web developers for our Amsterdam team. Are you an expert in JavaScript, CSS, HTML5? Come join Backbase.
+## [Backbase에서 근무할 시니어 프론트엔드 웹 개발자 [네덜란드, 암스테르담]](http://www.jobscore.com/jobs/backbase/javascript-front-end-consultant/cykaxw-wqr4kjUeJe4bk1X?ref=rss&amp;sid=68)
+Backbase는 암스테르담에 본사를 둔 국제적으로 빠르게 성장하고 있는 포탈 소프트웨어 판매사입니다. 암스테르담의 팀에서 근무할 시니어 프론트엔드 웹 개발자를 찾고 있습니다. 자바스크립트, CSS, HTML5을 능숙하게 사용할 수 있나요? Backbase로 오세요.
 
-## [Software Developers (JavaScript or Java) - R&amp;D Positions in Vienna, Austria](http://www.weblyzard.com/jobs/)
-Participate in award-winning research projects as part of a young and interdisciplinary team. Part-/full-time and PhD candidate positions for innovative Java(Script) developers with a focus on visual analytics, Web intelligence and knowledge co-creation.
+## [소프트웨어 개발자 (자바스크립트 또는 자바) - 연구/개발직, 오스트리아 비엔나 근무](http://www.weblyzard.com/jobs/)
+젊고 여러 분야의 인력들로 구성된 팀에서 수상 경력이 있는 연구 프로젝트에 참여하세요. 풀타임/파트타임 근무 가능하며 시각적 분석, 웹 인텔리전스, 공동 지식 창출에 집중할 혁신적인 자바(스크립트) 개발자에 지원할 박사 과정 지원자를 찾습니다. 
 
-## [JavaScript Jedi (Front-End Tech Lead) at OrderGroove (New York, NY)](https://hire.jobvite.com/j?cj=oKJGXfwQ&amp;s=Cooper_Press)
-OrderGroove is leading the Subscription eCommerce Revolution. We're an Agile team looking for world-class JS hackers who have 'the force' within to build our Subscription Retail Platform for the world's biggest brands, impacting the lives of millions of users.
-
+## [OrderGroove에서 근무할 자바스크립트 제다이 (프론트엔드 기술 리더) (뉴욕주, 뉴욕시 근무)](https://hire.jobvite.com/j?cj=oKJGXfwQ&amp;s=Cooper_Press)
+OrderGroove는 구독방식의 e커머스 혁명을 주도하고 있습니다. 우리는 애자일 팀으로 세계 최대의 브랜드를 판매하고 수백만 사용자의 삶을 변화시킬 우리의 구독 방식 소매 플랫폼을 만들 수 있는 '포스'를 지니고 있는 월드클래스의 JS 해커를 찾고 있습니다.
 
 - - -
 # 마지막으로,
 
-## [Free eBook: 25 Secrets for Faster ASP.NET Applications](http://www.red-gate.com/products/dotnet-development/ants-performance-profil…_secrets&amp;utm_campaign=antsperformanceprofiler&amp;utm_term=email-20678)
-Want to speed up your ASP.NET application? Red Gate’s new eBook has 25 secret tips from the dev community and ASP.NET MVPs for squeezing the maximum performance out of your web applications. Download the free eBook.
+## [무료 e북: 더 빠른 ASP.NET 애플리케이션의 25가지 비밀](http://www.red-gate.com/products/dotnet-development/ants-performance-profil…_secrets&amp;utm_campaign=antsperformanceprofiler&amp;utm_term=email-20678)
+여러분의 ASP.NET 애플리케이션의 속도를 개선하길 원하시나요? 개발 커뮤니티와 ASP.NET MVP로부터 여러분이 만든 웹 애플리케이션의 최대 성능을 이끌어낼 수 있는 25가지 팁을 추려 Red Gate사의 새로운 e북에 담았습니다. 무료 e북을 다운로드 하세요.
 
-## [console.logtro: The World's First console.log Demo](http://sandbox.photonstorm.com/console.log/)
-A small demo-scene style demo that runs in the JavaScript console.
+## [console.logtro: 세계 최초의 console.log 데모](http://sandbox.photonstorm.com/console.log/)
+자바스크립트 콘솔에서 실행되는 작은 컴퓨터 아트 스타일의 데모입니다.
+
+
