@@ -39,8 +39,12 @@ HTMLElement.prototype.qs = function(s) {
                     break;
             }
         }
-        if (len === 3) {
-            if (child[0].tagName.toLowerCase() === "strong") { //strong, br, span
+
+        console.log(child, len)
+        if (len >= 3) {
+            if (len === 4 && child[0].tagName.toLowerCase() === "a") { //a, strong, br, span
+                html = "## " + child[1].outerHTML + "\n" + child[3].innerHTML.trim() + "\n";
+            } else if (child[0].tagName.toLowerCase() === "strong") { //strong, br, span
                 html = "## " + child[0].innerHTML + "\n" + child[2].innerHTML.trim() + "\n";
             } else { //a, br, span
                 html = "## " + child[0].outerHTML + "\n";

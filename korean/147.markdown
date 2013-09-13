@@ -1,0 +1,111 @@
+원문 : [http://javascriptweekly.com/archive/147.html]
+
+- - -
+# 특집 기사
+
+## [The O'Reilly Fluent Conference 2014 Call for Proposals Is Open](http://fluentconf.com/fluent2014/public/cfp/286)
+We’re back in San Francisco in March 2014 with the third Fluent, a conference dedicated to the Web Platform, JavaScript, and related technologies. With almost 1200 attendees this year, Fluent is one of the leading events in the space and the CFP ends on September 30. Come and submit a talk or workshop.
+
+## [A Crowd-Funded Reboot for Eloquent JavaScript](https://eloquentjavascript.net/2nd_edition/)
+Eloquent JavaScript by Marijn Haverbeke is both one of the most popular free JavaScript tutorials *and* JavaScript books and Marijn now wants to produce a newly written second edition and invites everyone to chip in on certain areas of its development.
+
+
+- - -
+# 스폰서기사
+
+## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
+Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+
+
+- - -
+# 읽을 거리
+
+## [Understanding ECMAScript 6 Arrow Functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
+One of the most interesting new parts of ECMAScript 6 are 'arrow' functions. Luckily we have Nicholas C Zakas here to give us a run through of how they work and how to use them.
+
+## [D3 on AngularJS](http://www.ng-newsletter.com/posts/d3-on-angular.html)
+D3 is a popular library for manipulating and rendering document-based data through HTML, SVG, and CSS, but combining D3 and Angular can be tricky. This post shares a variety of approaches.
+
+## [Anti-Pattern: Putting Data in Prototype Properties](http://www.2ality.com/2013/09/data-in-prototypes.html)
+Axel explains why it may seem like a good idea to put data in prototype properties but actually isn’t.
+
+## [Rough Notes on the jQuery Conference Austin Talks](https://gist.github.com/neildahlke/6509891)
+jQuery Conference Austin was on earlier this week and Neil Dahlke has taken some basic notes from each session.
+
+## [Getting Started With Node.js, Express, MongoDB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+Billed as *‘the dead-simple step-by-step guide for front-end developers to getting up and running with Node.js, Express, Jade, and MongoDB’*, it’s an extensive step-by-step tutorial. *As seen in [Node Weekly issue #3.](http://nodeweekly.com/archive/3.html)*
+
+## [The Beginner's Guide to three.js](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
+A step by step guide to using three.js to create a 3D logo backed by WebGL.
+
+## [Promise Patterns](http://modernjavascript.blogspot.com/2013/09/promise-patterns.html)
+Promises can make it easier to implement common asynchronous patterns with callbacks. Rhys shows off some uses.
+
+## [Five Helpful Tips When Using RequireJS](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
+RequireJS, a “JavaScript file and module loader”, is a powerful way to organize, manage, build and load JavaScript in your app, and here Jim Cowart shares five tips he really wished he’d known sooner rather than later about using it.
+
+## [Creating Custom Filters in jQuery](http://flippinawesome.org/2013/09/09/creating-custom-filters-in-jquery/)
+Aurelio De Rosa shows the new and old ways of creating and using custom filters for DOM elements in jQuery.
+
+## [Using Node.js and WebSockets to Build a Chat Service](http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/)
+
+## [Getting to Know Mutation Observers](http://dev.opera.com/articles/view/mutation-observers-tutorial/)
+Sometimes you may need to know when the DOM node tree has changed or if a view has been loaded or unloaded. Mutation observers allow you to do this asynchronously, are defined by the DOM Level 4 spec, and are available in the latest versions of Opera, Chrome and Firefox.
+
+## [A Cleaner Backbone Mixin Strategy](http://kevindew.me/post/60797105836/a-cleaner-backbone-mixin-strategy)
+
+## [Retro Game Music using Web Audio and Band.js](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/?)
+Brian Rinaldi shows how the Band.js library creates 8-bit game music using JavaScript and the Web Audio API by recreating music from Zelda.
+
+## [Mocking Server Dependencies in JavaScript and AngularJS](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/?)
+Cliff Meyers walks through how to mock server side dependencies to simplify local development of SPA’s through a sample application.
+
+## [Auto-Ignoring Library Code While Debugging in Chrome](http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [Hapi: A Server Framework for Node.js](http://spumko.github.io/)
+A rich framework for building web applications and services. hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities.
+
+## [CLNDR.js: A Better jQuery Calendar Plugin](http://kylestetz.github.io/CLNDR/)
+
+## [Falcon.js: Structure for Knockout.js](http://stoodder.github.io/falconjs/)
+Falcon.js adds structure to knockout.js by incorporating models, collections, and views, to make developing single page apps a breeze. Extensive documentation.
+
+## [Formbuilder.js: An Interface for Users to Build Forms ](http://dobtco.github.io/formbuilder/)
+A graphical interface for letting users build their own webforms. Think Wufoo or Google Forms, but as a component that can be integrated into your application. It returns a structured JSON representation of your form to use as you wish.
+
+## [FilmRoll: A jQuery Carousel](http://straydogstudio.github.io/film_roll/)
+A lightweight carousel that focuses on one item, centering it in the view. There are so many of these but this one is quite slick.
+
+## [New Adobe Generator for Photoshop CC uses Node.js for Scripting](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html)
+
+## [Advanced jQuery Boilerplate: jQuery Plugin to Create Scalable jQuery Plugins, Fast](https://github.com/elclanrs/advanced-jquery-boilerplate)
+
+## [MurmurHash3.js: A JS Implementation of MurmurHash3's Hashing Algorithms](https://github.com/karanlyons/murmurHash3.js)
+
+## [favico.js: Make A Use of Your Favicon with Badges, Images or Videos](http://lab.ejci.net/favico.js/)
+
+
+
+- - -
+# 일자리
+
+## [Sr. JavaScript Engineer (San Francisco - SOMA)](http://www.krux.com/pro/who_we_are/careers/javascript_guru/)
+Want to solve some the world's hardest JavaScript problems using the latest technologies for a well funded Big Data company? Join a successful and talented team that's experiencing extraordinary growth, and help us pave the road to the future in Big Data.
+
+## [A well-funded startup with a seasoned team needs you](http://www.jobscore.com/jobs/orchestrate/front-end-engineer/c9z_0ag2qr46YDiGakhP3Q)
+Go ahead, click the link, it could change everything.
+
+
+
+- - -
+# 마지막으로,
+
+## [Join Hack Reactor's Elite S.F. Programming Bootcamp](http://hackreactor.com/?utm_source=jsweekly&amp;utm_medium=email&amp;utm_term=sept&amp;utm_content=jsweekly&amp;utm_campaign=jsweekly)
+Hack Reactor has developed a CS degree for the 21st century. We’ve achieved a 98% hiring rate and 110k average starting salaries for our students, as well as coverage in Wired and TechCrunch magazine.
+
+## [Espruino: JavaScript for Things](http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things)
+Espruino is a small computer that anyone can use to control things around them. Its JavaScript interpreter gives you instant feedback so that you can experiment and develop whatever your level of experience. It’s currently doing very well on Kickstarter and has passed its funding goal.
