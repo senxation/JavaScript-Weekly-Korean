@@ -22,47 +22,47 @@ Ember 1.0에서 2.0이 될때 까지 더 이상 큰 변화를 하지 않겠다�
 - - -
 # 읽을 거리
 
-## [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
-An extensive tutorial/guide to building a complete app with AngularJS, Node, Express and MongoDB.
+## [AngularJS 지침서: 최신 웹 앱을 만드는 방법 배우기](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
+AngularJS, Node, Express와 MongoDB를 사용해 완전한 애플리케이션을 만들기위한 대규모의 지침서/가이드
 
-## [Progressive Enhancement: Zed’s Dead, Baby](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)
-Tom notes that “the browser transformed from being an awesome interactive document viewer into being the world’s most advanced, widely-distributed application runtime” and that we shouldn’t be ashamed to build 100% JavaScript applications.
+## [점진적인 향상: Zed는 죽었다](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)
+Tom은 "브라우저는 놀라운 인터랙티브 문서 뷰어가 되는것에서 세상에서 가장 진보되고, 널리 배포된 애플리케이션 런타임으로 변모하고 있다"고 언급합니다. 그리고 100% 자바스크립트 애플리케이션을 만드는데 부끄러워할 필요가 없다고 말합니다.
 
-## [Revision 18 of the ECMAScript 6 Draft Spec](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#september_5_2013_draft)
-No new technical content compared to revision 17 but it has been completely restructured so if the ES6 spec is important to you, you might want to become familiar with it.
+## [ECMAScript 6 초안 스펙 리비전 18](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#september_5_2013_draft)
+리비전 18은 리비전 17에 비해 새로운 기술적인 내용은 없지만 완전히 재구성되었습니다. ES6 스펙이 중요하다고 생각한다면, 이 문서에 익숙해지를 원하시겠죠.
 
-## [ES6 Iterators, Generators, and Iterables](http://domenic.me/2013/09/06/es6-iterators-generators-and-iterables/)
-A quick guide to the terminology around ES6’s iteration-related concepts.
+## [ES6 반복자, 제네레이터, 그리고 Iterables](http://domenic.me/2013/09/06/es6-iterators-generators-and-iterables/)
+ES6의 반복과 관련된 개념에 대한 용어들에 대한 간단한 가이드문서입니다.
 
-## [Using Express.js for APIs](http://blog.strongloop.com/using-express-js-for-apis/)
-A few tips and libraries for creating and documenting RESTful APIs with Express.js, along with [an example app](https://github.com/jedwood/express-for-APIs) that incorporates some of the ideas.
+## [API를 위해 Express.js 사용하기](http://blog.strongloop.com/using-express-js-for-apis/)
+[예제 앱](https://github.com/jedwood/express-for-APIs)과 함께, Express.js로 RESTful API를 만들고 문서화하기 위한 몇가지 팁과 라이브러리를 공유합니다.
 
-## [ES6 on Node.js](http://h3manth.com/new/blog/2013/es6-on-nodejs/)
-A look at using a variety of ECMAScript 6 and Harmony features on a recent edge version of Node.
+## [Node.js에서의 ES6](http://h3manth.com/new/blog/2013/es6-on-nodejs/)
+최신 버전의 Node에서 다양한 ECMAScript 6와 Harmony 기능들을 사용하는 방법을 살펴봅니다.
 
-## [The Angular Way](http://flippinawesome.org/2013/09/03/the-angular-way/)
-Nicolas Bevacqua says his web application improved when he did things the “Angular Way” and shares tips on how to take most advantage of AngularJS.
+## [Angular의 방식](http://flippinawesome.org/2013/09/03/the-angular-way/)
+Nicolas Bevacqua는 그의 웹 애플리케이션이 "Angular의 방식"으로 처리했을 때 더 개선되었다고 말하면서 AngularJS의 이점을 대부분 이용하는 팁들을 공유합니다.
 
-## [Variable and Function Hoisting in JavaScript](http://designpepper.com/blog/drips/variable-and-function-hoisting)
-One of the trickier aspects of JavaScript for new JavaScript developers is the fact that variables and functions are “hoisted.” A quick look at how it works. One for beginners.
+## [자바스크립트의 변수와 함수 호이스팅](http://designpepper.com/blog/drips/variable-and-function-hoisting)
+새로운 자바스크립트 개발자들에게 자바스크립트의 교묘한 점중 하나는, 변수와 함수가 "호이스팅"된다는 사실입니다. 초보자들을 위해 호이스팅이 어떻게 동작하는지 간단하게 살펴봅니다.
 
-## [Learn AngularJS With These 5 Practical Examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
+## [5가지 실질적인 예제로 AngularJS 배우기](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
 
-## [Nested Higher-Order Functions in JavaScript](http://jtfmumm.com/blog/2013/08/31/nested-higher-order-functions-in-javascript/)
+## [자바스크립트의 감싸진 고차함수(Nested Higher-Order Functions)](http://jtfmumm.com/blog/2013/08/31/nested-higher-order-functions-in-javascript/)
 
-## [VNC in 200 lines of JavaScript](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
+## [자바스크립트 200줄로 만든 VNC](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
-## [LINQ in JavaScript, ES6 style](http://www.aaron-powell.com/posts/2013-09-06-linq-in-javascript-es6.html)
+## [ES6 스타일 자바스크립트 LINQ](http://www.aaron-powell.com/posts/2013-09-06-linq-in-javascript-es6.html)
 
-## [Does CoffeeScript Have a Future?](http://gaslight.co/blog/does-coffeescript-have-a-future)
+## [CoffeeScript는 미래가 있을까?](http://gaslight.co/blog/does-coffeescript-have-a-future)
 
-## [The Young Developer's Guide to Debugging JavaScript](http://open.blogs.nytimes.com/2013/08/27/the-young-developers-guide-to-debugging-javascript/?_r=0)
+## [자바스크립트 디버깅에 대한 초보 개발자 가이드](http://open.blogs.nytimes.com/2013/08/27/the-young-developers-guide-to-debugging-javascript/?_r=0)
 
 
 - - -
 # 동영상
 
-## [Ember.js 어플리케이션 제작하기](https://www.youtube.com/watch?v=1QHrlFlaXdI)
+## [Ember.js 애플리케이션 제작하기](https://www.youtube.com/watch?v=1QHrlFlaXdI)
 Ember.js 1.0을 사용하여 블로그 리더 어플리케이션을 제작하는 과정을 담은 27여분의 영상입니다.
 
 ## [Bower에 대한 간단한 소개](http://egghead.io/lessons/bower-introduction-and-setup)
