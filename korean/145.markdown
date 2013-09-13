@@ -4,14 +4,11 @@
 # 특집 기사
 
 ## [Ember.js 1.0 의 전망: 마침내 이번 주에 출시?](https://github.com/emberjs/ember.js/issues/3246)
-만약 당신이 Ember 의 팬이라면 JavaScript Weekly 의 다음주를 살펴 보세요. 마침내 Ember 1.0 이 릴리즈 됩니다. ( 8/31 ).
-해당 포스트에서 Ember의 메인 개발자인 Tom Dale 이 방대해진 1.0에 다가서기 위해 필요한 모든것들을 공유합니다.
+만약 당신이 Ember 의 팬이라면 다음주 JavaScript Weekly를 살펴 보세요. 마침내 Ember 1.0 이 릴리즈 됩니다. (8/31). 해당 포스트에서 Ember의 메인 개발자인 Tom Dale이 방대해진 1.0에 다가서기 위해 필요한 모든 것들을 공유합니다.
 
-## [Yeoman 1.0 출시: 현대의 WebApp들을 위한 워크플로우 ](http://yeoman.io/blog/hello-1.0.html)
-*yo* 는 독립적인 스캐폴팅( 개발의 기본이 되는 뼈대와 환경을 구축해주는 기술) 툴 입니다. 더 나은 generator 시스템, 성능 향상, 설치 과정의 자동화가 추가 되었습니다.
-단지 *yo* 를 실행 하는 것 만으로 새로운 도움말 프롬프트 시스템을 사용 할 수있습니다. ( generator를 업데이트 하거나, 설치 하거나, 도움말을 찾는 기능을 가집니다. )
-예전 버전에 비하여 추가된 부분은 위 링크의 Hightlights를 보시면 됩니다.
-Addy Osmani 가  5분분량의 프리젠테이션( http://www.youtube.com/watch?v=MTYZzs8ud3E )을 통해서  Yeoman의 미래에 대해 공유 합니다.
+## [Yeoman 1.0 출시: 최신 WebApp들을 위한 워크플로우 ](http://yeoman.io/blog/hello-1.0.html)
+*yo* 는 독립적인 스캐폴딩(개발의 기본이 되는 뼈대와 환경을 구축해주는 기술) 툴 입니다. 더 나은 generator 시스템, 성능 향상, 설치 과정의 자동화가 추가 되었습니다.
+단지 *yo* 를 실행하는 것 만으로 새로운 도움말 프롬프트 시스템을 사용할 수 있습니다. (generator를 업데이트 하거나, 설치하거나, 도움말을 찾는 기능을 가집니다.) 예전 버전에 비하여 추가된 부분은 위 링크의 Hightlights를 보시면 됩니다. Addy Osmani가 5분 분량의 [발표영상](http://www.youtube.com/watch?v=MTYZzs8ud3E)을 통해서 Yeoman의 미래에 대해 공유 합니다.
 
 
 - - -
@@ -67,38 +64,37 @@ Stoyan Stefanov는 페이스북의 UI라이브러리인 React에 대해 간략�
 - - -
 # 동영상
 
-## [WDCNZ 2013 의 The Loading Point: 얼마나 작은 모듈들이 큰 차이를 만들어낼수 있는지 ](https://vimeo.com/album/2495028/video/72690876)
-Walter Rumsby 는 WDCNZ 2013에서 모듈들로 개발하기 위한 YUI, RequireJS, Ext JS, Browserify의 최선의 실전사례와 테크닉에 대해 소개 합니다. ( 45분 분량 )
+## [WDCNZ 2013 의 The Loading Point: 얼마나 작은 모듈들이 큰 차이를 만들어낼 수 있는지](https://vimeo.com/album/2495028/video/72690876) (00:45)
+Walter Rumsby는 WDCNZ 2013에서 모듈들로 개발하기 위한 YUI, RequireJS, Ext JS, Browserify의 최선의 실천사례와 테크닉에 대해 소개합니다.
 
-## [WDCNZ 2013 의 Data Driven Delirious: D3.js를 사용한 데이터 시각화 소개 동영상](https://vimeo.com/album/2495028/video/72467564) ( 31분 분량 )
+## [WDCNZ 2013 의 Data Driven Delirious: D3.js를 사용한 데이터 시각화 소개](https://vimeo.com/album/2495028/video/72467564) (00:31)
 
-## [크롬 개발툴 Flame 차트로 자바스크립트 프로세싱 시간 시각화 동영상 ](http://addyosmani.com/blog/devtools-flame-charts/) ( 2분 30초 분량 )
+## [크롬 개발툴 Flame 차트로 자바스크립트 프로세싱 시간 시각화](http://addyosmani.com/blog/devtools-flame-charts/) (02:30)
 
 
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [jsPDF: 클라이언트 사이드 PDF 생성 솔루션](http://parall.ax/products/jspdf)
-즉각적인 문서 생성시 사용합니다( 티켓, 보고서 등등...). IE6+, 파이어폭스 3+, 크롬, 사파리 3+, 오페라에서 동작합니다.
+## [jsPDF: 클라이언트측 PDF 생성 솔루션](http://parall.ax/products/jspdf)
+즉각적인 문서 생성시 사용합니다(티켓, 보고서 등등...). IE6+, 파이어폭스 3+, 크롬, 사파리 3+, 오페라에서 동작합니다.
 
 ## [D3.js 3.3 릴리즈](https://github.com/mbostock/d3/releases/tag/v3.3.0)
 
 ## [크롬과 Node.js를 위한 자바스크립트 디버거 'Theseus(테세우스)'](http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/)
-"Theseus"는 Brackets 코드 에디터를 위한 자바스크립트 디버거로 크롬과 Node.js 사용 시 실행 중 자바스크립트 디버깅이 가능하게 해줍니다. 한 가지 흥미로운 기능은 모아진 디버그 정보를 에디터 내에서 이용 할 수 있다는 점입니다.
+"Theseus"는 Brackets 코드 에디터를 위한 자바스크립트 디버거로 크롬과 Node.js에서 실행되는 자바스크립트를 디버깅이 가능하게 해줍니다. 한 가지 흥미로운 기능은 모아진 디버그 정보를 에디터 내에서 이용 할 수 있다는 점입니다.
 
 ## [Sifter.js: 자동 완성 검색 라이브러리](https://github.com/brianreavis/sifter.js)
 속성 값을 이용해 배열과 해쉬로 구성된 정보 객체를 텍스트 검색하는 CommonJS 라이브러리입니다.
 Sifter는 자동완성 기능을 위해 설계되었고 데이터셋 테스트를 위한 커맨드 라인 인터페이스도 제공합니다.
 
 ## [Hopscotch: 웹 페이지 안의 내용 설명을 위한 프레임워크](http://linkedin.github.io/hopscotch/)
-Hopscotch는 JSON 객체로 투어 정보를 받습니다. 그리고 투어 진행과 화면을 관리할 수 있는 API를 제공합니다.
-요소 : 투어 이벤트에 대한 콜백( onNext 등... )를 제공하고 여러 페이지에 걸쳐 사용 할 수 있으며 국제화 지원 등의 다양한 기능을 제공합니다.
+Hopscotch는 JSON 객체로 투어 정보를 받습니다. 그리고 투어 진행과 화면을 관리할 수 있는 API를 제공합니다. 기능 : 투어 이벤트에 대한 콜백(onNext 등...)를 제공하고 여러 페이지에 걸쳐 사용 할 수 있으며 국제화 지원 등의 다양한 기능을 제공합니다.
 > 웹페이지 내의 내용을 설명하기 위해 요소 사이를 이동하는 것을 'tour'라 칭함.
 
 ## [RequireBin: Node.js 모듈을 이용하여 브라우저 코드를 공유하기](http://requirebin.com/)
-Node.js 모듈을 사용하여 클라이언트 사이드 코드를 공유하고 편집할 수 있는 웹앱니다. 코드는 browserify를 통해 변환되고 Gist에 저장됩니다.
+Node.js 모듈을 사용하여 클라이언트측 코드를 공유하고 편집할 수 있는 웹앱니다. 코드는 browserify를 통해 변환되고 Gist에 저장됩니다.
 
-## [mdn.io: MDN을 위한 간접적인(passive) URL 단축자](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html)
+## [mdn.io: MDN을 위한 간접적인(passive) URL 단축기](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html)
 웹 서비스의 URL을 모질라 개발 네트워크 사이트로 한정하여 구글링 한 후 첫 번째 검색 결과로 이동시켜 줍니다. [mdn.io/defineproperty](http://mdn.io/defineproperty)와 같은 단축 URL 표시를 가능케 해줍니다.
 > 원문의 'passive'라는 의미는 1:1 매칭의 URL 단축서비스가 아닌 url을 구글링하여 검색 결과를 통해 redirect 시켜주는 방식에 대한 의미로서 사용된 듯 합니다.
 
@@ -112,14 +108,14 @@ Ajax 요청을 조작 할 수 있게 도와주는 XMLHttpRequest 패치입니다
 ## [Backbone.Modal: modal 창을 간편하게 만들수 있게 도와주는 플러그인](http://awkward.github.io/backbone.modal/)
 
 ## [wu.js: 자바스크립트에서 지연 함수 프로그래밍을 지원하는 라이브러리](http://fitzgen.github.io/wu.js/)
-이 라이브러리는 맵과 필터 등에 반복자(iterator) 를 적용하여 사용 시 처리되는 일련의 요소를 만들 수 있게 해준다.
+이 라이브러리는 map()과 filter()등에 반복자(iterator)를 적용하여, 지연되어 처리되는('just-in-time') 일련의 요소를 만들 수 있게 해줍니다.
 
-## [Antycs: 애낼리스틱스 이벤트 수집 관련 코드를 단순화하고 조직화 하기](http://freshcod.es/antycs/)
+## [Antycs: 분석 이벤트 수집 관련 코드를 단순화하고 조직화 하기](http://freshcod.es/antycs/)
 
 ## [Hammer.js: 멀티 터치 제스쳐 라이브러리 ](http://eightmedia.github.io/hammer.js/)
 탭, 더블 탭, 스와이프, 드래그, 핀치 그리고 로테이트 제스쳐를 지원합니다. 각 제스쳐는 이벤트를 발생시킵니다.
 
-## [Minivents: 작은 자바스크립트 이벤트 라이브러리](https://github.com/allouis/minivents)
+## [Minivents: 아주 작은 자바스크립트 이벤트 라이브러리](https://github.com/allouis/minivents)
 
 ## [Flipload: 로딩 중 화면을 보여주기 위해 HTML 엘리먼트를 뒷면으로 뒤집기](http://pazguille.github.io/flipload/)
 
@@ -127,10 +123,10 @@ Ajax 요청을 조작 할 수 있게 도와주는 XMLHttpRequest 패치입니다
 - - -
 # 일자리
 
-## [Turn 소프트웨어 엔지니어 (실리콘 밸리)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
-Angular, Node, Bootstrap. Big data, machine learning, 분산 시스템. 여러분이 이런 기술에 관심을 갖고 있고 자바스크립트 실력이 좋다면 턴의 프론트 엔드 애플리케이션 팀에서 같이 일하는 것에 대해 이야기를 나눠보고 싶습니다.
+## [소프트웨어 엔지니어 @ Turn (실리콘 밸리)](http://www.turn.com/career-opportunities/applications-engineering-front-end)
+Angular, Node, Bootstrap, Big data, machine learning, 분산 시스템. 여러분이 이런 기술에 관심을 갖고 있고 자바스크립트 실력이 좋다면 턴(Turn)의 프론트 엔드 애플리케이션 팀에서 같이 일하는 것에 대해 이야기를 나눠보고 싶습니다.
 
-## [네덜란드 암스테르담에 있는 Booking.com에서 근무할 웹 디자이너](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540)
+## [웹 디자이너 @ Booking.com (네덜란드 암스테르담)](http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540)
 세계 1위의 숙박 웹사이트인 Booking.com은 세계에서 가장 스마트한 디자이너를 찾고 있습니다. 웹의 무한한 잠재력과 환상적인 HTML & CSS를 만드는 일에 홀딱 빠져 있나요? 수백만명의 사람들에게 도움이 되는 중요하고 거대한 혁신을 직접 만들어보세요.
 
 
@@ -139,4 +135,4 @@ Angular, Node, Bootstrap. Big data, machine learning, 분산 시스템. 여러�
 # 마지막으로,
 
 ## [더 간단한 배포 방법](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m3&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20677)
-레드 게이트에서 만든 디플로이 매니저 2를 사용하여 컴포넌트와 컴퓨터에 관계 없이 배포하세요. 하나의 프로세스에 SQL 서버 데이터베이스와 .NET 애플리케이션을 함께 제공하세요. 바로 지금 시작하세요.
+레드 게이트(redgate)에서 만든 Deployment Manager 2를 사용하여 컴포넌트와 컴퓨터에 관계 없이 배포하세요. 하나의 프로세스에 SQL 서버 데이터베이스와 .NET 애플리케이션을 함께 제공하세요. 바로 지금 시작하세요.
