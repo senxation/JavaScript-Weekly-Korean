@@ -66,27 +66,27 @@ Cliff Meyers walks through how to mock server side dependencies to simplify loca
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Hapi: A Server Framework for Node.js](http://spumko.github.io/)
-A rich framework for building web applications and services. hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities.
+## [Hapi: Node.js를 위한 서버 프레임워크](http://spumko.github.io/)
+웹 애플리케이션과 서비스를 위한 리치 프레임워크. Hapi는 입력값 검증, 캐싱, 인증과 같은 여러가지 기본적인 기능들을 지원하고 이러한 기능들을 설정을 통해 간단히 사용할 수 있는 설정 중심 프레임워크 이다.
 
-## [CLNDR.js: A Better jQuery Calendar Plugin](http://kylestetz.github.io/CLNDR/)
+## [CLNDR.js: 더 나은 jQuery 달력 플러그인](http://kylestetz.github.io/CLNDR/)
 
-## [Falcon.js: Structure for Knockout.js](http://stoodder.github.io/falconjs/)
-Falcon.js adds structure to knockout.js by incorporating models, collections, and views, to make developing single page apps a breeze. Extensive documentation.
+## [Falcon.js: Knockou.js를 위한 프레임워크](http://stoodder.github.io/falconjs/)
+Falcon.js는 Knockout.js를 통해 싱글 페이지 앱 개발을 수월하게 할 수 있도록 모델, 컬렉션 그리고 뷰 구조를 추가합니다. 많은 문서가 있습니다.
 
-## [Formbuilder.js: An Interface for Users to Build Forms ](http://dobtco.github.io/formbuilder/)
-A graphical interface for letting users build their own webforms. Think Wufoo or Google Forms, but as a component that can be integrated into your application. It returns a structured JSON representation of your form to use as you wish.
+## [Formbuilder.js: 사용자가 폼을 만들 수 있게 해주는 인터페이스](http://dobtco.github.io/formbuilder/)
+사용자가 자신의 웹폼을 만들 수 있게 해주는 그래픽 인터페이스입니다. Wuffo나 Google 폼을 생각하면 됩니다. 하지만 당신의 애플리케이션에서 사용할 수 있는 컴퍼넌트 같은 것 입니다. 이 것은 당신이 손쉽게 사용할 수 있도록 구조화된 JSON 표현을 반환합니다.
 
-## [FilmRoll: A jQuery Carousel](http://straydogstudio.github.io/film_roll/)
-A lightweight carousel that focuses on one item, centering it in the view. There are so many of these but this one is quite slick.
+## [FilmRoll: jQuery 캐러셀](http://straydogstudio.github.io/film_roll/)
+화면의 중심에 놓여진 하나의 아이템에만 집중 할 수 있는 가볍게 사용할 수 있는 캐러셀입니다. 비슷한 종류의 많은 것이 있지만 이것은 매우 멋집니다.
 
-## [New Adobe Generator for Photoshop CC uses Node.js for Scripting](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html)
+## [포토샵 CC를 위한 새로운 Adobe Generator는 스크립트 언어로 Node.js를 사용 함](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html)
 
-## [Advanced jQuery Boilerplate: jQuery Plugin to Create Scalable jQuery Plugins, Fast](https://github.com/elclanrs/advanced-jquery-boilerplate)
+## [고급 jQuery Boilerplate: 확장 가능한 jQuery 플러그인을 만들기 위한 jQuery 플러그인](https://github.com/elclanrs/advanced-jquery-boilerplate)
 
-## [MurmurHash3.js: A JS Implementation of MurmurHash3's Hashing Algorithms](https://github.com/karanlyons/murmurHash3.js)
+## [MurmurHash3.js: MurMurHash3 해싱 알고리즘의 JS 구현체](https://github.com/karanlyons/murmurHash3.js)
 
-## [favico.js: Make A Use of Your Favicon with Badges, Images or Videos](http://lab.ejci.net/favico.js/)
+## [favico.js: 뱃지, 이미지, 비디오를 파비콘으로 사용할 수 있게 해 줌](http://lab.ejci.net/favico.js/)
 
 
 
