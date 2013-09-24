@@ -3,12 +3,16 @@
 - - -
 # 특집 기사
 
-## [The O'Reilly Fluent Conference 2014 Call for Proposals Is Open](http://fluentconf.com/fluent2014/public/cfp/286)
-We’re back in San Francisco in March 2014 with the third Fluent, a conference dedicated to the Web Platform, JavaScript, and related technologies. With almost 1200 attendees this year, Fluent is one of the leading events in the space and the CFP ends on September 30. Come and submit a talk or workshop.
+## [O'Reilly 의 Fluent 컨퍼런스 Call for Proposals 오픈](http://fluentconf.com/fluent2014/public/cfp/286)
+O'Reilly 가 웹플랫폼, 자바스크립트, 그리고 연관 기술에 대한 컨퍼런스로 2014년 3월에 샌프란시스코에 다시 돌아옵니다.
+이번년도는 거의 1200명의 참석자가 있었으며, Fluent 는 해당 분야를 이제 해당 분야를 대표하는 행사중에 하나 입니다. 9월 30일에 Call for Proposals가 종료 되니 많이들 제출 해주시고 워크샵에 참석 해주세요.
 
-## [A Crowd-Funded Reboot for Eloquent JavaScript](https://eloquentjavascript.net/2nd_edition/)
-Eloquent JavaScript by Marijn Haverbeke is both one of the most popular free JavaScript tutorials *and* JavaScript books and Marijn now wants to produce a newly written second edition and invites everyone to chip in on certain areas of its development.
+## [Eloquent 자바스크립트 개편을 위한 펀딩](https://eloquentjavascript.net/2nd_edition/)
+Marijn Haverbeke 에 의해 쓰여진 Eloquent 자바스크립트는 무료 자바스크립트 입문서 및 책 중에 가장 유명한 것 중에 하나입니다.
+Marijn은 2판을 새롭게 쓰길 원하며, 최근에 해당 작업을 위해 펀딩을 받고 있습니다.
+>자바스크립트 개론 : 체계적인 프로그래밍 수련법 이란 이름으로 번역 되었음
 
+>관련 링크: https://eloquentjavascript.net/
 
 - - -
 # 스폰서기사
