@@ -1,0 +1,134 @@
+원문 : [http://javascriptweekly.com/archive/148.html]
+
+- - -
+# 특집 기사
+
+## [27 Presentations from JSConf US 2013](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+A playlist with 27 (it says 36 but some are duplicates) talks from JSConf US 2013, includes things like Peter Flynn talking about [JavaScript performance tuning secrets](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle [making art in the browser](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee on [real time recompilation](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), and Angelina Fabbro on [trying to become an expert](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2) as an intermediate developer.
+
+## [Higgs: An Interesting New JavaScript VM and Compiler](https://github.com/maximecb/Higgs)
+A JavaScript interpreter and JIT compiler written in D that targets x86-64 platforms. It’s being developed as part of research into dynamic language optimization. Related to this, Dan Glasperlenspiel has written an interesting post about [using Higgs FFI to call C code from JavaScript.](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)
+
+
+- - -
+# 스폰서기사
+
+## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
+Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+
+
+- - -
+# 읽을 거리
+
+## [Fat Arrow Functions in JavaScript](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
+Since version 22, Firefox has supported ECMAScript 6’s arrow functions. This blog post explains what their advantages are, compared to function expressions.
+
+## [An Introduction to Dependency Injection in Node.js](http://tech.i.tv/09-17-2013/dependency-injection-in-nodejs/)
+Explains the programming design pattern “dependency injection” and introduces the library [Dependable](https://github.com/idottv/dependable) that helps with implementing it.
+
+## [Controlling CSS Animations and Transitions with JavaScript](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
+Coupled with a touch of JavaScript, CSS animations and transitions are able to accomplish hardware-accelerated animations and interactions more efficiently than most JavaScript libraries.
+
+## [Structure and Interpretation of Computer Programs (JavaScript Version)](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
+“[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)” (by Harold Abelson and Gerald Sussman with Julie Sussman), is one of the best programming text books. It uses Scheme and is highly recommended for JavaScript programmers, especially given how much Scheme has influenced JavaScript. This version of the book contains selected sections of the original, with examples in JavaScript.
+
+## [JS for Everyone: Materials for Your Next JavaScript Workshop](http://thewebivore.com/js-for-everyone-materials-for-your-next-javascript-workshop/)
+Pam Selle released the materials that were used at PhillyJSDev for a JavaScript fundamentals workshop.
+
+## [Scope Analysis for JavaScript Code](http://ariya.ofilabs.com/2013/09/scope-analysis-for-javascript-code.html)
+An explanation of what scope analysis is and demonstration of the [Escope](https://github.com/Constellation/escope) library that performs it on JavaScript code.
+
+## [Frameworkless JavaScript: Why Angular, Ember or Backbone Don’t Work for Us](https://moot.it/blog/technology/frameworkless-javascript.html)
+
+## [A Taste of FruitJS](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
+Andrew Hushbeck discusses how to use and how he built FruitJS, a Node.js utility that converts documentation written in Markdown into an HTML site.
+
+
+- - -
+# 동영상
+
+## [TC39 JavaScript Panel at Bocoup](http://www.youtube.com/watch?v=PJ1hUr7YJ-8)
+TC39 (Ecma Technical Committee 39) is responsible for maintaining and evolving the ECMAScript language standard. On September 18, Bocoup hosted a TC39 panel with Allen Wirfs-Brock, Douglas Crockford, Brendan Eich and others, moderated by Rick Waldron. Various issues regarding JavaScript and its future were discussed. *71 minutes.*
+
+## [The Basics of Backbone.js](http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/)
+Thomas Hunter II presents a high-level presentation of Backbone.js, covering many of the same topics from [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/). *37 minutes long.*
+
+## [JavaScript Jabber: Maintainable JavaScript with Nicholas Zakas](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
+In this podcast, a panel of six people (Nicholas Zakas, Joe Eames, AJ O’Neal and others) discusses issues related to Zakas’ concept of “maintainable JavaScript”. *58 minute podcast with transcript.*
+
+## [JavaScript and Web Security](http://www.youtube.com/watch?v=6_3pomxyp8M)
+This 49 minute talk covers several topics in JavaScript and web security, including secure password storage and authentication, [SRP](http://srp.stanford.edu) protocol, and common JavaScript security threats and injection techniques.
+
+## [How to Use Node and Photoshop Generator to Script Adobe Photoshop CC](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
+A great 25 minute screencast.
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [svg.js: JavaScript Library for Manipulating and Animating Scalable Vector Graphics](http://svgjs.com/)
+Much lighter than Raphael but with the resulting lack of backwards compatibility. The [documentation](https://github.com/wout/svg.js) is comprehensive.
+
+## [BladeRunnerJS: Framework for Modular Large-scale HTML5 Apps](http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/)
+Consists of a set of conventions plus associated tools and libraries that make it easy to develop, test, deploy and maintain large single-page web apps.
+
+## [TogetherJS: Add Real Time Collaboration Features to Your Site](https://togetherjs.com/)
+
+## [RedScript: A Ruby Flavored JavaScript Experiment](https://github.com/AdamBrodzinski/RedScript)
+A JavaScript-targeting transpiler (à la CoffeeScript) created to provide a more native experience for modules (AMD &amp; CommonJS), easier inheritance, and a Ruby style syntax.
+
+## [Introduction to Ember App Kit](http://embersherpa.com/articles/introduction-to-ember-app-kit/)
+Ember App Kit (EAK) is a tool set for Ember.js projects that includes Grunt, JSHint, QUnit, Karma (test runner), ES6 modules and Bower. EAK recently received blessings from the Ember Core Team. It specifies a default project layout and might eventually grow into an executable for creating and managing Ember projects. [Another introduction](http://blog.safaribooksonline.com/2013/09/18/ember-app-kit/) to EAK was written by Matthew Beale for Safari Books Online.
+
+## [JSModeler: JavaScript Framework to Create and Visualize 3D Models](https://github.com/kovacsv/JSModeler)
+Build 3D models and display them via a Three.js-based viewer. Other features: exporting to STL and OBJ format and geometry functions (2D and 3D).
+
+## [Vex: Modern, Flexible On-Page Dialog Library](http://github.hubspot.com/vex/docs/welcome/)
+Supports a high level of customization, including styling of all UI elements, themes, behaviors, animations and effects, with all options configurable on a per dialog basis. Under 7KB with a flexible API.
+
+## [TripleSec: Triple-Paranoid Symmetric Encryption Library](https://keybase.io/triplesec/)
+An open-source library for the browser and Node.js. TripleSec encrypts data with Salsa 20, AES, and Twofish, so that a compromise of one or two of the ciphers will expose nothing.
+
+## [Jor1k: OpenRISC 1000 Emulator Written in JavaScript, Running Linux](http://s-macke.github.io/jor1k/)
+
+## [Mapael: jQuery Plugin for Interactive Vector Maps](http://www.neveldo.fr/mapael/)
+jQuery Mapael is a jQuery plugin based on raphael.js that allows you to display dynamic vector maps (visualizing geographical data etc.).
+
+## [OJ: Framework for Building Websites Via API Calls](http://ojjs.org)
+Supports Backbone with two-way model and collection binding.
+
+## [LeapTrainer.js v0.2 Released](http://www.youtube.com/watch?v=LlRsuY2zofw)
+LeapTrainer.js is a gesture learning and recognition framework for the Leap Motion. This video showcases the new training UI and upgraded gesture recognition.
+
+## [completely.js: No-Dependencies Autocompletion Library](http://complete-ly.appspot.com/)
+
+## [FireShell: Front-End Boilerplate and Workflow Framework](http://getfireshell.com/)
+An opinionated framework for teams and individual developers aiming to encourage better workflow. Includes JavaScript task running, build processes, auto-minification and file concatenation, wrapped with a HTML5 boilerplate framework.
+
+## [Phaser: HTML5 Game Framework for Mobile and Desktop](http://phaser.io)
+Based on WebGL and Canvas, provides support for sprites, sound, input devices, animation, particles, cameras, etc.
+
+## [DataTables: Table Plugin for jQuery](http://www.datatables.net/)
+Progressively enhances tables with pagination, filtering, multi-column sorting and more. Accepts data from a variety of sources: DOM, JavaScript array, Ajax file, etc.
+
+
+- - -
+# 일자리
+
+## [Senior Web Engineer, Core Engineering (Oakland, CA)](https://hire.jobvite.com/j?cj=omGqXfw9&amp;s=JavaScriptWeekly)
+Pandora is look for an innovative, inspired Web Engineer with experience designing and building killer consumer web applications.  You will have the chance to take on complex and interesting problems as part of a highly collaborative and fun team.
+
+## [Software Engineer at Turn (Silicon Valley)](http://www.turn.com/career-opportunities/software-engineer-front-end)
+Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+
+## [Front-End Developer at The Nerdery](http://nerdery.com/jobs/positions/40)
+The Nerdery is looking for talented front-end developers with a passion for being on the cutting edge of web development with the skills to support legacy browsers when required. Our ideal candidate is highly motivated, always learning and pushing boundaries.
+
+## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+
+
+- - -
+# 마지막으로,
+
+## [Automate your release process](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20679)
+Get fast, repeatable deployments at your fingertips with Red Gate’s Deployment Manager. Ship your .NET apps, services, and databases in a single process, see the status of your environments on the shared dashboard, and manage all your deployments in one place. Get started now.

@@ -1,0 +1,120 @@
+원문 : [http://javascriptweekly.com/archive/149.html]
+
+- - -
+# 특집 기사
+
+## [BrowserSwarm: Automated JavaScript Testing Across Browsers](http://www.browserswarm.com/)
+Connects to your GitHub repo and runs your JavaScript code across 13 different browser versions (latest Chrome, Firefox, Safari, and Opera releases plus IE 6 through 10) in the cloud. Built by appendTo, Sauce Labs and the Microsoft Internet Explorer team.
+
+## [8 Talks from Reject.JS 2013](http://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT#rejectjs)
+A JavaScript conference that runs alongside JSConf EU. Topics range from [60 FPS retro gaming on mobile](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5) and [ES5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1) to [tidy callbacks](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7) and [adaptive Web design.](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4)
+
+
+- - -
+# 스폰서기사
+
+## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
+Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+
+
+- - -
+# 읽을 거리
+
+## [Native Speed on the Web with JavaScript &amp; asm.js](http://kripken.github.io/mloc_emscripten_talk/sloop.html?#/)
+An illuminating slidedeck from Mozilla’s Alon Zakai, the main developer of Emscripten, that digs into the tricks and techniques behind getting native-like performance for transpiled native code on the Web.
+
+## [JavaScript Modules, AMD, and The Road Ahead](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
+
+## [Making A Collaborative Piano Using Functional Reactive Programming](http://open.bekk.no/making-a-collaborative-piano-using-functional-reactive-programming-frp#?)
+Explains *Functional Reactive Programming* (FRP) via an example. FRP is a declarative programming paradigm combining functional and reactive programming that works with *signals*, values that change over time and stay connected (similar to data binding). FRP works well for implementing graphical user interfaces.
+
+## [How Complex are TodoMVC Implementations](http://blog.coderstats.net/todomvc-complexity/)
+Uses several metrics to compare the complexity of TodoMVC as implemented by various frameworks (jQuery, AngularJS, Ember.js, Backbone.js, etc). This can provide a way to see which frameworks encourage the use of simpler constructs.
+
+## [Filtering Arrays with Array#filter](http://designpepper.com/blog/drips/filtering-arrays-with-array-filter)
+Josh Clanton explains how this built-in array method works.
+
+## [Write Your CSS with&nbsp;JavaScript](http://davidwalsh.name/write-css-javascript)
+David shows off how to use ‘absurd.js’, an intriguing library that allows you to write stylesheets dynamically using JavaScript.
+
+## [Creating a Realistic Rain Effect with Canvas and JavaScript](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
+Marek Brodziak show the techniques used to build RainyDay.js, a library creating a realistic looking rain effect on HTML canvas.
+
+## [Unicode and JavaScript](http://www.2ality.com/2013/09/javascript-unicode.html)
+Axel Rauschmayer first gives a brief but thorough overview of Unicode and then explains how to use it properly in JavaScript.
+
+## [JavaScript Y Combinator](http://buzzdecafe.github.io/code/2013/09/05/javascript-y-combinator/)
+Michael Hurley uses JavaScript code to explain the [Y combinator](http://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator), a fixed-point combinator in lambda calculus.
+
+## [Introducing Responsive Web Typography With FlowType.JS](http://coding.smashingmagazine.com/2013/09/18/introducing-flowtype-js/)
+A jQuery plugin that adapts font sizes to the size of the device a web page is displayed in (similar to how responsive design already works for images).
+
+## [ServiceWorkers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+The HTML5 Application Cache helps web apps to operate offline. Alas, this API has [well-known limitations](http://alistapart.com/article/application-cache-is-a-douchebag). Therefore, Alex Russell proposes the ServiceWorkers API, which works around those limitations by giving developers lower-level primitives.
+
+## [Getting Started with Web Components and Polymer.js](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
+
+## [Automating Complex Workflows with Grunt Custom Tasks](http://flippinawesome.org/2013/09/23/automating-complex-workflows-with-grunt-custom-tasks/)
+Ben Farrell explains to create your own Grunt custom tasks that can be used to automate complex workflows, in his example he is extracting audio from video.
+
+## [How to Create a Prototype Angular UI without a Back-end](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+
+## [Playing with Chaos: Programming Fractals and Strange Attractors in JavaScript](http://www.amazon.com/dp/B00FA9CX2Y)
+A Kindle book by Keith Peters.
+
+
+- - -
+# 동영상
+
+## [A Knockout.js Screencast Series](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
+A 15 part series of bite size screencasts (between 5-13 minutes each) dedicated to showing off the Knockout.js MVVM library. 9 parts are already live to watch.
+
+## [Backbone.js Routers](http://www.sitepoint.com/backbone-js-routers/)
+Backbone.js routers are used to keep track of state in your app. Routers translate a path in the URL or in a hash of the URL into application state. In other words, routers map a path to a function. Andy Appleton shows off how to use them in this 8 minute screencast.
+
+## [A 99 Second Screencast Tour of Web Components with Polymer](http://addyosmani.com/blog/a-whirlwind-tour-of-web-components-with-polymer/)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [pace.js: Automatic Page Load Progress Bar](http://github.hubspot.com/pace/docs/welcome/)
+Displays the progress of loading a webapp (including Ajax requests). The progress is detected automatically.
+
+## [ngStart: Skeleton for New AngularJS Projects](https://github.com/marcorinck/ngStart)
+Uses Bower, RequireJS, JSLint, Grunt, Karma and more.
+
+## [jQuery 1.11 and 2.1 Beta 1 Released](http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/)
+
+## [Get Started Building Your Own Custom Ember Components](https://github.com/moonlight-labs/ember-component-library-template)
+This template provides you with the basic project structure, build configuration and instructions to build your own custom component libraries for Ember.
+
+## [Drawingboard.js: Simple Canvas Based Drawing Widget](http://leimi.github.io/drawingboard.js/)
+An HTML5 Canvas-based drawing widget that you can integrate easily on your site.
+
+## [JavaScript Is Jarig (Generated Music in Less Than 256 Bytes)](http://www.p01.org/releases/javascript_is_jarig/)
+The website also lists [other projects](http://www.p01.org/releases/) that are similar in spirit. For example, a “signed distance field raymarcher using 2D Canvas” in 256 bytes, whose [page](http://www.p01.org/releases/tea_storm/) demos it and explains how it works.
+
+## [Custom Builds of Lo-Dash 2.0](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/)
+
+## [steganography.js: Information Hiding Via JavaScript](http://www.peter-eigenschink.at/projects/steganographyjs/)
+A library that hides a text message in the alpha channel of a given image.
+
+## [Switch Between Different .npmrc Files with Ease](https://github.com/deoxxa/npmrc)
+
+## [generator-polymer: Yeoman Generator for Scaffolding Polymer Apps](https://github.com/yeoman/generator-polymer)
+
+## [generator-mobile: Yeoman Generator for Mobile-First Web Apps](https://github.com/yeoman/generator-mobile/)
+
+
+- - -
+# 일자리
+
+## [Front End Engineer @ Orchestrate.io [Portland or Remote]](http://jobsco.re/169jmCg)
+Orchestrate's mission is to help devs be creative by eliminating the pain of databases. This role will help re-imagine how devs interact with databases and help build our brand. You'll join an experienced team and a well funded startup. Learn more about us.
+
+## [JavaScript Developer in Amsterdam (visa and relocation provided)](http://goo.gl/oQlhUW)
+Are you interested in working on the best accommodation website used by millions of customers? Do you have solid experience developing with JS/HTML/CSS? Booking.com is looking for experienced Front End Developers. Learn more about us [in this video.](http://www.youtube.com/watch?v=9T6Xi4U5APo)
+
+## [Software Developer at OrgSync (Dallas, TX)](http://www.orgsync.com/job_openings/frontend-javascript-developer)
+Build and scale a higher-ed focused application in use by over 2 million users at 350 colleges and universities. If you are passionate about well-engineered software and creating great user experiences, this job is for you.
