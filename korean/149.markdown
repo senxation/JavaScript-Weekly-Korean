@@ -78,29 +78,30 @@ Backbone.js routers are used to keep track of state in your app. Routers transla
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [pace.js: Automatic Page Load Progress Bar](http://github.hubspot.com/pace/docs/welcome/)
-Displays the progress of loading a webapp (including Ajax requests). The progress is detected automatically.
+## [pace.js: 자동 페이지 로드 진행 막대](http://github.hubspot.com/pace/docs/welcome/)
+Ajax 요청을 포함해 웹앱의 로딩 진행 상황을 표시합니다. 진행 상황은 자동으로 감지합니다.
 
-## [ngStart: Skeleton for New AngularJS Projects](https://github.com/marcorinck/ngStart)
-Uses Bower, RequireJS, JSLint, Grunt, Karma and more.
+## [ngStart: 새로운 AngularJS 프로젝트 스켈레톤](https://github.com/marcorinck/ngStart)
+Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 
-## [jQuery 1.11 and 2.1 Beta 1 Released](http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/)
+## [jQuery 1.11 and 2.1 베타 1 릴리즈](http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/)
 
-## [Get Started Building Your Own Custom Ember Components](https://github.com/moonlight-labs/ember-component-library-template)
-This template provides you with the basic project structure, build configuration and instructions to build your own custom component libraries for Ember.
+## [커스텀 Ember 컴포넌트 만들어 보기](https://github.com/moonlight-labs/ember-component-library-template)
+이 템플릿은 Ember를 위한 커스텀 컴포넌트 라이브러리를 만들 수 있도록 기본적인 프로젝트 구조와 설정, 명령어를 제공합니다.
 
-## [Drawingboard.js: Simple Canvas Based Drawing Widget](http://leimi.github.io/drawingboard.js/)
-An HTML5 Canvas-based drawing widget that you can integrate easily on your site.
+## [Drawingboard.js: 간단한 캔버스 기반의 드로윙 위젯](http://leimi.github.io/drawingboard.js/)
+당신의 사이트에서 손 쉽게 사용할 수 있는 HTML5 캔버스 기반의 드로윙 위젯입니다.
 
-## [JavaScript Is Jarig (Generated Music in Less Than 256 Bytes)](http://www.p01.org/releases/javascript_is_jarig/)
-The website also lists [other projects](http://www.p01.org/releases/) that are similar in spirit. For example, a “signed distance field raymarcher using 2D Canvas” in 256 bytes, whose [page](http://www.p01.org/releases/tea_storm/) demos it and explains how it works.
+## [JavaScript Is Jarig (256 바이트도 작은 사이즈로 음악 만들기)](http://www.p01.org/releases/javascript_is_jarig/)
+웹 사이트에는 또한 비슷한 방식의 [다른 프로젝트](http://www.p01.org/releases/)들의 목록이 있습니다. 예를 들어 256바이트 이내로 "2D 캔버스를 사용한 signed distance field raymarcher"는 데모와 동작 방식에 대한 설명이 있는 [페이지](http://www.p01.org/releases/tea_storm/)가 있습니다.
+> [distance field raymarcher](http://www.seas.upenn.edu/~pjia/raymarch/presentation.pdf) ?
 
-## [Custom Builds of Lo-Dash 2.0](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/)
+## [Lo-Dash 2.0의 커스텀 빌드](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/)
 
-## [steganography.js: Information Hiding Via JavaScript](http://www.peter-eigenschink.at/projects/steganographyjs/)
-A library that hides a text message in the alpha channel of a given image.
+## [steganography.js: 자바스크립트를 통한 정보 은닉](http://www.peter-eigenschink.at/projects/steganographyjs/)
+이미지의 알파 채널에 텍스트 메시지를 숨기는 라이브러리 입니다.
 
-## [Switch Between Different .npmrc Files with Ease](https://github.com/deoxxa/npmrc)
+## [손쉰게 다른 .npmrc 파일을 변경하기](https://github.com/deoxxa/npmrc)
 
 ## [generator-polymer: Yeoman Generator for Scaffolding Polymer Apps](https://github.com/yeoman/generator-polymer)
 
