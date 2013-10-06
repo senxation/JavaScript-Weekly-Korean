@@ -5,14 +5,13 @@
 
 ## [O'Reilly 의 Fluent 컨퍼런스 Call for Proposals 오픈](http://fluentconf.com/fluent2014/public/cfp/286)
 O'Reilly 가 웹플랫폼, 자바스크립트, 그리고 연관 기술에 대한 컨퍼런스로 2014년 3월에 샌프란시스코에 다시 돌아옵니다.
-이번년도는 거의 1200명의 참석자가 있었으며, Fluent 는 해당 분야를 이제 해당 분야를 대표하는 행사중에 하나 입니다. 9월 30일에 Call for Proposals가 종료 되니 많이들 제출 해주시고 워크샵에 참석 해주세요.
+이번년도는 거의 1200명의 참석자가 있었으며, Fluent는 이제 해당 분야를 대표하는 행사중에 하나입니다. 9월 30일에 Call for Proposals가 종료 되니 많이들 제출 해주시고 워크샵에 참석 해주세요.
 
 ## [Eloquent 자바스크립트 개편을 위한 펀딩](https://eloquentjavascript.net/2nd_edition/)
-Marijn Haverbeke 에 의해 쓰여진 Eloquent 자바스크립트는 무료 자바스크립트 입문서 및 책 중에 가장 유명한 것 중에 하나입니다.
+Marijn Haverbeke에 의해 쓰여진 Eloquent 자바스크립트는 무료 자바스크립트 입문서 및 책 중에 가장 유명한 것 중에 하나입니다.
 Marijn은 2판을 새롭게 쓰길 원하며, 최근에 해당 작업을 위해 펀딩을 받고 있습니다.
->자바스크립트 개론 : 체계적인 프로그래밍 수련법 이란 이름으로 번역 되었음
+> [자바스크립트 개론 : 체계적인 프로그래밍 수련법](https://eloquentjavascript.net/)이란 이름으로 번역 되었습니다.
 
->관련 링크: https://eloquentjavascript.net/
 
 - - -
 # 스폰서기사
@@ -24,47 +23,47 @@ Send your developers &amp; designers to BDConf for 2 days of education, inspirat
 - - -
 # 읽을 거리
 
-## [Understanding ECMAScript 6 Arrow Functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
-One of the most interesting new parts of ECMAScript 6 are 'arrow' functions. Luckily we have Nicholas C Zakas here to give us a run through of how they work and how to use them.
+## [ECMAScript 6의 화살표 함수 (Arrow Functions) 이해하기](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
+ECMAScript 6의 가장 흥미로운 새로운 부분중 하나는 '화살표' 함수입니다. 행운인 점은, 여기 Nicholas C Zakas가 이 함수의 동작방식과 사용방법에 대해 설명해주고 있다는 것입니다.
 
-## [D3 on AngularJS](http://www.ng-newsletter.com/posts/d3-on-angular.html)
-D3 is a popular library for manipulating and rendering document-based data through HTML, SVG, and CSS, but combining D3 and Angular can be tricky. This post shares a variety of approaches.
+## [AngularJS에서의 D3](http://www.ng-newsletter.com/posts/d3-on-angular.html)
+D3는 문서기반의 데이터를 조작하고 HTML, SVG와 CSS로 렌더링하는 유명한 라이브러리이지만, D3와 Angular를 조합하는 것은 까다로울 수 있습니다. 이 글은 다양한 접근방법에 대해 공유합니다.
 
-## [Anti-Pattern: Putting Data in Prototype Properties](http://www.2ality.com/2013/09/data-in-prototypes.html)
-Axel explains why it may seem like a good idea to put data in prototype properties but actually isn’t.
+## [안티-패턴: prototype 프로퍼티에 데이터 넣기](http://www.2ality.com/2013/09/data-in-prototypes.html)
+Axel은 prototype 프로퍼티에 데이터를 넣어두는 것이 왜 좋은 아이디어인것처럼 보이는지, 하지만 실제로는 그렇지 않은지에 대해 설명합니다.
 
-## [Rough Notes on the jQuery Conference Austin Talks](https://gist.github.com/neildahlke/6509891)
-jQuery Conference Austin was on earlier this week and Neil Dahlke has taken some basic notes from each session.
+## [jQuery 컨퍼런스 오스틴 토크의 대략적인 노트](https://gist.github.com/neildahlke/6509891)
+jQuery 컨퍼런스 오스틴(Austin)이 이번주 초에 열렸고, Neil Dahlke는 각 세션에 대한 기본적인 노트를 적어두었습니다.
 
-## [Getting Started With Node.js, Express, MongoDB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
-Billed as *‘the dead-simple step-by-step guide for front-end developers to getting up and running with Node.js, Express, Jade, and MongoDB’*, it’s an extensive step-by-step tutorial. *As seen in [Node Weekly issue #3.](http://nodeweekly.com/archive/3.html)*
+## [Node.js, Express, MonghDB로 시작하기](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+*‘Node.js, Expree, Express, Jade와 MonghDB를 시작하고 실행하려고하는 프론트엔드 개발자를 위한 매우 간단한 단계별 가이드’*라고 묘사되는, 포괄적인 단계별 튜토리얼입니다. *[Node Weekly 3호](http://nodeweekly.com/archive/3.html)에서도 언급되었습니다.*
 
-## [The Beginner's Guide to three.js](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
-A step by step guide to using three.js to create a 3D logo backed by WebGL.
+## [three.js 초보자 가이드](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
+three.js를 사용하여 WebGL로 표현되는 3D 로고를 생성하는 단계별 가이드입니다.
 
-## [Promise Patterns](http://modernjavascript.blogspot.com/2013/09/promise-patterns.html)
-Promises can make it easier to implement common asynchronous patterns with callbacks. Rhys shows off some uses.
+## [Promise 패턴](http://modernjavascript.blogspot.com/2013/09/promise-patterns.html)
+Promises는 콜백으로 일반적인 비동기 패턴을 구현하기 쉽게 만들어주는 패턴입니다. Rhys는 몇가지 사용법에 대해 설명합니다.
 
-## [Five Helpful Tips When Using RequireJS](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
-RequireJS, a “JavaScript file and module loader”, is a powerful way to organize, manage, build and load JavaScript in your app, and here Jim Cowart shares five tips he really wished he’d known sooner rather than later about using it.
+## [RequireJS를 사용할 때 도움이 될만한 5가지 팁](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
+"JS 파일과 모듈 로더"인 RequireJS는 여러분의 앱에서 자바스크립트를 구성하고, 관리하고, 빌드하고 로드하기 위한 강력한 방법을 제공합니다. 여기서 Jim Cowart는 사용하기 전에 알아두었다면 정말로 좋았을 법한 다섯가지 팁을 공유합니다.
 
-## [Creating Custom Filters in jQuery](http://flippinawesome.org/2013/09/09/creating-custom-filters-in-jquery/)
-Aurelio De Rosa shows the new and old ways of creating and using custom filters for DOM elements in jQuery.
+## [jQuery로 커스텀 필터 만들기](http://flippinawesome.org/2013/09/09/creating-custom-filters-in-jquery/)
+Aurelio De Rosa는 jQuery로 DOM 엘리먼트를 위한 커스텀 필터를 만들고 사용하는 새로운방법과 오래된 방법을 보여줍니다.
 
-## [Using Node.js and WebSockets to Build a Chat Service](http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/)
+## [채팅 서비스를 만들기 위해 Node.js와 웹 소켓 사용하기](http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/)
 
-## [Getting to Know Mutation Observers](http://dev.opera.com/articles/view/mutation-observers-tutorial/)
-Sometimes you may need to know when the DOM node tree has changed or if a view has been loaded or unloaded. Mutation observers allow you to do this asynchronously, are defined by the DOM Level 4 spec, and are available in the latest versions of Opera, Chrome and Firefox.
+## [Mutation 옵저버 알아보기](http://dev.opera.com/articles/view/mutation-observers-tutorial/)
+때론 DOM 노드 트리가 언제 변경되는지, 또는 뷰가 로드되거나 언로드되었는지 알고 싶을 수도 있습니다. DOM 레벨 4 스펙에 정의된 Mutation 옵저버는 이런 작업을 비동기적으로 할 수 있게 해주며, 최신 버전의 오페라, 크롬, 파이어폭스에서 사용할 수 있습니다.
 
-## [A Cleaner Backbone Mixin Strategy](http://kevindew.me/post/60797105836/a-cleaner-backbone-mixin-strategy)
+## [더 명백한 Backbone 믹스인 전략](http://kevindew.me/post/60797105836/a-cleaner-backbone-mixin-strategy)
 
-## [Retro Game Music using Web Audio and Band.js](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/?)
-Brian Rinaldi shows how the Band.js library creates 8-bit game music using JavaScript and the Web Audio API by recreating music from Zelda.
+## [웹 오디오와 Band.js를 사용한 레트로 게임 음악](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/?)
+Brian Rinaldi는 젤다의 음악을 재탄생시키는 것을 예로들어, Band.js 라이브러리가 자바스크립트와 웹 오디오 API를 사용해 어떻게 8비트 게임 음악을 만드는지 보여줍니다.
 
-## [Mocking Server Dependencies in JavaScript and AngularJS](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/?)
-Cliff Meyers walks through how to mock server side dependencies to simplify local development of SPA’s through a sample application.
+## [자바스크립트와 AngularJS로 서버 의존성 흉내내기](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/?)
+Cliff Meyers는 예제 애플리케이션을 통해 서버측 의존성을 흉내내어 SPA 로컬 개발을 단순화하는 방법을 다룹니다.
 
-## [Auto-Ignoring Library Code While Debugging in Chrome](http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/)
+## [크롬에서 디버깅할때 라이브러리 코드를 자동무시하기](http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/)
 
 
 - - -
