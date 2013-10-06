@@ -1,0 +1,224 @@
+<html><head>
+  <title>JavaScript Weekly Issue 150 - October 4, 2013</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<style>
+html {  }
+body { font-family: "Helvetica Neue", helvetica, arial, sans-serif; font-size: 14px; margin: 0; padding: 0; }
+p { margin: 1.2em 0em 1.35em 0em; line-height: 1.4em; }
+a { color: #1144bb; }
+@media only screen and (max-device-width: 480px) {
+     body {
+          padding: 10px !important;
+     }
+	#maintable {
+		width: auto !important;
+	}
+}
+.notinarchive { display: none; }
+</style>
+
+
+<div style="text-align: center; background-color: #f6f6f6; border-top: 5px solid #0aa; border-bottom: 5px solid #ddd">
+
+  <h1 class="title" style="margin-top: 0em; padding-top: 0.5em; position: relative; color: #0aa; font-size: 2.9em">JavaScript <img src="http://javascriptweekly.com/cog.png" style="position: absolute; top: 50%; margin-top: -8px" /><div style="width: 38px; height: 1px; display: inline-block"></div>Weekly</h1>
+      <h2 class="subhead" style="font-weight: 300; font-size: 1.5em">A free, once-weekly e-mail round-up of JavaScript news and articles.</h2>
+
+  <!-- h2 style="font-family: helvetica; color: #0aa; font-size: 20px;">Subscribe to JavaScript Weekly</h2 -->
+  <form class="subscribe" action="http://javascriptweekly.com/subscribe.js" method="POST">
+  	      <span class="label" style="display: none">Your E-mail Address&nbsp;</span> <input type="email" placeholder="Enter your e-mail address" class="email" style="width: 340px; font-size: 16px; padding: 4px" name="email" id="email" />&nbsp;&nbsp;<button class="large blue awesome" type="submit" style="font-size: 16px; padding: 4px">Sign Me Up!</button>
+  				<input type="hidden" name="list_id" value="596bcf37c5" />
+  			</form>
+
+        <p class="extra"><strong>ONE</strong> e-mail each Friday. Easy unsubscribe. No spam &mdash; your e-mail address is safe.</p>
+</div>
+
+<table style="font-family: helvetica, arial, sans-serif;" width="100%" cellpadding="8" cellspacing="0"><tr>
+	<td bgcolor="#ffffff">
+	  
+<table border="0" cellpadding="0" cellspacing="0" width="640" id="maintable" align="center" style="font-family: helvetica, arial, sans-serif; margin-top: 3px">
+	<tr bgcolor="#00aaac"><td>
+<a href="http://javascriptweekly.com/"><img src="http://javascriptweekly.com/jslogo2.gif" alt="JavaScript Weekly" width="366" height="78" style="margin-bottom: 0px; border: 0" /></a>
+</td></tr>
+<tr bgcolor="#ffffff"><td>
+	<p style="color: #0aa; font-weight: bold; font-size: 15px; margin-bottom: 0; padding: 0 0px; margin-top: 3px">Issue #150 - October 4, 2013</p>
+	
+	
+
+
+<p style="margin: 1.2em 0px 1.35em 0px; line-height: 1.5em; font-size: 14px">Welcome to issue 150 of <em>JavaScript Weekly</em>. Axel is taking a well earned break this month to work on other projects, so it's Peter C back at the helm for a few issues. Apologies for being late, I'm a bit more 'at the last minute' than Axel.. Oops. ;-)</p>
+
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Featured</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://toys.usvsth3m.com/javascript-under-pressure/" title="toys.usvsth3m.com/javascript-under-pressure">You Can't JavaScript Under Pressure</a></strong><br /><span style="font-size: 0.9em">
+Five functions to fill. One ticking clock. How fast can you code? I got 7 minutes 45 seconds but from what I’ve seen on Twitter, that's above average. If you get under 3 minutes, however, consider yourself a superhero :-)
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html" title="braythwayt.com/2013/10/01/javascript-allonge-is-free.html">Reg Braithwaite Makes 'JavaScript Allongé' Book Free</a></strong><br /><span style="font-size: 0.9em">
+JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="http://jshint.com/?newdesign" title="jshint.com/?newdesign">JSHint (the JavaScript Code Quality Tool) Has a New Design</a><br /><span style="font-size: 0.9em"></span></p>
+  
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">From our Sponsor</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><a href="http://bdconf.com/html5"><img src="http://s3.amazonaws.com/nlga/uploads/item/image/13080/125.jpg" width="125" height="125" style="float: right; margin-left: 14px; margin-bottom: 16px; border: 1px solid #1173c7" /></a><strong><a href="http://bdconf.com/html5" title="bdconf.com/html5">Your mobile website shouldn't look like an 8th grade HTML5 project.</a></strong><br /><span style="font-size: 0.9em">
+Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+</span></p>
+  
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Reading</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="https://developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling" title="developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling">JavaScript Memory Profiling with the Chrome DevTools</a></strong><br /><span style="font-size: 0.9em">
+Addy Osmani has published a refreshed guide to plugging memory leaks using the Chrome DevTools. It covers the Object allocation tracker, timeline memory, heap profiles and more.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/" title="toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day">The Ultimate Guide to Learning AngularJS in One Day</a></strong><br /><span style="font-size: 0.9em">
+A great walkthrough from Todd Motto with embedded, interactive JSFiddle sessions.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/" title="www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js">Building A Twitter Bot in 20 Minutes With Node.js</a></strong><br /><span style="font-size: 0.9em">
+If Node is your thing, check out the <a href="http://nodeweekly.com/archive/5.html">latest issue of Node Weekly</a> and consider signing up.
+</span></p>
+  
+
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://www.2ality.com/2013/10/safe-integers.html" title="www.2ality.com/2013/10/safe-integers.html">'Safe' Integers in JavaScript</a></strong><br /><span style="font-size: 0.9em">
+JavaScript can only ‘safely’ represent integers within a certain range. This post, based on an email by Mark S. Miller to the es-discuss mailing list, examines why that is and what ‘safely represent’ means.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="http://blog.safaribooksonline.com/2013/10/02/decoupling-backbone-applications-with-pubsub/" title="blog.safaribooksonline.com/2013/10/02/decoupling-backbone-applications-with-pubsub">Decoupling Backbone.js Applications with Pub/Sub</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://programming.oreilly.com/2013/10/the-joys-of-static-memory-javascript.html" title="programming.oreilly.com/2013/10/the-joys-of-static-memory-javascript.html">The Joys of Static Memory JavaScript</a></strong><br /><span style="font-size: 0.9em">
+‘Static memory JavaScript’ is a technique that involves pre-allocating, at the start of your app, all the memory that will be needed for its lifetime, and managing that memory during execution as objects are no longer needed.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html" title="ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html">Code Coverage of Jasmine Tests using Istanbul and Karma</a></strong><br /><span style="font-size: 0.9em">
+For tests written using the popular Jasmine test library, an easy way to check their code coverage (i.e. how much of your codebase they’re actually testing) is with Istanbul and the Karma test runner.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?" title="flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?">Functional Reactive Programming in JavaScript</a></strong><br /><span style="font-size: 0.9em">
+Sean Voisen explains reactive programming concepts, how they can beneficial and how they are implemented in JavaScript using examples in Bacon.js.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="http://www.angularails.com/articles/creating_simple_directive_in_angular" title="www.angularails.com/articles/creating_simple_directive_in_angular">How to Create A Directive in AngularJS (Simply)</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://www.sitepoint.com/automated-javascript-testing-browserswarm/" title="www.sitepoint.com/automated-javascript-testing-browserswarm">Automated JavaScript Testing with BrowserSwarm</a></strong><br /><span style="font-size: 0.9em">
+BrowserSwarm is a new cloud-based system which makes JavaScript testing across browsers quite easy.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="https://docs.google.com/a/kalv.co.uk/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p" title="docs.google.com/a/kalv.co.uk/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p">The Future of AngularJS: A Slidedeck</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/?" title="flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/?">Building Multiplayer Games with Node.js and Socket.IO</a></strong><br /><span style="font-size: 0.9em">
+Eric Terpstra walks through how to use Node.js and Socket.IO to build a multiplayer game, using a simple but fun word game as an example.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="http://www.sitepoint.com/write-3d-soft-engine-scratch-part-1/" title="www.sitepoint.com/write-3d-soft-engine-scratch-part-1">Write a 3D Soft Engine from Scratch in TypeScript</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="https://coderwall.com/p/jj6fwa" title="coderwall.com/p/jj6fwa">The Prototype Is Your Friend (If You Care About Performance)</a><br /><span style="font-size: 0.9em"></span></p>
+  
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Watching</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" watching"><strong><a href="https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app" title="thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app">Node.js: A Jumpstart for Devs</a></strong><br /><span style="font-size: 0.9em">
+A ‘one-size-gets-you-started’ introduction to Node punctuated with 10 short screencasts. I like this format.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" watching"><strong><a href="http://www.youtube.com/watch?v=iSxNCYcPAFk" title="www.youtube.com/watch?v=iSxNCYcPAFk">The JavaScript Interpreter, Interpreted</a></strong><br /><span style="font-size: 0.9em">
+In just 19 minutes, Martha Girdler looks at some of the concepts involved in processing and running JavaScript code.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://www.youtube.com/watch?v=RTxtiLp1C8Y" title="www.youtube.com/watch?v=RTxtiLp1C8Y">1024+ Seconds of JS Wizardry</a></strong><br /><span style="font-size: 0.9em">
+A fun 30 minute talk that involves hacking on tweet-sized games, writing code in only six characters and creating a self-modifying “Hello World” program in fewer than 1024 bytes. All just for fun.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html" title="blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html">JavaScript Testing Tactics</a></strong><br /><span style="font-size: 0.9em">
+This talk claims to be ‘the missing manual’ to writing great JavaScript tests. At an hour long, it certainly covers a lot. <em>Warning: It’s CoffeeScript-based.</em>
+</span></p>
+  
+
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Code, Libraries and Tools</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" code"><strong><a href="http://oaxoa.github.io/Conzole/" title="oaxoa.github.io/Conzole">Conzole: A JavaScript Debugging Panel You Can Display On Your Page</a></strong><br /><span style="font-size: 0.9em">
+Wraps native console methods and functionality into an on-page panel.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" code"><strong><a href="https://github.com/nodebox/opentype.js/wiki" title="github.com/nodebox/opentype.js/wiki">Opentype.js: JavaScript Parser for TrueType and OpenType Fonts</a></strong><br /><span style="font-size: 0.9em">
+Gives you access to the letterforms of text from the browser or node.js.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  code"><a href="https://github.com/bwiklund/js1k-love-raytracer" title="github.com/bwiklund/js1k-love-raytracer">A JavaScript Raytracer in 984 Bytes</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" code"><strong><a href="https://github.com/jonathanstark/FastActive" title="github.com/jonathanstark/FastActive">FastActive: A JavaScript Snippet That Makes Web Apps Feel More Native</a></strong><br /><span style="font-size: 0.9em">
+FastActive toggles an active class name on whatever links the user touches. With that single hook, devs can write simple CSS that will provide instantaneous visual feedback to the user.
+</span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=" "><strong><a href="http://blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out" title="blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out">COLT: A Live Coding Tool for JavaScript</a></strong><br /><span style="font-size: 0.9em">
+See an example of the power of live coding in <a href="http://www.youtube.com/watch?v=wjSsISiacEU">this excerpt of a talk by Bret Victor</a>. Elsewhere, Code Orchestra ponders <a href="http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool">whether live coding for JS is a fancy toy or a real tool.</a>
+</span></p>
+  
+
+
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  "><a href="http://blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application/" title="blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application">5 JavaScript Libraries to Add Text Editing to Your Web Application</a><br /><span style="font-size: 0.9em"></span></p>
+  
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="solo  code"><a href="https://github.com/elclanrs/jq-idealforms" title="github.com/elclanrs/jq-idealforms">Ideal Forms 3: A jQuery Plugin for Powerful, Flexible Web Forms</a><br /><span style="font-size: 0.9em"></span></p>
+  
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Jobs</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class=""><strong><a href="http://bit.ly/1aYnjz1" title="bit.ly/1aYnjz1">2x JavaScript FE Developers (Senior & Mid), Central London </a></strong><br /><span style="font-size: 0.9em">JS framework (like Sencha), Angular, CoffeeScript, LESS, Ruby &amp; Node, Agile. If you have exceptional JS skills and you’d like to work on a big SaaS video platform with global clients we’d love to talk to you about joining this innovative FE applications team</span></p>
+  
+<p style="font-weight: bold; font-size: 20px; margin: 0; border-top: 2px solid #0aa; padding-left: 0px; padding-top: 4px; margin-top: 24px; margin-bottom: 0px; color: #0aa;clear:both">Last but not least..</p>
+
+    <p style="margin: 1.2em 0px 1.2em 0px; line-height: 1.4em; clear:both; font-size: 15px" class="sponsors"><strong><a href="http://airbrake.io/pages/home?r=jsweekly" title="airbrake.io/pages/home?r=jsweekly">Capture your Exceptions with Airbrake</a></strong><br /><span style="font-size: 0.9em">Capture and resolve your exceptions faster with Airbrake, the error app. Trusted by more than 50,000 developers. New plans include GitHub, Pivotal and many more workflow integrations for fast error resolution.</span></p>
+  
+
+
+<div style="font-family: verdana; font-size: 12px; text-align: center">Editor: <a href="http://2ality.com/">Dr. Axel Rauschmayer</a></div>
+
+</td></tr>
+
+</table>
+
+</td></tr></table>
+
+<div style="text-align: center; background-color: #f6f6f6; border-top: 5px solid #0aa; border-bottom: 5px solid #ddd">
+
+      <h2 class="subhead" style="font-weight: 300; font-size: 1.5em">A free, once-weekly e-mail round-up of JavaScript news and articles.</h2>
+
+  <!-- h2 style="font-family: helvetica; color: #0aa; font-size: 20px;">Subscribe to JavaScript Weekly</h2 -->
+  <form class="subscribe" action="http://javascriptweekly.com/subscribe.js" method="POST">
+          <span class="label" style="display: none">Your E-mail Address&nbsp;</span> <input type="email" placeholder="Enter your e-mail address" class="email" style="width: 340px; font-size: 16px; padding: 4px" name="email" id="email" />&nbsp;&nbsp;<button class="large blue awesome" type="submit" style="font-size: 16px; padding: 4px">Sign Me Up!</button>
+          <input type="hidden" name="list_id" value="596bcf37c5" />
+        </form>
+
+        <p class="extra"><strong>ONE</strong> e-mail each Friday. Easy unsubscribe. No spam &mdash; your e-mail address is safe.</p>
+
+        <p>Want to advertise? <a href="https://cooperpress.com/mediakit2013.pdf">See our media kit for details.</a>
+  <br />Want to post a job? <a href="https://cooperpress.com/jobs">Use our self serve system</a> or reply to this e-mail.
+</div>
+
+</body>
+</html>

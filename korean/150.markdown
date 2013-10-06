@@ -1,0 +1,110 @@
+- - -
+# 특집 기사
+
+## [You Can't JavaScript Under Pressure](http://toys.usvsth3m.com/javascript-under-pressure/)
+Five functions to fill. One ticking clock. How fast can you code? I got 7 minutes 45 seconds but from what I’ve seen on Twitter, that's above average. If you get under 3 minutes, however, consider yourself a superhero :-)
+
+## [Reg Braithwaite Makes 'JavaScript Allongé' Book Free](http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html)
+JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances.
+
+## [JSHint (the JavaScript Code Quality Tool) Has a New Design](http://jshint.com/?newdesign)
+
+
+- - -
+# 스폰서기사
+
+## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
+Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+
+
+- - -
+# 읽을 거리
+
+## [JavaScript Memory Profiling with the Chrome DevTools](https://developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling)
+Addy Osmani has published a refreshed guide to plugging memory leaks using the Chrome DevTools. It covers the Object allocation tracker, timeline memory, heap profiles and more.
+
+## [The Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+A great walkthrough from Todd Motto with embedded, interactive JSFiddle sessions.
+
+## [Building A Twitter Bot in 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/)
+If Node is your thing, check out the [latest issue of Node Weekly](http://nodeweekly.com/archive/5.html) and consider signing up.
+
+## ['Safe' Integers in JavaScript](http://www.2ality.com/2013/10/safe-integers.html)
+JavaScript can only ‘safely’ represent integers within a certain range. This post, based on an email by Mark S. Miller to the es-discuss mailing list, examines why that is and what ‘safely represent’ means.
+
+## [Decoupling Backbone.js Applications with Pub/Sub](http://blog.safaribooksonline.com/2013/10/02/decoupling-backbone-applications-with-pubsub/)
+
+## [The Joys of Static Memory JavaScript](http://programming.oreilly.com/2013/10/the-joys-of-static-memory-javascript.html)
+‘Static memory JavaScript’ is a technique that involves pre-allocating, at the start of your app, all the memory that will be needed for its lifetime, and managing that memory during execution as objects are no longer needed.
+
+## [Code Coverage of Jasmine Tests using Istanbul and Karma](http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html)
+For tests written using the popular Jasmine test library, an easy way to check their code coverage (i.e. how much of your codebase they’re actually testing) is with Istanbul and the Karma test runner.
+
+## [Functional Reactive Programming in JavaScript](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?)
+Sean Voisen explains reactive programming concepts, how they can beneficial and how they are implemented in JavaScript using examples in Bacon.js.
+
+## [How to Create A Directive in AngularJS (Simply)](http://www.angularails.com/articles/creating_simple_directive_in_angular)
+
+## [Automated JavaScript Testing with BrowserSwarm](http://www.sitepoint.com/automated-javascript-testing-browserswarm/)
+BrowserSwarm is a new cloud-based system which makes JavaScript testing across browsers quite easy.
+
+## [The Future of AngularJS: A Slidedeck](https://docs.google.com/a/kalv.co.uk/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p)
+
+## [Building Multiplayer Games with Node.js and Socket.IO](http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/?)
+Eric Terpstra walks through how to use Node.js and Socket.IO to build a multiplayer game, using a simple but fun word game as an example.
+
+## [Write a 3D Soft Engine from Scratch in TypeScript](http://www.sitepoint.com/write-3d-soft-engine-scratch-part-1/)
+
+## [The Prototype Is Your Friend (If You Care About Performance)](https://coderwall.com/p/jj6fwa)
+
+
+- - -
+# 동영상
+
+## [Node.js: A Jumpstart for Devs](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
+A ‘one-size-gets-you-started’ introduction to Node punctuated with 10 short screencasts. I like this format.
+
+## [The JavaScript Interpreter, Interpreted](http://www.youtube.com/watch?v=iSxNCYcPAFk)
+In just 19 minutes, Martha Girdler looks at some of the concepts involved in processing and running JavaScript code.
+
+## [1024+ Seconds of JS Wizardry](http://www.youtube.com/watch?v=RTxtiLp1C8Y)
+A fun 30 minute talk that involves hacking on tweet-sized games, writing code in only six characters and creating a self-modifying “Hello World” program in fewer than 1024 bytes. All just for fun.
+
+## [JavaScript Testing Tactics](http://blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html)
+This talk claims to be ‘the missing manual’ to writing great JavaScript tests. At an hour long, it certainly covers a lot. *Warning: It’s CoffeeScript-based.*
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [Conzole: A JavaScript Debugging Panel You Can Display On Your Page](http://oaxoa.github.io/Conzole/)
+Wraps native console methods and functionality into an on-page panel.
+
+## [Opentype.js: JavaScript Parser for TrueType and OpenType Fonts](https://github.com/nodebox/opentype.js/wiki)
+Gives you access to the letterforms of text from the browser or node.js.
+
+## [A JavaScript Raytracer in 984 Bytes](https://github.com/bwiklund/js1k-love-raytracer)
+
+## [FastActive: A JavaScript Snippet That Makes Web Apps Feel More Native](https://github.com/jonathanstark/FastActive)
+FastActive toggles an active class name on whatever links the user touches. With that single hook, devs can write simple CSS that will provide instantaneous visual feedback to the user.
+
+## [COLT: A Live Coding Tool for JavaScript](http://blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out)
+See an example of the power of live coding in [this excerpt of a talk by Bret Victor](http://www.youtube.com/watch?v=wjSsISiacEU). Elsewhere, Code Orchestra ponders [whether live coding for JS is a fancy toy or a real tool.](http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool)
+
+## [5 JavaScript Libraries to Add Text Editing to Your Web Application](http://blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application/)
+
+## [Ideal Forms 3: A jQuery Plugin for Powerful, Flexible Web Forms](https://github.com/elclanrs/jq-idealforms)
+
+
+- - -
+# 일자리
+
+## [2x JavaScript FE Developers (Senior &amp; Mid), Central London ](http://bit.ly/1aYnjz1)
+JS framework (like Sencha), Angular, CoffeeScript, LESS, Ruby &amp; Node, Agile. If you have exceptional JS skills and you’d like to work on a big SaaS video platform with global clients we’d love to talk to you about joining this innovative FE applications team
+
+
+- - -
+# 마지막으로,
+
+## [Capture your Exceptions with Airbrake](http://airbrake.io/pages/home?r=jsweekly)
+Capture and resolve your exceptions faster with Airbrake, the error app. Trusted by more than 50,000 developers. New plans include GitHub, Pivotal and many more workflow integrations for fast error resolution.
