@@ -4,17 +4,16 @@
 # 특집 기사
 
 ## [Ember 1.0 출시](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
-첫번째 커밋 이후에 2.5년이나 지난 인기있는 자바스크립트 웹 어플리케이션 프레임워크 Ember가 1.0을 출시하였습니다.
-Ember 1.0에서 2.0이 될때 까지 더 이상 큰 변화를 하지 않겠다고 약속했습니다. 1.0을 출시한 Ember의 모든팀을 축하 해주세요
+첫번째 커밋 이후에 2.5년이나 지난 인기있는 자바스크립트 웹 어플리케이션 프레임워크 Ember가 1.0을 출시하였습니다. Ember 1.0에서 2.0이 될때 까지 더 이상 큰 변화를 하지 않겠다고 약속했습니다. 1.0을 출시한 Ember의 모든팀을 축하 해주세요
 
-## [Node 위클리 이슈 2: 생성자, 비동기 패턴, 홈 오토메이션와 그 이상의 것들](http://nodeweekly.com/archive/2.html)
-저희는 Node 위클리를 지난주 뉴스레터에서 출시했습니다.[Node 위클리](http://nodeweekly.com/) 가 커버하고있는 분야를 확인 해보세요
+## [Node Weekly 2호: 생성자, 비동기 패턴, 홈 오토메이션와 그 이상의 것들](http://nodeweekly.com/archive/2.html)
+Node Weekly를 지난주 뉴스레터에서 출시했습니다. [Node Weekly](http://nodeweekly.com/) 가 다루고 있는 분야를 확인 해보세요
 
 
 - - -
 # 스폰서기사
 
-## [Frontend Masters: 이안 존슨이 직접 진행하는 D3.js를 사용한 데이터 시각화 실시간 온라인 워크샵](https://frontendmasters.com/workshops/interactive-data-visualization-d3js/)
+## [Frontend Masters: 이안 존슨(Ian Johnson)이 직접 진행하는 D3.js를 사용한 데이터 시각화 실시간 온라인 워크샵](https://frontendmasters.com/workshops/interactive-data-visualization-d3js/)
 이번 워크샵에서는 D3의 API를 살펴보고 D3 설계에서 쉽게 알아내기 힘든 부분에 대해 알아볼 것입니다. 표현해야 할 다양한 데이터에 적용할 수 있는 여러 가지 패턴을 살펴볼 예정입니다. 9월 20일 금요일 온라인 생방송을 기대하세요.
 
 
@@ -67,10 +66,10 @@ Ember.js 1.0을 사용하여 블로그 리더 어플리케이션을 제작하는
 
 ## [Bower에 대한 간단한 소개](http://egghead.io/lessons/bower-introduction-and-setup)
 자바스크립트 라이브러리들의 디펜던시 관리와 패키징을 해주는데 유명한 Bower의 간단한 소개입니다. 
-Egghead.io 개발자 John 이 3분의 짧은 영상에 담았습니다.
+Egghead.io 개발자 John이 3분의 짧은 영상에 담았습니다.
 
 ## [QUnit을 이용한 동기/비동기 자바스크립트 콜백 테스트 하기](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
-자바스크립트 단위 테스트 프레임워크인 QUnit을 이용하여 자바스크립트 콜백 테스트를 하는 밥업에 대한 영상 입니다. 약 5분의영상입니다. 
+자바스크립트 단위 테스트 프레임워크인 QUnit을 이용하여 자바스크립트 콜백 테스트를 하는 밥업에 대한 영상 입니다. 약 5분의 영상입니다.
 
 
 - - -
@@ -83,7 +82,7 @@ GitHub의 코멘트 폼과 같이 textarea 필드에서 사용할 수 있는 자
 자바스크립트에서 암호 작성시 안전하고 강력하며 빠르고 사용하기도 쉬운 크로스 브라우저 지원 라이브러리를 만드는 프로젝트입니다.
 
 ## [parse5: Node를 위한 빠르고 완전한 기능을 갖춘 HTML5 파서](https://github.com/inikulin/parse5)
-WHATWG HTML5 스펙을 기반으로 하며 또한 [Node Weekly](http://nodeweekly.com/archive/2.html)에도 소개 되었습니다.
+WHATWG HTML5 스펙을 기반으로 하며, [Node Weekly](http://nodeweekly.com/archive/2.html)에도 소개되었습니다.
 
 ## [xdomain: 순수 자바스크립트를 이용한 CORS의 대안](https://github.com/jpillora/xdomain)
 
@@ -103,13 +102,13 @@ JSON 객체 형식의 데이터에서 DOM 엘리먼트를 동적으로 만들어
 - - -
 # 일자리
 
-## [Backbase에서 근무할 시니어 프론트엔드 웹 개발자 [네덜란드, 암스테르담]](http://www.jobscore.com/jobs/backbase/javascript-front-end-consultant/cykaxw-wqr4kjUeJe4bk1X?ref=rss&amp;sid=68)
-Backbase는 암스테르담에 본사를 둔 국제적으로 빠르게 성장하고 있는 포탈 소프트웨어 판매사입니다. 암스테르담의 팀에서 근무할 시니어 프론트엔드 웹 개발자를 찾고 있습니다. 자바스크립트, CSS, HTML5을 능숙하게 사용할 수 있나요? Backbase로 오세요.
+## [Backbase에서 근무할 시니어 프론트엔드 웹 개발자 @ 네덜란드, 암스테르담](http://www.jobscore.com/jobs/backbase/javascript-front-end-consultant/cykaxw-wqr4kjUeJe4bk1X?ref=rss&amp;sid=68)
+Backbase는 암스테르담에 본사를 둔 국제적으로 빠르게 성장하고 있는 포털 소프트웨어 판매사입니다. 암스테르담의 팀에서 근무할 시니어 프론트엔드 웹 개발자를 찾고 있습니다. 자바스크립트, CSS, HTML5을 능숙하게 사용할 수 있나요? Backbase로 오세요.
 
-## [소프트웨어 개발자 (자바스크립트 또는 자바) - 연구/개발직, 오스트리아 비엔나 근무](http://www.weblyzard.com/jobs/)
-젊고 여러 분야의 인력들로 구성된 팀에서 수상 경력이 있는 연구 프로젝트에 참여하세요. 풀타임/파트타임 근무 가능하며 시각적 분석, 웹 인텔리전스, 공동 지식 창출에 집중할 혁신적인 자바(스크립트) 개발자에 지원할 박사 과정 지원자를 찾습니다. 
+## [소프트웨어 개발자 (자바스크립트 또는 자바) - 연구/개발직 @ 오스트리아 비엔나](http://www.weblyzard.com/jobs/)
+젊고 여러 분야의 인력들로 구성된 팀에서 수상 경력이 있는 연구 프로젝트에 참여하세요. 풀타임/파트타임 근무 가능하며 시각적 분석, 웹 인텔리전스, 공동 지식 창출에 집중할 혁신적인 자바(스크립트) 개발자에 지원할 박사 과정 지원자를 찾습니다.
 
-## [OrderGroove에서 근무할 자바스크립트 제다이 (프론트엔드 기술 리더) (뉴욕주, 뉴욕시 근무)](https://hire.jobvite.com/j?cj=oKJGXfwQ&amp;s=Cooper_Press)
+## [OrderGroove에서 근무할 자바스크립트 제다이 (프론트엔드 기술 리더) @ 뉴욕주, 뉴욕시](https://hire.jobvite.com/j?cj=oKJGXfwQ&amp;s=Cooper_Press)
 OrderGroove는 구독방식의 e커머스 혁명을 주도하고 있습니다. 우리는 애자일 팀으로 세계 최대의 브랜드를 판매하고 수백만 사용자의 삶을 변화시킬 우리의 구독 방식 소매 플랫폼을 만들 수 있는 '포스'를 지니고 있는 월드클래스의 JS 해커를 찾고 있습니다.
 
 - - -
