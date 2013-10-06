@@ -41,7 +41,13 @@ HTMLElement.prototype.qs = function(s) {
         }
 
         if (len >= 3) {
-            if (len === 4 && child[0].tagName.toLowerCase() === "a") { //a, strong, br, span
+            if (!Array.prototype.slice.call(child).every(function(tag){
+                return tag.tagName;
+            })) {
+                return html;
+            }
+
+            if (len === 4 && child[0].tagName && child[0].tagName.toLowerCase() === "a") { //a, strong, br, span
                 html = "## " + child[1].innerHTML + "\n" + child[3].innerHTML.trim() + "\n";
             } else if (child[0].tagName.toLowerCase() === "strong") { //strong, br, span
                 html = "## " + child[0].innerHTML + "\n" + child[2].innerHTML.trim() + "\n";
