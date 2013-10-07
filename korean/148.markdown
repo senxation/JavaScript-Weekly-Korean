@@ -66,51 +66,50 @@ A great 25 minute screencast.
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [svg.js: JavaScript Library for Manipulating and Animating Scalable Vector Graphics](http://svgjs.com/)
-Much lighter than Raphael but with the resulting lack of backwards compatibility. The [documentation](https://github.com/wout/svg.js) is comprehensive.
+## [svg.js: 확장 가능한 벡터 그래픽의 애니메션과 제어를 위한 자바스크립트 라이브러리](http://svgjs.com/)
+Raphael 보다 훨씬 가볍지만 하위버전에 대한 지원이 조금 부족합니다. [문서](https://github.com/wout/svg.js) 잘 만들어져 있습니다.
 
-## [BladeRunnerJS: Framework for Modular Large-scale HTML5 Apps](http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/)
-Consists of a set of conventions plus associated tools and libraries that make it easy to develop, test, deploy and maintain large single-page web apps.
+## [BladeRunnerJS: 대규모 HTML5 앱을 위한 모듈화된 프레임워크 Framework for Modular Large-scale HTML5 Apps](http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/)
+대규모 싱글 페이지 웹 앱의 개발, 테스트, 배포, 유지보수를 쉽게 만들어주는 툴과 라이브러리에 더해 관례들의 집합으로 구성되어 있습니다.
 
-## [TogetherJS: Add Real Time Collaboration Features to Your Site](https://togetherjs.com/)
+## [TogetherJS: 당신의 사이트에 실시간 협업 요소를 추가하기](https://togetherjs.com/)
 
-## [RedScript: A Ruby Flavored JavaScript Experiment](https://github.com/AdamBrodzinski/RedScript)
-A JavaScript-targeting transpiler (à la CoffeeScript) created to provide a more native experience for modules (AMD &amp; CommonJS), easier inheritance, and a Ruby style syntax.
+## [RedScript: 루비식 자바스크립트 실험.A Ruby Flavored JavaScript Experiment](https://github.com/AdamBrodzinski/RedScript)
+좀 더 네이티브한 모듈 경험, 더 쉬운 상속 그리고 루비 스타일 문법을 제공하기 위해 트랜스파일러(transpiler - CoffeeScript 같은)를 만들었습니다.
 
-## [Introduction to Ember App Kit](http://embersherpa.com/articles/introduction-to-ember-app-kit/)
-Ember App Kit (EAK) is a tool set for Ember.js projects that includes Grunt, JSHint, QUnit, Karma (test runner), ES6 modules and Bower. EAK recently received blessings from the Ember Core Team. It specifies a default project layout and might eventually grow into an executable for creating and managing Ember projects. [Another introduction](http://blog.safaribooksonline.com/2013/09/18/ember-app-kit/) to EAK was written by Matthew Beale for Safari Books Online.
+## [Ember 앱 키트 소개](http://embersherpa.com/articles/introduction-to-ember-app-kit/)
+엠버 앱 키드(EAK)는 Grunt, JSHint, Qunit, Karma( test runner ), ES6 모듈 그리고 Bower를 포함한 Ember.js 프로젝트를 위한 툴셋입니다. EAK는 최근에 엠버 코어 팀으로 부터 승인을 받았습니다. 이것은 기본 프로젝트 레이아웃을 명시하고 결과적으로 엠버 프로젝트를 관리하고 생성하기 위한 실행 가능한 상태로 성장할 수도 있습니다. EAK의 [다른 소개](http://blog.safaribooksonline.com/2013/09/18/ember-app-kit) 는 사파리 북스 온라인을 위해 Matthew Beale이 작성하였습니다.
 
-## [JSModeler: JavaScript Framework to Create and Visualize 3D Models](https://github.com/kovacsv/JSModeler)
-Build 3D models and display them via a Three.js-based viewer. Other features: exporting to STL and OBJ format and geometry functions (2D and 3D).
+## [JSModeler: 3D 모델을 시각화하고 만들기 위한 자바스크립트 프레임워크](https://github.com/kovacsv/JSModeler)
+3D 모델을 만들고 Three.js 기반의 뷰어에서 이를 보여줍니다. 다른 요소 : STL과 OBJ 포맷으로 내보내기와 기하학 함수(2D와 3D)
 
-## [Vex: Modern, Flexible On-Page Dialog Library](http://github.hubspot.com/vex/docs/welcome/)
-Supports a high level of customization, including styling of all UI elements, themes, behaviors, animations and effects, with all options configurable on a per dialog basis. Under 7KB with a flexible API.
+## [Vex: 현대적이고 유연한 대화상자 라이브러리](http://github.hubspot.com/vex/docs/welcome/)
+대화상자마다의 모든 옵션 설정과 모든 UI 엘리먼트, 테마, 행동, 애니메이션 그리고 효과의 스타일링을 포함하는 높은 수준의 변경을 지원합니다. 유연한 API를 가지며 7KB 보다 작은 용량입니다.
 
-## [TripleSec: Triple-Paranoid Symmetric Encryption Library](https://keybase.io/triplesec/)
-An open-source library for the browser and Node.js. TripleSec encrypts data with Salsa 20, AES, and Twofish, so that a compromise of one or two of the ciphers will expose nothing.
+## [TripleSec: Triple-Paranoid Symmetric 암호화 라이브러리](https://keybase.io/triplesec/)
+브라우저와 Node.js용 오픈 소스 라이브러리입니다. TripleSec은 Salsa 20, AES, Twofish로 데이터를 암호화 하기 때문에 하나나 두 자리의 암호 노출로는 어떤것도 노출 시키지 않을 것이다.
 
-## [Jor1k: OpenRISC 1000 Emulator Written in JavaScript, Running Linux](http://s-macke.github.io/jor1k/)
+## [Jor1k: 자바스크립트로 작성된 OpenRSC 1000 에뮬레이터, 리눅스에서 실행](http://s-macke.github.io/jor1k/)
 
-## [Mapael: jQuery Plugin for Interactive Vector Maps](http://www.neveldo.fr/mapael/)
-jQuery Mapael is a jQuery plugin based on raphael.js that allows you to display dynamic vector maps (visualizing geographical data etc.).
+## [Mapael: jQuery용 인터렉티브한 벡터 지도를 위한 jQuery 플러그인](http://www.neveldo.fr/mapael/)
+jQuery Mapael은 raphael.js를 기반으로하는 jQuery 플러그인입니다. 이것은 동적인 벡터 지도를 표시할 수 있게 만들어줍니다.
 
-## [OJ: Framework for Building Websites Via API Calls](http://ojjs.org)
-Supports Backbone with two-way model and collection binding.
+## [OJ: API 호출을 통해 웹 사이트를 만드는 프레임워크](http://ojjs.org)
+양 방향의 모델과 컬렉션 바인딩의 백본을 지원합니다.
 
-## [LeapTrainer.js v0.2 Released](http://www.youtube.com/watch?v=LlRsuY2zofw)
-LeapTrainer.js is a gesture learning and recognition framework for the Leap Motion. This video showcases the new training UI and upgraded gesture recognition.
+## [LeapTrainer.js v0.2 출시](http://www.youtube.com/watch?v=LlRsuY2zofw)
+LeapTrainer.js는 Leap Motion용 제스쳐 학습과 인식 프레임워크입니다. 이 비디오는 새로운 학습 UI와 업그레이드된 제스쳐 인식을 소개합니다.
 
 ## [completely.js: No-Dependencies Autocompletion Library](http://complete-ly.appspot.com/)
 
-## [FireShell: Front-End Boilerplate and Workflow Framework](http://getfireshell.com/)
-An opinionated framework for teams and individual developers aiming to encourage better workflow. Includes JavaScript task running, build processes, auto-minification and file concatenation, wrapped with a HTML5 boilerplate framework.
+## [FireShell: 프론트엔드 표준 코드와 워크플로우 프레임워크](http://getfireshell.com/)
+더 나은 워크플로우를 가지려는 팀과 개인 개발자를 위한 독선적인(?) 프레임워크입니다. HTML5 표준 코드 프레임워크와 감싸진 자바스크립트 태스크 실행, 프로세스 빌드, 자동 최소화와 파일 합침 기능을 가지고 있습니다.
 
-## [Phaser: HTML5 Game Framework for Mobile and Desktop](http://phaser.io)
-Based on WebGL and Canvas, provides support for sprites, sound, input devices, animation, particles, cameras, etc.
+## [Phaser: 모바일과 데스크톱을 위한 HTML5 게임 프레임워크](http://phaser.io)
+WebGL과 캔버스를 기반으로 스프라이트, 사운드, 디바이스 입력, 애니메이션, 파티클, 카메라등을 지원합니다.
 
-## [DataTables: Table Plugin for jQuery](http://www.datatables.net/)
-Progressively enhances tables with pagination, filtering, multi-column sorting and more. Accepts data from a variety of sources: DOM, JavaScript array, Ajax file, etc.
-
+## [DataTables: jQuery용 테이블 플러그인](http://www.datatables.net/)
+페이지네이션, 필터링, 멀티 컬럼 정렬등의 기능을 가지는 계속적으로 확장하는 테이블. DOM, 자바스크립트 배열, Ajax 등의 다양한 소스로 부터 데이터를 입력 가능합니다.
 
 - - -
 # 일자리
