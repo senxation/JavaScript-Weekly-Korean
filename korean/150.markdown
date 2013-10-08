@@ -77,23 +77,24 @@ This talk claims to be ‘the missing manual’ to writing great JavaScript test
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Conzole: A JavaScript Debugging Panel You Can Display On Your Page](http://oaxoa.github.io/Conzole/)
-Wraps native console methods and functionality into an on-page panel.
+## [Conzole: 페이지 위에 표시 할 수 있는 자바스크립트 디버깅 패널](http://oaxoa.github.io/Conzole/)
+페이지내의 패널에 네이티브 console 메서드와 기능을 추가합니다.
 
-## [Opentype.js: JavaScript Parser for TrueType and OpenType Fonts](https://github.com/nodebox/opentype.js/wiki)
-Gives you access to the letterforms of text from the browser or node.js.
+## [Opentype.js: 트루타입과 오픈타입 폰트의 자바스크립트 파서](https://github.com/nodebox/opentype.js/wiki)
+브라우저와 node.js 에서 텍스트의 글자체에 접근할 수 있게 해줍니다.
 
-## [A JavaScript Raytracer in 984 Bytes](https://github.com/bwiklund/js1k-love-raytracer)
+## [984 바이트짜리 자바스크립트 Raytracer](https://github.com/bwiklund/js1k-love-raytracer)
+> [Ray tracing](http://me2.do/GPAya6Yv)
 
-## [FastActive: A JavaScript Snippet That Makes Web Apps Feel More Native](https://github.com/jonathanstark/FastActive)
-FastActive toggles an active class name on whatever links the user touches. With that single hook, devs can write simple CSS that will provide instantaneous visual feedback to the user.
+## [FastActive: 웹 앱을 좀 더 네이티브 처럼 느끼게 만들어주는 자바스크립트 코드](https://github.com/jonathanstark/FastActive)
+FastActive는 사용자 터치가 가능한 어디라도 활성 클래스 이름을 넣었다 뺀다. 이러한 방법으로 개발자는 사용자에게 시각적인 피드백을 즉시 제공할 수 있는 간단한 CSS를 작성할 수 있다.
 
-## [COLT: A Live Coding Tool for JavaScript](http://blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out)
-See an example of the power of live coding in [this excerpt of a talk by Bret Victor](http://www.youtube.com/watch?v=wjSsISiacEU). Elsewhere, Code Orchestra ponders [whether live coding for JS is a fancy toy or a real tool.](http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool)
+## [COLT: 자바스크립트 라이브 코딩 툴](http://blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out)
+[Bret Victor의 이야기를 발췌한 동영상](http://www.youtube.com/watch?v=wjSsISiacEU)을 통해 강력한 라이브 코딩 예제를 살펴봅니다. [Code Orchestra](http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool) 에서는 자바스크립트 라이브 코딩인 단지 재미난 장난감인지 아니면 진정한 툴인지에 대해 생각해봅니다.
 
-## [5 JavaScript Libraries to Add Text Editing to Your Web Application](http://blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application/)
+## [당신의 웹 어플리케이션에 텍스트 편집 기능을 추가할 수 있는 다섯가지 자바스크립트 라이브러리](http://blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application/)
 
-## [Ideal Forms 3: A jQuery Plugin for Powerful, Flexible Web Forms](https://github.com/elclanrs/jq-idealforms)
+## [Ideal Forms 3: 강력하고 유연한 웹 폼 jQuery 플러그인](https://github.com/elclanrs/jq-idealforms)
 
 
 - - -
