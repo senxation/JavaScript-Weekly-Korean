@@ -13,8 +13,8 @@ A JavaScript conference that runs alongside JSConf EU. Topics range from [60 FPS
 - - -
 # 스폰서기사
 
-## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
-Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+## [여러분의 모바일 웹사이트가 중학생이 만든 HTML5 프로젝트처럼 보이지 않으려면](http://bdconf.com/html5)
+개발자와 디자이너를 이틀간의 DBConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100불의 할인이 제공됩니다.
 
 
 - - -
@@ -111,11 +111,12 @@ Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 - - -
 # 일자리
 
-## [Front End Engineer @ Orchestrate.io [Portland or Remote]](http://jobsco.re/169jmCg)
+## [프론트 엔드 엔지니어 @ Orchestrate.io (포틀랜드 또는 재택)](http://jobsco.re/169jmCg)
 Orchestrate's mission is to help devs be creative by eliminating the pain of databases. This role will help re-imagine how devs interact with databases and help build our brand. You'll join an experienced team and a well funded startup. Learn more about us.
+Orchestrate의 미션은 데이터베이스의 어려움을 없애 개발자들이 창조적인 일에 몰두할 수 있도록 돕는 것입니다. 
 
-## [JavaScript Developer in Amsterdam (visa and relocation provided)](http://goo.gl/oQlhUW)
+## [자바스크립트 개발자 @ 암스테르담 (비자와 이주 지원 가능)](http://goo.gl/oQlhUW)
 Are you interested in working on the best accommodation website used by millions of customers? Do you have solid experience developing with JS/HTML/CSS? Booking.com is looking for experienced Front End Developers. Learn more about us [in this video.](http://www.youtube.com/watch?v=9T6Xi4U5APo)
 
-## [Software Developer at OrgSync (Dallas, TX)](http://www.orgsync.com/job_openings/frontend-javascript-developer)
+## [OrgSync사의 소프트웨어 개발자 (텍사스, 댈라스)](http://www.orgsync.com/job_openings/frontend-javascript-developer)
 Build and scale a higher-ed focused application in use by over 2 million users at 350 colleges and universities. If you are passionate about well-engineered software and creating great user experiences, this job is for you.

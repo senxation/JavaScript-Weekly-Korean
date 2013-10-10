@@ -13,8 +13,8 @@ JavaScript Allongé is a book about programming with functions, because JavaScri
 - - -
 # 스폰서기사
 
-## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
-Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+## [여러분의 모바일 웹사이트가 중학생이 만든 HTML5 프로젝트처럼 보이지 않으려면](http://bdconf.com/html5)
+개발자와 디자이너를 이틀간의 DBConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100불의 할인이 제공됩니다.
 
 
 - - -
