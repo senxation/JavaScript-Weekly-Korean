@@ -13,8 +13,8 @@ A JavaScript interpreter and JIT compiler written in D that targets x86-64 platf
 - - -
 # 스폰서기사
 
-## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
-Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
+## [여러분의 모바일 웹사이트가 중학생이 만든 HTML5 프로젝트처럼 보이지 않으려면](http://bdconf.com/html5)
+개발자와 디자이너를 이틀간의 DBConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100불의 할인이 제공됩니다.
 
 
 - - -
@@ -114,20 +114,23 @@ WebGL과 캔버스를 기반으로 스프라이트, 사운드, 디바이스 입�
 - - -
 # 일자리
 
-## [Senior Web Engineer, Core Engineering (Oakland, CA)](https://hire.jobvite.com/j?cj=omGqXfw9&amp;s=JavaScriptWeekly)
-Pandora is look for an innovative, inspired Web Engineer with experience designing and building killer consumer web applications.  You will have the chance to take on complex and interesting problems as part of a highly collaborative and fun team.
+## [시니어 웹 엔지니어, 코어 엔지니어링 (캘리포니아, 오클랜드)](https://hire.jobvite.com/j?cj=omGqXfw9&amp;s=JavaScriptWeekly)
+판도라에서 소비자 웹 애플리케이션을 설계하고 만들 혁신적이고 영감있는 웹 엔지니어를 찾고 있습니다. 매우 협동적이고 재미있는 팀의 일원으로 복잡하지만 재미 있는 문제를 해결할 기회를 갖게 될 것입니다.
 
-## [Software Engineer at Turn (Silicon Valley)](http://www.turn.com/career-opportunities/software-engineer-front-end)
-Angular, Node, Bootstrap. Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+## [소프트웨어 엔지니어 @ 턴 (실리콘 밸리)](http://www.turn.com/career-opportunities/software-engineer-front-end)
+Angular, Node, Bootstrap. 빅 데이터, 머신 러닝, 분산 시스템. 이런 기술에 관심이 있고 자바스크립트에 능숙하다면 턴의 프론트엔드 애플리케이션 팀에 합류하는 것에 대해 이야기해보고 싶습니다.
 
-## [Front-End Developer at The Nerdery](http://nerdery.com/jobs/positions/40)
-The Nerdery is looking for talented front-end developers with a passion for being on the cutting edge of web development with the skills to support legacy browsers when required. Our ideal candidate is highly motivated, always learning and pushing boundaries.
+## [프론트엔드 개발자 @ The Nerdery](http://nerdery.com/jobs/positions/40)
+The Nerdery에서 오래된 브라우저를 지원할 수 있는 역량을 가지고 있으면서도 최신의 웹 개발 기술을 배우고자 하는 열정을 가진 재능있는 프론트엔드 개발자를 찾고 있습니다. 최고의 지원자는 의욕이 넘치고 항상 배우면서 한계에 도전하는 사람입니다.
 
-## [Post a job in a future issue of JavaScript Weekly](https://cooperpress.com/jobs)
+
+## [자바스크립트 위클리에 구인 광고를 올리세요](https://cooperpress.com/jobs)
 
 
 - - -
 # 마지막으로,
 
-## [Automate your release process](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20679)
-Get fast, repeatable deployments at your fingertips with Red Gate’s Deployment Manager. Ship your .NET apps, services, and databases in a single process, see the status of your environments on the shared dashboard, and manage all your deployments in one place. Get started now.
+## [배포 과정을 자동화하세요](http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptw…ployment_v2_m1&amp;utm_campaign=deploymentmanager&amp;utm_term=email-20679)
+레드 게이트(Red Gate)의 Deployment Manager를 사용하여 빠르고 반복 가능한 배포를 진행하세요. .NET 애플리케이션, 서비스, 데이터 베이스를 하나의 프로세스로 배포하고 공유 대시보드에서 여러분의 환경을 살펴보고 모든 배포 작업을 한 곳에서 관리하세요. 지금 바로 시작하세요.
+
+
