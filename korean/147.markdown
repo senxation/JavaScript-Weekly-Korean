@@ -16,9 +16,8 @@ Marijn은 2판을 새롭게 쓰길 원하며, 최근에 해당 작업을 위해 
 - - -
 # 스폰서기사
 
-## [Your mobile website shouldn't look like an 8th grade HTML5 project.](http://bdconf.com/html5)
-Send your developers &amp; designers to BDConf for 2 days of education, inspiration and peer networking as it relates to mobile website strategy, code, UI/UX &amp; design. 8th graders can make sites for your competitor. You’re better than that. Code BNACMA2 saves $100 on registration.
-
+## [여러분의 모바일 웹사이트가 중학생이 만든 HTML5 프로젝트처럼 보이지 않으려면](http://bdconf.com/html5)
+개발자와 디자이너를 이틀간의 DBConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100불의 할인이 제공됩니다.
 
 - - -
 # 읽을 거리
@@ -96,19 +95,19 @@ Falcon.js는 Knockout.js를 통해 싱글 페이지 앱 개발을 수월하게 �
 - - -
 # 일자리
 
-## [Sr. JavaScript Engineer (San Francisco - SOMA)](http://www.krux.com/pro/who_we_are/careers/javascript_guru/)
-Want to solve some the world's hardest JavaScript problems using the latest technologies for a well funded Big Data company? Join a successful and talented team that's experiencing extraordinary growth, and help us pave the road to the future in Big Data.
+## [시니어 자바스크립트 엔지니어 (샌프란시스코 - SOMA)](http://www.krux.com/pro/who_we_are/careers/javascript_guru/)
+자금력이 충분한 빅데이터 회사에 근무하면서 세상에서 가장 어려운 자바스크립트 문제를 최신 기술을 사용하여 해결하고 싶지 않으신가요? 급격한 성장을 하고 있는 재능있고 성공적으로 일을 완수하는 팀에 합류하여 빅 데이터 분야에서 미래로 가는 길을 같이 만들길 바랍니다.
 
-## [A well-funded startup with a seasoned team needs you](http://www.jobscore.com/jobs/orchestrate/front-end-engineer/c9z_0ag2qr46YDiGakhP3Q)
-Go ahead, click the link, it could change everything.
-
+## [자금력과 경험이 많은 팀에서 사람을 찾습니다.](http://www.jobscore.com/jobs/orchestrate/front-end-engineer/c9z_0ag2qr46YDiGakhP3Q)
+어서 링크를 클릭하세요. 그러면 모든 것이 바뀔 것입니다.
 
 
 - - -
 # 마지막으로,
 
-## [Join Hack Reactor's Elite S.F. Programming Bootcamp](http://hackreactor.com/?utm_source=jsweekly&amp;utm_medium=email&amp;utm_term=sept&amp;utm_content=jsweekly&amp;utm_campaign=jsweekly)
-Hack Reactor has developed a CS degree for the 21st century. We’ve achieved a 98% hiring rate and 110k average starting salaries for our students, as well as coverage in Wired and TechCrunch magazine.
+## [핵 리액터의 샌프란시스코 엘리트 프로그래밍 부트 캠프에 참가하세요.](http://hackreactor.com/?utm_source=jsweekly&amp;utm_medium=email&amp;utm_term=sept&amp;utm_content=jsweekly&amp;utm_campaign=jsweekly)
+핵 리액터는 21세기를 위한 컴퓨터 과학 학위를 개발했습니다. 졸업자의 98%가 취업에 성공했으며 평균 초임은 11만불입니다. 또한 와이어드와 테크크런치에 소개되기도 했습니다.
 
-## [Espruino: JavaScript for Things](http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things)
-Espruino is a small computer that anyone can use to control things around them. Its JavaScript interpreter gives you instant feedback so that you can experiment and develop whatever your level of experience. It’s currently doing very well on Kickstarter and has passed its funding goal.
+
+## [에스프루이노: 사물 자바스크립트](http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things)
+에스프루이노는 누구라도 주변의 사물을 컨트롤 할 수 있는 작은 컴퓨터입니다. 에스프루이노의 자바스크립트 해석기를 사용하면 바로 반응을 확인할 수 있어 여러분이 원하는 것을 실험하고 개발할 수 있습니다. 현재 킥스타터에서의 두각을 나타내고 있으며 자금 목표를 이미 달성한 상태입니다.
