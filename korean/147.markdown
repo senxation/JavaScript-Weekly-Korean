@@ -69,7 +69,7 @@ Cliff Meyers는 예제 애플리케이션을 통해 서버측 의존성을 흉�
 # 코드, 라이브러리들과 도구들
 
 ## [Hapi: Node.js를 위한 서버 프레임워크](http://spumko.github.io/)
-웹 애플리케이션과 서비스를 위한 리치 프레임워크. Hapi는 입력값 검증, 캐싱, 인증과 같은 여러가지 기본적인 기능들을 지원하고 이러한 기능들을 설정을 통해 간단히 사용할 수 있는 설정 중심 프레임워크 이다.
+웹 애플리케이션과 서비스를 위한 리치 프레임워크. Hapi는 입력값 검증, 캐싱, 인증과 같은 여러가지 기본적인 기능들을 지원하고 이러한 기능들을 설정을 통해 간단히 사용할 수 있는 설정 중심 프레임워크입니다.
 
 ## [CLNDR.js: 더 나은 jQuery 달력 플러그인](http://kylestetz.github.io/CLNDR/)
 
@@ -77,18 +77,18 @@ Cliff Meyers는 예제 애플리케이션을 통해 서버측 의존성을 흉�
 Falcon.js는 Knockout.js를 통해 싱글 페이지 앱 개발을 수월하게 할 수 있도록 모델, 컬렉션 그리고 뷰 구조를 추가합니다. 많은 문서가 있습니다.
 
 ## [Formbuilder.js: 사용자가 폼을 만들 수 있게 해주는 인터페이스](http://dobtco.github.io/formbuilder/)
-사용자가 자신의 웹폼을 만들 수 있게 해주는 그래픽 인터페이스입니다. Wuffo나 Google 폼을 생각하면 됩니다. 하지만 당신의 애플리케이션에서 사용할 수 있는 컴퍼넌트 같은 것 입니다. 이 것은 당신이 손쉽게 사용할 수 있도록 구조화된 JSON 표현을 반환합니다.
+사용자가 자신의 웹폼을 만들 수 있게 해주는 그래픽 인터페이스입니다. Wuffo나 Google 폼을 생각하면 됩니다. 하지만 여러분의 애플리케이션에서 사용할 수 있는 컴퍼넌트 같은 것 입니다. Formbuilder는 손쉽게 사용할 수 있도록 구조화된 JSON 표현을 반환합니다.
 
 ## [FilmRoll: jQuery 캐러셀](http://straydogstudio.github.io/film_roll/)
-화면의 중심에 놓여진 하나의 아이템에만 집중 할 수 있는 가볍게 사용할 수 있는 캐러셀입니다. 비슷한 종류의 많은 것이 있지만 이것은 매우 멋집니다.
+화면의 중심에 놓여진 하나의 아이템에만 집중 할 수 있는 가볍게 사용할 수 있는 캐러셀(carousel)입니다. 비슷한 종류의 많은 것이 있지만 이것은 매우 멋집니다.
 
-## [포토샵 CC를 위한 새로운 Adobe Generator는 스크립트 언어로 Node.js를 사용 함](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html)
+## [포토샵 CC를 위한 새로운 Adobe Generator는 스크립트 언어로 Node.js를 사용한다](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html)
 
 ## [고급 jQuery Boilerplate: 확장 가능한 jQuery 플러그인을 만들기 위한 jQuery 플러그인](https://github.com/elclanrs/advanced-jquery-boilerplate)
 
 ## [MurmurHash3.js: MurMurHash3 해싱 알고리즘의 JS 구현체](https://github.com/karanlyons/murmurHash3.js)
 
-## [favico.js: 뱃지, 이미지, 비디오를 파비콘으로 사용할 수 있게 해 줌](http://lab.ejci.net/favico.js/)
+## [favico.js: 뱃지, 이미지, 비디오를 파비콘으로 사용할 수 있게 해 주는 라이브러리](http://lab.ejci.net/favico.js/)
 
 
 
@@ -106,8 +106,8 @@ Falcon.js는 Knockout.js를 통해 싱글 페이지 앱 개발을 수월하게 �
 # 마지막으로,
 
 ## [핵 리액터의 샌프란시스코 엘리트 프로그래밍 부트 캠프에 참가하세요.](http://hackreactor.com/?utm_source=jsweekly&amp;utm_medium=email&amp;utm_term=sept&amp;utm_content=jsweekly&amp;utm_campaign=jsweekly)
-핵 리액터는 21세기를 위한 컴퓨터 과학 학위를 개발했습니다. 졸업자의 98%가 취업에 성공했으며 평균 초임은 11만불입니다. 또한 와이어드와 테크크런치에 소개되기도 했습니다.
+핵 리액터(hackreactor)는 21세기를 위한 컴퓨터 과학 학위를 개발했습니다. 졸업자의 98%가 취업에 성공했으며 평균 초임은 11만불입니다. 또한 와이어드와 테크크런치에 소개되기도 했습니다.
 
 
 ## [에스프루이노: 사물 자바스크립트](http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things)
-에스프루이노는 누구라도 주변의 사물을 컨트롤 할 수 있는 작은 컴퓨터입니다. 에스프루이노의 자바스크립트 해석기를 사용하면 바로 반응을 확인할 수 있어 여러분이 원하는 것을 실험하고 개발할 수 있습니다. 현재 킥스타터에서의 두각을 나타내고 있으며 자금 목표를 이미 달성한 상태입니다.
+에스프루이노(espruino)는 누구라도 주변의 사물을 컨트롤 할 수 있는 작은 컴퓨터입니다. 에스프루이노의 자바스크립트 해석기를 사용하면 바로 반응을 확인할 수 있어 여러분이 원하는 것을 실험하고 개발할 수 있습니다. 현재 킥스타터에서의 두각을 나타내고 있으며 자금 목표를 이미 달성한 상태입니다.
