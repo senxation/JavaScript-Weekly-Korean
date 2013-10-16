@@ -3,11 +3,13 @@
 - - -
 # 특집 기사
 
-## [27 Presentations from JSConf US 2013](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
-A playlist with 27 (it says 36 but some are duplicates) talks from JSConf US 2013, includes things like Peter Flynn talking about [JavaScript performance tuning secrets](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle [making art in the browser](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee on [real time recompilation](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), and Angelina Fabbro on [trying to become an expert](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2) as an intermediate developer.
+## [US에서 열린 JSConf의 27개의 프리젠테이션들](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+2013 US에서 열린 JSConf에서 의 27개의 플레이 리스트들은 ( 36개이지만 몇개는 중복입니다.)  Peter Flynn이 설명하는 [자바스크트 성능 튜닝비법](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle 이 설명하는 [브라우저에서 예술을 만드는 법](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee 의 [실시간 재컴파일](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), 그리고 Angelina Fabbro 의 중급 개발자로서 [전문가가 되기위한 노력](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)과 같은 내용들이 포함되어있습니다.
 
-## [Higgs: An Interesting New JavaScript VM and Compiler](https://github.com/maximecb/Higgs)
-A JavaScript interpreter and JIT compiler written in D that targets x86-64 platforms. It’s being developed as part of research into dynamic language optimization. Related to this, Dan Glasperlenspiel has written an interesting post about [using Higgs FFI to call C code from JavaScript.](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)
+
+## [Higgs: 흥미로운 새로운 자바스크립트 가상머신과 컴파일러](https://github.com/maximecb/Higgs)
+D에서 만들어진 자바스크립트 인터프리터와 JIT 컴파일러는 x86-64 플랫폼을 타겟팅 하여왔고, 그것들은 동적언어의 최적화 연구에 한 부분으로 발전되어 왔습니다.
+이것에 관련하여 Dan Glasperlensiel이 [Higgs FFI를 이용한 자바스크립트로부터 C 코드를 호출 하는 법](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)에 대해 재미있는 포스트를 작성 했습니다.
 
 
 - - -
@@ -47,20 +49,31 @@ Andrew Hushbeck discusses how to use and how he built FruitJS, a Node.js utility
 - - -
 # 동영상
 
-## [TC39 JavaScript Panel at Bocoup](http://www.youtube.com/watch?v=PJ1hUr7YJ-8)
-TC39 (Ecma Technical Committee 39) is responsible for maintaining and evolving the ECMAScript language standard. On September 18, Bocoup hosted a TC39 panel with Allen Wirfs-Brock, Douglas Crockford, Brendan Eich and others, moderated by Rick Waldron. Various issues regarding JavaScript and its future were discussed. *71 minutes.*
+## [Bocoup에서의 TC39 자바스크립트 패널](http://www.youtube.com/watch?v=PJ1hUr7YJ-8)
+TC39 (Ecma 기술위원회 39)는 ECMAScript 언어에 대한 표준을 발전시키고 유지 하는데 책임을 가지고있습니다.
+9월 18일 Bocoup에서 Rick Waldron의 진행하에,  Allen Wirfs-Brock, Douglas Crockford, Brendan Eich외 몇몇으로 이루어진 TC39 패널을 초대 하였습니다.
+해당 자리에서는 자바스크립트에 관한 다양한 이슈들과 미래에 대해 논의 하였습니다.(1:10:13)
 
-## [The Basics of Backbone.js](http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/)
-Thomas Hunter II presents a high-level presentation of Backbone.js, covering many of the same topics from [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/). *37 minutes long.*
+> [TC39는 자바스크립트 언어의 변화를 최종적으로 결정 하는 ECMA그룹입니다.]
+> [Douglas Crockford: JSON의 창시자이며, 자바스크립트로 가장 유명한 개발자라고 할 수있습니다. ]
+> [Bocoup은 개방형 웹기술 업체로 2012년에는 페이스북과 Rinmark.io라는 브라우저 테스트 도구를 오픈 하기도 하였습니다.]
 
-## [JavaScript Jabber: Maintainable JavaScript with Nicholas Zakas](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
-In this podcast, a panel of six people (Nicholas Zakas, Joe Eames, AJ O’Neal and others) discusses issues related to Zakas’ concept of “maintainable JavaScript”. *58 minute podcast with transcript.*
+## [Backbone.js 기초](http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/)
+Thomas Hunter II 가 높은 수준의 Backbone.js 의 프리젠테이션을 보여줍니다.
+해당 영상에는 [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/)에 있는 비슷한 주제가 많이 담겨 있습니다.(36:33)
 
-## [JavaScript and Web Security](http://www.youtube.com/watch?v=6_3pomxyp8M)
-This 49 minute talk covers several topics in JavaScript and web security, including secure password storage and authentication, [SRP](http://srp.stanford.edu) protocol, and common JavaScript security threats and injection techniques.
+## [자바스크립트 Jabber: Nicholas Zakas와 함께 하는 유지보수 자바스크립트](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
+이번 팟캐스트에서는 6명의 인원(Nicholas Zakas, Joe Eames, AJ O'Neal과 몇몇들)들로 이루어진 패널들이 "자바스크립트 유지보수"에서 Zakas가 가지고있는 개념에 관련된 이슈에 대해 논의 한다.(57:41)
 
-## [How to Use Node and Photoshop Generator to Script Adobe Photoshop CC](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
-A great 25 minute screencast.
+> 대화록도 포함되어있습니다.
+
+## [자바스크립트와 웹보안](http://www.youtube.com/watch?v=6_3pomxyp8M)
+약 49분의 대화에서는 보안패스워드저장과 인증, [SRP](http://srp.stanford.edu)프로토콜, 그리고 통상적인 자바스크립트 보안 위험과 주입기술이 포함된 자바스크립트와 웹 보안에 대해 얘기 할것입니다. (48:33)
+
+## [Adobe의 포토샵CC를 스크립트화 하기 위해 포토샵 생성기와 Node.js 를 사용 하는법](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
+(25:12)
+
+> [Tom의 블로그 포스트에 글로도 설명 되어있습니다.](http://tomkrcha.com/?p=3896)
 
 
 - - -
