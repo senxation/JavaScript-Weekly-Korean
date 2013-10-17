@@ -112,11 +112,10 @@ Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 # 일자리
 
 ## [프론트 엔드 엔지니어 @ Orchestrate.io (포틀랜드 또는 재택)](http://jobsco.re/169jmCg)
-Orchestrate's mission is to help devs be creative by eliminating the pain of databases. This role will help re-imagine how devs interact with databases and help build our brand. You'll join an experienced team and a well funded startup. Learn more about us.
-Orchestrate의 미션은 데이터베이스의 어려움을 없애 개발자들이 창조적인 일에 몰두할 수 있도록 돕는 것입니다. 
+Orchestrate의 미션은 데이터베이스의 어려움을 없애 개발자들이 창조적인 일에 몰두할 수 있도록 돕는 것입니다. 이런 역할은 개발자들이 데이터베이스를 활용하는 방법을 다시 상상하는데 도움이 될 것이며 우리 회사의 브랜드를 만들 것입니다. 경험 많고 자금이 풍부한 스타트업과 함께 하세요. 우리에 대해 더 많은 것을 알아보기 바랍니다.
 
 ## [자바스크립트 개발자 @ 암스테르담 (비자와 이주 지원 가능)](http://goo.gl/oQlhUW)
-Are you interested in working on the best accommodation website used by millions of customers? Do you have solid experience developing with JS/HTML/CSS? Booking.com is looking for experienced Front End Developers. Learn more about us [in this video.](http://www.youtube.com/watch?v=9T6Xi4U5APo)
+수백만명의 고객이 사용하는 최고의 숙박 웹사이트에서 일하는데 흥미가 있나요? JS/HTML/CSS를 사용한 개발 경험이 있으신가요? Booking.com에서 숙련된 프론트 엔드 개발자를 찾고 있습니다. [이 비디오](http://www.youtube.com/watch?v=9T6Xi4U5APo)를 확인하시면 우리 회사에 대해 더 많은 것을 알 수 있을 것입니다.
 
 ## [OrgSync사의 소프트웨어 개발자 (텍사스, 댈라스)](http://www.orgsync.com/job_openings/frontend-javascript-developer)
-Build and scale a higher-ed focused application in use by over 2 million users at 350 colleges and universities. If you are passionate about well-engineered software and creating great user experiences, this job is for you.
+350여개의 대학에서 2백만명이 넘는 사람이 사용하는 애플리케이션을 만들고 확장하세요. 잘 만들어진 소프트웨어와 훌륭한 사용자 경험을 만드는 일에 많은 관심이 있다면 이 자리가 딱 맞는 자리가 될 것입니다.
