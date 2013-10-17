@@ -1,0 +1,128 @@
+원문 : [http://javascriptweekly.com/archive/151.html]
+
+- - -
+# 특집 기사
+
+## [Brendan Eich on JS Responsibilities](http://www.youtube.com/watch?v=IXIkTrq3Rgg)
+JavaScript’s creator gave a talk at JSConf EU about the current state of JavaScript, what’s coming along for the language next, and what things need to be done. There’s lots of technical stuff about the language and its syntax to enjoy in just 30 minutes.
+
+## [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+Addy Osmani walks through using Yeoman, a workflow of tools for web apps to streamline creating webapps, and Polymer, a library of polyfills and sugar for developing apps using Web Components.
+
+## [Ecma Publishes 1st Edition of ECMA-404 Standard for JSON](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+
+## [JingJS: The Chinese JavaScript Conference (Beijing, Nov 9-11)](http://jingjs.org)
+
+
+- - -
+# 읽을 거리
+
+## [Searching Using Array.prototype.reduce](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
+Interesting ways to search for particular items within an array using the 'reduce' method.
+
+## [What is Node.js?](http://stackoverflow.com/q/1884724/3951#6782438)
+A broad and insightful answer for a developer who isn’t sure what Node.js is about or why anyone would use it.
+
+## [Rethinking JavaScript’s Try/Catch](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
+Ryan Morr shares an alternative to JavaScript’s try/catch that offers better performance and is customizable.
+
+## [JavaScript Fundamentals](http://flippinawesome.org/2013/10/07/javascript-fundamentals/?)
+Azat Mardanov examines some of what makes JavaScript a uniquely expressive language – as well as occasionally frustrating.
+
+## [Heap Snapshots and Handling Node.js Memory Leaks](http://strongloop.com/strongblog/how-to-heap-snapshots/)
+Ben Noordhuis, a Node core contributor and member of the StrongLoop team, created the heapdump module to provide developers a simple mechanism for producing V8 heap snapshots.
+
+## [Tim Caswell on the Development of js-git](http://blog.pluralsight.com/2013/10/04/tim-caswell-on-the-development-of-js-git/)
+js-git is a JavaScript implementation of the Git source code control system and Pluralsight’s Geoffrey Grosenbach has spoken to the author about how work is progressing.
+
+## [Extending the Brackets Code Editor with JavaScript](http://flippinawesome.org/2013/10/07/extending-the-brackets-code-editor-with-javascript/?)
+Alessandro Artoni takes you through how to build an extension to the Brackets code editor using just JavaScript.
+
+## [Playing with ES6 Generators to Make A 'Maybe' in JavaScript](http://truffles.me.uk/playing-with-es6-generators-to-make-a-maybe-in-javascript)
+
+## [ES6 Generators and Iteration in SpiderMonkey](http://wingolog.org/archives/2013/10/07/es6-generators-and-iteration-in-spidermonkey)
+SpiderMonkey, Firefox’s JavaScript engine, now has support for ES6 generators and iteration. This article looks at how they work.
+
+## [Why Asm.js Is A Big Deal for Game Developers](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
+
+## [The JavaScript console API](http://www.2ality.com/2013/10/console-api.html)
+In most JavaScript engines, there is a global object console with methods for logging and debugging. That object is not part of the language proper, but has become a de facto standard.
+
+
+- - -
+# 동영상
+
+## [A Comparison of The Two-way Binding in Angular, Ember and Knockout](http://www.youtube.com/watch?v=mVjpwia1YN4)
+From JSConf EU comes a talk on the strengths and weaknesses of the libraries as well as their similarities and differences.
+
+## [Making a Simple Game in JavaScript Step-By-Step](https://vimeo.com/74008847)
+
+## [Plight Of The Butterfly: Object.observe()](http://www.youtube.com/watch?v=mfOh-J-9BY0)
+Object.observe is a proposed mechanism for monitoring when JavaScript objects are changed. Addy Osmani explains how it works in this 34 minute talk.
+
+## [How to Win Friends and Influence Standards Bodies](https://www.youtube.com/watch?v=hneN6aW-d9w&amp;hd=1)
+A 25 minute talk from LXJS 2013 where Domenic Denicola talks about the standards bodies that are involved in working on the Web Platform’s many technologies.
+
+## [Cleaning Up Nested Callbacks With Promises](http://www.icenium.com/blog/icenium-team-blog/2013/10/07/cleaning-up-nested-callbacks-with-promises)
+12 minute screencast.
+
+## [ClojureScript: Lisp's Revenge by David Nolan](https://vimeo.com/76226013)
+40 minute talk from Web Rebels.
+
+## [Getting MEAN (Mongo, Express, Angular, Node)](http://www.youtube.com/watch?v=XwSFg8nqBFA#t=99)
+MEAN is a full app development stack including MongoDB, Express, Node.JS and AngularJS and Google’s Brad Green speaks to a selection of developers about it.
+
+- - -
+# 중요 릴리즈
+
+## [Backbone.js 1.1 Released](http://backbonejs.org/)
+Mostly tweaks, optimizations and bugfixes.
+
+## [SproutCore 1.10.0 Released](http://blog.sproutcore.com/sproutcore-1-10-0-release/)
+
+## [YUI 3.13.0 Released](http://www.yuiblog.com/blog/2013/10/07/yui-3-13-0-released/)
+Many fixes and tweaks, particularly to the Rich Text Editor.
+
+## [Knockout 3.0 Release Candidate Available](http://blog.stevensanderson.com/2013/10/08/knockout-3-0-release-candidate-available/)
+It seems to be quite the week for the major structural libraries.
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [Prerender: Making AngularJS, Backbone or Ember Apps Search Engine Friendly](http://prerender.io/)
+Node (or Rails) middleware that detects search engine crawlers and provides content that’s appropriate for their use and allows regular navigation through a single page JavaScript app.
+
+## [Dropzone.js: Drag'n'Drop File Uploads with Image Previews](http://www.dropzonejs.com/)
+
+## [amdclean: Build Tool That Converts AMD Code to Standard JavaScript](https://github.com/gfranko/amdclean)
+
+## [QuestionMark.js: A Modal Window to Show Shortcut Keys for Your Webapp](http://www.impressivewebs.com/demo-files/question-mark-js/)
+
+## [BubbleChart: JavaScript Module for Comparative Visualization of 2D Data in A Bubble Chart](http://jondavidjohn.github.io/bubblechart/)
+
+## [Dolly.js: jQuery UI Widget That Adds Excel-like Cloning Functionality to Tables](http://lunarlogic.github.io/dolly.js/)
+
+## [Arg.js: Lightweight URL Argument and Parameter Parser](https://github.com/stretchr/arg.js)
+
+## [textAngular: Lightweight Two-Way-Bound Angular.js Text-Editor](http://textangular.com/)
+
+
+- - -
+# 일자리
+
+## [Software Engineer at Turn (Silicon Valley)](http://jobsco.re/17D541y)
+Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+
+## [Front End JavaScript Expert Needed at Weebly!](http://www.weebly.com/jobs.php)
+Join the small and talented development team at YCombinator backed Weebly.  Write features that will be utilized by tens of millions of users!
+
+## [UX/Web Designer at Booking.com in Amsterdam, NL](http://www.booking.com/jobs.en-gb.html?sid=eaa0c614fc3d4930d80628a6ee8c72a3;dcid=1;st=details;job_id=10480)
+Booking.com – planet Earth’s #1 accommodation website – is looking for the world’s smartest designers. Good in HTML &amp; CSS? You’ll be given the freedom to make meaningful and measurable improvements impacting millions of people.We offer relocation to Amsterdam!
+
+
+- - -
+# 마지막으로,
+
+## [Large Object Heap Compaction: Should You Use it?](https://www.simple-talk.com/dotnet/.net-framework/large-object-heap-compact…eapcompaction&amp;utm_campaign=antsmemoryprofiler&amp;utm_term=email-21078)
+Chris looks into LOH fragmentation and compaction: when to use compaction, and why you sometimes shouldn’t. Find out more.
