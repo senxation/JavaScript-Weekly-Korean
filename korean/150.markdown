@@ -100,12 +100,11 @@ FastActive는 사용자 터치가 가능한 어디라도 활성 클래스 이름
 - - -
 # 일자리
 
-## [2x JavaScript FE Developers (Senior &amp; Mid), Central London ](http://bit.ly/1aYnjz1)
-JS framework (like Sencha), Angular, CoffeeScript, LESS, Ruby &amp; Node, Agile. If you have exceptional JS skills and you’d like to work on a big SaaS video platform with global clients we’d love to talk to you about joining this innovative FE applications team
-
+## [2x 자바스크립트 프론트엔드 개발자 (선임과 중간급), 런던 중심부 ](http://bit.ly/1aYnjz1)
+(센차와 유사한) 자바스크립트 프레임워크, Angular, CoffeeScript, LESS, Ruby, Node, Agile. 특출난 자바스크립트 역량을 갖고 있으며 전세계적으로 고객을 갖고 있는 SaaS 비디오 플랫폼 기업에서 일하고 싶다면 이 혁신적인 프론트엔드 애플리케이션 팀에 합류하시기 바랍니다.
 
 - - -
 # 마지막으로,
 
-## [Capture your Exceptions with Airbrake](http://airbrake.io/pages/home?r=jsweekly)
-Capture and resolve your exceptions faster with Airbrake, the error app. Trusted by more than 50,000 developers. New plans include GitHub, Pivotal and many more workflow integrations for fast error resolution.
+## [에어브레이크를 사용하여 예외를 잡으세요.](http://airbrake.io/pages/home?r=jsweekly)
+에어브레이크를 사용하여 에러가 발생한 앱에서 예외를 잡고 더 빠르게 해결하세요. 5만명 이상의 개발자가 믿고 사용하고 있습니다. 새로운 버전에서는 더 빠르게 에러를 해결할 수 있도록 깃헙, 피보탈과 같은 수많은 워크플로우 도구와의 통합 기능을 제공합니다.
