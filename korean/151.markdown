@@ -90,22 +90,22 @@ It seems to be quite the week for the major structural libraries.
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Prerender: Making AngularJS, Backbone or Ember Apps Search Engine Friendly](http://prerender.io/)
-Node (or Rails) middleware that detects search engine crawlers and provides content that’s appropriate for their use and allows regular navigation through a single page JavaScript app.
+## [Prerender: 검색 엔진에 잘 검색 되도록 AngularJS, Backbone 그리고 Ember 앱 만들기](http://prerender.io/)
+노드나 레일즈 미들웨어는 검색 엔진 크롤러를 감지하면 이에 적합한 정보를 제공하고 싱글 페이지 자바스크립트 앱도 잘 크롤링 되도록 동작합니다.
 
-## [Dropzone.js: Drag'n'Drop File Uploads with Image Previews](http://www.dropzonejs.com/)
+## [Dropzone.js: 이미지 프리뷰를 제공하는 드래그 앤 드롭 파일 업로드](http://www.dropzonejs.com/)
 
-## [amdclean: Build Tool That Converts AMD Code to Standard JavaScript](https://github.com/gfranko/amdclean)
+## [amdclean: AMD 코드를 표준 자바스크립트로 변환해주는 빌드 툴](https://github.com/gfranko/amdclean)
 
-## [QuestionMark.js: A Modal Window to Show Shortcut Keys for Your Webapp](http://www.impressivewebs.com/demo-files/question-mark-js/)
+## [QuestionMark.js: 단축키를 보여주는 모달(Modal) 윈도우](http://www.impressivewebs.com/demo-files/question-mark-js/)
 
-## [BubbleChart: JavaScript Module for Comparative Visualization of 2D Data in A Bubble Chart](http://jondavidjohn.github.io/bubblechart/)
+## [BubbleChart: 버블 차트로 이차원 데이터를 시각적으로 비교해주는 자바스크립트 모듈](http://jondavidjohn.github.io/bubblechart/)
 
-## [Dolly.js: jQuery UI Widget That Adds Excel-like Cloning Functionality to Tables](http://lunarlogic.github.io/dolly.js/)
+## [Dolly.js: 테이블에 엑셀같은 복사 기능을 추가해 주는 jQuery UI 위젯](http://lunarlogic.github.io/dolly.js/)
 
-## [Arg.js: Lightweight URL Argument and Parameter Parser](https://github.com/stretchr/arg.js)
+## [Arg.js: 가벼운 URL 인자(argument)와 매개변수(parameter) 파서](https://github.com/stretchr/arg.js)
 
-## [textAngular: Lightweight Two-Way-Bound Angular.js Text-Editor](http://textangular.com/)
+## [textAngular: 양방향으로 엮인 가벼운 Angular.js 텍스트 에디터](http://textangular.com/)
 
 
 - - -
