@@ -1,0 +1,118 @@
+원문 : [http://javascriptweekly.com/archive/152.html]
+
+- - -
+# 특집 기사
+
+## [Virtual x86: x86 Emulator Written in JavaScript](http://copy.sh/v24/)
+An impressive project that can boot various operating systems just like a simple x86-based computer, but contained entirely in the browser. The author says they’ll open source it eventually.
+
+## [Google V8 JavaScript Engine Gains Optimizations to Compete with Firefox's 'use asm' Pragma](https://code.google.com/p/v8/issues/detail?id=2599#c16)
+[asm.js](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/) is a highly optimizable, low-level subset of JavaScript that’s perfect to get high performance when converting native code to JavaScript. Firefox supports a ‘use asm’ pragma for enabling support and while V8 will not support this, it has received optimizations that mean it competes favorably nonetheless.
+
+## [JSChannel Conference (Bengaluru, India - November 16)](http://www.jschannel.com/conference-blr.html)
+A new Indian JavaScript conference from a rapidly growing Indian JavaScript community.
+
+
+- - -
+# 스폰서기사
+
+## [Frontend Masters: New Course with Backbone.js Core Contributor Sam Breed](http://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
+Non-trivial web applications demand moving beyond jQuery one-offs into testable, single-responsibility code architectures. Sam shows us Backbone’s lightweight approach to building client-side MVC applications and builds in unit tests with Mocha and Sinon.JS.
+
+*Dive into Backbone.js models, collections, views and routes with [this new course](http://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/) from Frontend Masters!*
+
+
+- - -
+# 읽을 거리
+
+## [Sorting Networks using Higher-Order Functions of JavaScript Array](http://ariya.ofilabs.com/2013/10/sorting-networks-using-higher-order-functions-of-javascript-array.html)
+A look at implementing a search mechanism using [sorting networks](http://en.wikipedia.org/wiki/Sorting_network) and Array’s reduce method.
+
+## [Currying in JavaScript](https://medium.com/p/ce6da2d324fe)
+Currying refers to the process of transforming a function with multiple arity (i.e. multiple arguments) into another function with lower arity.
+
+## [TypeScript and the Road to 1.0](http://blogs.msdn.com/b/typescript/archive/2013/10/17/typescript-and-the-road-to-1-0.aspx)
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. This post outlines the plans to get it to its version 1.0 milestone.
+
+## [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript)
+Extensive with lots of interactive examples.
+
+## [Writing a JavaScript NES Emulator - Part 1](http://blog.alexanderdickson.com/javascript-nes-emulator-part-1)
+The first in what looks to be a promising series.
+
+## [JavaScript Configuration Object Pattern](http://flippinawesome.org/2013/10/14/javascript-configuration-object-pattern/?)
+Cory House explains how the JavaScript configuration object pattern can be used to load configuration data from server while keeping client side code clean.
+
+## [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
+Looks at a variety of libraries and techniques for dealing with touch events, swipes, etc, and also includes a comprehensive guide to using Angular in native-like apps using Cordova.
+
+## [Choosing a JavaScript Framework](http://blog.safaribooksonline.com/2013/10/16/choosing-a-javascript-framework/)
+
+## [HTML5 Browser Storage: the Past, Present and Future](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
+Covers JavaScript variables, cookies, the ‘window’ object, WebSQL, Web Storage, IndexedDB, and the File API. As featured in [this week's HTML5 Weekly.](http://html5weekly.com/archive/110.html)
+
+## [How to Conveniently Check for Responsive Breakpoints in JavaScript](http://tech.particulate.me/javascript/2013/10/10/how-to-conveniently-check-for-responsive-breakpoints-in-javascript/)
+
+## [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+What should you be testing and when should you be writing tests?
+
+## [ES6 Generator Performance in V8](http://dailyjs.com/2013/10/17/yield/)
+
+## [A Simple Visual Model for Promises](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
+Vittorio Zaccaria shares a visual model created using Petri nets that is designed to help understand the promises pattern in JavaScript.
+
+## [Ember Components: Reusable Building Blocks For Your Application](http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/)
+Ryan Anklam shows how Ember Components give you access to the power of the emerging web components spec for reusable widgets today.
+
+## [Starting a Mobile App with AngularJS, PhoneGap, and angular-seed](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
+
+## [Implementing a Facebook Login with Angular as easy as with Meteor](http://davidchang.github.io/angular-facebook-utils/)
+
+## [How to Learn Three.js for Game Development](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
+
+## [6 Tips for Creating AJAX-Heavy Websites](http://tech.pro/blog/1635/6-tips-for-creating-ajax-heavy-websites)
+
+
+- - -
+# 동영상
+
+## [70 Videos from SenchaCon 2013](http://www.youtube.com/user/SenchaInc/videos)
+Mostly covering Sencha’s tools and libraries but also some good talks of general interest, such as those on [Node development on Azure](http://www.youtube.com/watch?v=WbtV1bX_m2I), [building a REST API on Node](http://www.youtube.com/watch?v=L5KwFQOXrY4), and [JavaScript performance.](http://www.youtube.com/watch?v=Eaq2sbLjbhA)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [Kojak: A Simple JavaScript Performance Profiler](http://theironcook.github.io/Kojak/)
+A utility to help you figure out which of your functions are running too slowly. It tracks which functions are called and how often, how much time they’re taking, and how they were called.
+
+## [go-reveal: Turn Reveal.js Presentations Into Shared Events](https://github.com/gordienoye/go-reveal)
+Combining Reveal.js and [GoInstant](http://goinstant.com/) with go-reveal automatically makes your presentation multi-user. Share and collaborate with others using a simple URL. Bonus: The team at GoInstant is giving JavaScript Weekly readers [a sneak peek](https://developers.goinstant.com/beta/) of new functionality including widgets (for dropping in multi-user features like a user list, forms, etc.) &amp; AngularJS integration.
+
+## [React 0.5 Released](http://facebook.github.io/react/blog/2013/10/16/react-v0.5.0.html)
+React is a JavaScript library for building reactive user interfaces from the Facebook and Instagram teams.
+
+## [Wolfenstein 3D-style Raycaster Demo in 932 Bytes of JavaScript and HTML5](http://www.p01.org/releases/wolfensteiny/wolfensteiny.dev.htm)
+
+## [Frame Player: A 'Video' Player Based On Image Frames (for Mobile Devices)](http://vagnervjs.github.io/frame-player/)
+Apple used a similar technique recently on their site to keep things working across all devices.
+
+## [Pepper.js: Pepper Apps As Native Client or JavaScript Apps](https://github.com/google/pepper.js)
+Enables the compilation of native Pepper applications into JavaScript using Emscripten. This allows the simultaneous deployment of native code on the web both as a Portable Native Client (PNaCl) executable and as JavaScript.
+
+## [over.js: Elegant Function Overloading in JavaScript](https://github.com/stretchr/over.js)
+
+## [Odometer: Javascript and CSS Library for Smoothly Transitioning Numbers](http://github.hubspot.com/odometer/)
+
+
+- - -
+# 일자리
+
+## [Front End Developer -  Ancestry.com     (SF)](http://ch.tbe.taleo.net/CH05/ats/careers/requisition.jsp?org=ANCESTRY&amp;cws=38&amp;rid=906)
+The Archives.com team is building a beautiful app under the hood and needs someone to join the effort. Looking for a Front End Developer who lives and breathes JS, HTML, CSS and enjoys creating good looking and functional UI components.
+
+## [Lead Front End Developer (Washington, DC)](https://corporate-advisory.icims.com/jobs/7398/lead-front-end-developer/job)
+The Advisory Board is transforming the medical and educational industries. Play a key role on this passionate team building innovative and meaningful products- not to mention while enjoying our awesome company culture and benefits.
+
+## [Senior Web Developer at ImPOS (Melbourne, Australia)](http://careers.stackoverflow.com/jobs/41762/senior-web-developer-node-js-couchbase-impos)
+Want to work on a cutting edge node.js, Couchbase, HTML5 based app in a relaxed Melbourne location? ImPOS is looking for web developers with 3+ years experience to help bring this new product to market.
