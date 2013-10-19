@@ -4,76 +4,77 @@
 # 특집 기사
 
 ## [US에서 열린 JSConf의 27개의 프리젠테이션들](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
-2013 US에서 열린 JSConf에서 의 27개의 플레이 리스트들은 ( 36개이지만 몇개는 중복입니다.)  Peter Flynn이 설명하는 [자바스크트 성능 튜닝비법](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle 이 설명하는 [브라우저에서 예술을 만드는 법](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee 의 [실시간 재컴파일](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), 그리고 Angelina Fabbro 의 중급 개발자로서 [전문가가 되기위한 노력](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)과 같은 내용들이 포함되어있습니다.
+2013 US에서 열린 JSConf에서 의 27개의 플레이 리스트들은 ( 36개이지만 몇개는 중복입니다.)  Peter Flynn이 설명하는 [자바스크트 성능 튜닝비법](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle 이 설명하는 [브라우저에서 예술을 만드는 법](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee 의 [실시간 재컴파일](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), 그리고 Angelina Fabbro 의 중급 개발자로서 [전문가가 되기위한 노력](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)과 같은 내용들이 포함되어 있습니다.
 
 
 ## [Higgs: 흥미로운 새로운 자바스크립트 가상머신과 컴파일러](https://github.com/maximecb/Higgs)
-D에서 만들어진 자바스크립트 인터프리터와 JIT 컴파일러는 x86-64 플랫폼을 타겟팅 하여왔고, 그것들은 동적언어의 최적화 연구에 한 부분으로 발전되어 왔습니다.
-이것에 관련하여 Dan Glasperlensiel이 [Higgs FFI를 이용한 자바스크립트로부터 C 코드를 호출 하는 법](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)에 대해 재미있는 포스트를 작성 했습니다.
+D에서 만들어진 자바스크립트 인터프리터와 JIT 컴파일러는 x86-64 플랫폼을 타겟팅하여 왔고, 그것들은 동적언어의 최적화 연구에 한 부분으로 발전되어 왔습니다.
+이것에 관련하여 Dan Glasperlensiel이 [Higgs FFI를 이용한 자바스크립트로부터 C 코드를 호출 하는 법](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)에 대해 재미있는 포스트를 작성했습니다.
 
 
 - - -
 # 스폰서기사
 
 ## [여러분의 모바일 웹사이트가 중학생이 만든 HTML5 프로젝트처럼 보이지 않으려면](http://bdconf.com/html5)
-개발자와 디자이너를 이틀간의 DBConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100불의 할인이 제공됩니다.
+개발자와 디자이너를 이틀간의 BDConf로 보내어 영감을 불어넣어주고 모바일 웹사이트 전략, 코드, UI/UX, 디자인과 관련있는 사람들과 관계를 맺을 수 있게 하세요. 중학교 2학년도 여러분과 경쟁할 수 있는 사이트를 만들 수 있지만 여러분의 사이트는 그것 보다는 더 좋아질 것입니다. BNACMA2 코드를 사용하면 등록시 100달러 할인이 제공됩니다.
 
 
 - - -
 # 읽을 거리
 
-## [Fat Arrow Functions in JavaScript](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
-Since version 22, Firefox has supported ECMAScript 6’s arrow functions. This blog post explains what their advantages are, compared to function expressions.
+## [자바스크립트의 뚱뚱한 화살표(=>) 함수(Fat Arrow Functions)](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
+버전 22부터, 파이어폭스는 ECMAScript 6의 화살표 함수를 지원해오고 있습니다. 이 블로그 글은 함수 표현식에 비해 그들의 이점이 무엇인지 설명합니다.
 
-## [An Introduction to Dependency Injection in Node.js](http://tech.i.tv/09-17-2013/dependency-injection-in-nodejs/)
-Explains the programming design pattern “dependency injection” and introduces the library [Dependable](https://github.com/idottv/dependable) that helps with implementing it.
+## [Node.js의 의존성 주입에 대한 소개](http://tech.i.tv/09-17-2013/dependency-injection-in-nodejs/)
+"의존성 주입" 프로그래밍 디자인 패턴에 대해 설명하고, 이를 구현하는데 도움을 주는 [Dependable](https://github.com/idottv/dependable) 라이브러리에 대해 소개합니다.
 
-## [Controlling CSS Animations and Transitions with JavaScript](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
-Coupled with a touch of JavaScript, CSS animations and transitions are able to accomplish hardware-accelerated animations and interactions more efficiently than most JavaScript libraries.
+## [자바스크립트로 CSS 애니메이션과 트랜지션 제어하기](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
+약간의 자바스크립트과 CSS 애니메이션과 트랜지션을 결합하면 하드웨어-가속 애니메이션과 인터랙션을 대부분의 자바스크립트 라이브러리보다 더 효과적으로 달성할 수 있습니다.
 
-## [Structure and Interpretation of Computer Programs (JavaScript Version)](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
-“[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)” (by Harold Abelson and Gerald Sussman with Julie Sussman), is one of the best programming text books. It uses Scheme and is highly recommended for JavaScript programmers, especially given how much Scheme has influenced JavaScript. This version of the book contains selected sections of the original, with examples in JavaScript.
+## [컴퓨터 프로그램의 구조와 해석 (자바스크립트 버전)](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
+“[컴퓨터 프로그램의 구조와 해석](http://mitpress.mit.edu/sicp/)” (Harold Abelson과 Gerald Sussman, Julie Sussman의 저서)는 최고의 프로그래밍 교재 중 하나입니다. 이 책은 Scheme를 사용하고, 특히 Scheme이 자바스크립트에 얼마나 많은 영향을 주어왔는지 알려주기 때문에, 자바스크립트 프로그래머에게 강력하게 추천하는 도서입니다. 이 버전은 자바스크립트로 된 예제와 함께 원본의 일부 섹션을 포함합니다.
 
-## [JS for Everyone: Materials for Your Next JavaScript Workshop](http://thewebivore.com/js-for-everyone-materials-for-your-next-javascript-workshop/)
-Pam Selle released the materials that were used at PhillyJSDev for a JavaScript fundamentals workshop.
+## [모두를 위한 JS: 다음 자바스크립트 워크샵을 위한 자료들](http://thewebivore.com/js-for-everyone-materials-for-your-next-javascript-workshop/)
+Pam Selle은 자바스크립트 기초 워크샵을 위해 PhillyJSDev에서 사용된 자료들을 공개했습니다.
 
-## [Scope Analysis for JavaScript Code](http://ariya.ofilabs.com/2013/09/scope-analysis-for-javascript-code.html)
-An explanation of what scope analysis is and demonstration of the [Escope](https://github.com/Constellation/escope) library that performs it on JavaScript code.
+## [자바스크립트 코드를 위한 스코프 분석](http://ariya.ofilabs.com/2013/09/scope-analysis-for-javascript-code.html)
+스코프 분석이 무엇인지 설명하고 자바스크립트 코드에서 이를 수행하는 [Escope](https://github.com/Constellation/escope) 라이브러리에 대해 설명합니다.
 
-## [Frameworkless JavaScript: Why Angular, Ember or Backbone Don’t Work for Us](https://moot.it/blog/technology/frameworkless-javascript.html)
+## [프레임워크없는 자바스크립트: Angular, Ember 또는 Backbone를 왜 사용하지 않는지](https://moot.it/blog/technology/frameworkless-javascript.html)
 
-## [A Taste of FruitJS](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
-Andrew Hushbeck discusses how to use and how he built FruitJS, a Node.js utility that converts documentation written in Markdown into an HTML site.
+## [FruitJS 맛보기](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
+Andrew Hushbeck는 마크다운 형식으로 작성된 문서를 HTML 사이트로 변환하는 Node.js 유틸리티인 FruitJS를 어떻게 사용하고 빌드하는지에 대해 설명합니다.
+
 
 
 - - -
 # 동영상
 
 ## [Bocoup에서의 TC39 자바스크립트 패널](http://www.youtube.com/watch?v=PJ1hUr7YJ-8)
-TC39 (Ecma 기술위원회 39)는 ECMAScript 언어에 대한 표준을 발전시키고 유지 하는데 책임을 가지고있습니다.
-9월 18일 Bocoup에서 Rick Waldron의 진행하에,  Allen Wirfs-Brock, Douglas Crockford, Brendan Eich외 몇몇으로 이루어진 TC39 패널을 초대 하였습니다.
-해당 자리에서는 자바스크립트에 관한 다양한 이슈들과 미래에 대해 논의 하였습니다.(1:10:13)
+TC39 (Ecma 기술위원회 39)는 ECMAScript 언어에 대한 표준을 발전시키고 유지하는데 책임을 가지고 있습니다.
+9월 18일 Bocoup에서 Rick Waldron의 진행하에, Allen Wirfs-Brock, Douglas Crockford, Brendan Eich외 몇몇으로 이루어진 TC39 패널을 초대하였습니다.
+해당 자리에서는 자바스크립트에 관한 다양한 이슈들과 미래에 대해 논의하였습니다.(1:10:13)
 
-> [TC39는 자바스크립트 언어의 변화를 최종적으로 결정 하는 ECMA그룹입니다.]
-> [Douglas Crockford: JSON의 창시자이며, 자바스크립트로 가장 유명한 개발자라고 할 수있습니다. ]
+> [TC39는 자바스크립트 언어의 변화를 최종적으로 결정하는 ECMA그룹입니다.]
+> [Douglas Crockford: JSON의 창시자이며, 자바스크립트로 가장 유명한 개발자라고 할 수 있습니다. ]
 > [Bocoup은 개방형 웹기술 업체로 2012년에는 페이스북과 Rinmark.io라는 브라우저 테스트 도구를 오픈 하기도 하였습니다.]
 
 ## [Backbone.js 기초](http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/)
-Thomas Hunter II 가 높은 수준의 Backbone.js 의 프리젠테이션을 보여줍니다.
-해당 영상에는 [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/)에 있는 비슷한 주제가 많이 담겨 있습니다.(36:33)
+Thomas Hunter II 가 높은 수준의 Backbone.js의 프리젠테이션을 보여줍니다.
+해당 영상에는 [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/)와 비슷한 주제가 많이 담겨 있습니다.(36:33)
 
-## [자바스크립트 Jabber: Nicholas Zakas와 함께 하는 유지보수 자바스크립트](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
-이번 팟캐스트에서는 6명의 인원(Nicholas Zakas, Joe Eames, AJ O'Neal과 몇몇들)들로 이루어진 패널들이 "자바스크립트 유지보수"에서 Zakas가 가지고있는 개념에 관련된 이슈에 대해 논의 한다.(57:41)
+## [자바스크립트 Jabber: Nicholas Zakas와 함께 하는 유지보수가능한 자바스크립트](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
+이번 팟캐스트에서는 6명(Nicholas Zakas, Joe Eames, AJ O'Neal과 몇몇들)으로 이루어진 패널들이 "자바스크립트 유지보수"에서 Zakas가 가지고있는 개념에 관련된 이슈에 대해 논의 합니다.(57:41)
 
 > 대화록도 포함되어있습니다.
 
 ## [자바스크립트와 웹보안](http://www.youtube.com/watch?v=6_3pomxyp8M)
-약 49분의 대화에서는 보안패스워드저장과 인증, [SRP](http://srp.stanford.edu)프로토콜, 그리고 통상적인 자바스크립트 보안 위험과 주입기술이 포함된 자바스크립트와 웹 보안에 대해 얘기 할것입니다. (48:33)
+약 49분의 대화에서는 보안패스워드저장과 인증, [SRP](http://srp.stanford.edu)프로토콜, 그리고 통상적인 자바스크립트 보안 위험과 주입기술이 포함된 자바스크립트와 웹 보안에 대해 얘기 할 것입니다. (48:33)
 
-## [Adobe의 포토샵CC를 스크립트화 하기 위해 포토샵 생성기와 Node.js 를 사용 하는법](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
+## [Adobe의 포토샵CC를 스크립트화 하기 위해 포토샵 생성기와 Node.js를 사용 하는법](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
 (25:12)
 
-> [Tom의 블로그 포스트에 글로도 설명 되어있습니다.](http://tomkrcha.com/?p=3896)
+> [Tom의 블로그 포스트에 글로도 설명되어 있습니다.](http://tomkrcha.com/?p=3896)
 
 
 - - -
@@ -82,53 +83,53 @@ Thomas Hunter II 가 높은 수준의 Backbone.js 의 프리젠테이션을 보�
 ## [svg.js: 확장 가능한 벡터 그래픽의 애니메션과 제어를 위한 자바스크립트 라이브러리](http://svgjs.com/)
 Raphael 보다 훨씬 가볍지만 하위버전에 대한 지원이 조금 부족합니다. [문서](https://github.com/wout/svg.js) 잘 만들어져 있습니다.
 
-## [BladeRunnerJS: 대규모 HTML5 앱을 위한 모듈화된 프레임워크 Framework for Modular Large-scale HTML5 Apps](http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/)
+## [BladeRunnerJS: 대규모 HTML5 앱을 위한 모듈화된 프레임워크](http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/)
 대규모 싱글 페이지 웹 앱의 개발, 테스트, 배포, 유지보수를 쉽게 만들어주는 툴과 라이브러리에 더해 관례들의 집합으로 구성되어 있습니다.
 
-## [TogetherJS: 당신의 사이트에 실시간 협업 요소를 추가하기](https://togetherjs.com/)
+## [TogetherJS: 사이트에 실시간 협업 요소를 추가하기](https://togetherjs.com/)
 
-## [RedScript: 루비식 자바스크립트 실험.A Ruby Flavored JavaScript Experiment](https://github.com/AdamBrodzinski/RedScript)
+## [RedScript: 루비식 자바스크립트 실험](https://github.com/AdamBrodzinski/RedScript)
 좀 더 네이티브한 모듈 경험, 더 쉬운 상속 그리고 루비 스타일 문법을 제공하기 위해 트랜스파일러(transpiler - CoffeeScript 같은)를 만들었습니다.
 
 ## [Ember 앱 키트 소개](http://embersherpa.com/articles/introduction-to-ember-app-kit/)
-엠버 앱 키드(EAK)는 Grunt, JSHint, Qunit, Karma( test runner ), ES6 모듈 그리고 Bower를 포함한 Ember.js 프로젝트를 위한 툴셋입니다. EAK는 최근에 엠버 코어 팀으로 부터 승인을 받았습니다. 이것은 기본 프로젝트 레이아웃을 명시하고 결과적으로 엠버 프로젝트를 관리하고 생성하기 위한 실행 가능한 상태로 성장할 수도 있습니다. EAK의 [다른 소개](http://blog.safaribooksonline.com/2013/09/18/ember-app-kit) 는 사파리 북스 온라인을 위해 Matthew Beale이 작성하였습니다.
+엠버 앱 키트(EAK)는 Grunt, JSHint, Qunit, Karma(테스트 러너), ES6 모듈 그리고 Bower를 포함한 Ember.js 프로젝트를 위한 툴셋입니다. EAK는 최근에 엠버 코어 팀으로부터 승인을 받았습니다. EAK는 기본 프로젝트 레이아웃을 명시하고 결과적으로 엠버 프로젝트를 관리하고 생성하기 위한 실행 가능한 상태로 성장할 수도 있습니다. Matthew Beale은 EAK의 [다른 소개](http://blog.safaribooksonline.com/2013/09/18/ember-app-kit)를 사파리 북스 온라인에 작성하였습니다.
 
 ## [JSModeler: 3D 모델을 시각화하고 만들기 위한 자바스크립트 프레임워크](https://github.com/kovacsv/JSModeler)
 3D 모델을 만들고 Three.js 기반의 뷰어에서 이를 보여줍니다. 다른 요소 : STL과 OBJ 포맷으로 내보내기와 기하학 함수(2D와 3D)
 
 ## [Vex: 현대적이고 유연한 대화상자 라이브러리](http://github.hubspot.com/vex/docs/welcome/)
-대화상자마다의 모든 옵션 설정과 모든 UI 엘리먼트, 테마, 행동, 애니메이션 그리고 효과의 스타일링을 포함하는 높은 수준의 변경을 지원합니다. 유연한 API를 가지며 7KB 보다 작은 용량입니다.
+대화상자마다의 모든 옵션 설정과 모든 UI 엘리먼트, 테마, 행동, 애니메이션 그리고 효과의 스타일링을 포함하는 높은 수준의 변경을 지원합니다. 유연한 API를 가지며 7KB보다 작은 용량입니다.
 
 ## [TripleSec: Triple-Paranoid Symmetric 암호화 라이브러리](https://keybase.io/triplesec/)
-브라우저와 Node.js용 오픈 소스 라이브러리입니다. TripleSec은 Salsa 20, AES, Twofish로 데이터를 암호화 하기 때문에 하나나 두 자리의 암호 노출로는 어떤것도 노출 시키지 않을 것이다.
+브라우저와 Node.js용 오픈 소스 라이브러리입니다. TripleSec은 Salsa 20, AES, Twofish로 데이터를 암호화 하기 때문에 한 두 개의 암호화 조합으로는 어떤것도 노출 시키지 않을 것입니다.
 
 ## [Jor1k: 자바스크립트로 작성된 OpenRSC 1000 에뮬레이터, 리눅스에서 실행](http://s-macke.github.io/jor1k/)
 
-## [Mapael: jQuery용 인터렉티브한 벡터 지도를 위한 jQuery 플러그인](http://www.neveldo.fr/mapael/)
+## [Mapael: 인터랙티브한 벡터 지도를 위한 jQuery 플러그인](http://www.neveldo.fr/mapael/)
 jQuery Mapael은 raphael.js를 기반으로하는 jQuery 플러그인입니다. 이것은 동적인 벡터 지도를 표시할 수 있게 만들어줍니다.
 
 ## [OJ: API 호출을 통해 웹 사이트를 만드는 프레임워크](http://ojjs.org)
-양 방향의 모델과 컬렉션 바인딩의 백본을 지원합니다.
+양방향의 모델, 컬렉션 바인딩과 함께 백본을 지원합니다.
 
 ## [LeapTrainer.js v0.2 출시](http://www.youtube.com/watch?v=LlRsuY2zofw)
 LeapTrainer.js는 Leap Motion용 제스쳐 학습과 인식 프레임워크입니다. 이 비디오는 새로운 학습 UI와 업그레이드된 제스쳐 인식을 소개합니다.
 
-## [completely.js: No-Dependencies Autocompletion Library](http://complete-ly.appspot.com/)
+## [completely.js: 의존성없는 자동완성 라이브러리](http://complete-ly.appspot.com/)
 
 ## [FireShell: 프론트엔드 표준 코드와 워크플로우 프레임워크](http://getfireshell.com/)
-더 나은 워크플로우를 가지려는 팀과 개인 개발자를 위한 독선적인(?) 프레임워크입니다. HTML5 표준 코드 프레임워크와 감싸진 자바스크립트 태스크 실행, 프로세스 빌드, 자동 최소화와 파일 합침 기능을 가지고 있습니다.
+더 나은 워크플로우를 가지려는 팀과 개인 개발자를 위한 독단적인 프레임워크입니다. HTML5 표준 코드 프레임워크와 감싸진 자바스크립트 태스크 실행, 프로세스 빌드, 자동 최소화와 파일 병합 기능을 가지고 있습니다.
 
 ## [Phaser: 모바일과 데스크톱을 위한 HTML5 게임 프레임워크](http://phaser.io)
 WebGL과 캔버스를 기반으로 스프라이트, 사운드, 디바이스 입력, 애니메이션, 파티클, 카메라등을 지원합니다.
 
 ## [DataTables: jQuery용 테이블 플러그인](http://www.datatables.net/)
-페이지네이션, 필터링, 멀티 컬럼 정렬등의 기능을 가지는 계속적으로 확장하는 테이블. DOM, 자바스크립트 배열, Ajax 등의 다양한 소스로 부터 데이터를 입력 가능합니다.
+페이지네이션, 필터링, 멀티 컬럼 정렬등의 기능을 가지는 계속적으로 확장하는 테이블. DOM, 자바스크립트 배열, Ajax 등의 다양한 소스로부터 데이터 입력이 가능합니다.
 
 - - -
 # 일자리
 
 ## [시니어 웹 엔지니어, 코어 엔지니어링 (캘리포니아, 오클랜드)](https://hire.jobvite.com/j?cj=omGqXfw9&amp;s=JavaScriptWeekly)
-판도라에서 소비자 웹 애플리케이션을 설계하고 만들 혁신적이고 영감있는 웹 엔지니어를 찾고 있습니다. 매우 협동적이고 재미있는 팀의 일원으로 복잡하지만 재미 있는 문제를 해결할 기회를 갖게 될 것입니다.
+판도라에서 소비자 웹 애플리케이션을 설계하고 만들 혁신적이고 영감있는 웹 엔지니어를 찾고 있습니다. 매우 협동적이고 재미있는 팀의 일원으로 복잡하지만 재미있는 문제를 해결할 기회를 갖게 될 것입니다.
 
 ## [소프트웨어 엔지니어 @ 턴 (실리콘 밸리)](http://www.turn.com/career-opportunities/software-engineer-front-end)
 Angular, Node, Bootstrap. 빅 데이터, 머신 러닝, 분산 시스템. 이런 기술에 관심이 있고 자바스크립트에 능숙하다면 턴의 프론트엔드 애플리케이션 팀에 합류하는 것에 대해 이야기해보고 싶습니다.
@@ -136,8 +137,6 @@ Angular, Node, Bootstrap. 빅 데이터, 머신 러닝, 분산 시스템. 이런
 ## [프론트엔드 개발자 @ The Nerdery](http://nerdery.com/jobs/positions/40)
 The Nerdery에서 오래된 브라우저를 지원할 수 있는 역량을 가지고 있으면서도 최신의 웹 개발 기술을 배우고자 하는 열정을 가진 재능있는 프론트엔드 개발자를 찾고 있습니다. 최고의 지원자는 의욕이 넘치고 항상 배우면서 한계에 도전하는 사람입니다.
 
-
-## [자바스크립트 위클리에 구인 광고를 올리세요](https://cooperpress.com/jobs)
 
 
 - - -
