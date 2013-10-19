@@ -20,47 +20,48 @@ A JavaScript conference that runs alongside JSConf EU. Topics range from [60 FPS
 - - -
 # 읽을 거리
 
-## [Native Speed on the Web with JavaScript &amp; asm.js](http://kripken.github.io/mloc_emscripten_talk/sloop.html?#/)
-An illuminating slidedeck from Mozilla’s Alon Zakai, the main developer of Emscripten, that digs into the tricks and techniques behind getting native-like performance for transpiled native code on the Web.
+## [자바스크립트와 asm.js로 웹에서 네이티브의 속도를](http://kripken.github.io/mloc_emscripten_talk/sloop.html?#/)
+Mozilla의 Emscripten의 메인 개발자 Alon Zakai가 이해를 돕기위해 작성한 슬라이드로 웹상에 트랜스파일된 네이티브 코드에 네이티브같은 성능을 얻기 위한 트릭과 기법들에 대해 파헤칩니다.
 
-## [JavaScript Modules, AMD, and The Road Ahead](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
+## [자바스크립트 모듈, AMD 그리고 앞으로의 길](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
-## [Making A Collaborative Piano Using Functional Reactive Programming](http://open.bekk.no/making-a-collaborative-piano-using-functional-reactive-programming-frp#?)
-Explains *Functional Reactive Programming* (FRP) via an example. FRP is a declarative programming paradigm combining functional and reactive programming that works with *signals*, values that change over time and stay connected (similar to data binding). FRP works well for implementing graphical user interfaces.
+## [함수형 반응적 프로그래밍을 사용하여 협연 피아노 만들기](http://open.bekk.no/making-a-collaborative-piano-using-functional-reactive-programming-frp#?)
+예제를 통해 *함수형 반응적 프로그래밍 (Functional Reactive Programming, FRP)*을 설명합니다.
+FRP는 함수형 프로그래밍과 반응적 프로그래밍을 조합하는 선언형 프로그래밍(declarative programming) 패러다임으로, *신호*, 즉 계속해서 변하고 연결되어있는(데이터 바인딩과 유사) 값으로 동작합니다. FRP는 GUI를 구현하는데 적합합니다.
 
-## [How Complex are TodoMVC Implementations](http://blog.coderstats.net/todomvc-complexity/)
-Uses several metrics to compare the complexity of TodoMVC as implemented by various frameworks (jQuery, AngularJS, Ember.js, Backbone.js, etc). This can provide a way to see which frameworks encourage the use of simpler constructs.
+## [TodoMVC 구현체들은 얼마나 복잡한가](http://blog.coderstats.net/todomvc-complexity/)
+몇가지 메트릭를 사용하여 다양한 프레임워크(jQuery, AngularJS, Ember.js, Backbone.js, 기타 등등)로 구현된 TodoMVC의 복잡도를 비교합니다. 어떤 프레임워크가 더 간단한 개발을 돕는지 알아보기위한 방법을 제공합니다.
 
-## [Filtering Arrays with Array#filter](http://designpepper.com/blog/drips/filtering-arrays-with-array-filter)
-Josh Clanton explains how this built-in array method works.
+## [Array#filter로 배열을 필터링하기](http://designpepper.com/blog/drips/filtering-arrays-with-array-filter)
+Josh Clanton은 내장 배열 메서드의 동작에 대해 설명합니다.
 
-## [Write Your CSS with&nbsp;JavaScript](http://davidwalsh.name/write-css-javascript)
-David shows off how to use ‘absurd.js’, an intriguing library that allows you to write stylesheets dynamically using JavaScript.
+## [자바스크립트로 CSS 작성하기](http://davidwalsh.name/write-css-javascript)
+David는 자바스크립트로 스타일시트를 동적으로 작성하는 흥미로운 라이브러이인 'absurd.js'의 사용방법을 보여줍니다.
 
-## [Creating a Realistic Rain Effect with Canvas and JavaScript](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
-Marek Brodziak show the techniques used to build RainyDay.js, a library creating a realistic looking rain effect on HTML canvas.
+## [Canvas와 자바스크립트로 현실적인 비오는 효과 만들기](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
+Marek Brodziak은 HTML canvas에 현실적인 비오는 효과를 보여주는 RainyDay.js를 만드는데 사용한 기법들을 설명합니다.
 
-## [Unicode and JavaScript](http://www.2ality.com/2013/09/javascript-unicode.html)
-Axel Rauschmayer first gives a brief but thorough overview of Unicode and then explains how to use it properly in JavaScript.
+## [유니코드와 자바스크립트](http://www.2ality.com/2013/09/javascript-unicode.html)
+Axel Rauschmayer는 우선 유니코드의 간단하지만 전체적인 개요를 보여주고, 그리고나서 자바스크립트로 적절하게 사용하는 방법을 설명합니다.
 
-## [JavaScript Y Combinator](http://buzzdecafe.github.io/code/2013/09/05/javascript-y-combinator/)
-Michael Hurley uses JavaScript code to explain the [Y combinator](http://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator), a fixed-point combinator in lambda calculus.
+## [자바스크립트 Y 컴비네이터](http://buzzdecafe.github.io/code/2013/09/05/javascript-y-combinator/)
+Michael Hurley는 람다 계산법(lambda calculus)의 고정-점 컴비네이터(fixed-point combinator)인 [Y 컴비네이터](http://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator)를 설명하기 위해 자바스크립트 코드를 사용하였습니다.
 
-## [Introducing Responsive Web Typography With FlowType.JS](http://coding.smashingmagazine.com/2013/09/18/introducing-flowtype-js/)
-A jQuery plugin that adapts font sizes to the size of the device a web page is displayed in (similar to how responsive design already works for images).
+## [FlowType.JS와 함께하는 반응형 웹 타이포그래피 소개](http://coding.smashingmagazine.com/2013/09/18/introducing-flowtype-js/)
+글꼴 크기는 웹 페이지가 표시되고 있는 디바이스의 크기에 맞게 적용시키는(반응형 디자인이 이미지에 적용하는것과 유사하게) jQuery 플러그인 
 
-## [ServiceWorkers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
-The HTML5 Application Cache helps web apps to operate offline. Alas, this API has [well-known limitations](http://alistapart.com/article/application-cache-is-a-douchebag). Therefore, Alex Russell proposes the ServiceWorkers API, which works around those limitations by giving developers lower-level primitives.
+## [ServiceWorkers 설명](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+HTML5 애플리케이션 캐시는 웹 앱이 오프라인으로 실행될 수 있도록 도와줍니다. 하지만, 이 API는 [잘 알려진 제약들](http://alistapart.com/article/application-cache-is-a-douchebag)이 있습니다. 따라서, Alex Russell은 개발자들에게 저-수준의 프리미티브를 제공하여 이런 제약들을 피할 수 있는 ServiceWorkers API를 제안합니다.
 
-## [Getting Started with Web Components and Polymer.js](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
+## [웹 컴포넌트와 Polymer.js 시작하기](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
 
-## [Automating Complex Workflows with Grunt Custom Tasks](http://flippinawesome.org/2013/09/23/automating-complex-workflows-with-grunt-custom-tasks/)
-Ben Farrell explains to create your own Grunt custom tasks that can be used to automate complex workflows, in his example he is extracting audio from video.
+## [Grunt와 커스텀 태스크로 복잡한 워크플로우 자동화하기](http://flippinawesome.org/2013/09/23/automating-complex-workflows-with-grunt-custom-tasks/)
+Ben Farrell은 복잡한 워크플로우에 사용될 수 있는 Grunt 커스텀 태스크를 작성하는 방법을 설명합니다. 예제에서 그는 비디오에서 오디오를 추출합니다.
 
-## [How to Create a Prototype Angular UI without a Back-end](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+## [백엔드 없이 프로토타입 Angular UI를 만드는 방법](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
 
-## [Playing with Chaos: Programming Fractals and Strange Attractors in JavaScript](http://www.amazon.com/dp/B00FA9CX2Y)
-A Kindle book by Keith Peters.
+## [Chaos 가지고 놀기: 자바스크립트로 프랙탈(Fractals)과 Strange Attractors 프로그래밍하기](http://www.amazon.com/dp/B00FA9CX2Y)
+Keith Peters의 킨들 책.
 
 
 - - -
