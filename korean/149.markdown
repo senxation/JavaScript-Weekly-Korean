@@ -3,11 +3,14 @@
 - - -
 # 특집 기사
 
-## [BrowserSwarm: Automated JavaScript Testing Across Browsers](http://www.browserswarm.com/)
-Connects to your GitHub repo and runs your JavaScript code across 13 different browser versions (latest Chrome, Firefox, Safari, and Opera releases plus IE 6 through 10) in the cloud. Built by appendTo, Sauce Labs and the Microsoft Internet Explorer team.
+## [BrowserSwarm: 브라우저들을 교차하여 자바스크립트테스팅 자동화](http://www.browserswarm.com/)
+클라우드 상에서 당신의 Github 저장소로 접속 한다음 13개의 다른 브라우저 버전( 최신 크롬, 파이어폭스, 사파리, 오페라,IE6~10)에서 자바스크립트 코드를 실행할수 있습니다.
+마이크로소프트 인터넷익스플로러 팀과 Souce 랩들에 의해 만들어졌습니다.
 
-## [8 Talks from Reject.JS 2013](http://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT#rejectjs)
-A JavaScript conference that runs alongside JSConf EU. Topics range from [60 FPS retro gaming on mobile](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5) and [ES5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1) to [tidy callbacks](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7) and [adaptive Web design.](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4)
+## [2013년 Reject.JS에서 있었던 8개의 이야기들](http://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT#rejectjs)
+Reject.js 는 JSConf.EU와 함께 열린 자바스크립트 컨퍼런스입니다. [모바일의 60 FPS 복고풍 게임](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5) 과 [EcmaScrpt 5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1) 부터  [tidy 콜백들](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7)까지 그리고 [적응적인 웹 디자인.](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4) 을 주제로 담고 있습니다.
+
+>> 동영상으로 되어있습니다. : Reject.js는 독일베를린에서 9월 12일에 개최되었습니다.
 
 
 - - -
@@ -48,7 +51,7 @@ Axel Rauschmayer는 우선 유니코드의 간단하지만 전체적인 개요�
 Michael Hurley는 람다 계산법(lambda calculus)의 고정-점 컴비네이터(fixed-point combinator)인 [Y 컴비네이터](http://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator)를 설명하기 위해 자바스크립트 코드를 사용하였습니다.
 
 ## [FlowType.JS와 함께하는 반응형 웹 타이포그래피 소개](http://coding.smashingmagazine.com/2013/09/18/introducing-flowtype-js/)
-글꼴 크기는 웹 페이지가 표시되고 있는 디바이스의 크기에 맞게 적용시키는(반응형 디자인이 이미지에 적용하는것과 유사하게) jQuery 플러그인 
+글꼴 크기는 웹 페이지가 표시되고 있는 디바이스의 크기에 맞게 적용시키는(반응형 디자인이 이미지에 적용하는것과 유사하게) jQuery 플러그인
 
 ## [ServiceWorkers 설명](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
 HTML5 애플리케이션 캐시는 웹 앱이 오프라인으로 실행될 수 있도록 도와줍니다. 하지만, 이 API는 [잘 알려진 제약들](http://alistapart.com/article/application-cache-is-a-douchebag)이 있습니다. 따라서, Alex Russell은 개발자들에게 저-수준의 프리미티브를 제공하여 이런 제약들을 피할 수 있는 ServiceWorkers API를 제안합니다.
@@ -67,14 +70,19 @@ Keith Peters의 킨들 책.
 - - -
 # 동영상
 
-## [A Knockout.js Screencast Series](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
-A 15 part series of bite size screencasts (between 5-13 minutes each) dedicated to showing off the Knockout.js MVVM library. 9 parts are already live to watch.
+## [A Knockout.js를 위한 스크린캐스트 시리즈](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
+Knockout.js MVMM 라이브러리를 설명하고 홍보 하기 위해 5분에서 13분 분량의 아주 작은 크기의 스크린캐스트 15개가 있습니다.
+이미 9개 부분이 활성화 되어있습니다.
+>> 스크린캐스트 : 화면을 녹화하면서 설명하는 방식의 동영상 강좌 입니다.
+>> 지금 시점으로 14편까지 공개 되었습니다.
 
 ## [Backbone.js Routers](http://www.sitepoint.com/backbone-js-routers/)
-Backbone.js routers are used to keep track of state in your app. Routers translate a path in the URL or in a hash of the URL into application state. In other words, routers map a path to a function. Andy Appleton shows off how to use them in this 8 minute screencast.
+Backbone.js routers는 당신의 어플리케이이션의 상태를 기록,추적해주는데 사용됩니다.
+Routers는 URL을 가지고있는 어플리케이션에서 URL의 경로, 해쉬를 변환해줍니다. 다시 말하면, Routers는 함수에 경로를 기록합니다. Andy Appleton이 8분의 스크린캐스트를 통해 어떻게 사용 하는지에 대해 보여줍니다.(08:19)
 
-## [A 99 Second Screencast Tour of Web Components with Polymer](http://addyosmani.com/blog/a-whirlwind-tour-of-web-components-with-polymer/)
+## [ Polymer와 함께 하는 99초의 웹 컴포넌트 여행 ](http://addyosmani.com/blog/a-whirlwind-tour-of-web-components-with-polymer/)
 
+>>[Polymer](http://www.polymer-project.org)는 웹을 위한 새로운 타입의 라이브러리입니다. 웹 컴포넌트 기반으로 구축되었고, 점진적으로 진화하는 웹 플랫폼으로 설계 되었습니다.
 
 - - -
 # 코드, 라이브러리들과 도구들
