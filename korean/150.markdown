@@ -1,3 +1,5 @@
+원문 : [http://javascriptweekly.com/archive/150.html]
+
 - - -
 # 특집 기사
 
@@ -20,42 +22,42 @@ JavaScript Allongé is a book about programming with functions, because JavaScri
 - - -
 # 읽을 거리
 
-## [JavaScript Memory Profiling with the Chrome DevTools](https://developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling)
-Addy Osmani has published a refreshed guide to plugging memory leaks using the Chrome DevTools. It covers the Object allocation tracker, timeline memory, heap profiles and more.
+## [크롬 개발자도구로 자바스크립트 메모리 프로파일링하기](https://developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling)
+Addy Osmani는 크롬 개발자도구를 사용해 메모리 누수를 막기위한 갱신된 가이드를 작성했습니다. 이 문서는 객체 할당 추적기, 타임라인 메모리, 힙 프로파일등을 다룹니다.
 
-## [The Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
-A great walkthrough from Todd Motto with embedded, interactive JSFiddle sessions.
+## [AngularJS를 하루만에 배우기 위한 궁극의 가이드](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+Todd Motto는 인터랙티브하게 임베딩된 JSFiddle를 포함한 훌륭한 따라하기 예제를 제공합니다.
 
-## [Building A Twitter Bot in 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/)
-If Node is your thing, check out the [latest issue of Node Weekly](http://nodeweekly.com/archive/5.html) and consider signing up.
+## [Node.js로 20분만에 트위터 봇 만들기](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/)
+Node를 사용한다면, [Node Weekly 최신호](http://nodeweekly.com/archive/5.html)를 살펴보고, 가입을 고려해보세요.
 
-## ['Safe' Integers in JavaScript](http://www.2ality.com/2013/10/safe-integers.html)
-JavaScript can only ‘safely’ represent integers within a certain range. This post, based on an email by Mark S. Miller to the es-discuss mailing list, examines why that is and what ‘safely represent’ means.
+## [자바스크립트의 '안전한' Integer](http://www.2ality.com/2013/10/safe-integers.html)
+자바스크립트는 integer를 특정 범위 안에서만 '안전하게' 표현할 수 있습니다. 이 글은, Mark S. Miller가 es-discuss 메일링 리스트에 보낸 이메일을 토대로 왜 그런지, 그리고 '안전하게 표현'한다는 의미가 무엇인지에 대해 설명합니다.
 
-## [Decoupling Backbone.js Applications with Pub/Sub](http://blog.safaribooksonline.com/2013/10/02/decoupling-backbone-applications-with-pubsub/)
+## [Pub/Sub으로 Backbone.js 애플리케이션 디커플링하기](http://blog.safaribooksonline.com/2013/10/02/decoupling-backbone-applications-with-pubsub/)
 
-## [The Joys of Static Memory JavaScript](http://programming.oreilly.com/2013/10/the-joys-of-static-memory-javascript.html)
-‘Static memory JavaScript’ is a technique that involves pre-allocating, at the start of your app, all the memory that will be needed for its lifetime, and managing that memory during execution as objects are no longer needed.
+## [정적 메모리 자바스크립트의 즐거움](http://programming.oreilly.com/2013/10/the-joys-of-static-memory-javascript.html)
+‘정적 메모리 자바스크립트(Static memory JavaScript)’는 앱을 시작할 때 생애주기동안 필요한 모든 메모리를 사전-할당하고, 실행중 객체가 더 이상 필요하지 않을 때까지 관리하는 기법입니다.
 
-## [Code Coverage of Jasmine Tests using Istanbul and Karma](http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html)
-For tests written using the popular Jasmine test library, an easy way to check their code coverage (i.e. how much of your codebase they’re actually testing) is with Istanbul and the Karma test runner.
+## [Istanbul과 Karma를 사용한 Jasmine 테스트의 코드 커버리지](http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html)
+인기있는 Jaxmine 테스트 라이브러리를 사용하여 작성된 테스트들의 코드 커버리지를 확인(즉, 얼마만큼의 코드가 실제로 테스트되는지)는 쉬운 방법은 Istanbul과 Karma 테스트러너를 사용하는 것입니다.
 
-## [Functional Reactive Programming in JavaScript](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?)
-Sean Voisen explains reactive programming concepts, how they can beneficial and how they are implemented in JavaScript using examples in Bacon.js.
+## [자바스크립트로 구현한 함수형 반응적 프로그래밍](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?)
+Sean Voisen은 반응적 프로그래밍의 컨셉과, 어떤 이점이 있는지, 자바스크립트로 어떻게 구현할 수 있는지를 Bacon.js 예제를 사용해 설명합니다.
 
-## [How to Create A Directive in AngularJS (Simply)](http://www.angularails.com/articles/creating_simple_directive_in_angular)
+## [AngularJS의 Directive를 만드는 방법 (간단하게)](http://www.angularails.com/articles/creating_simple_directive_in_angular)
 
-## [Automated JavaScript Testing with BrowserSwarm](http://www.sitepoint.com/automated-javascript-testing-browserswarm/)
-BrowserSwarm is a new cloud-based system which makes JavaScript testing across browsers quite easy.
+## [BrowserSwarm을 사용한 자동화된 자바스크립트 테스팅](http://www.sitepoint.com/automated-javascript-testing-browserswarm/)
+BrowserSwarm은 자바스크립트 테스팅을 여러 브라우저에 꽤 간단하게 실행하는 새로운 클라우드 기반 시스템입니다.
 
-## [The Future of AngularJS: A Slidedeck](https://docs.google.com/a/kalv.co.uk/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p)
+## [AngularJS의 미래: 슬라이드](https://docs.google.com/a/kalv.co.uk/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p)
 
-## [Building Multiplayer Games with Node.js and Socket.IO](http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/?)
-Eric Terpstra walks through how to use Node.js and Socket.IO to build a multiplayer game, using a simple but fun word game as an example.
+## [Node.js와 Socket.IO로 멀티플레이어 게임 만들기](http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/?)
+Eric Terpstra는 Node.js와 Socket.IO를 사용해 멀티플레이어 게임을 만드는 방법을 간단하지만 재미있는 단어 게임을 예로 들어 설명합니다.
 
-## [Write a 3D Soft Engine from Scratch in TypeScript](http://www.sitepoint.com/write-3d-soft-engine-scratch-part-1/)
+## [TypeScript로 3D 소프트 엔진을 처음부터 작성하기](http://www.sitepoint.com/write-3d-soft-engine-scratch-part-1/)
 
-## [The Prototype Is Your Friend (If You Care About Performance)](https://coderwall.com/p/jj6fwa)
+## [프로토타입은 내 친구(성능에 신경쓴다면)](https://coderwall.com/p/jj6fwa)
 
 
 - - -

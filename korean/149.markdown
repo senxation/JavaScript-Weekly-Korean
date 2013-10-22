@@ -3,14 +3,14 @@
 - - -
 # 특집 기사
 
-## [BrowserSwarm: 브라우저들을 교차하여 자바스크립트테스팅 자동화](http://www.browserswarm.com/)
-클라우드 상에서 당신의 Github 저장소로 접속 한다음 13개의 다른 브라우저 버전( 최신 크롬, 파이어폭스, 사파리, 오페라,IE6~10)에서 자바스크립트 코드를 실행할수 있습니다.
+## [BrowserSwarm: 브라우저들을 교차하여 자바스크립트 테스팅 자동화](http://www.browserswarm.com/)
+클라우드 상에서 당신의 Github 저장소로 접속 한다음 13개의 다른 브라우저 버전(최신 크롬, 파이어폭스, 사파리, 오페라,IE6~10)에서 자바스크립트 코드를 실행할수 있습니다.
 마이크로소프트 인터넷익스플로러 팀과 Souce 랩들에 의해 만들어졌습니다.
 
 ## [2013년 Reject.JS에서 있었던 8개의 이야기들](http://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT#rejectjs)
-Reject.js 는 JSConf.EU와 함께 열린 자바스크립트 컨퍼런스입니다. [모바일의 60 FPS 복고풍 게임](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5) 과 [EcmaScrpt 5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1) 부터  [tidy 콜백들](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7)까지 그리고 [적응적인 웹 디자인.](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4) 을 주제로 담고 있습니다.
+Reject.js 는 JSConf.EU와 함께 열린 자바스크립트 컨퍼런스입니다. [모바일의 60 FPS 복고풍 게임](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5)과 [EcmaScrpt 5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1)부터  [tidy 콜백들](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7)까지 그리고 [적응적인 웹 디자인](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4)을 주제로 담고 있습니다.
 
->> 동영상으로 되어있습니다. : Reject.js는 독일베를린에서 9월 12일에 개최되었습니다.
+> 동영상으로 되어있습니다. : Reject.js는 독일 베를린에서 9월 12일에 개최되었습니다.
 
 
 - - -
@@ -71,18 +71,18 @@ Keith Peters의 킨들 책.
 # 동영상
 
 ## [A Knockout.js를 위한 스크린캐스트 시리즈](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
-Knockout.js MVMM 라이브러리를 설명하고 홍보 하기 위해 5분에서 13분 분량의 아주 작은 크기의 스크린캐스트 15개가 있습니다.
+Knockout.js MVMM 라이브러리를 설명하고 홍보하기 위한 5분에서 13분 분량의 아주 작은 크기의 스크린캐스트 15개가 있습니다.
 이미 9개 부분이 활성화 되어있습니다.
->> 스크린캐스트 : 화면을 녹화하면서 설명하는 방식의 동영상 강좌 입니다.
->> 지금 시점으로 14편까지 공개 되었습니다.
+> 스크린캐스트 : 화면을 녹화하면서 설명하는 방식의 동영상 강좌입니다.
+> 지금 시점으로 14편까지 공개되었습니다.
 
 ## [Backbone.js Routers](http://www.sitepoint.com/backbone-js-routers/)
-Backbone.js routers는 당신의 어플리케이이션의 상태를 기록,추적해주는데 사용됩니다.
-Routers는 URL을 가지고있는 어플리케이션에서 URL의 경로, 해쉬를 변환해줍니다. 다시 말하면, Routers는 함수에 경로를 기록합니다. Andy Appleton이 8분의 스크린캐스트를 통해 어떻게 사용 하는지에 대해 보여줍니다.(08:19)
+Backbone.js routers는 당신의 어플리케이션의 상태를 기록, 추적하는데 사용됩니다.
+Routers는 URL을 가지고있는 어플리케이션에서 URL의 경로, 해쉬를 변환해줍니다. 다시 말하면, Routers는 함수에 경로를 기록합니다. Andy Appleton이 8분의 스크린캐스트를 통해 어떻게 사용 하는지에 대해 보여줍니다. (08:19)
 
-## [ Polymer와 함께 하는 99초의 웹 컴포넌트 여행 ](http://addyosmani.com/blog/a-whirlwind-tour-of-web-components-with-polymer/)
+## [Polymer와 함께 하는 99초간의 웹 컴포넌트 여행](http://addyosmani.com/blog/a-whirlwind-tour-of-web-components-with-polymer/)
 
->>[Polymer](http://www.polymer-project.org)는 웹을 위한 새로운 타입의 라이브러리입니다. 웹 컴포넌트 기반으로 구축되었고, 점진적으로 진화하는 웹 플랫폼으로 설계 되었습니다.
+> [Polymer](http://www.polymer-project.org)는 웹을 위한 새로운 타입의 라이브러리입니다. 웹 컴포넌트 기반으로 구축되었고, 점진적으로 진화하는 웹 플랫폼으로 설계 되었습니다.
 
 - - -
 # 코드, 라이브러리들과 도구들
@@ -98,8 +98,8 @@ Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 ## [커스텀 Ember 컴포넌트 만들어 보기](https://github.com/moonlight-labs/ember-component-library-template)
 이 템플릿은 Ember를 위한 커스텀 컴포넌트 라이브러리를 만들 수 있도록 기본적인 프로젝트 구조와 설정, 명령어를 제공합니다.
 
-## [Drawingboard.js: 간단한 캔버스 기반의 드로윙 위젯](http://leimi.github.io/drawingboard.js/)
-당신의 사이트에서 손 쉽게 사용할 수 있는 HTML5 캔버스 기반의 드로윙 위젯입니다.
+## [Drawingboard.js: 간단한 캔버스 기반의 드로잉 위젯](http://leimi.github.io/drawingboard.js/)
+당신의 사이트에서 손 쉽게 사용할 수 있는 HTML5 캔버스 기반의 드로잉 위젯입니다.
 
 ## [JavaScript Is Jarig (256 바이트도 작은 사이즈로 음악 만들기)](http://www.p01.org/releases/javascript_is_jarig/)
 웹 사이트에는 또한 비슷한 방식의 [다른 프로젝트](http://www.p01.org/releases/)들의 목록이 있습니다. 예를 들어 256바이트 이내로 "2D 캔버스를 사용한 signed distance field raymarcher"는 데모와 동작 방식에 대한 설명이 있는 [페이지](http://www.p01.org/releases/tea_storm/)가 있습니다.
@@ -112,9 +112,9 @@ Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 
 ## [손쉰게 다른 .npmrc 파일을 변경하기](https://github.com/deoxxa/npmrc)
 
-## [generator-polymer: Yeoman Generator for Scaffolding Polymer Apps](https://github.com/yeoman/generator-polymer)
+## [generator-polymer: Polymer 앱을 스캐폴딩하기위한 Yeoman 제네레이터](https://github.com/yeoman/generator-polymer)
 
-## [generator-mobile: Yeoman Generator for Mobile-First Web Apps](https://github.com/yeoman/generator-mobile/)
+## [generator-mobile: 모바일-우선 웹 앱을 위한 Yeoman 제네레이터](https://github.com/yeoman/generator-mobile/)
 
 
 - - -
@@ -124,7 +124,7 @@ Bower, RequireJS, JSLint, Grunt, Karma 등을 사용합니다.
 Orchestrate의 미션은 데이터베이스의 어려움을 없애 개발자들이 창조적인 일에 몰두할 수 있도록 돕는 것입니다. 이런 역할은 개발자들이 데이터베이스를 활용하는 방법을 다시 상상하는데 도움이 될 것이며 우리 회사의 브랜드를 만들 것입니다. 경험 많고 자금이 풍부한 스타트업과 함께 하세요. 우리에 대해 더 많은 것을 알아보기 바랍니다.
 
 ## [자바스크립트 개발자 @ 암스테르담 (비자와 이주 지원 가능)](http://goo.gl/oQlhUW)
-수백만명의 고객이 사용하는 최고의 숙박 웹사이트에서 일하는데 흥미가 있나요? JS/HTML/CSS를 사용한 개발 경험이 있으신가요? Booking.com에서 숙련된 프론트 엔드 개발자를 찾고 있습니다. [이 비디오](http://www.youtube.com/watch?v=9T6Xi4U5APo)를 확인하시면 우리 회사에 대해 더 많은 것을 알 수 있을 것입니다.
+수백만명의 고객이 사용하는 최고의 숙박 웹사이트에서 일하는데 흥미가 있나요? JS/HTML/CSS를 사용한 개발 경험이 있으신가요? Booking.com에서 숙련된 프론트 엔드 개발자를 찾고 있습니다. 이 [비디오](http://www.youtube.com/watch?v=9T6Xi4U5APo)를 확인하시면 우리 회사에 대해 더 많은 것을 알 수 있을 것입니다.
 
 ## [OrgSync사의 소프트웨어 개발자 (텍사스, 댈라스)](http://www.orgsync.com/job_openings/frontend-javascript-developer)
 350여개의 대학에서 2백만명이 넘는 사람이 사용하는 애플리케이션을 만들고 확장하세요. 잘 만들어진 소프트웨어와 훌륭한 사용자 경험을 만드는 일에 많은 관심이 있다면 이 자리가 딱 맞는 자리가 될 것입니다.

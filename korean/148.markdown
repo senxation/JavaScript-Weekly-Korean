@@ -4,12 +4,11 @@
 # 특집 기사
 
 ## [US에서 열린 JSConf의 27개의 프리젠테이션들](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
-2013 US에서 열린 JSConf에서 의 27개의 플레이 리스트들은 ( 36개이지만 몇개는 중복입니다.)  Peter Flynn이 설명하는 [자바스크트 성능 튜닝비법](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle 이 설명하는 [브라우저에서 예술을 만드는 법](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee 의 [실시간 재컴파일](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), 그리고 Angelina Fabbro 의 중급 개발자로서 [전문가가 되기위한 노력](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)과 같은 내용들이 포함되어 있습니다.
+2013 US에서 열린 JSConf에서 의 27개의 플레이 리스트들은 (36개이지만 몇 개는 중복입니다.) Peter Flynn이 설명하는 [자바스크립트 성능 튜닝비법](http://www.youtube.com/watch?v=480JL_WuMt0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=31), Seb Lee-Delisle이 설명하는 [브라우저에서 예술을 만드는 법](http://www.youtube.com/watch?v=8CSJkKYfRak&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=19), Peter van der Zee의 [실시간 재컴파일](http://www.youtube.com/watch?v=9HfWmdp9_I0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=15), 그리고 Angelina Fabbro의 중급 개발자로서 [전문가가 되기 위한 노력](http://www.youtube.com/watch?v=v0TFmdO4ZP0&amp;list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&amp;index=2)과 같은 내용들이 포함되어 있습니다.
 
 
 ## [Higgs: 흥미로운 새로운 자바스크립트 가상머신과 컴파일러](https://github.com/maximecb/Higgs)
-D에서 만들어진 자바스크립트 인터프리터와 JIT 컴파일러는 x86-64 플랫폼을 타겟팅하여 왔고, 그것들은 동적언어의 최적화 연구에 한 부분으로 발전되어 왔습니다.
-이것에 관련하여 Dan Glasperlensiel이 [Higgs FFI를 이용한 자바스크립트로부터 C 코드를 호출 하는 법](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)에 대해 재미있는 포스트를 작성했습니다.
+D에서 만들어진 자바스크립트 인터프리터와 JIT 컴파일러는 x86-64 플랫폼을 타겟팅하여 왔고, 그것들은 동적언어의 최적화 연구에 한 부분으로 발전되어 왔습니다. 이것에 관련하여 Dan Glasperlensiel이 [Higgs FFI를 이용한 자바스크립트로부터 C 코드를 호출 하는 법](http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/)에 대해 재미있는 포스트를 작성했습니다.
 
 
 - - -
