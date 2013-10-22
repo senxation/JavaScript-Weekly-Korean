@@ -83,26 +83,26 @@ Mostly covering Sencha’s tools and libraries but also some good talks of gener
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Kojak: A Simple JavaScript Performance Profiler](http://theironcook.github.io/Kojak/)
-A utility to help you figure out which of your functions are running too slowly. It tracks which functions are called and how often, how much time they’re taking, and how they were called.
+## [Kojak: 간단한 자바스크립트 성능 프로파일러](http://theironcook.github.io/Kojak/)
+당신의 함수가 너무 느리게 동작하지 않는지를 확인하는데 도움을 주는 유틸리티. 이것은 어떤 함수가 어떻게 호출되고 얼마나 자주 호출되며 얼마나 오랫동안 실행되는지를 추척합니다.
 
 ## [go-reveal: Turn Reveal.js Presentations Into Shared Events](https://github.com/gordienoye/go-reveal)
 Combining Reveal.js and [GoInstant](http://goinstant.com/) with go-reveal automatically makes your presentation multi-user. Share and collaborate with others using a simple URL. Bonus: The team at GoInstant is giving JavaScript Weekly readers [a sneak peek](https://developers.goinstant.com/beta/) of new functionality including widgets (for dropping in multi-user features like a user list, forms, etc.) &amp; AngularJS integration.
 
-## [React 0.5 Released](http://facebook.github.io/react/blog/2013/10/16/react-v0.5.0.html)
-React is a JavaScript library for building reactive user interfaces from the Facebook and Instagram teams.
+## [React 0.5 릴리즈 됨](http://facebook.github.io/react/blog/2013/10/16/react-v0.5.0.html)
+React는 페이스북과 인스타그램 팀에서 반응형 유저 인터페이스를 만들기 위한 자바스크립트 라이브러리입니다.
 
 ## [Wolfenstein 3D-style Raycaster Demo in 932 Bytes of JavaScript and HTML5](http://www.p01.org/releases/wolfensteiny/wolfensteiny.dev.htm)
 
-## [Frame Player: A 'Video' Player Based On Image Frames (for Mobile Devices)](http://vagnervjs.github.io/frame-player/)
-Apple used a similar technique recently on their site to keep things working across all devices.
+## [Frame Player: 모바일 장비를 위한 이미지를 이용한 비디오 플레이어](http://vagnervjs.github.io/frame-player/)
+애플의 홈페이지도 모든 장비에서 동작하도록 이와 유사한 기술을 최근에 사용했습니다.
 
 ## [Pepper.js: Pepper Apps As Native Client or JavaScript Apps](https://github.com/google/pepper.js)
 Enables the compilation of native Pepper applications into JavaScript using Emscripten. This allows the simultaneous deployment of native code on the web both as a Portable Native Client (PNaCl) executable and as JavaScript.
 
-## [over.js: Elegant Function Overloading in JavaScript](https://github.com/stretchr/over.js)
+## [over.js: 자바스크립트에서의 우아한 함수 오버로딩](https://github.com/stretchr/over.js)
 
-## [Odometer: Javascript and CSS Library for Smoothly Transitioning Numbers](http://github.hubspot.com/odometer/)
+## [Odometer: 부드럽게 숫자를 전환하게 만들어주는 자바스크립트와 CSS 라이브러리](http://github.hubspot.com/odometer/)
 
 
 - - -
