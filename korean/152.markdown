@@ -25,52 +25,52 @@ Non-trivial web applications demand moving beyond jQuery one-offs into testable,
 - - -
 # 읽을 거리
 
-## [Sorting Networks using Higher-Order Functions of JavaScript Array](http://ariya.ofilabs.com/2013/10/sorting-networks-using-higher-order-functions-of-javascript-array.html)
-A look at implementing a search mechanism using [sorting networks](http://en.wikipedia.org/wiki/Sorting_network) and Array’s reduce method.
+## [자바스크립트 배열의 고차 함수를 사용한 네트워크 정렬](http://ariya.ofilabs.com/2013/10/sorting-networks-using-higher-order-functions-of-javascript-array.html)
+[정렬 네트워크(sorting networks)](http://en.wikipedia.org/wiki/Sorting_network)와 배열의 reduce 메서드를 사용한 검색 메커니즘 구현을 살펴봅니다.
 
-## [Currying in JavaScript](https://medium.com/p/ce6da2d324fe)
-Currying refers to the process of transforming a function with multiple arity (i.e. multiple arguments) into another function with lower arity.
+## [자바스크립트의 커링(Currying)](https://medium.com/p/ce6da2d324fe)
+커링(Currying)은 함수를 다중인자 함수를 더 적은 인자수를 가지는 다른 함수로 변형하는 과정를 뜻합니다.
 
-## [TypeScript and the Road to 1.0](http://blogs.msdn.com/b/typescript/archive/2013/10/17/typescript-and-the-road-to-1-0.aspx)
-TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. This post outlines the plans to get it to its version 1.0 milestone.
+## [TypeScript와 1.0을 향한 길](http://blogs.msdn.com/b/typescript/archive/2013/10/17/typescript-and-the-road-to-1-0.aspx)
+TypeScript는 타입이 지정된 자바스크립트의 모집합으로 순수 자바스크립트로 컴파일됩니다. 이 글은 TypeScript 1.0 발전계획의 개요를 보여줍니다.
 
-## [Applicative Programming In JavaScript With lodash.js](http://tech.pro/tutorial/1611/functional-javascript)
-Extensive with lots of interactive examples.
+## [ladash.js로 하는 자바스크립트 실용적인 프로그래밍](http://tech.pro/tutorial/1611/functional-javascript)
+다양한 인터랙티브 예제를 포함합니다.
 
-## [Writing a JavaScript NES Emulator - Part 1](http://blog.alexanderdickson.com/javascript-nes-emulator-part-1)
-The first in what looks to be a promising series.
+## [자바스크립트 NES 에뮬레이터 작성하기 - 1부](http://blog.alexanderdickson.com/javascript-nes-emulator-part-1)
+흥미로운 시리즈가 될 것 같습니다.
 
-## [JavaScript Configuration Object Pattern](http://flippinawesome.org/2013/10/14/javascript-configuration-object-pattern/?)
-Cory House explains how the JavaScript configuration object pattern can be used to load configuration data from server while keeping client side code clean.
+## [자바스크립트 설정 객체 패턴](http://flippinawesome.org/2013/10/14/javascript-configuration-object-pattern/?)
+Cory House는 설정 데이터를 서버에서 로드하여 클라이언트코드를 깔끔하게 유지하면서 자바스크립트 설정객체를 어떻게 사용하는지 설명합니다.
 
-## [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
-Looks at a variety of libraries and techniques for dealing with touch events, swipes, etc, and also includes a comprehensive guide to using Angular in native-like apps using Cordova.
+## [모바일에서의 Angular 완벽가이드](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
+터치 이벤트, 스와이프 등을 다루는 다양한 라이브러리와 기법들을 살펴봅니다. 또한 Cordova를 사용한 네이티브같은 앱에서 Angular를 사용하는 종합적인 가이드도 포함합니다.
 
-## [Choosing a JavaScript Framework](http://blog.safaribooksonline.com/2013/10/16/choosing-a-javascript-framework/)
+## [자바스크립트 프레임워크 선택하기](http://blog.safaribooksonline.com/2013/10/16/choosing-a-javascript-framework/)
 
-## [HTML5 Browser Storage: the Past, Present and Future](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
-Covers JavaScript variables, cookies, the ‘window’ object, WebSQL, Web Storage, IndexedDB, and the File API. As featured in [this week's HTML5 Weekly.](http://html5weekly.com/archive/110.html)
+## [HTML5 브라우저 저장소: 과거, 현재 그리고 미래](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
+자바스크립트 변수, 쿠키, 'window' 객체, WebSQL, 웹 저장소, IndexedDB, 그리고 파일 API를 다룹니다. [이번주 HTML5 Weekly](http://html5weekly.com/archive/110.html)에서 특집으로 다루고 있습니다.
 
-## [How to Conveniently Check for Responsive Breakpoints in JavaScript](http://tech.particulate.me/javascript/2013/10/10/how-to-conveniently-check-for-responsive-breakpoints-in-javascript/)
+## [자바스크립트로 반응형 브레이크포인트를 편리하게 확인하는 방법](http://tech.particulate.me/javascript/2013/10/10/how-to-conveniently-check-for-responsive-breakpoints-in-javascript/)
 
-## [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
-What should you be testing and when should you be writing tests?
+## [AngularJS 유닛 테스트 모범사례](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+무엇을 테스트 해야하고 언제 테스트를 작성해야할까요?
 
-## [ES6 Generator Performance in V8](http://dailyjs.com/2013/10/17/yield/)
+## [V8에서 ES6 제네레이터의 성능](http://dailyjs.com/2013/10/17/yield/)
 
-## [A Simple Visual Model for Promises](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
-Vittorio Zaccaria shares a visual model created using Petri nets that is designed to help understand the promises pattern in JavaScript.
+## [간단한 Promises 시각 모델](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
+Vittorio Zaccaria는 자바스크립트의 promises 패턴을 이해하는데 도움을 주고자, [Petri nets](http://en.wikipedia.org/wiki/Petri_net)를 사용해 만든 시각 모델을 공유합니다.
 
-## [Ember Components: Reusable Building Blocks For Your Application](http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/)
-Ryan Anklam shows how Ember Components give you access to the power of the emerging web components spec for reusable widgets today.
+## [Ember 컴포넌트: 여러분의 애플리케이션을 위한 재사용가능한 빌딩 블록](http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/)
+Ryan Anklam은 최근에 생겨난 웹 컴포넌트 스펙을 지금당장 재사용가능한 위젯으로 만들어주는 Ember 컴포넌트의 기능을 활용할 수 있는 방법을 설명합니다.
 
-## [Starting a Mobile App with AngularJS, PhoneGap, and angular-seed](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
+## [AngularJS, PhoneGap과 angular-seed로 모바일 앱 시작하기](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
 
-## [Implementing a Facebook Login with Angular as easy as with Meteor](http://davidchang.github.io/angular-facebook-utils/)
+## [Angular로 Meteor처럼 쉽게 Facebook 로그인 구현하기](http://davidchang.github.io/angular-facebook-utils/)
 
-## [How to Learn Three.js for Game Development](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
+## [게임 개발을 위해 Three.js 배우는 방법](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
 
-## [6 Tips for Creating AJAX-Heavy Websites](http://tech.pro/blog/1635/6-tips-for-creating-ajax-heavy-websites)
+## [AJAX를 많이 사용하는 웹사이트를 만들기 위한 6가지 팁](http://tech.pro/blog/1635/6-tips-for-creating-ajax-heavy-websites)
 
 
 - - -
