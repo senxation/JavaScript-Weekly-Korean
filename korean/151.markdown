@@ -17,37 +17,38 @@ Addy Osmani walks through using Yeoman, a workflow of tools for web apps to stre
 - - -
 # 읽을 거리
 
-## [Searching Using Array.prototype.reduce](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
-Interesting ways to search for particular items within an array using the 'reduce' method.
+## [Array.prototype.reduce를 사용해 검색하기](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
+'reduce' 메서드를 사용하여 배열안의 특정 아이템들을 검색하는 흥미로운 방법.
 
-## [What is Node.js?](http://stackoverflow.com/q/1884724/3951#6782438)
-A broad and insightful answer for a developer who isn’t sure what Node.js is about or why anyone would use it.
+## [Node.js란 무엇인가?](http://stackoverflow.com/q/1884724/3951#6782438)
+Node.js가 무엇이고, 왜 모두들 사용하는지 확실치 않은 개발자들은 위한 폭넓고 통찰력있는 해답.
 
-## [Rethinking JavaScript’s Try/Catch](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
-Ryan Morr shares an alternative to JavaScript’s try/catch that offers better performance and is customizable.
+## [자바스크립트의 Try/Catch 다시생각해보기](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
+Ryan Morr는 더 좋은 성능을 제공하고 커스터마이즈가능한 자바스크립트의 try/catch의 대안을 공유합니다.
 
-## [JavaScript Fundamentals](http://flippinawesome.org/2013/10/07/javascript-fundamentals/?)
-Azat Mardanov examines some of what makes JavaScript a uniquely expressive language – as well as occasionally frustrating.
+## [자바스크립트 기초](http://flippinawesome.org/2013/10/07/javascript-fundamentals/?)
+Azat Mardanov는 어떤 점이 자바스크립트를 독특하게 표현력이 높은 언어로 만드는지, 그리고 가끔씩 좌절스럽게 만드는지에 대해 조사합니다. 
 
-## [Heap Snapshots and Handling Node.js Memory Leaks](http://strongloop.com/strongblog/how-to-heap-snapshots/)
-Ben Noordhuis, a Node core contributor and member of the StrongLoop team, created the heapdump module to provide developers a simple mechanism for producing V8 heap snapshots.
+## [힙 스냅샷과 Node.js 메모리 누수 처리하기](http://strongloop.com/strongblog/how-to-heap-snapshots/)
+Node의 핵심 컨트리뷰터이자 StrongLoop 팀의 멤버인 Ben Noordhuis는 V8 힙 스냅샷을 찍기위한 간단한 메커니즘을 개발자들에게 제공하기 위해 heapdump 모듈을 만들었습니다.
 
-## [Tim Caswell on the Development of js-git](http://blog.pluralsight.com/2013/10/04/tim-caswell-on-the-development-of-js-git/)
-js-git is a JavaScript implementation of the Git source code control system and Pluralsight’s Geoffrey Grosenbach has spoken to the author about how work is progressing.
+## [js-git을 개발하고 있는 Tim Caswell](http://blog.pluralsight.com/2013/10/04/tim-caswell-on-the-development-of-js-git/)
+js-git은 Git 소스 코드 제어 시스템의 자바스크립트 구현체입니다. Pluralsight의 Geoffrey Grosenbach는 그 제작자와 작업이 어떻게 진행되고있는지에 대해 이야기를 나누었습니다.
 
-## [Extending the Brackets Code Editor with JavaScript](http://flippinawesome.org/2013/10/07/extending-the-brackets-code-editor-with-javascript/?)
-Alessandro Artoni takes you through how to build an extension to the Brackets code editor using just JavaScript.
+## [자바스크립트로 Brackets 코드에디터 확장하기](http://flippinawesome.org/2013/10/07/extending-the-brackets-code-editor-with-javascript/?)
+Alessandro Artoni는 자바스크립트만 사용해서 Brackets 코드 에디터의 확장을 만드는 방법을 설명합니다.
 
-## [Playing with ES6 Generators to Make A 'Maybe' in JavaScript](http://truffles.me.uk/playing-with-es6-generators-to-make-a-maybe-in-javascript)
+## [자바스크립트로 'Maybe'를 만들기위해 ES6 제네레이터 가지고 놀기](http://truffles.me.uk/playing-with-es6-generators-to-make-a-maybe-in-javascript)
 
-## [ES6 Generators and Iteration in SpiderMonkey](http://wingolog.org/archives/2013/10/07/es6-generators-and-iteration-in-spidermonkey)
-SpiderMonkey, Firefox’s JavaScript engine, now has support for ES6 generators and iteration. This article looks at how they work.
+> [Maybe](http://learnyouahaskell.com/a-fistful-of-monads#getting-our-feet-wet-with-maybe)
 
-## [Why Asm.js Is A Big Deal for Game Developers](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
+## [SpiderMonkey의 ES6 제네레이터와 이터레이션](http://wingolog.org/archives/2013/10/07/es6-generators-and-iteration-in-spidermonkey)
+파이어폭스의 자바스크립트 엔진인 스파이더몽키(SpiderMonkey)는 이제 ES6 제네레이터와 이터레이션을 지원합니다. 이 글은 그들이 어떻게 동작하는지 살펴봅니다.
 
-## [The JavaScript console API](http://www.2ality.com/2013/10/console-api.html)
-In most JavaScript engines, there is a global object console with methods for logging and debugging. That object is not part of the language proper, but has become a de facto standard.
+## [왜 Asm.js는 게임 개발자에게 대단한 것인가](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
 
+## [자바스크립트 콘솔 API](http://www.2ality.com/2013/10/console-api.html)
+대부분의 자바스크립트엔진에는, 로그와 디버깅을위한 메서드를 가지는 전역 객체 console이 있습니다. 이 객체는 엄밀한 의미의 언어의 일부는 아니지만, 사실상의 표준이 되었습니다.
 
 - - -
 # 동영상
