@@ -3,13 +3,20 @@
 - - -
 # 특집 기사
 
-## [You Can't JavaScript Under Pressure](http://toys.usvsth3m.com/javascript-under-pressure/)
-Five functions to fill. One ticking clock. How fast can you code? I got 7 minutes 45 seconds but from what I’ve seen on Twitter, that's above average. If you get under 3 minutes, however, consider yourself a superhero :-)
+## [당신은 자바스크립트를 압박 받는 조건에서는 하기 어려울것이다.](http://toys.usvsth3m.com/javascript-under-pressure/)
+5개의 함수들을 채워야 합니다. 하나의 조건은 시간입니다. 얼마나 빨리 코드를 완성할수 있을까요? 저는 7분 45초나 걸렸습니다. 하지만 트위터에서 본 봐로는 평균 이상의 기록입니다.
+만약 당신의 3분 안에 완성할수있다면 당신 자신을 슈퍼영웅이라고 생각해도 됩니다.
 
-## [Reg Braithwaite Makes 'JavaScript Allongé' Book Free](http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html)
-JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances.
+## [Reg Braithwaite 가 '자바스크립트 Allongé' 이란 책을 무료로 공개했습니다](http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html)
+자바스크립트 Allongé 는 함수프로그래밍에 대한 책입니다. 왜냐하면 자바스크립트는 유연하고 강력한 함수들이 내장된 언어이기때문입니다. 자바스크립트 Allongé는 값과 표현식으로 부터 시작하여, 자바스크립트의 type, identity, 함수들, 클로져들, 스코프들 그리고 클래스들과 인스턴스들과 함께 동작하는 많은 주제들로 이루어져 있습니다.
 
-## [JSHint (the JavaScript Code Quality Tool) Has a New Design](http://jshint.com/?newdesign)
+> identity : === 연산자.
+
+> Allongé : 늘리고 크게 펼치는 동작을 뜻합니다.
+
+## [JSHint( 자바스크립트 코드품질도구 )의 디자인이 새롭게 바뀌었습니다.](http://jshint.com/?newdesign)
+자바스크립트 코드 품질도구로 유명한 JSHint의 웹 사이트가 새로운 디자인으로 변경 되었습니다.
+
 
 
 - - -
@@ -63,17 +70,18 @@ Eric Terpstra는 Node.js와 Socket.IO를 사용해 멀티플레이어 게임을 
 - - -
 # 동영상
 
-## [Node.js: A Jumpstart for Devs](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
-A ‘one-size-gets-you-started’ introduction to Node punctuated with 10 short screencasts. I like this format.
+## [Node.js: 개발을 위해 시동걸기](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
+하나의 크기로 당신이 시작할수있게 노드에 대한 소개가 10개의 짧은 스크린캐스트로 준비 되어있습니다. 저는 이런 형식을 좋아합니다.
 
-## [The JavaScript Interpreter, Interpreted](http://www.youtube.com/watch?v=iSxNCYcPAFk)
-In just 19 minutes, Martha Girdler looks at some of the concepts involved in processing and running JavaScript code.
+## [자바스크립트 해석기, 해석하기](http://www.youtube.com/watch?v=iSxNCYcPAFk)
+19분에 걸쳐서 Martha Girdler 가 자바스크립트 코드의 실행과 동작안에 포함된 개념의 몇가지를 살펴볼것입니다. (19:17)
 
-## [1024+ Seconds of JS Wizardry](http://www.youtube.com/watch?v=RTxtiLp1C8Y)
-A fun 30 minute talk that involves hacking on tweet-sized games, writing code in only six characters and creating a self-modifying “Hello World” program in fewer than 1024 bytes. All just for fun.
+## [자바스크립트 마법의 1024+ Seconds](http://www.youtube.com/watch?v=RTxtiLp1C8Y)
+2013년 JSConf EU에서 발표된 30분의 재미있는 발표 입니다. 이 이야기에서는 트윗할수있는 작은 사이즈의 게임들을 해킹 하기위해 6개의 문자로 구성된 코드로 작성하여 1024bytes 보다 작은 크기의 "Hello World" 프로그램을 수정 하는 부분이 포함되어있습니다. 모든것은 단지 재미일뿐입니다.(31:01)
 
-## [JavaScript Testing Tactics](http://blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html)
-This talk claims to be ‘the missing manual’ to writing great JavaScript tests. At an hour long, it certainly covers a lot. *Warning: It’s CoffeeScript-based.*
+## [자바스크립트 테스팅 전략](http://blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html)
+이 이야기에서는 훌륭한 자바스크립트 테스트들을 작성하기 위한 "the missing manual"에 대해 주장 합니다. 긴 시간동안 그것은 확실이 많은 부분을 담당해왔습니다.
+*주의 : 커피스크립트 기반입니다. (1:08:04)
 
 
 - - -
