@@ -3,15 +3,19 @@
 - - -
 # 특집 기사
 
-## [Brendan Eich on JS Responsibilities](http://www.youtube.com/watch?v=IXIkTrq3Rgg)
-JavaScript’s creator gave a talk at JSConf EU about the current state of JavaScript, what’s coming along for the language next, and what things need to be done. There’s lots of technical stuff about the language and its syntax to enjoy in just 30 minutes.
+## [Brendan Eich의 자바스크립트 책임들](http://www.youtube.com/watch?v=IXIkTrq3Rgg)
+자바스크립트 창조자가 자바스크립트의 현재 상황에 대해 JSConf EU 에서 이야기했습니다. 언어의 다음을 위해 무엇을 따라가야 할 것이고, 완료 하기 위해 필요한것들은 무엇인지.
+30분에 걸쳐 즐길수있는 자바스크립트 문법과 언어에 대한 많은 기술적인 요소들이 포함 되어있습니다.
 
-## [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
-Addy Osmani walks through using Yeoman, a workflow of tools for web apps to streamline creating webapps, and Polymer, a library of polyfills and sugar for developing apps using Web Components.
+> Brendan Eich : 자바스크립트의 창시자이며 현재 Mozilla Corporation의 CTO로 있습니다.
 
-## [Ecma Publishes 1st Edition of ECMA-404 Standard for JSON](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+## [Yeoman과 Polymer를 활용하여 Web 어플리케이션 제작하기](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+Addy Osmani는 Yeoman(web 어플리케이션을 제작을 간소화 하기위한 web app을 위한 워크플로우), 그리고  Polymer(웹 요소들을 이용하여 어플리케이션들을 개발하기 위한 라이브러리)에 대해
+간단히 설명 합니다.
 
-## [JingJS: The Chinese JavaScript Conference (Beijing, Nov 9-11)](http://jingjs.org)
+## [Ecma의 JSON을 위한 ECMA-404표준의 1판 출시](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+
+## [JingJS: 중국의 자바스크립트 컨퍼런스(베이징, 11월9일~11월11일) ](http://jingjs.org)
 
 
 - - -
@@ -27,7 +31,7 @@ Node.js가 무엇이고, 왜 모두들 사용하는지 확실치 않은 개발�
 Ryan Morr는 더 좋은 성능을 제공하고 커스터마이즈가능한 자바스크립트의 try/catch의 대안을 공유합니다.
 
 ## [자바스크립트 기초](http://flippinawesome.org/2013/10/07/javascript-fundamentals/?)
-Azat Mardanov는 어떤 점이 자바스크립트를 독특하게 표현력이 높은 언어로 만드는지, 그리고 가끔씩 좌절스럽게 만드는지에 대해 조사합니다. 
+Azat Mardanov는 어떤 점이 자바스크립트를 독특하게 표현력이 높은 언어로 만드는지, 그리고 가끔씩 좌절스럽게 만드는지에 대해 조사합니다.
 
 ## [힙 스냅샷과 Node.js 메모리 누수 처리하기](http://strongloop.com/strongblog/how-to-heap-snapshots/)
 Node의 핵심 컨트리뷰터이자 StrongLoop 팀의 멤버인 Ben Noordhuis는 V8 힙 스냅샷을 찍기위한 간단한 메커니즘을 개발자들에게 제공하기 위해 heapdump 모듈을 만들었습니다.
@@ -53,25 +57,31 @@ Alessandro Artoni는 자바스크립트만 사용해서 Brackets 코드 에디�
 - - -
 # 동영상
 
-## [A Comparison of The Two-way Binding in Angular, Ember and Knockout](http://www.youtube.com/watch?v=mVjpwia1YN4)
-From JSConf EU comes a talk on the strengths and weaknesses of the libraries as well as their similarities and differences.
+## [Angular, Ember 그리고 Knockout에서의 The Two-way Binding에 대한 비교](http://www.youtube.com/watch?v=mVjpwia1YN4)
+JSconf EU에서 그들의 비슷한점과 다른점을 통해 라이브러리들의 장점과 단점에 대해 이야기했습니다.(19:16)
 
-## [Making a Simple Game in JavaScript Step-By-Step](https://vimeo.com/74008847)
+## [자바스크립트에서 단계별로 간단한 게임 만들기](https://vimeo.com/74008847)
+(28:59)
 
-## [Plight Of The Butterfly: Object.observe()](http://www.youtube.com/watch?v=mfOh-J-9BY0)
-Object.observe is a proposed mechanism for monitoring when JavaScript objects are changed. Addy Osmani explains how it works in this 34 minute talk.
+## [나비의 처지: Object.observe()](http://www.youtube.com/watch?v=mfOh-J-9BY0)
+Object.observe 는 자바스크립트 객체가 변화되었을때 모니터링을 위해 제안된 기구입니다. Addy Osmani가 43분의 이야기를 통해 그것이 어떻게 동작하는지 설명합니다.
 
-## [How to Win Friends and Influence Standards Bodies](https://www.youtube.com/watch?v=hneN6aW-d9w&amp;hd=1)
-A 25 minute talk from LXJS 2013 where Domenic Denicola talks about the standards bodies that are involved in working on the Web Platform’s many technologies.
+>Plight Of The Butterfly: 몇몇 사람들은 나비가 몸에 앉을때 행운이라고 생각합니다. 하지만 영국에서는 전통적으로 한해에 첫번째로 본 나비는 죽여야지만, 불행을 피할수있다고 생각합니다.
+이렇듯이 Object.observer() 함수에 대해 알고있다고 생각했지만 아니였던 부분을 설명 합니다.
 
-## [Cleaning Up Nested Callbacks With Promises](http://www.icenium.com/blog/icenium-team-blog/2013/10/07/cleaning-up-nested-callbacks-with-promises)
-12 minute screencast.
+## [어떻게 경쟁에서 이기고, 표준단체에 영향을 끼칠것인지](https://www.youtube.com/watch?v=hneN6aW-d9w&amp;hd=1)
+Domenic Denicola의 LXJS 2013에서 있었던 웹 플랫폼의 많은 기술안에서 활동하고 있는 표준단체들에 대한 25분간의 이야기입니다.(25:32)
 
-## [ClojureScript: Lisp's Revenge by David Nolan](https://vimeo.com/76226013)
-40 minute talk from Web Rebels.
+>[LXJS 2013](2013.lxjs.org): 포르투갈 리스폰에서 2013년 10월 2-3일에 열린 자바스크립트 비영리 커뮤니티의 국제 컨퍼런스입니다.
 
-## [Getting MEAN (Mongo, Express, Angular, Node)](http://www.youtube.com/watch?v=XwSFg8nqBFA#t=99)
-MEAN is a full app development stack including MongoDB, Express, Node.JS and AngularJS and Google’s Brad Green speaks to a selection of developers about it.
+## [Promise들로 중첩된 콜백들 지우기](http://www.icenium.com/blog/icenium-team-blog/2013/10/07/cleaning-up-nested-callbacks-with-promises)
+12분간의 스크린캐스트입니다. (12:33)
+
+## [클로져스크립트: David Nolan의 Lisp의 복수](https://vimeo.com/76226013)
+Web Rebels 컨퍼런스에 있었던 40분간의 이야기 입니다.(41:35)
+
+## [MEAN 가져오기(Mongo, Express, Angular, Node)](http://www.youtube.com/watch?v=XwSFg8nqBFA#t=99)
+MEAN은 MongoDB, Express, Node.JS와 그리고 AngularJS를 이용한 어플리케이션의 전체 개발 스택입니다 그리고, 구글의 Brad Green이 그것들에 대해 개발자의 선택에 대해 이야기했습니다.(57:17)
 
 - - -
 # 중요 릴리즈
