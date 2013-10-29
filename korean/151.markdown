@@ -72,7 +72,7 @@ Object.observe 는 자바스크립트 객체가 변화되었을때 모니터링�
 ## [어떻게 경쟁에서 이기고, 표준단체에 영향을 끼칠것인지](https://www.youtube.com/watch?v=hneN6aW-d9w&amp;hd=1)
 Domenic Denicola의 LXJS 2013에서 있었던 웹 플랫폼의 많은 기술안에서 활동하고 있는 표준단체들에 대한 25분간의 이야기입니다.(25:32)
 
->[LXJS 2013](2013.lxjs.org): 포르투갈 리스폰에서 2013년 10월 2-3일에 열린 자바스크립트 비영리 커뮤니티의 국제 컨퍼런스입니다.
+>[LXJS 2013](http://2013.lxjs.org): 포르투갈 리스본에서 2013년 10월 2-3일에 열린 자바스크립트 비영리 커뮤니티의 국제 컨퍼런스입니다.
 
 ## [Promise들로 중첩된 콜백들 지우기](http://www.icenium.com/blog/icenium-team-blog/2013/10/07/cleaning-up-nested-callbacks-with-promises)
 12분간의 스크린캐스트입니다. (12:33)
