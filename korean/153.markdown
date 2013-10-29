@@ -1,0 +1,121 @@
+Issue #153 - October 25, 2013
+
+- - -
+# 특집 기사
+
+## [Phusion Passenger’s Node.js Support Has Been Open Sourced](http://blog.phusion.nl/2013/10/23/phusion-passengers-node-js-support-has-been-open-sourced/)
+Passenger is a popular application server that initially found great popularity in the Ruby world. Now its free, open source incarnation serves up Node.js apps too making it even easier to deploy Node apps behind nginx or Apache.
+
+## [Code Climate: Automated Code Reviews of&nbsp;JavaScript Code](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/)
+Code Climate is well known for its automated Ruby code review service but now it supports JavaScript too. The team gave us a [special link](https://codeclimate.com/signup/account?promo_code=06LJNQW9) to share for 20% off in case you’re interested (it works before Nov 1st).
+
+## [Offline.js: Handle Your Users Losing Their Internet Connection Like A Pro](http://github.hubspot.com/offline/docs/welcome/)
+A library to automatically alert your users when they’ve lost internet connectivity. It captures AJAX requests which were made while the connection was down, and remakes them when it’s back up, so your app reacts perfectly.
+
+## [Node.js Knockout - Nov 8-10th, 2013 - 10 Spots For Our Readers](http://nodeknockout.com/register/jsweekly)
+
+
+## [Node HTTP DoS Vulnerability (Fixed in Node v0.8.26 and v0.10.21)](http://blog.nodejs.org/2013/10/22/cve-2013-4450-http-server-pipeline-flood-dos/)
+
+
+
+- - -
+# 스폰서기사
+
+## [Everything you need to build HTML5 sites and mobile apps](http://www.kendoui.com/campaigns/kendoui-complete.aspx?utm_source=JavaScrip…_campaign=JavaScriptWeekly_newsletter-primary-sponsorship_KendoUI-complete)
+Enjoy seamless coding with its complete integrated package that includes a jQuery-based toolset of rich UI widgets, a powerful data source, dynamic data visualizations, and exceptionally fast micro-templates. [Try Kendo UI free for 30-days.](http://www.kendoui.com/campaigns/kendoui-complete.aspx?utm_source=JavaScrip…_campaign=JavaScriptWeekly_newsletter-primary-sponsorship_KendoUI-complete)
+
+
+- - -
+# 읽을 거리
+
+## [JavaScript Has A Unicode Problem](http://mathiasbynens.be/notes/javascript-unicode)
+An in-depth write-up that goes through the pain points associated with Unicode in JavaScript, solutions for common problems, and a look at how ECMAScript 6 will improve the situation.
+
+## [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+A little over my head but it does walk through the whole process.
+
+## [Dynamic Audio Generation In the Browser: A JavaScript Synthesizer](http://keithwhor.com/music/)
+A demo along with source and an extensive explanation of how it works.
+
+## [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+One of the more whimsical technical explanations I’ve enjoyed.
+
+## [An Angular Developer Takes Ember for A Spin](http://floatleft.com/notebook/taking-ember-for-a-spin/)
+
+## [Introducing Event-Focused JS and CSS (EFJAC)](https://medium.com/objects-in-space/9b8a9dd7bfe3)
+A modest proposal for organizing CSS and JS code interactions for maximum enjoyment.
+
+## [An Angular Workflow](http://www.rtorr.com/an-angular-workflow-part-1/)
+A pragmatic walkthrough.
+
+## [Fun with Bind, Call and Apply in JavaScript](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
+
+## [What You Need to Know About AngularJS and SEO](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+
+## [How to Create One-Time Event Handlers in JavaScript](http://www.sitepoint.com/create-one-time-events-javascript/)
+
+## [Building a Photo Sharing App for Firefox OS](https://blog.stackmob.com/2013/10/building-a-photo-sharing-app-for-firefox-os/)
+
+## [Using r.js to Optimize Your RequireJS Project](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
+
+
+- - -
+# 코드, 라이브러리들과 도구들
+
+## [Regenerator: Bringing ES6 Generator Functions to Today's JavaScript (ES5)](https://github.com/facebook/regenerator)
+A fully-functional source transformer that takes the proposed syntax for generators/yield from future versions of JS and outputs efficient JS-of-today that behaves the same way.
+
+## [Knockout v3.0.0 Released: The Upgrade Notes](http://knockoutjs.com/upgrade-notes/v3.0.0.html)
+
+## [Ember 1.1.1 and 1.2 Beta Released](http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html)
+1.1.1 is the inaugural stable release after the project’s switch to a Chrome-like release cycle and is very similar to the recently released 1.0 but with various bugfixes. The 1.2 beta version has numerous new features which are [outlined in Ember’s changelog.](https://github.com/emberjs/ember.js/blob/v1.2.0-beta.1/CHANGELOG)
+
+## [Snap.svg: The JavaScript SVG Library for the Modern Web](http://snapsvg.io/)
+Snap provides web developers with a clean, streamlined, intuitive, and powerful API for animating and manipulating both existing SVG content, and SVG content generated with Snap.
+
+## [Trans: The 'Ultimate' Object Transformer](https://github.com/gabesoft/trans?)
+A library that makes it easy to perform transformations upon complex JavaScript objects including nesting, etc. Includes a variety of mapping, grouping, sorting and filtering techniques.
+
+## [jsSMS: Sega Master System &amp; GameGear Emulator](https://github.com/gmarty/jsSMS)
+Guillaume’s [Reject.JS talk about this](https://www.youtube.com/watch?v=Ey2TGjLTYuw) is very interesting too.
+
+## [New Relic Can Now Monitor Node.js Applications' Performance](http://blog.newrelic.com/2013/10/24/node-joins-new-relic-family/)
+
+
+## [Nunjucks: Rich and Powerful Templating Language for JavaScript](http://jlongster.github.io/nunjucks/)
+A small 8K gzipped runtime, supports custom extensions, block inheritance, auto-escaping, macros, asynchronous control, and more. For Node and the browser.
+
+## [Payment Processor Stripe Introduces Official Node.js Support](https://stripe.com/blog/official-nodejs-support)
+
+
+## [Touche.js: Seamless Touch Event Mapping for Your Click Events](http://benhowdle.im/touche/)
+Effortlessly re-map click events to touch events on touch-screen UIs and reduce delays.
+
+## [hidpi-canvas-polyfill: JavaScript Polyfill for Consistent and Automatic HiDPI Canvas Support](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
+
+
+## [ThreePin: A Stress-Free socket.io Client Debugger and Test Environment](https://github.com/dieguitoweb/ThreePin)
+
+## [win-notify: Simple Notifications API for JavaScript Windows Store Apps](http://tadeuszwojcik.github.io/win-notify)
+
+## [FullPaged: A Single Paged Layout jQuery Plugin with UI Animations](http://www.inserthtml.com/2013/10/single-page-website/?)
+
+
+- - -
+# 일자리
+
+## [Senior Front End Web Developer at Flickr](http://bit.ly/19RSOaq)
+Starting immediately, Flickr is looking to hire a Front-End Engineer for our San Francisco office. If you get fired up writing web applications that perform wonderfully across browsers, operating systems, languages and devices and your resulting maintainable code looks like well-documented poetry, then we want to talk to you.
+
+## [Full Stack JavaScript Developer (Bristol, UK)](http://careers.stackoverflow.com/jobs/42521/full-stack-javascript-developer-help-us-blue-speck-financial-ltd)
+Help us revolutionise personal finance. Join us as we build a suite of tools to help people better plan and manage their finances. Our stack built around small maintainable NodeJS services connecting to Backbone apps with some D3 sugar on top.
+
+## [Front-End Engineer at Yelp - San Francisco](http://www.yelp.com/careers?jvi=oUOmWfwK,Job)
+
+
+- - -
+# 마지막으로,
+
+## [Borland Turbo Pascal Compiler Reimplemented in JavaScript](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/)
+Turbo Pascal’s compiler was a tour de force at the time and speed-wise left other compilers in the dust.
