@@ -63,43 +63,43 @@ A pragmatic walkthrough.
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Regenerator: Bringing ES6 Generator Functions to Today's JavaScript (ES5)](https://github.com/facebook/regenerator)
-A fully-functional source transformer that takes the proposed syntax for generators/yield from future versions of JS and outputs efficient JS-of-today that behaves the same way.
+## [Regenerator: 현재의 자바스크립트(ES5)에서 ES6의 Generator 함수를 사용하 수 있음](https://github.com/facebook/regenerator)
+자바스크립트의 향후 버젼(ES6)에서 제안된 generators/yield 문법을 현재의 자바스크립트에서 완전히 동일하게 동작하도록 만들어주는 소스 변환기
 
-## [Knockout v3.0.0 Released: The Upgrade Notes](http://knockoutjs.com/upgrade-notes/v3.0.0.html)
+## [Knockout v3.0.0 릴리즈: 업그레이드 내용](http://knockoutjs.com/upgrade-notes/v3.0.0.html)
 
-## [Ember 1.1.1 and 1.2 Beta Released](http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html)
-1.1.1 is the inaugural stable release after the project’s switch to a Chrome-like release cycle and is very similar to the recently released 1.0 but with various bugfixes. The 1.2 beta version has numerous new features which are [outlined in Ember’s changelog.](https://github.com/emberjs/ember.js/blob/v1.2.0-beta.1/CHANGELOG)
+## [Ember 1.1.1 and 1.2 베타 릴리즈](http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html)
+1.1.1은 크롬과 같은 릴리즈 사이클로 프로젝트를 전환한 후 첫 안정화 버젼입니다. 이 것은 최근의 1.0 버젼과 매우 유사합니다. 하지만 몇 가지 버그가 수정되었습니다. 1.2 베타 버젼은 다양하고 새로운 기능을 가지고 있습니다. 관련 내용은 [여기](https://github.com/emberjs/ember.js/blob/v1.2.0-beta.1/CHANGELOG)에서 확인하세요.
 
-## [Snap.svg: The JavaScript SVG Library for the Modern Web](http://snapsvg.io/)
-Snap provides web developers with a clean, streamlined, intuitive, and powerful API for animating and manipulating both existing SVG content, and SVG content generated with Snap.
+## [Snap.svg: 최신 웹을 위한 자바스크립트 SVG 라이브러리](http://snapsvg.io/)
+Snap은 웹 개발자들을 위해 기존의 SVG 개발 코드와 Snap으로 새롭게 만든 SVG 코드 모두를 애니메이션과 조작이 가능한 명백하고 간결하고 직관적이며 강력한 API 제공합니다.
 
-## [Trans: The 'Ultimate' Object Transformer](https://github.com/gabesoft/trans?)
-A library that makes it easy to perform transformations upon complex JavaScript objects including nesting, etc. Includes a variety of mapping, grouping, sorting and filtering techniques.
+## [Trans: 최고의 객체 변환 라이브러리](https://github.com/gabesoft/trans?)
+여러 단계의 복잡한 자바스크립트 객체를 변환하기 쉽게 만들어 주는 라이브러리 입니다. 다양한 맵핑, 그룹핑, 정렬, 필터링 기능을 가지고 있습니다.
 
-## [jsSMS: Sega Master System &amp; GameGear Emulator](https://github.com/gmarty/jsSMS)
-Guillaume’s [Reject.JS talk about this](https://www.youtube.com/watch?v=Ey2TGjLTYuw) is very interesting too.
+## [jsSMS: 세가 마스터 시스템 & GameGear 에뮬레이터](https://github.com/gmarty/jsSMS)
+Guillaume이 [Reject.js에서 이야기 한 것](https://www.youtube.com/watch?v=Ey2TGjLTYuw) 역시 매우 흥미롭습니다.
 
-## [New Relic Can Now Monitor Node.js Applications' Performance](http://blog.newrelic.com/2013/10/24/node-joins-new-relic-family/)
-
-
-## [Nunjucks: Rich and Powerful Templating Language for JavaScript](http://jlongster.github.io/nunjucks/)
-A small 8K gzipped runtime, supports custom extensions, block inheritance, auto-escaping, macros, asynchronous control, and more. For Node and the browser.
-
-## [Payment Processor Stripe Introduces Official Node.js Support](https://stripe.com/blog/official-nodejs-support)
+## [지금 부터 New Relic에서도 Node.js 애플리케이션 성능을 모니터링 지원](http://blog.newrelic.com/2013/10/24/node-joins-new-relic-family/)
 
 
-## [Touche.js: Seamless Touch Event Mapping for Your Click Events](http://benhowdle.im/touche/)
-Effortlessly re-map click events to touch events on touch-screen UIs and reduce delays.
+## [Nunjucks: 자바스크립트를 위한 풍부하고 강력한 템플릿 언어](http://jlongster.github.io/nunjucks/)
+런타임시 8K 정도로 압축 되는 작은 용량, 사용작 확장 지원, 상속 차단, 자동 변환, 매크로, 비동기 제어 등등. Node와 브라우저 지원
 
-## [hidpi-canvas-polyfill: JavaScript Polyfill for Consistent and Automatic HiDPI Canvas Support](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
+## [결제 서비스 Stripe 에서 공식적으로 Node.js를 지원](https://stripe.com/blog/official-nodejs-support)
 
 
-## [ThreePin: A Stress-Free socket.io Client Debugger and Test Environment](https://github.com/dieguitoweb/ThreePin)
+## [Touche.js: 클릭 이벤트를 자연스럽게 터치 이벤트에 맵핑하기](http://benhowdle.im/touche/)
+손 쉽고 지연 없게 클릭 이벤트를 터치 스크린 UI의 터치 이벤트와 연결해 줍니다.
 
-## [win-notify: Simple Notifications API for JavaScript Windows Store Apps](http://tadeuszwojcik.github.io/win-notify)
+## [hidpi-canvas-polyfill: 일관되고 자동적인 HiDPI 캔버스 지원 자바스크립트 폴리필(Polyfill)](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 
-## [FullPaged: A Single Paged Layout jQuery Plugin with UI Animations](http://www.inserthtml.com/2013/10/single-page-website/?)
+
+## [ThreePin: 스테레스 없는 socket.io 클라이언트 디버거 와 테스트 환경](https://github.com/dieguitoweb/ThreePin)
+
+## [win-notify: 자바스크립트 윈도우 스토어 앱을 위한 간단한 알림 API](http://tadeuszwojcik.github.io/win-notify)
+
+## [FullPaged: UI 애니메이션 기능을 가진 싱글 페이지 레이아웃 jQuery 플러그인](http://www.inserthtml.com/2013/10/single-page-website/?)
 
 
 - - -
