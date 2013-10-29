@@ -122,18 +122,20 @@ It seems to be quite the week for the major structural libraries.
 - - -
 # 일자리
 
-## [Software Engineer at Turn (Silicon Valley)](http://jobsco.re/17D541y)
+## [Turn사의 소프트웨어 엔지니어 @ 실리콘 밸리](http://jobsco.re/17D541y)
 Big data, machine learning, distributed systems. If these are technologies you're interested in and you're good with JavaScript, we'd love to talk to you about joining our front-end applications team at Turn.
+빅 데이터, 머신 러닝, 분산 시스템. 이런 기술에 흥미가 있으며 자바스크립트에 능숙하다면 턴의 프론트엔드 애플리케이션 팀에 합류하는 일에 대해 이야기하고 싶습니다.
 
-## [Front End JavaScript Expert Needed at Weebly!](http://www.weebly.com/jobs.php)
+## [Weebly에서 프론트 엔드 자바스크립트 전문가를 찾습니다!](http://www.weebly.com/jobs.php)
 Join the small and talented development team at YCombinator backed Weebly.  Write features that will be utilized by tens of millions of users!
+YCombinator가 지원하는 Weebly의 작으면서도 재능있는 개발팀에 합류하세요. 수천만명이 사용하게 될 기능을 직접 만드세요.
 
-## [UX/Web Designer at Booking.com in Amsterdam, NL](http://www.booking.com/jobs.en-gb.html?sid=eaa0c614fc3d4930d80628a6ee8c72a3;dcid=1;st=details;job_id=10480)
-Booking.com – planet Earth’s #1 accommodation website – is looking for the world’s smartest designers. Good in HTML &amp; CSS? You’ll be given the freedom to make meaningful and measurable improvements impacting millions of people.We offer relocation to Amsterdam!
-
+## [Booking.com의 UX/Web 디자이너 @ 네덜란드 암스테르담](http://www.booking.com/jobs.en-gb.html?sid=eaa0c614fc3d4930d80628a6ee8c72a3;dcid=1;st=details;job_id=10480)
+세계 제일의 숙박 웹사이트인 Booking.com에서 제일 스마트한 디자이너를 찾습니다. HTML과 CSS에 능숙한가요? 수백만명의 사람들에게 영향을 주는 중요하고 확인 가능한 개선사항을 자유롭게 만들 수 있을 것입니다. 암스테르담으로의 이주도 지원하고 있습니다.
 
 - - -
 # 마지막으로,
 
-## [Large Object Heap Compaction: Should You Use it?](https://www.simple-talk.com/dotnet/.net-framework/large-object-heap-compact…eapcompaction&amp;utm_campaign=antsmemoryprofiler&amp;utm_term=email-21078)
-Chris looks into LOH fragmentation and compaction: when to use compaction, and why you sometimes shouldn’t. Find out more.
+## [대용량 객체 힙의 압축: 과연 사용해야 할까요?](https://www.simple-talk.com/dotnet/.net-framework/large-object-heap-compact…eapcompaction&amp;utm_campaign=antsmemoryprofiler&amp;utm_term=email-21078)
+크리스가 LOH 파편화와 압축을 살펴봅니다. 언제 압축을 사용해야 할지 그리고 왜 때때로 압축하면 안되는 이유를 알아볼 것입니다. 이 외에도 더 많은 정보를 얻을 수 있을 것입니다.
+
