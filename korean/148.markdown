@@ -60,7 +60,7 @@ TC39 (Ecma 기술위원회 39)는 ECMAScript 언어에 대한 표준을 발전�
 
 ## [Backbone.js 기초](http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/)
 Thomas Hunter II 가 높은 수준의 Backbone.js의 프리젠테이션을 보여줍니다.
-해당 영상에는 [Tomas’ book](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/)와 비슷한 주제가 많이 담겨 있습니다.(36:33)
+해당 영상에는 [Thomas의 책](http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/)과 비슷한 주제가 많이 담겨 있습니다.(36:33)
 
 ## [자바스크립트 Jabber: Nicholas Zakas와 함께 하는 유지보수가능한 자바스크립트](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
 이번 팟캐스트에서는 6명(Nicholas Zakas, Joe Eames, AJ O'Neal과 몇몇들)으로 이루어진 패널들이 "자바스크립트 유지보수"에서 Zakas가 가지고있는 개념에 관련된 이슈에 대해 논의 합니다.(57:41)

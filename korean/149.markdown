@@ -5,10 +5,10 @@
 
 ## [BrowserSwarm: 브라우저들을 교차하여 자바스크립트 테스팅 자동화](http://www.browserswarm.com/)
 클라우드 상에서 당신의 Github 저장소로 접속 한다음 13개의 다른 브라우저 버전(최신 크롬, 파이어폭스, 사파리, 오페라,IE6~10)에서 자바스크립트 코드를 실행할수 있습니다.
-마이크로소프트 인터넷익스플로러 팀과 Souce 랩들에 의해 만들어졌습니다.
+마이크로소프트 인터넷익스플로러 팀과 [Sauce Labs](https://saucelabs.com/)에 의해 만들어졌습니다.
 
 ## [2013년 Reject.JS에서 있었던 8개의 이야기들](http://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT#rejectjs)
-Reject.js 는 JSConf.EU와 함께 열린 자바스크립트 컨퍼런스입니다. [모바일의 60 FPS 복고풍 게임](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5)과 [EcmaScrpt 5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1)부터  [tidy 콜백들](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7)까지 그리고 [적응적인 웹 디자인](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4)을 주제로 담고 있습니다.
+Reject.js 는 JSConf.EU와 함께 열린 자바스크립트 컨퍼런스입니다. [모바일의 60 FPS 복고풍 게임](http://www.youtube.com/watch?v=Ey2TGjLTYuw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=5)과 [EcmaScrpt 5](http://www.youtube.com/watch?v=XQf_OMlYmwo&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=1)부터  [깔끔한 콜백들](http://www.youtube.com/watch?v=n34S_uFtGnw&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=7)까지 그리고 [적응형 웹 디자인](http://www.youtube.com/watch?v=aErQxv6zCPc&amp;list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT&amp;index=4)을 주제로 담고 있습니다.
 
 > 동영상으로 되어있습니다. : Reject.js는 독일 베를린에서 9월 12일에 개최되었습니다.
 
@@ -41,8 +41,8 @@ Josh Clanton은 내장 배열 메서드의 동작에 대해 설명합니다.
 ## [자바스크립트로 CSS 작성하기](http://davidwalsh.name/write-css-javascript)
 David는 자바스크립트로 스타일시트를 동적으로 작성하는 흥미로운 라이브러이인 'absurd.js'의 사용방법을 보여줍니다.
 
-## [Canvas와 자바스크립트로 현실적인 비오는 효과 만들기](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
-Marek Brodziak은 HTML canvas에 현실적인 비오는 효과를 보여주는 RainyDay.js를 만드는데 사용한 기법들을 설명합니다.
+## [Canvas와 자바스크립트로 진짜같은 비오는 효과 만들기](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
+Marek Brodziak은 HTML canvas에 진짜같은 비오는 효과를 보여주는 RainyDay.js를 만드는데 사용한 기법들을 설명합니다.
 
 ## [유니코드와 자바스크립트](http://www.2ality.com/2013/09/javascript-unicode.html)
 Axel Rauschmayer는 우선 유니코드의 간단하지만 전체적인 개요를 보여주고, 그리고나서 자바스크립트로 적절하게 사용하는 방법을 설명합니다.
