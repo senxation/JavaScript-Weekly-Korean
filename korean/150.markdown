@@ -3,21 +3,21 @@
 - - -
 # 특집 기사
 
-## [당신은 자바스크립트를 압박 받는 조건에서는 하기 어려울것이다.](http://toys.usvsth3m.com/javascript-under-pressure/)
-5개의 함수들을 채워야 합니다. 하나의 조건은 시간입니다. 얼마나 빨리 코드를 완성할수 있을까요? 저는 7분 45초나 걸렸습니다. 하지만 트위터에서 본 봐로는 평균 이상의 기록입니다.
-만약 당신의 3분 안에 완성할수있다면 당신 자신을 슈퍼영웅이라고 생각해도 됩니다.
+## [당신은 자바스크립트를 압박받는 조건에서는 하기 어려울 것이다](http://toys.usvsth3m.com/javascript-under-pressure/)
+5개의 함수들을 채워야 합니다. 시간이 흘러갑니다. 얼마나 빨리 코드를 완성할 수 있을까요? 저는 7분 45초나 걸렸습니다. 하지만 트위터에서 본 바로는 평균 이상의 기록입니다.
+만약 당신이 3분 안에 완성할 수 있다면 자신을 슈퍼영웅이라고 생각해도 됩니다.
 
->지금 이글을 번역하고있는 전 8분 47초가 걸렸습니다.
+> 지금 이글을 번역하고 있는 전 8분 47초가 걸렸습니다.
 
-## [Reg Braithwaite 의 '자바스크립트 Allongé' 이란 책을 무료로 공개](http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html)
-자바스크립트 Allongé 는 함수프로그래밍에 대한 책입니다. 왜냐하면 자바스크립트는 유연하고 강력한 함수들이 내장된 언어이기때문입니다. 자바스크립트 Allongé는 값과 표현식으로 부터 시작하여, 자바스크립트의 type, identity, 함수들, 클로져들, 스코프들 그리고 클래스들과 인스턴스들과 함께 동작하는 많은 주제들로 이루어져 있습니다.
+## [Reg Braithwaite가 '자바스크립트 Allongé'라는 책을 무료로 공개](http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html)
+자바스크립트 Allongé는 함수 프로그래밍에 대한 책입니다. 왜냐하면 자바스크립트는 유연하고 강력한 함수들이 내장된 언어이기 때문입니다. 자바스크립트 Allongé는 값과 표현식으로부터 시작하여, 자바스크립트의 자료형과, 동일(identity), 함수, 클로져, 스코프뿐만아니라 클래스와 인스턴스와 함께 동작하는 많은 주제들로 이루어져 있습니다.
 
-> identity : === 연산자.
+> identity : 동일(==), equality : 항등(===) 연산자.
 
 > Allongé : 늘리고 크게 펼치는 동작을 뜻합니다.
 
-## [JSHint( 자바스크립트 코드품질도구 )의 새로운 디자인](http://jshint.com/?newdesign)
-자바스크립트 코드 품질도구로 유명한 JSHint의 웹 사이트가 새로운 디자인으로 변경 되었습니다.
+## [JSHint(자바스크립트 코드품질도구)의 새로운 디자인](http://jshint.com/?newdesign)
+자바스크립트 코드 품질도구로 유명한 JSHint의 웹 사이트가 새로운 디자인으로 변경되었습니다.
 
 
 
@@ -32,7 +32,7 @@
 # 읽을 거리
 
 ## [크롬 개발자도구로 자바스크립트 메모리 프로파일링하기](https://developers.google.com/chrome-developer-tools/docs/javascript-memory-profiling)
-Addy Osmani는 크롬 개발자도구를 사용해 메모리 누수를 막기위한 갱신된 가이드를 작성했습니다. 이 문서는 객체 할당 추적기, 타임라인 메모리, 힙 프로파일등을 다룹니다.
+Addy Osmani는 크롬 개발자도구를 사용해 메모리 누수를 막기 위한 새로운 가이드를 작성했습니다. 이 문서는 객체 할당 추적기, 타임라인 메모리, 힙 프로파일등을 다룹니다.
 
 ## [AngularJS를 하루만에 배우기 위한 궁극의 가이드](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 Todd Motto는 인터랙티브하게 임베딩된 JSFiddle를 포함한 훌륭한 따라하기 예제를 제공합니다.
@@ -49,7 +49,7 @@ Node를 사용한다면, [Node Weekly 최신호](http://nodeweekly.com/archive/5
 ‘정적 메모리 자바스크립트(Static memory JavaScript)’는 앱을 시작할 때 생애주기동안 필요한 모든 메모리를 사전-할당하고, 실행중 객체가 더 이상 필요하지 않을 때까지 관리하는 기법입니다.
 
 ## [Istanbul과 Karma를 사용한 Jasmine 테스트의 코드 커버리지](http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html)
-인기있는 Jaxmine 테스트 라이브러리를 사용하여 작성된 테스트들의 코드 커버리지를 확인(즉, 얼마만큼의 코드가 실제로 테스트되는지)는 쉬운 방법은 Istanbul과 Karma 테스트러너를 사용하는 것입니다.
+인기있는 Jasmine 테스트 라이브러리를 사용하여 작성된 테스트들의 코드 커버리지를 확인(즉, 얼마만큼의 코드가 실제로 테스트되는지)하는 쉬운 방법은 Istanbul과 Karma 테스트러너를 사용하는 것입니다.
 
 ## [자바스크립트로 구현한 함수형 반응적 프로그래밍](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/?)
 Sean Voisen은 반응적 프로그래밍의 컨셉과, 어떤 이점이 있는지, 자바스크립트로 어떻게 구현할 수 있는지를 Bacon.js 예제를 사용해 설명합니다.
@@ -73,36 +73,35 @@ Eric Terpstra는 Node.js와 Socket.IO를 사용해 멀티플레이어 게임을 
 # 동영상
 
 ## [Node.js: 개발을 위해 시동걸기](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
-하나의 크기로 당신이 시작할수있게 노드에 대한 소개가 10개의 짧은 스크린캐스트로 준비 되어있습니다. 저는 이런 형식을 좋아합니다.
+하나의 크기로 시작할 수 있게하는 노드에 대한 소개가 10개의 짧은 스크린캐스트로 준비되어 있습니다. 저는 이런 형식을 좋아합니다.
 
-## [자바스크립트 해석기, 해석하기](http://www.youtube.com/watch?v=iSxNCYcPAFk)
-19분에 걸쳐서 Martha Girdler 가 자바스크립트 코드의 실행과 동작안에 포함된 개념의 몇가지를 살펴볼것입니다. (19:17)
+## [자바스크립트 인터프리터, 해석하기](http://www.youtube.com/watch?v=iSxNCYcPAFk)
+19분에 걸쳐서 Martha Girdler가 자바스크립트 코드의 실행과 동작에 포함된 몇 가지 개념을 살펴봅니다. (19:17)
 
-## [자바스크립트 마법의 1024+ Seconds](http://www.youtube.com/watch?v=RTxtiLp1C8Y)
-2013년 JSConf EU에서 발표된 30분의 재미있는 발표 입니다. 이 이야기에서는 트윗할수있는 작은 사이즈의 게임들을 해킹 하기위해 6개의 문자로 구성된 코드로 작성하여 1024bytes 보다 작은 크기의 "Hello World" 프로그램을 수정 하는 부분이 포함되어있습니다. 모든것은 단지 재미일뿐입니다.(31:01)
+## [1024+초 간의 자바스크립트 묘기](http://www.youtube.com/watch?v=RTxtiLp1C8Y)
+2013년 JSConf EU에서 발표된 30분의 재미있는 발표입니다. 이 이야기에서는 트윗할 수 있는 작은 사이즈의 게임들을 해킹하고, 단지 6개의 문자로 구성된 코드를 작성하며, 스스로를 변경하는 "Hello World" 프로그램을 만듭니다. 단지 재미삼아 했을 뿐입니다.(31:01)
 
 ## [자바스크립트 테스팅 전략](http://blog.testdouble.com/posts/2013-10-03-javascript-testing-tactics.html)
-이 이야기에서는 훌륭한 자바스크립트 테스트들을 작성하기 위한 "the missing manual"에 대해 주장 합니다. 긴 시간동안 그것은 확실이 많은 부분을 담당해왔습니다.
-*주의 : 커피스크립트 기반입니다. (1:08:04)
+이 이야기에서는 훌륭한 자바스크립트 테스트들을 작성하기 위한 "the missing manual"에 대해 주장합니다. 한 시간동안 확실히 많은 부분을 다룹니다. * 주의 : 커피스크립트 기반입니다. (1:08:04)
 
 
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [Conzole: 페이지 위에 표시 할 수 있는 자바스크립트 디버깅 패널](http://oaxoa.github.io/Conzole/)
-페이지내의 패널에 네이티브 console 메서드와 기능을 추가합니다.
+## [Conzole: 페이지 위에 표시할 수 있는 자바스크립트 디버깅 패널](http://oaxoa.github.io/Conzole/)
+페이지 내의 패널에 네이티브 console 메서드와 기능을 추가합니다.
 
 ## [Opentype.js: 트루타입과 오픈타입 폰트의 자바스크립트 파서](https://github.com/nodebox/opentype.js/wiki)
-브라우저와 node.js 에서 텍스트의 글자체에 접근할 수 있게 해줍니다.
+브라우저와 node.js에서 텍스트의 글자체에 접근할 수 있게 해줍니다.
 
-## [984 바이트짜리 자바스크립트 Raytracer](https://github.com/bwiklund/js1k-love-raytracer)
+## [984바이트짜리 자바스크립트 Raytracer](https://github.com/bwiklund/js1k-love-raytracer)
 > [Ray tracing](http://me2.do/GPAya6Yv)
 
-## [FastActive: 웹 앱을 좀 더 네이티브 처럼 느끼게 만들어주는 자바스크립트 코드](https://github.com/jonathanstark/FastActive)
-FastActive는 사용자 터치가 가능한 어디라도 활성 클래스 이름을 넣었다 뺀다. 이러한 방법으로 개발자는 사용자에게 시각적인 피드백을 즉시 제공할 수 있는 간단한 CSS를 작성할 수 있다.
+## [FastActive: 웹 앱을 좀 더 네이티브처럼 느끼게 만들어주는 자바스크립트 코드](https://github.com/jonathanstark/FastActive)
+FastActive는 사용자 터치가 가능한 어디라도 활성 클래스 이름을 넣었다 뺍니다. 이러한 방법으로 개발자는 사용자에게 시각적인 피드백을 즉시 제공할 수 있는 간단한 CSS를 작성할 수 있습니다.
 
 ## [COLT: 자바스크립트 라이브 코딩 툴](http://blog.codeorchestra.com/post/61437449227/colt-1-2-with-new-ui-and-js-support-is-out)
-[Bret Victor의 이야기를 발췌한 동영상](http://www.youtube.com/watch?v=wjSsISiacEU)을 통해 강력한 라이브 코딩 예제를 살펴봅니다. [Code Orchestra](http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool) 에서는 자바스크립트 라이브 코딩인 단지 재미난 장난감인지 아니면 진정한 툴인지에 대해 생각해봅니다.
+[Bret Victor의 이야기를 발췌한 동영상](http://www.youtube.com/watch?v=wjSsISiacEU)을 통해 강력한 라이브 코딩 예제를 살펴봅니다. [Code Orchestra](http://blog.codeorchestra.com/post/61757785612/livecoding-for-js-a-fancy-toy-or-a-real-tool)에서는 자바스크립트 라이브 코딩이 단지 재미난 장난감인지 아니면 진정한 툴인지에 대해 생각해봅니다.
 
 ## [당신의 웹 어플리케이션에 텍스트 편집 기능을 추가할 수 있는 다섯가지 자바스크립트 라이브러리](http://blog.smartbear.com/programming/five-free-javascript-libraries-to-add-text-editing-to-your-web-application/)
 
@@ -119,4 +118,4 @@ FastActive는 사용자 터치가 가능한 어디라도 활성 클래스 이름
 # 마지막으로,
 
 ## [에어브레이크를 사용하여 예외를 잡으세요.](http://airbrake.io/pages/home?r=jsweekly)
-에어브레이크를 사용하여 에러가 발생한 앱에서 예외를 잡고 더 빠르게 해결하세요. 5만명 이상의 개발자가 믿고 사용하고 있습니다. 새로운 버전에서는 더 빠르게 에러를 해결할 수 있도록 깃헙, 피보탈과 같은 수많은 워크플로우 도구와의 통합 기능을 제공합니다.
+에어브레이크(Airbrake)를 사용하여 에러가 발생한 앱에서 예외를 잡고 더 빠르게 해결하세요. 5만명 이상의 개발자가 믿고 사용하고 있습니다. 새로운 버전에서는 더 빠르게 에러를 해결할 수 있도록 깃헙(GitHub), 피보탈(Pivotal)과 같은 수 많은 워크플로우 도구와의 통합 기능을 제공합니다.
