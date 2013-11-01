@@ -1,4 +1,4 @@
-Issue #153 - October 25, 2013
+원문 : [http://javascriptweekly.com/archive/153.html]
 
 - - -
 # 특집 기사
@@ -29,35 +29,39 @@ Enjoy seamless coding with its complete integrated package that includes a jQuer
 - - -
 # 읽을 거리
 
-## [JavaScript Has A Unicode Problem](http://mathiasbynens.be/notes/javascript-unicode)
-An in-depth write-up that goes through the pain points associated with Unicode in JavaScript, solutions for common problems, and a look at how ECMAScript 6 will improve the situation.
+## [자바스크립트에는 유니코드 문제가 있다](http://mathiasbynens.be/notes/javascript-unicode)
+자바스크립트에서 유니코드와 연관된 어려움과 일반적인 문제들을 상세하게 다루며, 어떻게 ECMAScript 6에서 이를 개선하게 될지에 대해 살펴봅니다.
 
-## [Generating a Bitcoin Address with JavaScript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
-A little over my head but it does walk through the whole process.
+> [한글 번역본 링크](http://ujinbot.blogspot.kr/2013/10/blog-post.html)
 
-## [Dynamic Audio Generation In the Browser: A JavaScript Synthesizer](http://keithwhor.com/music/)
+## [자바스크립트로 비트코인(Bitcoin) 주소 생성하기](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+이 글은 약간 어렵지만 전체 프로세스를 다룹니다.
+
+## [브라우저에서 동적인 오디오 생성: 자바스크립트 신디사이저](http://keithwhor.com/music/)
+데모와 함께 어떻게 동작하는지에 대한 폭넓은 설명과 소스코드를 포함합니다.
 A demo along with source and an extensive explanation of how it works.
 
-## [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
-One of the more whimsical technical explanations I’ve enjoyed.
+## [만화로 설명된 AngularJS에서의 Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+재미있게 봤던 기발한 기술설명중 하나.
 
-## [An Angular Developer Takes Ember for A Spin](http://floatleft.com/notebook/taking-ember-for-a-spin/)
+## [Angular 개발자가 Ember를 돌려보다](http://floatleft.com/notebook/taking-ember-for-a-spin/)
 
-## [Introducing Event-Focused JS and CSS (EFJAC)](https://medium.com/objects-in-space/9b8a9dd7bfe3)
-A modest proposal for organizing CSS and JS code interactions for maximum enjoyment.
+## [이벤트-집중적인 JS와 CSS(EFJAC) 소개](https://medium.com/objects-in-space/9b8a9dd7bfe3)
+모두의 행복을 위한 CSS와 JS코드 인터랙션 구성방식을 겸손하게 제안합니다.
 
-## [An Angular Workflow](http://www.rtorr.com/an-angular-workflow-part-1/)
-A pragmatic walkthrough.
+## [Angular 워크플로우](http://www.rtorr.com/an-angular-workflow-part-1/)
+실용적인 따라하기 예제.
 
-## [Fun with Bind, Call and Apply in JavaScript](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
+## [자바스크립트의 bind(), call()과 apply() 가지고 놀기](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
 
-## [What You Need to Know About AngularJS and SEO](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+## [AngularJS와 SEO에 대해 알아야할 사실들](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+< SEO(Search Engine Optimization, 검색 엔진 최적화)
 
-## [How to Create One-Time Event Handlers in JavaScript](http://www.sitepoint.com/create-one-time-events-javascript/)
+## [자바스크립트에서 일회성 이벤트 핸들러를 만드는 방법](http://www.sitepoint.com/create-one-time-events-javascript/)
 
-## [Building a Photo Sharing App for Firefox OS](https://blog.stackmob.com/2013/10/building-a-photo-sharing-app-for-firefox-os/)
+## [Firefox OS용 사진 공유 앱 만들기](https://blog.stackmob.com/2013/10/building-a-photo-sharing-app-for-firefox-os/)
 
-## [Using r.js to Optimize Your RequireJS Project](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
+## [RequireJS 프로젝트를 최적화하기위해 r.js 사용하기](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
 
 
 - - -
