@@ -3,15 +3,18 @@
 - - -
 # 특집 기사
 
-## [Virtual x86: x86 Emulator Written in JavaScript](http://copy.sh/v24/)
-An impressive project that can boot various operating systems just like a simple x86-based computer, but contained entirely in the browser. The author says they’ll open source it eventually.
+## [가상의 x86: 자바스크립트로 만들어진 x86 에뮬레이터](http://copy.sh/v24/)
+단지 간단한 x86기반의 컴퓨터 같이 다양한 운영체제를 부팅하는 것이지만, 브라우저안에 모든것이 실행 되는 매우 인상적인 프로젝트 입니다.
+이 프로젝트의 저자들은 이것을 최종적으로 오픈 소스화 할것이라고 말합니다.
 
-## [Google V8 JavaScript Engine Gains Optimizations to Compete with Firefox's 'use asm' Pragma](https://code.google.com/p/v8/issues/detail?id=2599#c16)
-[asm.js](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/) is a highly optimizable, low-level subset of JavaScript that’s perfect to get high performance when converting native code to JavaScript. Firefox supports a ‘use asm’ pragma for enabling support and while V8 will not support this, it has received optimizations that mean it competes favorably nonetheless.
+## [구글 V8 자바스크립트 엔진이 파이어폭스의 'use asm' Pragma 와 경쟁하기 위해 최적화를 얻었다](https://code.google.com/p/v8/issues/detail?id=2599#c16)
+[asm.js](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)는 native코드를 자바스크립트로 변환할때 높은 성능을 얻기 위해 매우 최적화된 low-level 집합체입니다. 파이어폭스는 'use asm' pragma를 지원 하지만 V8은 반면에 이것을 지원 하지 않을것이고, 최적화를 이뤄냈습니다.이것은 불리한 조건에서도 유리한 경쟁을 하고있는것을 의미합니다.
 
-## [JSChannel Conference (Bengaluru, India - November 16)](http://www.jschannel.com/conference-blr.html)
-A new Indian JavaScript conference from a rapidly growing Indian JavaScript community.
+>'use asm' Pragma 는 'use asm'; 이란 주석을 달아서 asm.js 모듈을 실행하는데 성능 최적화를 얻기 위한 기법입니다.
+파이어폭스는 위 기법을 이용해서 asm.js만의 최적화를 브라우저에 적용했지만, 크롬에서는 별도로 asm.js를 위한 최적화를 하고있지 않습니다. 물론 위 링크에 있는 의견들을 읽어보면 파이어폭스의 성능이 대부분 더 높게 측정 됩니다.
 
+## [JSChannel 컨퍼런스(인도 벵갈루루 11월 16일)](http://www.jschannel.com/conference-blr.html)
+급성장하고 있는 인도의 자바스크립트 커뮤니티에서 열리는 새로운 인도 자바스크립트 컨퍼런스입니다.
 
 - - -
 # 스폰서기사
@@ -76,8 +79,9 @@ Ryan Anklam은 최근에 생겨난 웹 컴포넌트 스펙을 지금당장 재�
 - - -
 # 동영상
 
-## [70 Videos from SenchaCon 2013](http://www.youtube.com/user/SenchaInc/videos)
-Mostly covering Sencha’s tools and libraries but also some good talks of general interest, such as those on [Node development on Azure](http://www.youtube.com/watch?v=WbtV1bX_m2I), [building a REST API on Node](http://www.youtube.com/watch?v=L5KwFQOXrY4), and [JavaScript performance.](http://www.youtube.com/watch?v=Eaq2sbLjbhA)
+## [2013 센차콘에서의 70여개의 영상들 ](http://www.youtube.com/user/SenchaInc/videos)
+주로 센차의 도구 와 라이브러리들을 말하고있지만 일반적으로 흥미있는 [윈도우즈Azure에서 노드 개발하기](http://www.youtube.com/watch?v=WbtV1bX_m2I), [노드에서 REST API구축하기 ](http://www.youtube.com/watch?v=L5KwFQOXrY4), 그리고 [자바스크립트 성능](http://www.youtube.com/watch?v=Eaq2sbLjbhA)과 같은 좋은 이야기들도 몇몇 포함하고있습니다.
+
 
 
 - - -
