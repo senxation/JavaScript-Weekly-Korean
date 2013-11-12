@@ -86,29 +86,29 @@ Techniques and strategies for teaching JavaScript at the beginner level. 20 minu
 - - -
 # 코드, 라이브러리들과 도구들
 
-## [ExpressWorks: Automated Express.js/Node.js Workshop](http://webapplog.com/expressworks/)
-A Node.js-based command line tool that walks you through a series of exercises, in order to improve your Express.js skills.
+## [ExpressWorks: 자동화된 Express.js/Node.js 워크샵](http://webapplog.com/expressworks/)
+다양한 연습 예제를 통해 당신의 Express.js 기술을 향상 시킬 수 있는 Node.js 기반의 커맨드 라인 툴입니다.
 
-## [Ember Charts: Attractive, Easily Extensible Charts with D3 and Ember](http://addepar.github.io/?#/ember-charts/overview)
-Includes time series, bar, pie, and scatter charts which are easy to extend and modify.
+## [Ember Charts: D3와 Ember를 이용한 매력적이고 쉽고 확장 가능한 차트](http://addepar.github.io/?#/ember-charts/overview)
+확장하고 변경하기 쉬운 시계열, 바, 파이, 스캐터 차트를 포함하고 있습니다.
 
-## [JsCode: Generate and Share JavaScript Coding Guidelines](http://jscode.org/)
-Create a shareable set of coding style guidelines by filling out a check list.
+## [JsCode: 자바스크립트 코딩 가이드라인을 만들고 공유하기](http://jscode.org/)
+체크 리스트를 채우는 것으로 공유할 수 있는 코딩 스타일 가이드 라인을 만듭니다.
 
-## [An Ember.js Gauge Component](http://front-back.com/an-ember-js-gauge-component)
+## [Ember.js 측정기 = 컴포넌트](http://front-back.com/an-ember-js-gauge-component)
 
-## [Fine Uploader: File Uploading Widget](http://fineuploader.com/)
-No library dependencies, works with various servers.
+## [Fine Uploader: 파일 업로딩 위젯](http://fineuploader.com/)
+라이브러리에 의존성이 없고 다양한 서버들과 동작합니다.
 
-## [Duration.js: Parsing and Creating Durations](https://github.com/icholy/Duration.js)
-Works with strings such as *'4h3m2s'*. A port of Go’s time.ParseDuration.
+## [Duration.js: 지속시간을 파싱하고 만들기](https://github.com/icholy/Duration.js)
+'4h3m2s'와 같은 문자열로도 동작합니다. Go 언어의 time.ParseDuration의  이식본 입니다.
 
-## [node-jvm: A Java Virtual Machine Implemented in Node.js](https://github.com/YaroslavGaponov/node-jvm#!)
-A JVM (Java 5) implemented on top of vanilla Node.js.
+## [node-jvm: Node.js로 구현한 자바 가상 머신(JVM)](https://github.com/YaroslavGaponov/node-jvm#!)
+자바 5 JVM을 구현 하였습니다.
 
-## [id3.js: Parser for ID3 Tags (in MP3 Files)](https://github.com/43081j/id3)
+## [id3.js: ID3 태그 파서 ( MP3 파일의 )](https://github.com/43081j/id3)
 
-## [Glide.js: A Simple, Lightweight &amp; Fast jQuery Slider](http://blog.marcomonteiro.net/post/glidejs-simple-lightweight-and-fast-jquery-slider)
+## [Glide.js: 간단하고 가볍고 빠른 jQuery 슬라이더](http://blog.marcomonteiro.net/post/glidejs-simple-lightweight-and-fast-jquery-slider)
 
 
 - - -
