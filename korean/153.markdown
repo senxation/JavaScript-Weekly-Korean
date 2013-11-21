@@ -3,19 +3,19 @@
 - - -
 # 특집 기사
 
-## [Phusion Passenger’s Node.js Support Has Been Open Sourced](http://blog.phusion.nl/2013/10/23/phusion-passengers-node-js-support-has-been-open-sourced/)
-Passenger is a popular application server that initially found great popularity in the Ruby world. Now its free, open source incarnation serves up Node.js apps too making it even easier to deploy Node apps behind nginx or Apache.
+## [Phusion Passenger의 Node.js 지원의 오픈소스화되다.](http://blog.phusion.nl/2013/10/23/phusion-passengers-node-js-support-has-been-open-sourced/)
+Passenger는 Ruby 세계의 초기부터 많은 인기를 얻고있는 유명한 애플리케이션 서버 입니다. 지금 그것이 Nginx 또는 Apache 뒤의 노드 응용프로그램들을 배포하는데 더욱 쉽게 무료와 오픈소스로 제공합니다.
 
-## [Code Climate: Automated Code Reviews of&nbsp;JavaScript Code](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/)
-Code Climate is well known for its automated Ruby code review service but now it supports JavaScript too. The team gave us a [special link](https://codeclimate.com/signup/account?promo_code=06LJNQW9) to share for 20% off in case you’re interested (it works before Nov 1st).
+## [Code Climate: 자바스크립트 코드의 자동 코드 리뷰들](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/)
+Code Climate 는 Ruby의 자동화 코드 리뷰 서비스로 잘 알려져 있었지만 현재 자바스크립트도 지원합니다. 해당 팀은 관심있는 분에게 20퍼센트 할인을 하는 [프로모션 링크](https://codeclimate.com/signup/account?promo_code=06LJNQW9)를 공유합니다.(11월 1일 이전에 가능)
 
-## [Offline.js: Handle Your Users Losing Their Internet Connection Like A Pro](http://github.hubspot.com/offline/docs/welcome/)
-A library to automatically alert your users when they’ve lost internet connectivity. It captures AJAX requests which were made while the connection was down, and remakes them when it’s back up, so your app reacts perfectly.
+## [Offline.js: 고객의 인터넷 연결이 끊겼을때 프로같은 관리](http://github.hubspot.com/offline/docs/welcome/)
+고객의 인터넷 연결이 끊겼을때 자동으로 경고해주는 라이브러리입니다. 이것은 연결이 끊긴 동안에 만들어진 AJAX 요청을 저장해놓고, 연결이 복구되었을때 AJAX 요청을 다시 만듭니다.
+그래서 애플리케이션은 다시 완벽히 동작 합니다.
+## [Node.js Knockout - 2013년 11월 8일~11일 우리의 독자들을 위한 10개 명소](http://nodeknockout.com/register/jsweekly)
 
-## [Node.js Knockout - Nov 8-10th, 2013 - 10 Spots For Our Readers](http://nodeknockout.com/register/jsweekly)
 
-
-## [Node HTTP DoS Vulnerability (Fixed in Node v0.8.26 and v0.10.21)](http://blog.nodejs.org/2013/10/22/cve-2013-4450-http-server-pipeline-flood-dos/)
+## [Node HTTP DoS 취약성(Node v0.8.26 와 v0.10.21에서 수정되었음)](http://blog.nodejs.org/2013/10/22/cve-2013-4450-http-server-pipeline-flood-dos/)
 
 
 
