@@ -3,8 +3,8 @@
 - - -
 # 특집 기사
 
-## [Phusion Passenger의 Node.js 지원의 오픈소스화되다.](http://blog.phusion.nl/2013/10/23/phusion-passengers-node-js-support-has-been-open-sourced/)
-Passenger는 Ruby 세계의 초기부터 많은 인기를 얻고있는 유명한 애플리케이션 서버 입니다. 지금 그것이 Nginx 또는 Apache 뒤의 노드 응용프로그램들을 배포하는데 더욱 쉽게 무료와 오픈소스로 제공합니다.
+## [Phusion Passenger의 Node.js 지원이 오픈소스화되다.](http://blog.phusion.nl/2013/10/23/phusion-passengers-node-js-support-has-been-open-sourced/)
+Passenger는 Ruby 세계의 초기부터 많은 인기를 얻고있는 유명한 애플리케이션 서버 입니다. 지금 Passenger는 Nginx 또는 Apache 뒤의 노드 응용프로그램들을 배포하는데 더욱 쉽게 무료와 오픈소스로 제공합니다.
 
 ## [Code Climate: 자바스크립트 코드의 자동 코드 리뷰들](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/)
 Code Climate 는 Ruby의 자동화 코드 리뷰 서비스로 잘 알려져 있었지만 현재 자바스크립트도 지원합니다. 해당 팀은 관심있는 분에게 20퍼센트 할인을 하는 [프로모션 링크](https://codeclimate.com/signup/account?promo_code=06LJNQW9)를 공유합니다.(11월 1일 이전에 가능)
